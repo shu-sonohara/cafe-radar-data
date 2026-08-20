@@ -1,0 +1,29 @@
+name: fetch-candidates
+# PR TIMESの全件フィードは当日分（最新200件）しか保持しないため、
+# 2時間おきに取得して data/raw_candidates.json に蓄積する。
+# publicリポジトリなのでActions実行時間は無制限（コスト0円）。
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: pytest -q
+      - run: python fetch_and_save.py
+      - name: commit candidates
+        run: |
+          git config user.name "cafe-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/raw_candidates.json
+          git diff --cached --quiet || git commit -m "chore: RSS候補を蓄積"
+          git pull --rebase --autostash
+          git push

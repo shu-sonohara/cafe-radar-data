@@ -1,0 +1,121 @@
+{
+ "updated_at": "2026-08-20",
+ "items": [
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "名作絵本のクッキー缶セレクション by Cake.jp",
+   "area": "有楽町",
+   "address": "東京都千代田区有楽町2-9-1",
+   "lat": 35.67477,
+   "lng": 139.762527,
+   "period": {
+    "start": "2026-04-03",
+    "end": "2026-09-30"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.popap.biz/popup-list/cakejp20260403"
+   ],
+   "summary": "ルミネ有楽町のルミネストリートで開催。名作絵本をモチーフにしたクッキー缶を集めたポップアップ。",
+   "collected_at": "2026-08-20",
+   "id": "72c0e6c822fe",
+   "is_new": false
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "チョコレート",
+    "スイーツ"
+   ],
+   "name": "カカオサンパカ展",
+   "area": "丸の内",
+   "address": "東京都千代田区丸の内2-6-2",
+   "lat": 35.678783,
+   "lng": 139.763062,
+   "period": {
+    "start": "2026-06-13",
+    "end": "2026-09-23"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.popap.biz/popup-list/cacaosampaka20260613"
+   ],
+   "summary": "三菱一号館美術館内のStore 1894で開催。スペイン王室御用達ショコラティエのポップアップ。",
+   "collected_at": "2026-08-20",
+   "id": "bb798fd1f5d5",
+   "is_new": false
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "Kirby Café Summer 2026",
+   "area": "押上",
+   "address": "東京都墨田区押上1-1-2",
+   "lat": 35.710083,
+   "lng": 139.808609,
+   "period": {
+    "start": "2026-07-08",
+    "end": "2026-09-23"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.popap.biz/popup-list/kirbycafe-260708"
+   ],
+   "summary": "東京スカイツリータウン・ソラマチで開催中のカービィカフェ夏季限定メニュー。",
+   "collected_at": "2026-08-20",
+   "id": "9f11f55c7b13",
+   "is_new": false
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "氷の音",
+   "area": "池袋",
+   "address": "東京都豊島区西池袋1-11-1",
+   "lat": 35.728321,
+   "lng": 139.709702,
+   "period": {
+    "start": "2026-08-11",
+    "end": "2026-09-23"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.popap.biz/popup-list/koorinone-260811"
+   ],
+   "summary": "ルミネ池袋8F POPUPSQUAREで開催のかき氷ポップアップ。",
+   "collected_at": "2026-08-20",
+   "id": "785d3854d06f",
+   "is_new": false
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "すみっコぐらし ぺんぺんアイスクリーム THEキャラCAFE STAND",
+   "area": "水道橋",
+   "address": "東京都文京区後楽1-3-61",
+   "lat": 35.703152,
+   "lng": 139.752151,
+   "period": {
+    "start": "2026-08-15",
+    "end": "2026-09-13"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.enjoytokyo.jp/event/list/cat0102/"
+   ],
+   "summary": "東京ドームシティで開催。すみっコぐらしのコラボメニューとグッズが登場する期間限定カフェ。",
+   "collected_at": "2026-08-20",
+   "id": "e8d2a68905ba",
+   "is_new": false
+  }
+ ]
+}

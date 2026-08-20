@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>Sample Press</title>
+  <item>
+    <title>「BUTTER &amp; STACK」が自由が丘に8月1日オープン　北海道産発酵バターのパンケーキ専門店</title>
+    <link>https://example.com/release/1</link>
+    <pubDate>Mon, 17 Aug 2026 01:00:00 +0900</pubDate>
+    <description>株式会社サンプルは、パンケーキ専門店を東京・自由が丘にオープンします。</description>
+  </item>
+  <item>
+    <title>新型プリンターを発売</title>
+    <link>https://example.com/release/2</link>
+    <pubDate>Mon, 17 Aug 2026 02:00:00 +0900</pubDate>
+    <description>オフィス向けプリンターの新製品。</description>
+  </item>
+  <item>
+    <title>渋谷で抹茶スイーツフェス開催　8月20日から</title>
+    <link>https://example.com/release/3</link>
+    <pubDate>Mon, 17 Aug 2026 03:00:00 +0900</pubDate>
+    <description>都内最大級の抹茶催事。</description>
+  </item>
+</channel></rss>
