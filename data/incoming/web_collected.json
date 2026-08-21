@@ -1,90 +1,95 @@
 [
   {
     "type": "new_cafe",
-    "genre": ["スイーツ"],
+    "genre": [
+      "スイーツ"
+    ],
     "name": "PRISMIC（プリズミック）",
-    "area": "渋谷",
-    "address": "東京都渋谷区渋谷1丁目7-2 VORT渋谷eastⅡ 1階",
+    "area": "青山",
+    "address": "東京都渋谷区渋谷1-7-2 VORT渋谷eastⅡ 1階",
     "lat": null,
     "lng": null,
-    "period": {"start": "2026-08-08", "end": null},
+    "period": {
+      "start": "2026-08-08",
+      "end": null
+    },
     "confidence": "official",
     "sources": [
       "https://prtimes.jp/main/html/rd/p/000000002.000136860.html",
-      "https://www.enjoytokyo.jp/news/205114/",
-      "https://www.mapion.co.jp/news/release/000000002.000136860/"
+      "https://cake-news.com/region/kanto/tokyo/2026/08/291010/",
+      "https://www.fashion-press.net/news/149587"
     ],
-    "summary": "洋菓子世界大会「クープ・デュ・モンド」優勝チームを率いた柴田勇作氏のブランドPRISMによるスイーツギフトショップ＆サロン「PRISMIC」が2026年8月8日、東京・渋谷にオープン。ショールームサロンは9月下旬オープン予定。",
+    "summary": "洋菓子世界大会優勝シェフ率いるパティスリーブランドのスイーツギフトショップ＆サロンが青山に初出店。2026年8月8日オープン、営業時間11時〜19時。サロンは2026年9月下旬開設予定。",
     "collected_at": "2026-08-21"
   },
   {
     "type": "new_cafe",
-    "genre": ["カフェ", "コーヒー"],
+    "genre": [
+      "スイーツ"
+    ],
+    "name": "Dear Bread（ディアブレッド）",
+    "area": "千歳烏山",
+    "address": "東京都世田谷区粕谷4丁目16-12 メゾンエスポワール",
+    "lat": null,
+    "lng": null,
+    "period": {
+      "start": "2026-08-07",
+      "end": null
+    },
+    "confidence": "media",
+    "sources": [
+      "https://note.com/kazurie/n/n4001d077e82d",
+      "https://news.yahoo.co.jp/articles/f227c632a940ed6bffd61d1914a404744881ac89",
+      "https://tabelog.com/tokyo/A1318/A131809/13325159/"
+    ],
+    "summary": "ジョエル・ロブション出身シェフが夫婦で営む本格フランスパン専門ベーカリーが千歳烏山駅徒歩7分の場所に2026年8月7日オープン。営業時間8:30〜17:00（売り切れ次第終了）。",
+    "collected_at": "2026-08-21"
+  },
+  {
+    "type": "new_cafe",
+    "genre": [
+      "カフェ",
+      "コーヒー"
+    ],
     "name": "PRIME FIVE TULLY'S COFFEE 新宿サザンテラス店",
-    "area": "新宿・代々木",
+    "area": "代々木・新宿サザンテラス",
     "address": "東京都渋谷区代々木2丁目2-1",
     "lat": null,
     "lng": null,
-    "period": {"start": "2026-08-07", "end": null},
+    "period": {
+      "start": "2026-08-07",
+      "end": null
+    },
     "confidence": "official",
     "sources": [
       "https://www.tullys.co.jp/company/pressrelease/2026/08/2026_pf_shinjuku.html",
       "https://coffee-station.jp/archives/43422",
       "https://www.walkerplus.com/article/1430819/"
     ],
-    "summary": "タリーズコーヒー初となるインストアベーカリー併設店「PRIME FIVE TULLY'S COFFEE 新宿サザンテラス店」が2026年8月7日オープン。店内67席・テラス14席、焼きたてパンとコーヒーを提供。",
-    "collected_at": "2026-08-21"
-  },
-  {
-    "type": "new_cafe",
-    "genre": ["スイーツ", "コーヒー"],
-    "name": "A Bite Coffee（グランスタ東京店）",
-    "area": "東京駅・丸の内",
-    "address": "東京都千代田区丸の内1丁目9-1 グランスタ東京 地下1階（改札内）",
-    "lat": null,
-    "lng": null,
-    "period": {"start": "2026-09-16", "end": null},
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000300.000014043.html",
-      "https://www.ryutsuu.biz/store/s061111.html",
-      "https://gourmetpress.net/1471408/"
-    ],
-    "summary": "菓子ブランドBAKE INC.による新業態「コーヒーを食べる」コーヒー菓子専門ブランド「A Bite Coffee」が、グランスタ東京（東京駅構内）に2026年9月16日オープン予定。2026年8月20日発表。",
-    "collected_at": "2026-08-21"
-  },
-  {
-    "type": "event",
-    "genre": ["カフェ", "スイーツ"],
-    "name": "アニメ「リラックマ」×ブランチパーク コラボカフェ「てくてく世界旅行」",
-    "area": "赤坂",
-    "address": "東京都港区赤坂5丁目4-7 THE HEXAGON 1階（ブランチパーク／赤坂サカス）",
-    "lat": null,
-    "lng": null,
-    "period": {"start": "2026-08-27", "end": "2026-09-13"}
-    ,
-    "confidence": "official",
-    "sources": [
-      "https://brunchpark.jp/blogs/topics/rilakkuma-anime-com",
-      "https://www.san-x.co.jp/ja/blog/2026-08-post-0146180/"
-    ],
-    "summary": "『SASUKEワールドカップ2026』開催記念のアニメ「リラックマ てくてく世界旅行」×ブランチパーク初コラボカフェ。2026年8月27日〜9月13日、赤坂サカス内ブランチパークで開催。作品世界観のフード・ドリンクを提供。",
+    "summary": "タリーズコーヒー初のインストアベーカリー導入店が新宿サザンテラスに2026年8月7日オープン。店内67席・テラス14席、営業時間7時〜22時（平日）。",
     "collected_at": "2026-08-21"
   },
   {
     "type": "popup",
-    "genre": ["スイーツ"],
-    "name": "ギンザ プティ カスタ POP UP SHOP（東武百貨店池袋店）",
-    "area": "池袋",
-    "address": "東京都豊島区西池袋1丁目1-25 東武百貨店池袋店 食品フロア",
+    "genre": [
+      "スイーツ"
+    ],
+    "name": "クリスピー・クリーム・ドーナツ×「ハリー・ポッター」コラボ（ハリー・ポッター マホウドコロ 東京駅店）",
+    "area": "東京駅",
+    "address": "東京都千代田区丸の内1-9-1 東京駅一番街 東京キャラクターストリートB1",
     "lat": null,
     "lng": null,
-    "period": {"start": "2026-08-20", "end": "2026-08-26"},
+    "period": {
+      "start": "2026-08-21",
+      "end": "2026-09-29"
+    },
     "confidence": "official",
     "sources": [
-      "https://www.tobu-dept.jp/ikebukuro/event/detail/8497"
+      "https://www.warnerbros.co.jp/news/wx01w0_gxqn/",
+      "https://game.watch.impress.co.jp/docs/news/2134097.html",
+      "https://www.tokyoeki-1bangai.co.jp/shop/detail/?cd=000262"
     ],
-    "summary": "ベビーカステラ専門店「ギンザ プティ カスタ」のポップアップショップが東武百貨店池袋店の食品フロアにて2026年8月20日〜26日の期間限定で出店。",
+    "summary": "クリスピー・クリーム・ドーナツと「ハリー・ポッター」のコラボ限定ドーナツ（組分け帽子モチーフ含む全5種）が2026年8月21日から期間限定発売。「ハリー・ポッター マホウドコロ」東京駅店限定デザインを含む。販売は9月29日まで（なくなり次第終了）。",
     "collected_at": "2026-08-21"
   }
 ]
