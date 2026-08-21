@@ -9,8 +9,8 @@
    "name": "TOKYO STATION CAFE -THE NORTH DOME-",
    "area": "東京駅・丸の内",
    "address": "東京都千代田区丸の内1-9-1 JR東京駅丸の内北口改札外",
-   "lat": null,
-   "lng": null,
+   "lat": 35.681252,
+   "lng": 139.767242,
    "period": {
     "start": "2026-04-21",
     "end": null
@@ -33,8 +33,8 @@
    "name": "東京国立博物館 ザ・レストラン／ガーデンカフェ",
    "area": "上野",
    "address": "東京都台東区上野公園13-9",
-   "lat": null,
-   "lng": null,
+   "lat": 35.717556,
+   "lng": 139.775543,
    "period": {
     "start": "2026-08-28",
     "end": null
@@ -58,8 +58,8 @@
    "name": "LA&LE（ラ・エ・ル）",
    "area": "表参道・南青山",
    "address": "東京都港区南青山3-8-35 表参道Grid Tower 1F",
-   "lat": null,
-   "lng": null,
+   "lat": 35.666992,
+   "lng": 139.71521,
    "period": {
     "start": "2026-03-09",
     "end": null
@@ -82,8 +82,8 @@
    "name": "CU",
    "area": "浅草",
    "address": "東京都台東区浅草2-13-1 春日ビル",
-   "lat": null,
-   "lng": null,
+   "lat": 35.715294,
+   "lng": 139.792953,
    "period": {
     "start": null,
     "end": null
@@ -105,8 +105,8 @@
    "name": "MAME Tokyo（日本2号店）",
    "area": "千駄ヶ谷",
    "address": "東京都渋谷区千駄ケ谷1-19-9 B TRACK",
-   "lat": null,
-   "lng": null,
+   "lat": 35.679462,
+   "lng": 139.709595,
    "period": {
     "start": "2026-08-06",
     "end": null
@@ -128,8 +128,8 @@
    "name": "Antre Tokyo（アントレ トーキョー）",
    "area": "渋谷",
    "address": "東京都渋谷区渋谷3-25-7 Bre.S SHIBUYA C",
-   "lat": null,
-   "lng": null,
+   "lat": 35.655136,
+   "lng": 139.705948,
    "period": {
     "start": "2026-07-11",
     "end": null
@@ -153,8 +153,8 @@
    "name": "Quaro（クアロ）",
    "area": "原宿・キャットストリート",
    "address": "東京都渋谷区神宮前4-25-32",
-   "lat": null,
-   "lng": null,
+   "lat": 35.669193,
+   "lng": 139.708237,
    "period": {
     "start": "2026-02-11",
     "end": null
@@ -176,8 +176,8 @@
    "name": "BONIN BLUE CAFE",
    "area": "夢の島",
    "address": "東京都江東区夢の島2-1-2 夢の島熱帯植物館内",
-   "lat": null,
-   "lng": null,
+   "lat": 35.650826,
+   "lng": 139.825943,
    "period": {
     "start": "2026-04-04",
     "end": null
@@ -200,8 +200,8 @@
    "name": "スターバックス カフェ & アートギャラリー 谷中御殿坂",
    "area": "谷中・西日暮里",
    "address": "東京都荒川区西日暮里3-2-5",
-   "lat": null,
-   "lng": null,
+   "lat": 35.727757,
+   "lng": 139.768585,
    "period": {
     "start": "2026-03-28",
     "end": null
@@ -225,8 +225,8 @@
    "name": "flour+water 下北沢",
    "area": "下北沢",
    "address": "東京都世田谷区北沢2-34-3 ミドキタ1F",
-   "lat": null,
-   "lng": null,
+   "lat": 35.663116,
+   "lng": 139.668137,
    "period": {
     "start": "2026-04-24",
     "end": null
@@ -252,8 +252,8 @@
    "name": "BAKERY CAFE C 東京ソラマチ店",
    "area": "押上・東京スカイツリータウン",
    "address": "東京都墨田区押上1-1-2 東京ソラマチ2F ウエストヤード4番地",
-   "lat": null,
-   "lng": null,
+   "lat": 35.710083,
+   "lng": 139.808609,
    "period": {
     "start": "2026-04-28",
     "end": null
@@ -277,8 +277,8 @@
    "name": "Eggs 'n Things ららぽーと豊洲店",
    "area": "豊洲",
    "address": "東京都江東区豊洲2-4-9 アーバンドックららぽーと豊洲",
-   "lat": null,
-   "lng": null,
+   "lat": 35.6563,
+   "lng": 139.792923,
    "period": {
     "start": "2026-04-28",
     "end": null
@@ -301,8 +301,8 @@
    "name": "HORIGUCHI COFFEE à la table",
    "area": "有明",
    "address": "東京都江東区有明3-3-8 東京ドリームパーク2階",
-   "lat": null,
-   "lng": null,
+   "lat": 35.630138,
+   "lng": 139.787827,
    "period": {
     "start": "2026-06-12",
     "end": null
@@ -326,8 +326,8 @@
    "name": "タリーズコーヒー テレ東BIZカフェ店",
    "area": "六本木一丁目",
    "address": "東京都港区六本木3-2-1 住友不動産六本木グランドタワー1階",
-   "lat": null,
-   "lng": null,
+   "lat": 35.66449,
+   "lng": 139.737473,
    "period": {
     "start": "2026-06-01",
     "end": null
@@ -352,8 +352,8 @@
    "name": "PRIME FIVE TULLY'S COFFEE 新宿サザンテラス店",
    "area": "新宿・代々木",
    "address": "東京都渋谷区代々木2-2-1",
-   "lat": null,
-   "lng": null,
+   "lat": 35.685749,
+   "lng": 139.700729,
    "period": {
     "start": "2026-08-07",
     "end": null
@@ -379,8 +379,8 @@
    "name": "JOURNAL STANDARD CAFE",
    "area": "池袋",
    "address": "東京都豊島区東池袋3-1-1 サンシャインシティ アルパ3階",
-   "lat": null,
-   "lng": null,
+   "lat": 35.727703,
+   "lng": 139.720245,
    "period": {
     "start": "2026-07-17",
     "end": null
@@ -403,8 +403,8 @@
    "name": "セルフカフェ渋谷神南店",
    "area": "渋谷",
    "address": "東京都渋谷区神南1-19-14 クリスタルポイントB2階",
-   "lat": null,
-   "lng": null,
+   "lat": 35.662666,
+   "lng": 139.699677,
    "period": {
     "start": "2026-03-15",
     "end": null
@@ -427,8 +427,8 @@
    "name": "八三六（Hachi San Roku）",
    "area": "谷中銀座",
    "address": "東京都台東区谷中3-13-2",
-   "lat": null,
-   "lng": null,
+   "lat": 35.727699,
+   "lng": 139.765244,
    "period": {
     "start": "2026-06-11",
     "end": null
@@ -450,8 +450,8 @@
    "name": "イロドリコ",
    "area": "町田",
    "address": "東京都町田市木曽東1-15-15",
-   "lat": null,
-   "lng": null,
+   "lat": 35.558826,
+   "lng": 139.431107,
    "period": {
     "start": "2026-03-20",
     "end": null
@@ -473,8 +473,8 @@
    "name": "ペンギンベーカリー吉祥寺店",
    "area": "吉祥寺",
    "address": "東京都武蔵野市吉祥寺本町2-13-11 iビル1FB",
-   "lat": null,
-   "lng": null,
+   "lat": 35.705364,
+   "lng": 139.577423,
    "period": {
     "start": "2026-02-18",
     "end": null
@@ -499,8 +499,8 @@
    "name": "PARKSTAND Coffee & Bakery",
    "area": "清澄白河",
    "address": "東京都江東区平野2-13-3 東ビル1F",
-   "lat": null,
-   "lng": null,
+   "lat": 35.677479,
+   "lng": 139.803848,
    "period": {
     "start": "2026-05-15",
     "end": null
@@ -524,8 +524,8 @@
    "name": "渋いちベーカリー 神宮前店",
    "area": "神宮前・原宿",
    "address": "東京都渋谷区神宮前1-4-20 パークコート神宮前1階",
-   "lat": null,
-   "lng": null,
+   "lat": 35.671497,
+   "lng": 139.70755,
    "period": {
     "start": "2026-05-20",
     "end": null
@@ -547,8 +547,8 @@
    "name": "Boulangerie ANTENDO",
    "area": "吉祥寺",
    "address": "東京都武蔵野市吉祥寺南町1-3-3",
-   "lat": null,
-   "lng": null,
+   "lat": 35.702297,
+   "lng": 139.579758,
    "period": {
     "start": "2026-04-25",
     "end": null
@@ -571,8 +571,8 @@
    "name": "be my flora bakery",
    "area": "広尾",
    "address": "東京都港区南麻布5-16-5 1F",
-   "lat": null,
-   "lng": null,
+   "lat": 35.651257,
+   "lng": 139.723404,
    "period": {
     "start": "2026-07-15",
     "end": null
@@ -594,8 +594,8 @@
    "name": "I'm donut？／dacō 自由が丘駅前店",
    "area": "自由が丘",
    "address": "東京都目黒区自由が丘2-11-3",
-   "lat": null,
-   "lng": null,
+   "lat": 35.60762,
+   "lng": 139.668152,
    "period": {
     "start": "2026-08-30",
     "end": null
@@ -617,8 +617,8 @@
    "name": "玄点＋（げんてんプラス）",
    "area": "二子玉川",
    "address": "東京都世田谷区玉川2-21-1 二子玉川ライズS.C.地下1階 東急フードショー内",
-   "lat": null,
-   "lng": null,
+   "lat": 35.611366,
+   "lng": 139.628525,
    "period": {
     "start": "2026-06-11",
     "end": null
@@ -640,8 +640,8 @@
    "name": "Bacha Coffee 新丸ビル（日本2号店）",
    "area": "丸の内",
    "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング1階",
-   "lat": null,
-   "lng": null,
+   "lat": 35.682579,
+   "lng": 139.764313,
    "period": {
     "start": "2026-06-11",
     "end": null
@@ -664,8 +664,8 @@
    "name": "Paik's DABANG COFFEE（ペクスダバン）新橋店",
    "area": "新橋",
    "address": "東京都港区新橋2-15-11",
-   "lat": null,
-   "lng": null,
+   "lat": 35.666443,
+   "lng": 139.756134,
    "period": {
     "start": "2026-08-06",
     "end": null
@@ -687,8 +687,8 @@
    "name": "めいどりーみん 新宿店",
    "area": "新宿",
    "address": "東京都新宿区新宿3-31-5 ペガサス館7F",
-   "lat": null,
-   "lng": null,
+   "lat": 35.690632,
+   "lng": 139.70369,
    "period": {
     "start": "2026-08-28",
     "end": null
@@ -711,8 +711,8 @@
    "name": "スターバックス リザーブ カフェ 東京スカイツリータウン30F店",
    "area": "押上・東京スカイツリータウン",
    "address": "東京都墨田区押上1-1-2 東京ソラマチ30F",
-   "lat": null,
-   "lng": null,
+   "lat": 35.710083,
+   "lng": 139.808609,
    "period": {
     "start": "2026-03-10",
     "end": null
@@ -736,8 +736,8 @@
    "name": "そういう時期の進撃の巨人カフェ〜思春期の晩餐〜",
    "area": "新宿",
    "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
-   "lat": null,
-   "lng": null,
+   "lat": 35.691784,
+   "lng": 139.700775,
    "period": {
     "start": "2026-09-03",
     "end": "2026-10-12"
@@ -760,8 +760,8 @@
    "name": "「くまのプーさん」OH MY CAFE 東京",
    "area": "押上・東京スカイツリータウン",
    "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ1F タワーヤード6番地",
-   "lat": null,
-   "lng": null,
+   "lat": 35.710083,
+   "lng": 139.808609,
    "period": {
     "start": "2026-08-20",
     "end": "2026-10-25"
@@ -783,8 +783,8 @@
    "name": "ブルーロックカフェ -青い監獄-",
    "area": "渋谷",
    "address": "東京都渋谷区渋谷3-27-11 GEMS渋谷3階",
-   "lat": null,
-   "lng": null,
+   "lat": 35.655605,
+   "lng": 139.704498,
    "period": {
     "start": "2026-08-20",
     "end": "2026-09-20"
@@ -810,8 +810,8 @@
    "name": "はなまるおばけのはなまるごほうびカフェ 東京",
    "area": "原宿",
    "address": "東京都渋谷区神宮前1-11-6 キュープラザ原宿",
-   "lat": null,
-   "lng": null,
+   "lat": 35.668907,
+   "lng": 139.705551,
    "period": {
     "start": "2026-07-23",
     "end": "2026-08-30"
@@ -837,8 +837,8 @@
    "name": "「トイ・ストーリー5」OH MY CAFE 東京・表参道",
    "area": "表参道",
    "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館地下3階",
-   "lat": null,
-   "lng": null,
+   "lat": 35.667229,
+   "lng": 139.708557,
    "period": {
     "start": "2026-07-03",
     "end": "2026-09-13"
@@ -865,8 +865,8 @@
    "name": "Tamitu 期間限定カフェ（東京ミッドタウン）",
    "area": "六本木・赤坂",
    "address": "東京都港区赤坂9-7-4 東京ミッドタウン ガレリアB1",
-   "lat": null,
-   "lng": null,
+   "lat": 35.666023,
+   "lng": 139.732208,
    "period": {
     "start": "2026-07-01",
     "end": "2026-08-31"
@@ -889,8 +889,8 @@
    "name": "ちいかわベーカリー ポップアップショップ",
    "area": "原宿",
    "address": "東京都渋谷区神宮前1-11-6 ラフォーレ原宿 B1F",
-   "lat": null,
-   "lng": null,
+   "lat": 35.668907,
+   "lng": 139.705551,
    "period": {
     "start": "2026-03-14",
     "end": null
@@ -914,8 +914,8 @@
    "name": "初音ミク Wa Modern Cafe 東京",
    "area": "池袋",
    "address": "東京都豊島区東池袋1-30-3 B1F",
-   "lat": null,
-   "lng": null,
+   "lat": 35.730762,
+   "lng": 139.716202,
    "period": {
     "start": "2026-08-07",
     "end": "2026-09-27"
@@ -938,8 +938,8 @@
    "name": "パンとエスプレッソとMoflinとまちあわせ",
    "area": "渋谷",
    "address": "東京都渋谷区神宮前6-20-10 MIYASHITA PARK South 2F",
-   "lat": null,
-   "lng": null,
+   "lat": 35.662376,
+   "lng": 139.702011,
    "period": {
     "start": "2026-09-05",
     "end": "2026-09-13"
@@ -961,8 +961,8 @@
    "name": "ブリュレメリゼ 羽田空港ポップアップストア",
    "area": "羽田空港",
    "address": "東京都大田区羽田空港3-3-2 第1ターミナル2Fマーケットプレイス「羽田スタースイーツ」",
-   "lat": null,
-   "lng": null,
+   "lat": 35.549461,
+   "lng": 139.78389,
    "period": {
     "start": "2026-07-08",
     "end": "2026-10-07"
@@ -985,8 +985,8 @@
    "name": "名作絵本のクッキー缶セレクション by Cake.jp",
    "area": "池袋",
    "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋店",
-   "lat": null,
-   "lng": null,
+   "lat": 35.729939,
+   "lng": 139.71051,
    "period": {
     "start": "2026-08-25",
     "end": null
@@ -1008,8 +1008,8 @@
    "name": "ことのは文庫 創刊7周年記念コラボカフェ",
    "area": "新富町・銀座",
    "address": "東京都中央区新富1-3-7 ヨドコウビル B1F Cafe&Dining Take",
-   "lat": null,
-   "lng": null,
+   "lat": 35.673378,
+   "lng": 139.774109,
    "period": {
     "start": "2026-09-01",
     "end": "2026-09-30"
@@ -1032,8 +1032,8 @@
    "name": "PRISMIC（プリズミック）",
    "area": "渋谷",
    "address": "東京都渋谷区渋谷1丁目7-2 VORT渋谷eastⅡ 1階",
-   "lat": null,
-   "lng": null,
+   "lat": 35.6609,
+   "lng": 139.706528,
    "period": {
     "start": "2026-08-08",
     "end": null
@@ -1058,8 +1058,8 @@
    "name": "A Bite Coffee（グランスタ東京店）",
    "area": "東京駅・丸の内",
    "address": "東京都千代田区丸の内1丁目9-1 グランスタ東京 地下1階（改札内）",
-   "lat": null,
-   "lng": null,
+   "lat": 35.681252,
+   "lng": 139.767242,
    "period": {
     "start": "2026-09-16",
     "end": null
@@ -1084,8 +1084,8 @@
    "name": "アニメ「リラックマ」×ブランチパーク コラボカフェ「てくてく世界旅行」",
    "area": "赤坂",
    "address": "東京都港区赤坂5丁目4-7 THE HEXAGON 1階（ブランチパーク／赤坂サカス）",
-   "lat": null,
-   "lng": null,
+   "lat": 35.671631,
+   "lng": 139.735382,
    "period": {
     "start": "2026-08-27",
     "end": "2026-09-13"
@@ -1108,8 +1108,8 @@
    "name": "ギンザ プティ カスタ POP UP SHOP（東武百貨店池袋店）",
    "area": "池袋",
    "address": "東京都豊島区西池袋1丁目1-25 東武百貨店池袋店 食品フロア",
-   "lat": null,
-   "lng": null,
+   "lat": 35.729939,
+   "lng": 139.71051,
    "period": {
     "start": "2026-08-20",
     "end": "2026-08-26"

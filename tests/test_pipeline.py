@@ -69,3 +69,28 @@ def test_run_merges_same_store_across_files(tmp_path):
     assert len(items) == 1
     assert len(items[0]["sources"]) == 2
     assert items[0]["confidence"] == "official"
+
+
+def test_run_persists_geocode_cache(tmp_path):
+    incoming, out = _setup(tmp_path)
+    cache_path = tmp_path / "geocode_cache.json"
+    run(incoming, out, today="2026-08-19", http_get_json=lambda u: GSI_OK,
+        cache_path=str(cache_path))
+    cache = json.loads(cache_path.read_text(encoding="utf-8"))
+    assert cache["東京都渋谷区1-1"] == [35.6075, 139.669]
+
+
+def test_run_reuses_existing_cache_without_lookup(tmp_path):
+    incoming, out = _setup(tmp_path)
+    cache_path = tmp_path / "geocode_cache.json"
+    cache_path.write_text(json.dumps({"東京都渋谷区1-1": [1.5, 2.5]}), encoding="utf-8")
+    calls = []
+
+    def spy(url):
+        calls.append(url)
+        return GSI_OK
+
+    run(incoming, out, today="2026-08-19", http_get_json=spy, cache_path=str(cache_path))
+    item = json.loads(Path(out).read_text(encoding="utf-8"))["items"][0]
+    assert (item["lat"], item["lng"]) == (1.5, 2.5)
+    assert calls == []  # 終了済みは鮮度判定で先に落ちるので問い合わせも起きない

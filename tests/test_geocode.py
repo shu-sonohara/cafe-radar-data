@@ -33,3 +33,34 @@ def test_geocode_items_leaves_none_when_lookup_fails():
     items = [{"name": "A", "address": "架空の住所", "lat": None, "lng": None}]
     out = geocode_items(items, lambda url: [])
     assert out[0]["lat"] is None and out[0]["lng"] is None
+
+
+def test_geocode_items_uses_cache_instead_of_lookup():
+    from src.geocode import geocode_items
+    cache = {"東京都渋谷区1-1": [35.6, 139.6]}
+    calls = []
+
+    def spy(url):
+        calls.append(url)
+        return GSI_OK
+
+    items = [{"name": "A", "address": "東京都渋谷区1-1", "lat": None, "lng": None}]
+    out = geocode_items(items, spy, cache=cache)
+    assert out[0]["lat"] == 35.6 and out[0]["lng"] == 139.6
+    assert calls == []  # キャッシュヒット時はAPIを叩かない
+
+
+def test_geocode_items_writes_new_lookups_into_cache():
+    from src.geocode import geocode_items
+    cache = {}
+    items = [{"name": "A", "address": "東京都目黒区自由が丘1-2-3", "lat": None, "lng": None}]
+    geocode_items(items, lambda u: GSI_OK, cache=cache)
+    assert cache == {"東京都目黒区自由が丘1-2-3": [35.6075, 139.669]}
+
+
+def test_geocode_items_does_not_cache_failures():
+    from src.geocode import geocode_items
+    cache = {}
+    items = [{"name": "A", "address": "架空の住所", "lat": None, "lng": None}]
+    geocode_items(items, lambda u: [], cache=cache)
+    assert cache == {}  # 失敗は記録しない（次回リトライさせる）

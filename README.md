@@ -9,14 +9,20 @@
 
 ```
 ① RSS取得（2時間おき / GitHub Actions）
-   PR TIMES全件フィード → キーワード抽出 → data/raw_candidates.json に蓄積
+   PR TIMES + GoogleニュースRSS → キーワード抽出 → data/raw_candidates.json に蓄積
 ② LLM収集・構造化（毎朝 / Claudeスケジュール実行）
    prompts/collect.md でWeb検索収集 + prompts/structure.md で①を構造化
-   → data/incoming/*.json
-③ 統合（毎朝 / run_pipeline.py）
-   検証 → 1次重複排除（店名+住所）→ ジオコーディング（国土地理院API）
-   → 2次重複排除（座標50m+店名類似）→ 鮮度判定 → docs/data/items.json
+   → data/incoming/*.json をコミット（ここまでがルーチンの仕事）
+③ 統合・配信（2時間おき / GitHub Actions / run_pipeline.py）
+   検証 → 1次重複排除（店名+住所）→ 鮮度判定 → ジオコーディング（国土地理院API）
+   → 2次重複排除（座標50m+店名類似）→ docs/data/items.json
 ```
+
+**なぜ③がActions側なのか**: Claudeルーチンが動くクラウドサンドボックスからは
+国土地理院API（msearch.gsi.go.jp）に到達できず、座標取得が100%失敗した。
+外部APIを叩く処理はActionsに寄せ、ルーチンは収集・構造化に専念させている。
+引けた住所は `data/geocode_cache.json` に記録し、次回以降は問い合わせない
+（実測: 46件で40秒 → キャッシュヒット時0秒）。
 
 ## 開発
 

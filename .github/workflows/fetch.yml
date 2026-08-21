@@ -1,6 +1,11 @@
 name: fetch-candidates
-# PR TIMESの全件フィードは当日分（最新200件）しか保持しないため、
-# 2時間おきに取得して data/raw_candidates.json に蓄積する。
+# 2時間おきに (1) RSS候補の取得と (2) 配信JSONの生成 を行う。
+#
+# ジオコーディング（国土地理院API）をここで実行するのが要点。
+# Claudeルーチンが動くクラウドサンドボックスからは msearch.gsi.go.jp に
+# 到達できず座標が100%取れなかったため、収集・構造化はルーチン、
+# 座標付与と配信JSON生成はActions、と役割を分けている。
+#
 # publicリポジトリなのでActions実行時間は無制限（コスト0円）。
 on:
   schedule:
@@ -17,13 +22,16 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - run: pytest -q
-      - run: python fetch_and_save.py
-      - name: commit candidates
+      - run: python -m pytest -q
+      - name: RSS候補を取得
+        run: python fetch_and_save.py
+      - name: 配信JSONを生成（ジオコーディング込み）
+        run: python -m src.run_pipeline --today "$(TZ=Asia/Tokyo date +%F)"
+      - name: commit
         run: |
           git config user.name "cafe-radar-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/raw_candidates.json
-          git diff --cached --quiet || git commit -m "chore: RSS候補を蓄積"
+          git add data/raw_candidates.json data/geocode_cache.json docs/data/items.json
+          git diff --cached --quiet || git commit -m "chore: 候補取得と配信JSON更新"
           git pull --rebase --autostash
           git push
