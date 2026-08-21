@@ -33,6 +33,16 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python -m src.run_pipeline --today $(date +%F)  # 統合・配信JSON生成
 ```
 
+## 配信データの点検
+
+```bash
+python -m src.review --items docs/data/items.json
+```
+
+機械的に判定できる異常（都外・位置なし・期間の逆転・重複の疑い・
+出典がGoogleニュース経由など）を拾い、そのあとに目視確認用の一覧を出す。
+「その店が実在するか」は自動判定できないので人の目で見る。
+
 ## データスキーマ
 
 `docs/data/items.json` は `{"updated_at": "YYYY-MM-DD", "items": [...]}`。
