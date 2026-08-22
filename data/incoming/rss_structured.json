@@ -1,737 +1,2056 @@
 [
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "ガーデンカフェ（東京国立博物館）",
-    "area": "上野",
-    "address": "東京都台東区上野公園13-9 東京国立博物館 東洋館別館前",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-28",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000005.000189124.html"
-    ],
-    "summary": "東京国立博物館の東洋館別館前オープンスペースに新設されたカジュアルなカフェスタンド。軽食やドリンク、ソフトクリームなどを提供する。2026年8月28日オープン。",
-    "collected_at": "2026-08-21"
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ガーデンカフェ／THE RESTAURANT 東京国立博物館",
+  "area": "上野",
+  "address": "東京都台東区上野公園13-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
   },
-  {
-    "type": "popup",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "そういう時期の進撃の巨人カフェ〜思春期の晩餐〜",
-    "area": "新宿",
-    "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-09-03",
-      "end": "2026-10-12"
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000317.000086964.html"
-    ],
-    "summary": "TVアニメ『進撃の巨人』のテーマカフェ。決戦前夜の「最後の晩餐」をコンセプトにした期間限定メニュー・グッズを展開。ルミネエスト新宿のBOX cafe&spaceにて開催。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000189124.html",
+   "https://www.atpress.ne.jp/news/618358"
+  ],
+  "summary": "東京国立博物館の東洋館別棟1階に「THE RESTAURANT 東京国立博物館」と「ガーデンカフェ」が2026年8月28日にオープン。旬を味わう「東博御膳」や東博カツサンドなどが提供される。法隆寺宝物館では別途「鮨会席 おく乃」が9月30日に開業予定。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "そういう時期の進撃の巨人カフェ〜思春期の晩餐〜",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-03",
+   "end": "2026-10-12"
   },
-  {
-    "type": "popup",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "ブルーロックカフェ -青い監獄-",
-    "area": "渋谷",
-    "address": "東京都渋谷区渋谷3丁目27-11 GEMS渋谷 BOX cafe&space GEMS渋谷店",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-20",
-      "end": "2026-09-20"
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000313.000086964.html"
-    ],
-    "summary": "劇場版『ブルーロック』公開を記念したテーマカフェ。TVアニメ第1期のキャラクターをイメージしたフード・ドリンクを提供。2026年8月20日〜9月20日、渋谷GEMS内で開催。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://animeanime.jp/article/2026/08/22/102280.html",
+   "https://collabo-cafe.com/events/collabo/shingeki-cafe-souiujiki-2026/",
+   "https://prtimes.jp/main/html/rd/p/000000317.000086964.html",
+   "https://shingeki-cafe-2026.ltr-online.com/",
+   "https://cho-animedia.jp/article/2026/08/22/62510.html"
+  ],
+  "summary": "TVアニメ『進撃の巨人』のテーマカフェがルミネエスト新宿8階のBOX cafe&space ルミネエスト新宿2号店で2026年9月3日〜10月12日開催。WIT STUDIOが企画協力し「決戦前夜の晩餐」をコンセプトにした限定メニューと描き下ろしグッズを展開。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "TOKYO STATION CAFE -THE NORTH DOME-",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-21",
+   "end": null
   },
-  {
-    "type": "popup",
-    "genre": [
-      "カフェ",
-      "スイーツ"
-    ],
-    "name": "「くまのプーさん」OH MY CAFE（東京）",
-    "area": "押上・東京スカイツリータウン",
-    "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ 1F タワーヤード6番地",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-20",
-      "end": "2026-10-25"
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000315.000086964.html"
-    ],
-    "summary": "「くまのプーさん」原作デビュー100周年を記念したスペシャルテーマカフェ。2026年8月20日〜10月25日、東京スカイツリータウン・ソラマチにて開催。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001069.000082978.html"
+  ],
+  "summary": "重要文化財である東京駅丸の内駅舎の北ドーム内、丸の内北口改札外に2026年4月21日オープン。1914年竣工当時の待合室の空間を受け継ぐ赤レンガの内装で、食堂車ハヤシライスや限定パフェを提供するJR東日本クロスステーション運営のカフェ。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "MATCHA MEIJIN Cafe 浅草店",
+  "area": "浅草",
+  "address": "東京都台東区浅草2-3-61 二天門ビルⅡ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-06",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "ポケモンカフェ TOKYO（リニューアルオープン）",
-    "area": "日本橋",
-    "address": "東京都中央区日本橋2-11-2 日本橋高島屋S.C.東館5階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-06-17",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://www.pokemon-cafe.jp/ja/cafe/news/260511_3376.html"
-    ],
-    "summary": "「ポケモンカフェ TOKYO」が初のフルリニューアルオープン。5つ星レストラン風の内装、新メニュー、ピカチュウと一緒にパフェを作るショーが新登場。2026年6月17日リニューアル。",
-    "collected_at": "2026-08-21"
+  "confidence": "media",
+  "sources": [
+   "https://gourmetpress.net/1469848/"
+  ],
+  "summary": "浅草・二天門近くに抹茶専門ブランド「マッチャ メイジン カフェ」の旗艦店が2026年8月6日グランドオープン。静かで上質な抹茶体験を提供する本格抹茶カフェ。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "LOOK UP CAFE TOKYO SKYTREE",
+  "area": "押上・東京スカイツリー",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリー5階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-05-22",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ",
-      "スイーツ"
-    ],
-    "name": "MATCHA MEIJIN Cafe 浅草店",
-    "area": "浅草",
-    "address": "東京都台東区浅草2丁目3-61 二天門ビルII 1階・2階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-06",
-      "end": null
-    },
-    "confidence": "media",
-    "sources": [
-      "https://gourmetpress.net/1469848/"
-    ],
-    "summary": "抹茶専門ブランド「MATCHA MEIJIN Cafe」の旗艦店。本格的な抹茶体験を提供する新拠点として、2026年8月6日に浅草へグランドオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000420.000041446.html",
+   "https://www.tokyo-skytree.jp/press/post/704/"
+  ],
+  "summary": "東京スカイツリー開業14周年にあわせ、5階のこれまで一般開放していなかったエリアを開放し芝生テラス付きの新カフェが2026年5月22日オープン。スカイツリーを真下から見上げるロケーションが特徴。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ブルーロックカフェ -青い監獄-",
+  "area": "渋谷",
+  "address": "東京都渋谷区渋谷3-27-11 GEMS渋谷3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": "2026-09-20"
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ",
-      "コーヒー"
-    ],
-    "name": "MAME Tokyo 千駄ヶ谷店",
-    "area": "千駄ヶ谷",
-    "address": "東京都渋谷区千駄ケ谷1-19-9",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-06",
-      "end": null
-    },
-    "confidence": "media",
-    "sources": [
-      "https://www.timeout.jp/tokyo/ja/news/mame-tokyo-080626",
-      "https://www.enjoytokyo.jp/news/205000/"
-    ],
-    "summary": "スイス発のロースタリーカフェ「MAME」の日本2号店。2026年8月6日、千駄ヶ谷にオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000313.000086964.html"
+  ],
+  "summary": "TVアニメ『ブルーロック』第1期をテーマにしたコラボカフェがBOX cafe&space GEMS渋谷で2026年8月20日〜9月20日開催中。キャラクターをイメージしたフード・ドリンクとオリジナルグッズを展開。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "LA&LE（ラ・エ・ル）",
+  "area": "表参道",
+  "address": "東京都港区南青山3-8-35 表参道Grid Tower 1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-09",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "コメダ和喫茶おかげ庵 ミーツ国分寺店",
-    "area": "国分寺",
-    "address": "東京都国分寺市本町3-1-1 ミーツ国分寺3階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-07-31",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://www.atpress.ne.jp/news/617004",
-      "https://newscast.jp/smart/news/1691015"
-    ],
-    "summary": "コメダ発の和喫茶「おかげ庵」が国分寺市に初出店。商業施設「ミーツ国分寺」内に2026年7月31日オープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000433.000025087.html"
+  ],
+  "summary": "表参道Grid Towerに2026年3月9日オープンしたカフェ・オールデイダイニング。パリの名店「カフェ・ド・フロール」で活躍したギャルソン山下哲也氏が手がけ、パリのエスプリと日本の洋食を融合させる。運営は株式会社バルニバービ。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "CU",
+  "area": "浅草",
+  "address": "東京都台東区浅草2-13-1 春日ビル",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-31",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ",
-      "スイーツ"
-    ],
-    "name": "八三六（Hachi San Roku）",
-    "area": "谷中銀座",
-    "address": "東京都台東区谷中3-13-2",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-06-11",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000061.000071067.html"
-    ],
-    "summary": "築80年の古民家をリノベーションした和カフェ。日本各地の厳選素材を使った体験型かき氷「氷あそび」が看板メニュー。2026年6月11日、谷中銀座にオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000174669.html"
+  ],
+  "summary": "江戸期の「水茶屋」文化を現代的に再解釈したカフェ「CU」が浅草奥山エリアに2026年7月31日オープン。わらび粉入り生地の「和ドーナツ」や抹茶ドリンク・和紅茶カクテルを、朝から夜まで提供する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "BAKERY CAFE C 東京ソラマチ店",
+  "area": "押上・東京スカイツリー",
+  "address": "東京都墨田区押上1-1-2 東京ソラマチ2F ウエストヤード4番地",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-28",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ",
-      "コーヒー"
-    ],
-    "name": "タリーズコーヒー テレ東BIZカフェ店",
-    "area": "六本木一丁目",
-    "address": "東京都港区六本木三丁目2番1号 住友不動産六本木グランドタワー1階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-06-01",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000002269.000002734.html"
-    ],
-    "summary": "テレビ東京ホールディングスとのコラボ店舗。無料のビジネス書コーナーや「テレ東BIZ」有料コンテンツの無料視聴が可能。2026年6月1日、六本木一丁目にグランドオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000056.000075032.html"
+  ],
+  "summary": "サンマルクホールディングス運営のベーカリーカフェ「BAKERY CAFE C」東京初出店となる東京ソラマチ店が2026年4月28日オープン。約80種のパンを揃え、テラス20席を含む97席を展開。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "カフェ"
+  ],
+  "name": "MAME Tokyo（千駄ヶ谷）",
+  "area": "千駄ヶ谷",
+  "address": "東京都渋谷区千駄ケ谷1-19-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-06",
+   "end": null
   },
-  {
-    "type": "popup",
-    "genre": [
-      "カフェ",
-      "スイーツ"
-    ],
-    "name": "はなまるおばけのはなまるごほうびカフェ（東京・原宿）",
-    "area": "原宿",
-    "address": "東京都渋谷区神宮前6丁目28番6号 キュープラザ原宿3F",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-07-23",
-      "end": "2026-08-30"
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000308.000086964.html"
-    ],
-    "summary": "サンリオ「はなまるおばけ」のテーマカフェ。2026年7月23日〜8月30日、原宿キュープラザにて開催中。",
-    "collected_at": "2026-08-21"
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/205000/",
+   "https://www.timeout.jp/tokyo/ja/news/mame-tokyo-080626"
+  ],
+  "summary": "スイス発ロースタリーカフェ「MAME」の日本2号店が千駄ヶ谷に2026年8月6日オープン。神谷町の予約制1号店と異なり、地域に根差したカジュアルなロースタリーカフェとして展開する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "エクベリ（Ekberg）伊勢丹新宿店",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-14-1 伊勢丹新宿店本館地下1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-15",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "Antre Tokyo（アントレ トーキョー）",
-    "area": "渋谷",
-    "address": "東京都渋谷区渋谷3丁目25-7 Bre.S SHIBUYA",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-07-11",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000005.000164042.html"
-    ],
-    "summary": "インドネシアの食文化を体験できるカフェ。インドネシア発信拠点「SUKU SPACE」1階に2026年7月11日オープン。紅茶やハーブティー、現地の食文化を紹介する。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://newscast.jp/smart/news/4840822",
+   "https://www.timeout.jp/tokyo/ja/news/finlands-oldest-bakery-cafe-opens-its-first-permanent-bakery-shop-in-japan-at-isetan-shinjuku-061726"
+  ],
+  "summary": "1852年ヘルシンキ創業、フィンランド最古のベーカリーカフェ「エクベリ」の日本初となる常設ベーカリーショップが伊勢丹新宿店本館地下1階に2026年7月15日オープン。名物シナモンロール「コルヴァプースティ」などを販売。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "コメダ和喫茶おかげ庵 ミーツ国分寺店",
+  "area": "国分寺",
+  "address": "東京都国分寺市本町3-1-1 ミーツ国分寺3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-31",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "better is（自由が丘）",
-    "area": "自由が丘",
-    "address": "東京都世田谷区奥沢7-2-9 自由ヶ丘富国生命ビル1F",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-07-07",
-      "end": null
-    },
-    "confidence": "media",
-    "sources": [
-      "https://magazine.tabelog.com/articles/501095",
-      "https://www.setagaya-navi.com/gourmet/better-is/"
-    ],
-    "summary": "新鮮な季節野菜を使ったランチや手作り惣菜、本格ベーグルが楽しめるカフェ＆デリカテッセン。2026年7月7日、自由が丘にオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://www.atpress.ne.jp/news/617004"
+  ],
+  "summary": "コメダ発の和の喫茶ブランド「コメダ和喫茶 おかげ庵」が国分寺市に初出店。国分寺駅直結の商業施設「ミーツ国分寺」3階に2026年7月31日オープン。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "Tamitu 期間限定カフェ（東京ミッドタウン）",
+  "area": "六本木・赤坂",
+  "address": "東京都港区赤坂9-7-1 東京ミッドタウン ガレリアB1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-01",
+   "end": "2026-08-31"
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "コーヒー",
-      "スイーツ"
-    ],
-    "name": "A Bite Coffee（グランスタ東京）",
-    "area": "東京駅",
-    "address": "東京都千代田区丸の内1-9-1 グランスタ東京",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-09-16",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000300.000014043.html"
-    ],
-    "summary": "BAKE INC.の新ブランド「A Bite Coffee」。コーヒーを飲むから食べる新提案として、コーヒー菓子専門ブランドが2026年9月16日、グランスタ東京にオープン予定。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000353.000027065.html"
+  ],
+  "summary": "東京ミッドタウン ガレリアB1にてTamituの期間限定カフェが2026年7月1日〜8月31日開催中。「Tamituソーダ」やソフトクリームなどのPOP UP限定メニューを提供する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "スマートカフェ 秋葉原",
+  "area": "秋葉原",
+  "address": "東京都千代田区神田須田町2-25-2 GYB秋葉原1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-28",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "めいどりーみん 新宿店",
-    "area": "新宿",
-    "address": "東京都新宿区新宿3丁目31-5 ペガサス館7F",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-28",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://gourmetpress.net/1470328/",
-      "https://straightpress.jp/20260821/1691676"
-    ],
-    "summary": "メイドカフェ「めいどりーみん」新宿エリア2店舗目となる新店舗。2026年8月28日グランドオープン予定。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://www.atpress.ne.jp/news/581681"
+  ],
+  "summary": "24時間営業のセルフ型無人カフェ「スマートカフェ」がJR秋葉原駅徒歩3分の地に2026年3月28日オープン。ドリンク購入のみで利用でき、Wi-Fi・電源完備で時間制限なく過ごせる。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "セルフカフェ渋谷神南店",
+  "area": "渋谷",
+  "address": "東京都渋谷区神南1-19-14 クリスタルポイントB2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-15",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "コーヒー"
-    ],
-    "name": "URBAN COFFEE ROASTER TOKYO",
-    "area": "外苑前",
-    "address": "東京都港区南青山2-11-14 シグマ南青山ビル1階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-07",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000001.000188075.html"
-    ],
-    "summary": "香港発・チャンピオンバリスタが手掛けるスペシャルティコーヒーブランドの海外初独立店舗。2026年8月7日、外苑いちょう並木前にオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000943.000045400.html"
+  ],
+  "summary": "無人カフェチェーン最大手「セルフカフェ」の渋谷初出店・57店舗目「セルフカフェ渋谷神南店」が2026年3月15日グランドオープン。電源・Wi-Fi完備で全94席、6時〜翌2時営業。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "ドトール パークカフェ YOYOGI",
+  "area": "代々木公園",
+  "address": "東京都渋谷区代々木神園町2-1 代々木公園オリンピック記念宿舎",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-09",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "コーヒー"
-    ],
-    "name": "Paik's DABANG Coffee 新橋店（ペクスダバン）",
-    "area": "新橋",
-    "address": "東京都港区新橋2丁目15-11",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-06",
-      "end": null
-    },
-    "confidence": "media",
-    "sources": [
-      "https://news.yahoo.co.jp/articles/75c53c25c9875f464d1fb48016a2f27854473653",
-      "https://k-vibin.com/2026/08/07/%E3%83%9A%E3%82%AF%E3%82%B9%E3%83%80%E3%83%90%E3%83%B3%E3%81%8C%E6%97%A5%E6%9C%AC%E4%B8%8A%E9%99%B8%EF%BC%81%E6%96%B0%E6%A9%8B%E5%BA%97%E3%81%AE%E5%A0%B4%E6%89%80%E3%83%BB%E5%96%B6%E6%A5%AD%E6%99%82/"
-    ],
-    "summary": "韓国全土に1,800店舗以上を展開する人気コーヒーチェーンの日本1号店。座席を設けないテイクアウト専門のコーヒースタンドとして2026年8月6日、新橋にオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://www.doutor.co.jp/news/newsrelease/detail/20260317111523.html"
+  ],
+  "summary": "1964年東京五輪でオランダ選手宿舎として使われた代々木公園内の建屋を改装し「ドトール パークカフェ YOYOGI」が2026年4月9日オープン。店内34席・テラス44席、防災備蓄機能も備える。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "パンケーキ"
+  ],
+  "name": "髙木珈琲 VITA MALL SEISEKI店",
+  "area": "聖蹟桜ヶ丘（多摩市）",
+  "address": "東京都多摩市関戸4-72 VITA MALL SEISEKI 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-02-02",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ",
-      "コーヒー"
-    ],
-    "name": "PRIME FIVE TULLY'S COFFEE 新宿サザンテラス店",
-    "area": "新宿（代々木）",
-    "address": "東京都渋谷区代々木2丁目2-1",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-07",
-      "end": null
-    },
-    "confidence": "media",
-    "sources": [
-      "https://www.ryutsuu.biz/report/s080572.html",
-      "https://rocketnews24.com/2026/08/07/2789965/"
-    ],
-    "summary": "タリーズコーヒー初の店内焼き立てベーカリーを導入したコンセプトストア。店内67席・テラス14席。2026年8月7日、新宿サザンテラスにオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000300.000037579.html"
+  ],
+  "summary": "自家焙煎スペシャルティコーヒーカフェ「髙木珈琲」が東京都内初出店として聖蹟桜ヶ丘のVITA MALL SEISEKIに2026年2月2日オープン。ふわとろパンケーキが名物の大阪発チェーンの姉妹ブランド。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "「トイ・ストーリー5」OH MY CAFE（表参道）",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館地下3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-03",
+   "end": "2026-09-13"
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ",
-      "コーヒー"
-    ],
-    "name": "HORIGUCHI COFFEE à la table",
-    "area": "有明",
-    "address": "東京都江東区有明3丁目3番8号 東京ドリームパーク2階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-06-12",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000030.000068009.html"
-    ],
-    "summary": "堀口珈琲が展開するフレンチカフェ新業態。食事とともにスペシャルティコーヒーを楽しむ食卓を提案。2026年6月12日、有明の東京ドリームパークにオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://www.disney.co.jp/shopping/cafenews/20250924_01",
+   "https://www.walkerplus.com/event/ar0313e557441/"
+  ],
+  "summary": "ディズニー&ピクサー映画『トイ・ストーリー5』とのコラボカフェが表参道ヒルズ本館地下3階にて2026年7月3日〜9月13日開催中。ウッディ＆バズをイメージした限定フード・グッズを展開。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ",
+   "カフェ"
+  ],
+  "name": "ニナ ザ・リッツ・カールトン東京",
+  "area": "六本木・赤坂",
+  "address": "東京都港区赤坂9-7-1 東京ミッドタウン ザ・リッツ・カールトン東京1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-01",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "JOURNAL STANDARD CAFE 池袋・サンシャインシティ店",
-    "area": "池袋",
-    "address": "東京都豊島区東池袋3-1-1 サンシャインシティ アルパ3階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-07-17",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000002570.000011498.html"
-    ],
-    "summary": "ベイクルーズが提案する新業態カフェ。「スタンド」と「カフェ」の2機能を備え、ブランチからティータイム、テイクアウトまで楽しめる。2026年7月17日、池袋サンシャインシティにオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002605.000011305.html"
+  ],
+  "summary": "世界最優秀パティシエに選出されたニナ・メタイエ氏によるパティスリー「ニナ ザ・リッツ・カールトン東京」がホテル1階に2026年4月1日誕生。「花」をモチーフにしたスイーツを、店内32席・屋外テラス26席で提供。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "Antre Tokyo（アントレ トーキョー）",
+  "area": "渋谷",
+  "address": "東京都渋谷区渋谷3-25-7 Bre.S SHIBUYA206",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-11",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "スイーツ"
-    ],
-    "name": "ペンギンベーカリー中目黒店",
-    "area": "中目黒",
-    "address": "東京都目黒区青葉台1-27-12 サンライトビル",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-07",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000108.000102430.html"
-    ],
-    "summary": "北海道発の人気ベーカリー「ペンギンベーカリー」の新店舗。2026年8月7日、中目黒にオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000164042.html"
+  ],
+  "summary": "インドネシア文化発信拠点「SUKU SPACE」1階に、インドネシア料理を楽しめるカフェ「Antre Tokyo」が2026年7月11日渋谷にオープン。ルンダンパイなど現地の味を提供する約20㎡の小規模店舗。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "Quaro（クアロ）",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前4-25-32",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-02-11",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ",
-      "スイーツ"
-    ],
-    "name": "BAKERY RESTAURANT C 調布店",
-    "area": "調布",
-    "address": "東京都調布市布田4-4-22 トリエ京王調布 A館5階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-06-09",
-      "end": null
-    },
-    "confidence": "media",
-    "sources": [
-      "https://tamapon.com/2026/06/02/bakeryrestrantcchofu/",
-      "https://chofu.keizai.biz/headline/4895/"
-    ],
-    "summary": "全メニューに焼き立てパン食べ放題が付くベーカリーレストラン。子ども専用パンコーナーも設置。2026年6月9日、トリエ京王調布にオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000001.000176749.html"
+  ],
+  "summary": "原宿キャットストリートに新感覚カルチャースペース「Quaro」が2026年2月11日グランドオープン。地下ロースタリー、1階カフェ、2階ミュージックバー、3階ギャラリーの全4フロア構成。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "カフェ"
+  ],
+  "name": "スターバックス リザーブ® カフェ 東京スカイツリータウン30F店",
+  "area": "押上・東京スカイツリー",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ30階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-10",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "スイーツ"
-    ],
-    "name": "玄点＋（ゲンテンプラス）二子玉川店",
-    "area": "二子玉川",
-    "address": "東京都世田谷区玉川2丁目21番1号 二子玉川ライズS.C.地下1階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-06-11",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000005.000151268.html"
-    ],
-    "summary": "玄米×オーガニックグラスフェッド牧場素材のグルテンフリー玄米スイーツ＆ベーカリーショップ。イートイン・テイクアウト対応。2026年6月11日、二子玉川「東急フードショー」にオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://stories.starbucks.co.jp/press/2026/pr2026-0217/"
+  ],
+  "summary": "地上約150m、日本一高い場所にあるスターバックスが東京ソラマチ30階に2026年3月10日オープン。カウンター・テーブル・ラウンジの3ゾーン構成、全80席で晴れた日は富士山も一望できる。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "better is",
+  "area": "自由が丘",
+  "address": "東京都世田谷区奥沢7-2-9 自由ヶ丘富国生命ビル1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-07",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "スイーツ"
-    ],
-    "name": "I'm donut？／dacō 自由が丘すずかけ通り",
-    "area": "自由が丘",
-    "address": "東京都目黒区自由が丘1-4-10",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-06-18",
-      "end": null
-    },
-    "confidence": "media",
-    "sources": [
-      "https://ampmedia.jp/2026/06/17/peace-put-0618/",
-      "https://straightpress.jp/20260622/1640510"
-    ],
-    "summary": "生ドーナツ専門店「I'm donut？」とベーカリーカフェ「dacō」が同時出店する複合店。2026年6月18日、自由が丘すずかけ通りにオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000007.000143480.html"
+  ],
+  "summary": "旧JUNO CAFE JIYUGAOKA跡地にサステナブル志向のカフェ&デリ「better is」が2026年7月7日オープン。エシカル認証農家の野菜を使ったサラダボウルや生ベーグルを提供し、店内菜園・コンポストも運営。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "BONIN BLUE CAFE",
+  "area": "夢の島",
+  "address": "東京都江東区夢の島2-1-2",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-04",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "スイーツ"
-    ],
-    "name": "be my flora bakery（広尾）",
-    "area": "広尾",
-    "address": "東京都港区南麻布5-16-5 1F",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-07-15",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000040.000080397.html"
-    ],
-    "summary": "ウェルビーイングブランド「be my flora」によるグルテンフリーパン＆無添加惣菜の専門店。2026年7月15日、広尾にオープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "media",
+  "sources": [
+   "http://creativeheads.jp/news/%E3%80%90%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%912026%E5%B9%B44%E6%9C%88%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%EF%BC%81%E9%83%BD%E7%AB%8B%E5%A4%A2%E3%81%AE%E5%B3%B6%E7%86%B1%E5%B8%AF%E6%A4%8D/",
+   "https://tabizine.jp/article/682694/"
+  ],
+  "summary": "都立夢の島熱帯植物館内に、トロピカルな空間で小笠原食材を使ったメニューを楽しめる「BONIN BLUE CAFE」が2026年4月4日オープン。土日祝限定11:00〜15:30営業。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "カフェ"
+  ],
+  "name": "スターバックス カフェ & アートギャラリー 谷中御殿坂",
+  "area": "西日暮里・谷中",
+  "address": "東京都荒川区西日暮里3-2-5",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-28",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "パンケーキ",
-      "カフェ"
-    ],
-    "name": "flour+water 下北沢",
-    "area": "下北沢",
-    "address": "東京都世田谷区北沢2-34-3 ミドキタ1F",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-04-24",
-      "end": null
-    },
-    "confidence": "media",
-    "sources": [
-      "https://www.atpress.ne.jp/news/587671"
-    ],
-    "summary": "中目黒・横浜で行列のベーカリービストロ「flour+water」が下北沢に新店。オリジナル生ベーグルと店舗限定リコッタパンケーキが人気で、昼はブランチ、夜はビストロとして営業する。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://stories.starbucks.co.jp/press/2026/pr2026-0310-02/",
+   "https://stories.starbucks.co.jp/press/2026/pr2026-0326-02/"
+  ],
+  "summary": "谷中エリアに、コーヒーとアートを融合させた新業態「スターバックス カフェ & アートギャラリー 谷中御殿坂」が2026年3月28日オープン。木造2階建てでHAGISOが建築設計、The Chain Museumが展覧会運営を担当。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "パンケーキ",
+   "カフェ"
+  ],
+  "name": "flour+water 下北沢",
+  "area": "下北沢",
+  "address": "東京都世田谷区北沢2-34-3 ミドキタ1F A区画",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-24",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "パンケーキ"
-    ],
-    "name": "Eggs 'n Things ららぽーと豊洲店",
-    "area": "豊洲",
-    "address": "東京都江東区豊洲2-4-9 アーバンドック ららぽーと豊洲1 1階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-04-28",
-      "end": null
-    },
-    "confidence": "media",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000323.000012385.html"
-    ],
-    "summary": "ハワイアンパンケーキの人気店「Eggs 'n Things」がららぽーと豊洲にグランドオープン。海風を感じるテラス席で本格ハワイアンメニューを提供する。",
-    "collected_at": "2026-08-21"
+  "confidence": "media",
+  "sources": [
+   "https://www.atpress.ne.jp/news/587671",
+   "https://shibukichi.net/flourwater_shimokita/"
+  ],
+  "summary": "中目黒で行列のベーカリービストロ「flour+water」が下北沢駅東口徒歩3分の地に2026年4月24日オープン。下北沢店限定のオリジナル生ベーグルとリコッタパンケーキを提供。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "パンケーキ",
+   "カフェ"
+  ],
+  "name": "Eggs 'n Things ららぽーと豊洲店",
+  "area": "豊洲",
+  "address": "東京都江東区豊洲2-4-9 アーバンドックららぽーと豊洲1721区画",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-28",
+   "end": null
   },
-  {
-    "type": "popup",
-    "genre": [
-      "カフェ",
-      "スイーツ"
-    ],
-    "name": "「トイ・ストーリー5」OH MY CAFE 東京・表参道",
-    "area": "表参道",
-    "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館地下3階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-07-03",
-      "end": "2026-09-13"
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000300.000086964.html"
-    ],
-    "summary": "ディズニー&ピクサー最新作『トイ・ストーリー5』公開を記念したスペシャルカフェが表参道ヒルズに期間限定オープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000323.000012385.html"
+  ],
+  "summary": "1974年ハワイ創業のオールデイブレックファーストレストラン「Eggs 'n Things」が、ららぽーと豊洲に2026年4月28日グランドオープン。パンケーキやエッグベネディクトを海辺のテラス席で楽しめる。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "めいどりーみん 新宿店",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-31-5 ペガサス館7F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
   },
-  {
-    "type": "popup",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "Tamitu 期間限定カフェ（東京ミッドタウン）",
-    "area": "六本木・赤坂",
-    "address": "東京都港区赤坂9-7-4 東京ミッドタウン ガレリアB1",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-07-01",
-      "end": "2026-08-31"
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000353.000027065.html"
-    ],
-    "summary": "東京ミッドタウンのガレリアB1にTamituの期間限定カフェが登場。クラフトビアレストラン「Instant Classic by WCB」の新規オープンと同時展開。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://maidreamin.com/information/detail.html?id=20101"
+  ],
+  "summary": "メイドカフェチェーン「めいどりーみん」の新宿エリア2店舗目「めいどりーみん 新宿店」が2026年8月28日11:30グランドオープン予定。記念企画や限定商品販売、Vライバーコラボを実施。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "URBAN COFFEE ROASTER TOKYO",
+  "area": "外苑前・南青山",
+  "address": "東京都港区南青山2-11-14 シグマ南青山ビル1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-07",
+   "end": null
   },
-  {
-    "type": "popup",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "初音ミク Wa Modern Cafe 東京",
-    "area": "池袋",
-    "address": "東京都豊島区東池袋1-30-3 B1F",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-07",
-      "end": "2026-09-27"
-    },
-    "confidence": "official",
-    "sources": [
-      "https://blog.piapro.net/2026/07/p260624-1-1.html"
-    ],
-    "summary": "ピアプロキャラクターズのテーマカフェ「初音ミク Wa Modern Cafe」が池袋で開催。和モダンをコンセプトにしたキャラクターメニュー＆グッズを展開する。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000001.000188075.html"
+  ],
+  "summary": "香港発、チャンピオンバリスタ手掛けるスペシャルティコーヒーブランド「URBAN COFFEE ROASTER」の海外初独立店舗が外苑いちょう並木前に2026年8月7日オープン。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "バシャコーヒー 新丸ビル店",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-11",
+   "end": null
   },
-  {
-    "type": "popup",
-    "genre": [
-      "カフェ",
-      "スイーツ"
-    ],
-    "name": "パンとエスプレッソとMoflinとまちあわせ",
-    "area": "渋谷",
-    "address": "東京都渋谷区神宮前6-20-10 MIYASHITA PARK South 2F",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-09-05",
-      "end": "2026-09-13"
-    },
-    "confidence": "official",
-    "sources": [
-      "https://ai.watch.impress.co.jp/docs/news/2133586.html"
-    ],
-    "summary": "カシオのAIペットロボット「Moflin」と人気ベーカリー「パンとエスプレッソとまちあわせ」の初コラボカフェがMIYASHITA PARKに期間限定オープン。",
-    "collected_at": "2026-08-21"
+  "confidence": "media",
+  "sources": [
+   "https://www.fashionsnap.com/article/2026-06-11/bachacoffee-marunouchi/",
+   "https://www.fashion-press.net/news/147152"
+  ],
+  "summary": "モロッコ発「バシャコーヒー（Bacha Coffee）」の日本2号店が新丸の内ビルディング1階に2026年6月11日オープン。200種以上の豆やドリップバッグを扱う物販専門の手土産ブティック。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "Paik's DABANG COFFEE 新橋店（ペクスダバン）",
+  "area": "新橋",
+  "address": "東京都港区新橋2-15-11",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-06",
+   "end": null
   },
-  {
-    "type": "popup",
-    "genre": [
-      "スイーツ"
-    ],
-    "name": "ブリュレメリゼ 羽田空港ポップアップストア",
-    "area": "羽田空港",
-    "address": "東京都大田区羽田空港3-3-2 第1ターミナル2Fマーケットプレイス「羽田スタースイーツ」",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-07-08",
-      "end": "2026-10-07"
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000001882.000025606.html"
-    ],
-    "summary": "東京駅で人気のブリュレスイーツ専門店「ブリュレメリゼ」が羽田空港第1ターミナルに期間限定出店。とろけるチーズケーキなどを販売する。",
-    "collected_at": "2026-08-21"
+  "confidence": "media",
+  "sources": [
+   "https://news.yahoo.co.jp/articles/75c53c25c9875f464d1fb48016a2f27854473653",
+   "https://tabelog.com/tokyo/A1301/A130103/13325467/"
+  ],
+  "summary": "韓国全土に1,800店舗以上を展開するコーヒーチェーン「Paik's DABANG（ペクスダバン）」の日本1号店が、新橋・烏森神社近くに2026年8月6日オープンし海外進出を本格化。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "カフェ"
+  ],
+  "name": "PRIME FIVE TULLY'S COFFEE 新宿サザンテラス店",
+  "area": "新宿",
+  "address": "東京都渋谷区代々木2-2-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-07",
+   "end": null
   },
-  {
-    "type": "popup",
-    "genre": [
-      "スイーツ"
-    ],
-    "name": "名作絵本のクッキー缶セレクション by Cake.jp",
-    "area": "池袋",
-    "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋店",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-25",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000944.000015685.html"
-    ],
-    "summary": "絵本をモチーフにしたクッキー缶ブランド「Cake.jp」の催事が東武百貨店池袋店で初開催される。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://www.watch.impress.co.jp/docs/news/2130403.html",
+   "https://www.fashion-press.net/news/149455",
+   "https://www.tullys.co.jp/company/pressrelease/2026/08/2026_pf_shinjuku.html"
+  ],
+  "summary": "タリーズコーヒー初となる店内焼き立てベーカリー導入のコンセプトストア「PRIME FIVE TULLY'S COFFEE 新宿サザンテラス店」が2026年8月7日オープン。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "カフェ"
+  ],
+  "name": "HORIGUCHI COFFEE à la table",
+  "area": "有明",
+  "address": "東京都江東区有明3-3-8 東京ドリームパーク2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-12",
+   "end": null
   },
-  {
-    "type": "popup",
-    "genre": [
-      "カフェ"
-    ],
-    "name": "ことのは文庫 創刊7周年記念コラボカフェ",
-    "area": "新富町・銀座",
-    "address": "東京都中央区新富1-3-7 ヨドコウビル B1F Cafe&Dining Take",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-09-01",
-      "end": "2026-09-30"
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000002809.000048095.html"
-    ],
-    "summary": "マイクロマガジン社「ことのは文庫」創刊7周年を記念したコラボカフェがCafe&Dining Takeで開催。6作品のコラボメニューを展開する。",
-    "collected_at": "2026-08-21"
-  }
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000030.000068009.html"
+  ],
+  "summary": "スペシャルティコーヒーの堀口珈琲による新業態、フレンチスタイルのカフェ「HORIGUCHI COFFEE à la table」が有明の東京ドリームパーク2階に2026年6月12日オープン。ディナー営業も行う本格ビストロ料理も展開。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "Vannelli Coffee（バンネリコーヒー）表参道",
+  "area": "表参道・北青山",
+  "address": "東京都港区北青山3-5-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-02-05",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/142442",
+   "https://www.timeout.jp/tokyo/ja/news/vannelli-coffee-020426"
+  ],
+  "summary": "イタリア発スペシャルティコーヒーブランド「Vannelli Coffee（バンネリコーヒー）」の世界初旗艦店が表参道に2026年2月5日オープン。バンネリ兄弟が手掛け、店内12席とテラス6席を展開。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "カフェ"
+  ],
+  "name": "タリーズコーヒー テレ東BIZカフェ店",
+  "area": "六本木",
+  "address": "東京都港区六本木3-2-1 住友不動産六本木グランドタワー1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-01",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002269.000002734.html"
+  ],
+  "summary": "テレビ東京本社1階に「タリーズコーヒー テレ東BIZカフェ店」が2026年6月1日グランドオープン。スマホをかざすと有料番組「テレ東BIZ」が無料視聴でき、高速Wi-Fiも完備するビジネスパーソン向け店舗。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "はなまるおばけのはなまるごほうびカフェ（東京会場）",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6-28-6 キュープラザ原宿3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-23",
+   "end": "2026-08-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000308.000086964.html"
+  ],
+  "summary": "サンリオキャラクター「はなまるおばけ」のテーマカフェがBOX cafe&space キュープラザ原宿店で2026年7月23日〜8月30日開催中。「特別なハナマル」がもらえるごほうびメニューを展開。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "カフェ"
+  ],
+  "name": "LAOSIA COFFEE SENGOKU",
+  "area": "千石・巣鴨",
+  "address": "東京都文京区千石4-25-2 桜-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-26",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://note.com/kuma_writer22/n/nb45279fc6a3a",
+   "https://camp-fire.jp/projects/893849/view"
+  ],
+  "summary": "ラオス南部ボラベン高原の農家と直接つながるダイレクトトレードコーヒーカフェ「LAOSIA COFFEE SENGOKU」が文京区千石（JR巣鴨駅・都営三田線千石駅近く）に2026年3月26日オープン。クラウドファンディングを経て開業。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "FORME.",
+  "area": "小伝馬町",
+  "address": "東京都中央区日本橋小伝馬町4-7",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": null,
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://rurubu.jp/andmore/article/24865",
+   "https://magazine.tabelog.com/articles/495640"
+  ],
+  "summary": "小伝馬町駅から徒歩2分、2026年4月に日常に寄り添うカフェ「FORME.」がオープン。自家製クロワッサンサンドやスペシャリティコーヒーのほか、看板メニューのレモンパイとバスクチーズケーキが人気。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "「くまのプーさん」OH MY CAFE（東京・スカイツリータウン）",
+  "area": "押上・東京スカイツリー",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ1Fタワーヤード6番地",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": "2026-10-25"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000315.000086964.html"
+  ],
+  "summary": "「くまのプーさん」原作デビュー100周年を記念したテーマカフェが東京スカイツリータウン・ソラマチにて2026年8月20日〜10月25日開催中（大阪でも同時開催）。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "Vannelli Coffee 表参道",
+  "area": "表参道",
+  "address": "東京都港区北青山3-5-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-02-05",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/142442",
+   "https://vannelli-japan.jp/"
+  ],
+  "summary": "イタリア発スペシャルティコーヒーブランド「Vannelli Coffee」の世界初旗艦店が表参道にオープン。世界的バリスタ競技会出場経験を持つ兄弟が手がける。店内12席とテラス6席を備える。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "Ekberg（エクベリ）伊勢丹新宿店",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-14-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-15",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://newscast.jp/smart/news/4840822",
+   "https://www.enjoytokyo.jp/news/204998/"
+  ],
+  "summary": "フィンランド最古のベーカリーカフェ「Ekberg（エクベリ）」の日本初となる常設店が伊勢丹新宿店本館地下1階洋菓子エリアにオープン。本場のシナモンロール（コルヴァプースティ）などを提供する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "タリーズコーヒー テレ東BIZカフェ店",
+  "area": "六本木一丁目",
+  "address": "東京都港区六本木3-2-1 住友不動産六本木グランドタワー1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-01",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002269.000002734.html"
+  ],
+  "summary": "テレビ東京ホールディングスが六本木一丁目駅直結の複合カフェ「タリーズコーヒー テレ東BIZカフェ店」をグランドオープン。ビジネスパーソン向けのインプット拠点として展開する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "Bacha Coffee 新丸ビル",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-11",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://spur.hpplus.jp/lifestyle/news/2026-06-23-DsU_9g/",
+   "https://www.fashionsnap.com/article/2026-06-11/bachacoffee-marunouchi/"
+  ],
+  "summary": "モロッコ発のコーヒーブランド「Bacha Coffee」の日本2号店となる物販専門店が丸の内・新丸ビルにオープン。35カ国から厳選した200種類以上のコーヒーを取り扱う。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "パンケーキ"
+  ],
+  "name": "JOURNAL STANDARD CAFE 池袋・サンシャインシティ",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋3-1-1 サンシャインシティ アルパ3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002570.000011498.html"
+  ],
+  "summary": "ベイクルーズが手がける新業態カフェ「JOURNAL STANDARD CAFE」がサンシャインシティにオープン。カスタムティーバーとスフレベイクパンケーキなどを楽しめる複合型カフェ。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee 東京駅店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東日本東京駅 地下1階 グランスタ東京",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000300.000014043.html",
+   "https://www.ryutsuu.biz/store/s061111.html"
+  ],
+  "summary": "BAKE INC.がコーヒーを「食べる」新業態のコーヒー菓子専門ブランド「A Bite Coffee」を東京駅グランスタ東京地下1階にオープン予定。丸の内改札内エリアのリニューアルに伴い出店する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "ペンギンベーカリー中目黒店",
+  "area": "中目黒",
+  "address": "東京都目黒区青葉台1-27-12 サンライトビル",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-07",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000108.000102430.html"
+  ],
+  "summary": "北海道発の人気ベーカリー「ペンギンベーカリー」の新店が中目黒駅徒歩8分の場所にオープン。北海道産小麦を使ったパンを取り扱う。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "ペンギンベーカリー吉祥寺店",
+  "area": "吉祥寺",
+  "address": "東京都武蔵野市吉祥寺本町2-13-11 iビル1FB",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-02-18",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000091.000102430.html"
+  ],
+  "summary": "北海道発の人気ベーカリー「ペンギンベーカリー」が吉祥寺にオープン。開店から20日間で来店者1万人を突破するなど人気を集めた。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "ペンギンベーカリー麻布十番店",
+  "area": "麻布十番",
+  "address": "東京都港区麻布十番2-5-9 ライオンズマンション麻布十番104",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-11-11",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000086.000102430.html"
+  ],
+  "summary": "北海道発の人気ベーカリー「ペンギンベーカリー」が港区に初出店。麻布十番商店街にオープンし、スイーツ展開も行う。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "PARKSTAND Coffee & Bakery",
+  "area": "清澄白河",
+  "address": "東京都江東区平野2-13-3 東ビル1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-05-15",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000002.000183784.html"
+  ],
+  "summary": "倉庫をリノベーションしたオープンキッチンのベーカリーカフェ「PARKSTAND Coffee & Bakery」が清澄白河にオープン。大型フランス製オーブンでパンを焼き上げる様子を見学できる。6月からは愛犬同伴可能なテラス席も開始した。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "渋いちベーカリー 神宮前",
+  "area": "神宮前",
+  "address": "東京都渋谷区神宮前1-4-20 パークコート神宮前1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-05-20",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000158.000028731.html"
+  ],
+  "summary": "レストラン発ベーカリー「渋いちベーカリー」の2号店が神宮前にオープン。看板商品の“生ドーナツ”をはじめ約60種のパンを展開する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "BAKERY RESTAURANT C トリエ京王調布店",
+  "area": "調布",
+  "address": "東京都調布市布田4丁目 トリエ京王調布A館5階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-09",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://city.living.jp/common/tomobataraki/1723539/",
+   "https://tamapon.com/2026/06/02/bakeryrestrantcchofu/"
+  ],
+  "summary": "渋谷で行列のできる「パン食べ放題」レストラン「BAKERY RESTAURANT C」がトリエ京王調布にオープン。多摩地区初出店で、全メニューに焼きたてパン食べ放題が付く新スタイルを採用。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Boulangerie ANTENDO 吉祥寺",
+  "area": "吉祥寺",
+  "address": "東京都武蔵野市吉祥寺南町1-3-3",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-25",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.atpress.ne.jp/news/591385"
+  ],
+  "summary": "アンテンドゥが手がける新業態ベーカリー「Boulangerie ANTENDO」が吉祥寺にオープン。職人の「オールスクラッチ製法」による約60種のパンを展開する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "イロドリコ",
+  "area": "町田",
+  "address": "東京都町田市木曽東1-15-15",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-20",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000016.000139902.html"
+  ],
+  "summary": "町田在住で育児をしながら再出発する元パート従業員が、町田街道沿いにベーカリー「イロドリコ」をグランドオープン。クロワッサンやデニッシュなど焼きたてパン50種類以上を扱う。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "be my flora bakery",
+  "area": "広尾",
+  "address": "東京都港区南麻布5-16-5-1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-15",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000041.000080397.html"
+  ],
+  "summary": "ウェルビーイングブランド「be my flora」が展開するグルテンフリーパンと無添加惣菜の専門店「be my flora bakery」が広尾にグランドオープン。小麦粉不使用のパンを量り売りスタイルで提供する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "THE CITY BAKERY BAR & GRILL 銀座インズ",
+  "area": "銀座",
+  "address": "東京都中央区銀座西2-2先 銀座インズ2 B1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-12-15",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000212.000044858.html"
+  ],
+  "summary": "NY発祥のベーカリー「THE CITY BAKERY」がエリア最大規模となる145坪の店舗を銀座インズ2にオープンし、東京初となるバー＆グリルを併設した。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "チガヤベーカリー（chigaya）蔵前店",
+  "area": "蔵前",
+  "address": "東京都台東区蔵前4丁目29-3",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-10-01",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.chiba-tv.com/plus/detail/202511922390",
+   "https://city.living.jp/citymate/citymate353/mate_going_out/1629577/"
+  ],
+  "summary": "蔵前の人気パン屋「チガヤベーカリー」が2025年10月に移転オープン。新商品のリボンドーナツが登場し、従来の看板商品クリームドーナツも引き続き販売する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "MUUN Seoul（ムーンソウル）原宿本店",
+  "area": "原宿・神宮前",
+  "address": "東京都渋谷区神宮前3丁目29-7",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-22",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/204817/",
+   "https://tabizine.jp/article/676528/"
+  ],
+  "summary": "原宿の韓国カフェ「MUUN Seoul（ムーンソウル）」原宿本店が焼きたてパンを主軸とするベーカリー専門店としてリニューアルオープン。看板メニューは塩パン。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "スターバックス リザーブ カフェ 東京スカイツリータウン30F店",
+  "area": "押上・東京スカイツリータウン",
+  "address": "東京都墨田区押上1-1-2 東京ソラマチ30F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-10",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://stories.starbucks.co.jp/press/2026/pr2026-0217/"
+  ],
+  "summary": "スターバックス リザーブ カフェの2号店が地上約150mの東京ソラマチ30階にオープン。日本一高い場所にあるスターバックスとなり、エスプレッソビバレッジとイタリアンベーカリー「プリンチ」のコルネッティを提供する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ",
+   "パンケーキ"
+  ],
+  "name": "DIGS（ディグス）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿4-1-7",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-12-23",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002318.000011498.html"
+  ],
+  "summary": "ベイクルーズが食とカルチャーの新拠点ビル「DIGS」を新宿にオープン。1階にブーランジェリー「BOUL'ANGE」、2階にブランチカフェ「FLIPPER'S」、3階に新業態レストランが入居する複合施設。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ",
+   "コーヒー"
+  ],
+  "name": "Timeless Bakery（タイムレスベーカリー）三田",
+  "area": "三田",
+  "address": "東京都港区三田3-1-20 カリーノ三田1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-10-31",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/204419/",
+   "https://shinagawa.keizai.biz/headline/4861/"
+  ],
+  "summary": "白金の「ラトリエコッコ」と「HAGAN ORGANIC COFFEE」が共同で手がける新業態ベーカリースタンド「Timeless Bakery」が三田にオープン。ミニクロワッサンとオリジナル焙煎コーヒーが名物。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ",
+   "カフェ"
+  ],
+  "name": "I'm donut？／dacō 自由が丘すずかけ通り",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-4-10",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-18",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://ampmedia.jp/2026/06/17/peace-put-0618/",
+   "https://media.kawa-colle.jp/_ct/17787565?o=0&tn=16781160"
+  ],
+  "summary": "生ドーナツ専門店「I'm donut？」とベーカリーカフェ「dacō」、「Neo Nice Burger」の3ブランド複合店が自由が丘すずかけ通りに同時開業。1FとB1Fの2フロア構成。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "パンとエスプレッソと GINZA ART LOUNGE",
+  "area": "銀座",
+  "address": "東京都中央区銀座8-2-1 ニッタビル3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-13",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000114.000035358.html"
+  ],
+  "summary": "銀座・コリドー街の会員制ラウンジがアートとカフェを楽しめる「パンとエスプレッソと GINZA ART LOUNGE」として一般開放でリニューアルオープン。若手アーティスト7名の作品約50点を常設展示する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "GODIVA Bakery ゴディパン 西武池袋本店",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1-28-1 西武池袋本店地下1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-11-05",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000839.000015355.html"
+  ],
+  "summary": "ゴディバのベーカリーショップ「ゴディパン」の第3号店が西武池袋本店地下1階にオープン。ショコラティエの発想で再解釈した菓子パン・惣菜パンを展開する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ",
+   "コーヒー"
+  ],
+  "name": "THE PLATFORM STAND Produced by NEIGHBORS BREAD 東京駅店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 東京駅 東海道新幹線18・19番線ホーム",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-02-26",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://raillab.jp/news/article/34345",
+   "https://tetsudo-ch.com/13023221.html"
+  ],
+  "summary": "宇都宮のベーカリー企業standard bakersがプロデュースする新業態「THE PLATFORM STAND」が東京駅東海道新幹線18・19番線ホームにオープン。惣菜パンやデザートパンに加え、クラフトビールやコーヒーも提供する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ",
+   "カフェ"
+  ],
+  "name": "玄点＋（げんてんプラス）",
+  "area": "二子玉川",
+  "address": "東京都世田谷区玉川2丁目21番1号 二子玉川ライズS.C.地下1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-11",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000151268.html"
+  ],
+  "summary": "玄米×オーガニックグラスフェッド牧場の恵みをテーマにしたグルテンフリー玄米スイーツ＆ベーカリーブランド「玄点＋」が二子玉川「東急フードショー」内にオープン。玄米スコーンや焼き菓子をイートイン・テイクアウトで提供する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "ブリュレメリゼ 羽田空港店",
+  "area": "羽田空港",
+  "address": "東京都大田区羽田空港3-3-2 羽田空港第1ターミナル2F マーケットプレイス「羽田スタースイーツ」",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-08",
+   "end": "2026-10-07"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001882.000025606.html",
+   "https://city.living.jp/common/news/1737577/"
+  ],
+  "summary": "東京駅で行列のできるブリュレスイーツ専門店「ブリュレメリゼ」が羽田空港第1ターミナル「羽田スタースイーツ」に期間限定出店。代表作「ブリュレクリームタルト」のほか新作チーズケーキも登場。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "「ひんやりフルーツ。」フェア",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 東京駅一番街 グランスタ東京・グランスタ丸の内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-21",
+   "end": "2026-09-07"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001144.000082978.html"
+  ],
+  "summary": "JR東日本クロスステーションが東京駅グランスタで初開催する夏の果実フェア。桃やマンゴー、ベリーなどを使ったアイスやスイーツ、パンなど限定含む全22商品が集結する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "真夏の日比谷 冷たい誘惑（ひんやりスイーツフェア）",
+  "area": "日比谷",
+  "address": "東京都千代田区有楽町1-1-2 東京ミッドタウン日比谷",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-10",
+   "end": "2026-08-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000083.000122345.html",
+   "https://www.hibiya.tokyo-midtown.com/jp/event/7490/"
+  ],
+  "summary": "東京ミッドタウン日比谷で夏にぴったりの冷たい甘味を集めたフェア「真夏の日比谷 冷たい誘惑」を開催。館内の複数店舗がひんやりスイーツを期間限定で提供する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "パンとエスプレッソとMoflinとまちあわせ",
+  "area": "渋谷・MIYASHITA PARK",
+  "address": "東京都渋谷区神宮前6-20-10 MIYASHITA PARK South 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-05",
+   "end": "2026-09-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000069.000050336.html"
+  ],
+  "summary": "カシオのAIペットロボット「Moflin」と人気ベーカリーカフェ「パンとエスプレッソとまちあわせ」が初コラボ。MIYASHITA PARK South 2Fに2026年9月5日〜13日の期間限定でオープンし、コラボメニューやノベルティを提供。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "銀魂秋色茶房",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1丁目5-7 LABI1 LIFE SELECT池袋7F（and GALLERY 池袋店）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-09",
+   "end": "2026-10-07"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://news.denfaminicogamer.jp/news/2608102c",
+   "https://www.excite.co.jp/news/article/Nijimen_0000000000630241/"
+  ],
+  "summary": "TVアニメ『銀魂』とのコラボカフェ「銀魂秋色茶房」がand GALLERY池袋店にて2026年9月9日〜10月7日開催。秋の和装姿の銀時たちをテーマにした限定メニュー・グッズを展開。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "「くまのプーさん」OH MY CAFE",
+  "area": "押上・東京ソラマチ",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ（BOX cafe&space 東京ソラマチ店）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": "2026-10-25"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000315.000086964.html"
+  ],
+  "summary": "『くまのプーさん』原作デビュー100周年を記念したスペシャルカフェがBOX cafe&space東京ソラマチ店にて2026年8月20日〜10月25日、期間限定オープン中。「英雄をたたえるケーキセット」など記念メニューを提供。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ガーデンカフェ（東京国立博物館）",
+  "area": "上野",
+  "address": "東京都台東区上野公園13-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000189124.html",
+   "https://www.atpress.ne.jp/news/618358"
+  ],
+  "summary": "東京国立博物館の館内レストランがリニューアルし、「THE RESTAURANT 東京国立博物館」と「ガーデンカフェ」が2026年8月28日にオープン。ガーデンカフェはテラス席・テイクアウトでカフェメニューや軽食、スパークリングワインを提供。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "TOKYO STATION CAFE -THE NORTH DOME-",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 JR東日本東京駅丸の内北口改札外",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-21",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001069.000082978.html"
+  ],
+  "summary": "重要文化財である東京駅丸の内駅舎の歴史的質感を体感できるカフェが2026年4月21日、東京駅丸の内北ドーム内にオープン。大正3年竣工当時の「待合室」の空間を受け継ぐデザインで、全63席を完備。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "AMAM DACOTAN cafe&bake",
+  "area": "表参道",
+  "address": "東京都港区北青山3-6-23",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-12-06",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000030.000129324.html"
+  ],
+  "summary": "福岡発ベーカリー「AMAM DACOTAN」の新カフェブランド「AMAM DACOTAN cafe&bake」が2025年12月6日、表参道にオープン。焼き菓子に特化した「生ベイク」など新しいベイク体験を提供。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "名作絵本のクッキー缶セレクション by Cake.jp",
+  "area": "池袋",
+  "address": "東京都豊島区西池袋1-1-25 東武百貨店 池袋店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-25",
+   "end": "2026-09-01"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000944.000015685.html"
+  ],
+  "summary": "絵本をモチーフにしたクッキー缶を展開する「名作絵本のクッキー缶セレクション by Cake.jp」が東武百貨店池袋店8F催事場にて2026年8月25日〜9月1日の8日間、池袋初開催。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "刀剣乱舞万屋かふぇ〜軽装まつり〜",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1-8-1 WACCA IKEBUKURO 5F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-20",
+   "end": "2026-09-06"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://twinplanet.co.jp/5099/",
+   "https://nijimen.kusuguru.co.jp/topics/618579"
+  ],
+  "summary": "「刀剣乱舞ONLINE」公式ストア企画のコラボカフェ「刀剣乱舞万屋かふぇ〜軽装まつり〜」がWACCA池袋5Fにて2026年6月20日〜9月6日開催中。軽装姿の刀剣男士をテーマにしたドリンクや、パティスリー監修の3Dケーキを提供。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "ひんやりフルーツ。フェア",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京・グランスタ丸の内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-21",
+   "end": "2026-09-07"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001144.000082978.html"
+  ],
+  "summary": "JR東京駅「グランスタ」にて、桃やマンゴーなど夏フルーツを使った冷たいグラススイーツ・ゼリー・パンなどを集めた「ひんやりフルーツ。」フェアを初開催。グランスタ限定18商品を含む全22商品が登場、2026年7月21日〜9月7日開催中。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "HORIGUCHI COFFEE à la table",
+  "area": "有明（東京ドリームパーク）",
+  "address": "東京都江東区有明3-3-8 東京ドリームパーク 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-12",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000030.000068009.html"
+  ],
+  "summary": "堀口珈琲がスペシャルティコーヒーを軸にしたフレンチカフェ「HORIGUCHI COFFEE à la table」を東京都江東区有明の東京ドリームパーク2Fに2026年6月12日オープン。堀口珈琲の直営7号店で、初のディナー営業も導入している。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "カフェ"
+  ],
+  "name": "ペコちゃん×しろたん みんなでふわふわスイーツパーティー",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 東京駅一番街 東京ギフトパレット「Weeklypalette」",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-24",
+   "end": "2026-08-06"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000452.000097396.html"
+  ],
+  "summary": "不二家洋菓子店となごみキャラクター「しろたん」のコラボPOP UPショップが東京駅一番街・東京ギフトパレットにて開催。オリジナルグッズと洋菓子を期間限定で販売した。会期は2026年7月24日〜8月6日。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "「くまのプーさん」OH MY CAFE",
+  "area": "押上・東京スカイツリータウン",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ 1F タワーヤード6番地",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": "2026-10-25"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000315.000086964.html"
+  ],
+  "summary": "くまのプーさん原作デビュー100周年を記念したテーマカフェ「OH MY CAFE」が東京スカイツリータウン・ソラマチのBOX cafe&spaceにて開催。会期は2026年8月20日〜10月25日。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ドラえもん サマフェス期間限定カフェ",
+  "area": "六本木",
+  "address": "東京都港区六本木6-9-1 テレビ朝日 1階アトリウム",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-18",
+   "end": "2026-08-23"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://dora-world.com/contents/4358"
+  ],
+  "summary": "「テレビ朝日・六本木ヒルズ SUMMER FES」内、テレビ朝日1階アトリウムにてドラえもんのスペシャルメニューを提供する期間限定カフェが登場。会期は2026年7月18日〜8月23日（一部エリアは8月16日まで）。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "Tamitu 期間限定カフェ（東京ミッドタウン ガーデンテラス）",
+  "area": "赤坂・東京ミッドタウン",
+  "address": "東京都港区赤坂9-7-4 東京ミッドタウン ガーデンテラスB1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-01",
+   "end": "2026-08-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000353.000027065.html"
+  ],
+  "summary": "表参道の人気店Tamituによる期間限定カフェが東京ミッドタウン ガーデンテラスB1に出店。オリジナルブレンドのグラノーラやドリップコーヒー、ソフトクリームなどを提供する。会期は2026年7月1日〜8月31日。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ことのは文庫 創刊7周年記念コラボカフェ（Cafe＆Dining Take）",
+  "area": "新富町",
+  "address": "東京都中央区新富1-3-7 ヨドコウビル地下1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002809.000048095.html"
+  ],
+  "summary": "マイクロマガジン社のライトノベルレーベル「ことのは文庫」創刊7周年を記念したコラボカフェが、東京都中央区新富の「Cafe＆Dining Take」にて2026年9月1日より開催。6作品のコラボメニューを展開する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "THE RESTAURANT 東京国立博物館／ガーデンカフェ",
+  "area": "上野",
+  "address": "東京都台東区上野公園13-9 東京国立博物館 東洋館別棟1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000189124.html"
+  ],
+  "summary": "東京国立博物館の館内レストランがリニューアルし、「THE RESTAURANT 東京国立博物館」と「ガーデンカフェ」が東洋館別棟1階に2026年8月28日オープン。旬の食材を使った「東博御膳」などを提供する。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "ブリュレメリゼ 羽田空港ポップアップ",
+  "area": "羽田空港",
+  "address": "東京都大田区羽田空港3-3-2 東京国際空港第1ターミナル2F「羽田スタースイーツ」",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-08",
+   "end": "2026-10-07"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002047.000025606.html"
+  ],
+  "summary": "ブリュレスイーツ専門店「ブリュレメリゼ」が羽田空港第1ターミナル「羽田スタースイーツ」に期間限定出店。新作「メルティブリュレチーズケーキ」などを販売する。会期は2026年7月8日〜10月7日。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "エキュート上野 ベーカリー・デリゾーン リニューアル（新規5ショップ）",
+  "area": "上野",
+  "address": "東京都台東区上野7-1-1 JR上野駅構内 エキュート上野 3階改札内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-11-18",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000945.000082978.html"
+  ],
+  "summary": "JR上野駅のエキナカ商業施設「エキュート上野」の3階改札内ベーカリー・デリゾーンがリニューアルし、新規5ショップ（鶏三和、韓美膳エクスプレス、福ベーグル、Zopfカレーパン専門店、ザ スタンダード ベイカーズ）を含む全14ショップが2025年11月18日オープンした。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "TOKYO STATION CAFE -THE NORTH DOME-",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅 丸の内北口改札外",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-21",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001069.000082978.html"
+  ],
+  "summary": "重要文化財である東京駅丸の内駅舎内に「TOKYO STATION CAFE -THE NORTH DOME-」が2026年4月21日オープン。1914年竣工当時の待合室空間を受け継いだ内装が特徴。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "パンケーキ"
+  ],
+  "name": "JOURNAL STANDARD CAFE",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋3-1-1 サンシャインシティ アルパ3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002570.000011498.html"
+  ],
+  "summary": "アパレルブランドJOURNAL STANDARDが手掛ける新業態カフェ「JOURNAL STANDARD CAFE」が池袋・サンシャインシティ アルパ3階に2026年7月17日オープン。カスタムティー飲み放題とスフレベイクパンケーキが名物。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "Antre Tokyo（アントレ トーキョー）",
+  "area": "渋谷",
+  "address": "東京都渋谷区渋谷3-25-7 Bre.S SHIBUYA 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-11",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000164042.html"
+  ],
+  "summary": "インドネシアの食文化を体験できるカフェ「Antre Tokyo」が、インドネシア発信拠点「SUKU SPACE」1階に2026年7月11日オープン。名物はインドネシア料理「ルンダン」を使ったパイ。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ジグザグ×サンリオキャラクタァズCAFE",
+  "area": "渋谷",
+  "address": "東京都渋谷区渋谷3-27-11 GEMS渋谷3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-02",
+   "end": "2026-08-16"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000302.000086964.html"
+  ],
+  "summary": "「真天地開闢集団-ジグザグ」×サンリオキャラクターズの初コラボカフェがBOX cafe&space GEMS渋谷店にて開催された。会期は2026年7月2日〜8月16日。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "バーミキュラ フラッグシップショップ・レストラン・ベーカリー（NEWoMan高輪）",
+  "area": "高輪",
+  "address": "東京都港区高輪2-21-1 NEWoMan高輪 North 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-09-12",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000103.000028491.html"
+  ],
+  "summary": "ホーロー鍋ブランド「バーミキュラ」のショップ・レストラン・ベーカリーが東京・ニュウマン高輪に2025年9月12日グランドオープン。代官山にあった「バーミキュラ ハウス」の移転版。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "「ココ マドモアゼル クラッシュ アプソリュ」特別カフェイベント",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6-32-10 ピアザアネックス1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-21",
+   "end": "2026-08-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashionsnap.com/article/2026-08-05/chanel-coco-mademoiselle-popup/"
+  ],
+  "summary": "シャネルが新作香水「ココ マドモアゼル クラッシュ アプソリュ」の発売を記念し、原宿に限定カフェ・バーを併設した体験型イベントを開催。会期は2026年8月21日〜25日。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "喫茶⼆⼗世紀",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘2-16-19",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-11-01",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://avexnet.jp/news/1028657"
+  ],
+  "summary": "TOKIOのトニセンがプロデュースする喫茶店「喫茶⼆⼗世紀」が、渋谷・神宮前から自由が丘へ移転し2025年11月1日リニューアルオープンした。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... ポップアップストア（エキュート上野）",
+  "area": "上野",
+  "address": "東京都台東区上野7-1-1 エキュート上野",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-14",
+   "end": "2026-09-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアが全国5都市で開催決定。東京ではエキュート上野に2026年9月14日〜27日出店する。",
+  "collected_at": "2026-08-22"
+ }
 ]

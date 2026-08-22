@@ -1,95 +1,247 @@
 [
-  {
-    "type": "new_cafe",
-    "genre": [
-      "スイーツ"
-    ],
-    "name": "PRISMIC（プリズミック）",
-    "area": "青山",
-    "address": "東京都渋谷区渋谷1-7-2 VORT渋谷eastⅡ 1階",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-08",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://prtimes.jp/main/html/rd/p/000000002.000136860.html",
-      "https://cake-news.com/region/kanto/tokyo/2026/08/291010/",
-      "https://www.fashion-press.net/news/149587"
-    ],
-    "summary": "洋菓子世界大会優勝シェフ率いるパティスリーブランドのスイーツギフトショップ＆サロンが青山に初出店。2026年8月8日オープン、営業時間11時〜19時。サロンは2026年9月下旬開設予定。",
-    "collected_at": "2026-08-21"
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "BREAD & BEAN by B²",
+  "area": "西荻窪",
+  "address": "東京都杉並区松庵3丁目41番1号",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-13",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "スイーツ"
-    ],
-    "name": "Dear Bread（ディアブレッド）",
-    "area": "千歳烏山",
-    "address": "東京都世田谷区粕谷4丁目16-12 メゾンエスポワール",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-07",
-      "end": null
-    },
-    "confidence": "media",
-    "sources": [
-      "https://note.com/kazurie/n/n4001d077e82d",
-      "https://news.yahoo.co.jp/articles/f227c632a940ed6bffd61d1914a404744881ac89",
-      "https://tabelog.com/tokyo/A1318/A131809/13325159/"
-    ],
-    "summary": "ジョエル・ロブション出身シェフが夫婦で営む本格フランスパン専門ベーカリーが千歳烏山駅徒歩7分の場所に2026年8月7日オープン。営業時間8:30〜17:00（売り切れ次第終了）。",
-    "collected_at": "2026-08-21"
+  "confidence": "media",
+  "sources": [
+   "https://suginami.goguynet.jp/2026/08/13/bread-bean-nishiogikubo/",
+   "https://prtimes.jp/main/html/rd/p/000000016.000054588.html"
+  ],
+  "summary": "天然酵母パン×自家焙煎コーヒーのベーカリーカフェ「B²」の新業態「BREAD & BEAN by B²」が、JR中央線「西荻高架下」第3期エリアに2026年8月13日グランドオープン。西荻窪初出店。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "神戸屋キッチン アトレ恵比寿店",
+  "area": "恵比寿",
+  "address": "東京都渋谷区恵比寿南1丁目5-5 アトレ恵比寿3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": null
   },
-  {
-    "type": "new_cafe",
-    "genre": [
-      "カフェ",
-      "コーヒー"
-    ],
-    "name": "PRIME FIVE TULLY'S COFFEE 新宿サザンテラス店",
-    "area": "代々木・新宿サザンテラス",
-    "address": "東京都渋谷区代々木2丁目2-1",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-07",
-      "end": null
-    },
-    "confidence": "official",
-    "sources": [
-      "https://www.tullys.co.jp/company/pressrelease/2026/08/2026_pf_shinjuku.html",
-      "https://coffee-station.jp/archives/43422",
-      "https://www.walkerplus.com/article/1430819/"
-    ],
-    "summary": "タリーズコーヒー初のインストアベーカリー導入店が新宿サザンテラスに2026年8月7日オープン。店内67席・テラス14席、営業時間7時〜22時（平日）。",
-    "collected_at": "2026-08-21"
+  "confidence": "official",
+  "sources": [
+   "https://www.kobeya.co.jp/info/rireki/detail/35",
+   "https://www.ryutsuu.biz/report/s081912.html"
+  ],
+  "summary": "創業108年のベーカリー神戸屋が約40年ぶりのブランド刷新を行い、その旗艦店として「神戸屋キッチン アトレ恵比寿店」を2026年8月20日にリニューアルオープン。パン世界大会2度優勝の職人による限定パン5品を展開。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "PRIME FIVE TULLY'S COFFEE 新宿サザンテラス店",
+  "area": "新宿",
+  "address": "東京都渋谷区代々木2丁目2-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-07",
+   "end": null
   },
-  {
-    "type": "popup",
-    "genre": [
-      "スイーツ"
-    ],
-    "name": "クリスピー・クリーム・ドーナツ×「ハリー・ポッター」コラボ（ハリー・ポッター マホウドコロ 東京駅店）",
-    "area": "東京駅",
-    "address": "東京都千代田区丸の内1-9-1 東京駅一番街 東京キャラクターストリートB1",
-    "lat": null,
-    "lng": null,
-    "period": {
-      "start": "2026-08-21",
-      "end": "2026-09-29"
-    },
-    "confidence": "official",
-    "sources": [
-      "https://www.warnerbros.co.jp/news/wx01w0_gxqn/",
-      "https://game.watch.impress.co.jp/docs/news/2134097.html",
-      "https://www.tokyoeki-1bangai.co.jp/shop/detail/?cd=000262"
-    ],
-    "summary": "クリスピー・クリーム・ドーナツと「ハリー・ポッター」のコラボ限定ドーナツ（組分け帽子モチーフ含む全5種）が2026年8月21日から期間限定発売。「ハリー・ポッター マホウドコロ」東京駅店限定デザインを含む。販売は9月29日まで（なくなり次第終了）。",
-    "collected_at": "2026-08-21"
-  }
+  "confidence": "official",
+  "sources": [
+   "https://www.tullys.co.jp/company/pressrelease/2026/08/2026_pf_shinjuku.html",
+   "https://www.walkerplus.com/article/1430819/"
+  ],
+  "summary": "タリーズコーヒー初のインストアベーカリー併設店「PRIME FIVE TULLY'S COFFEE 新宿サザンテラス店」が2026年8月7日オープン。焼きたてパンとコーヒーを提供する店内67席・テラス14席のコミュニティーカフェ。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Butter Milk Lab.（バターミルクラボ）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 地下1階 丸の内改札内エリア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/150145",
+   "https://www.enjoytokyo.jp/news/205128/"
+  ],
+  "summary": "世田谷発の洋菓子店「ラ・テール」が手掛けるミルク菓子専門店「Butter Milk Lab.」が東京駅限定ブランドとしてグランスタ東京に2026年9月16日オープン予定。フィナンシェ入りあんバター最中など5品を展開。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "nana's green tea サンセットアレイ店",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-26-8 菊本ビル1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.nanasgreentea.com/blogs/news/20260804"
+  ],
+  "summary": "抹茶・日本茶カフェ「nana's green tea」が創業の地・自由が丘に2号店「サンセットアレイ店」を2026年9月1日オープン予定。もちバブルティーなどブランド初登場メニューも展開。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "坂角総本舗「LOVE ikaty! TOKYO」",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店1階 和洋菓子催事スペース「MVPスイーツ」",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-12",
+   "end": "2026-08-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://gourmetpress.net/1468307/",
+   "https://news.yahoo.co.jp/articles/63b04ef1d6d2d75c55451d91bc2de67d06f85deb"
+  ],
+  "summary": "海老せんべい「ゆかり」の坂角総本舖が、東京限定イカチップス新作「LOVE ikaty! TOKYO」を大丸東京店で2026年8月12日〜25日の期間限定販売。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コーヒー",
+   "カフェ"
+  ],
+  "name": "\"15cm CAFÉ\" KRUPS by T-fal",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6-5-10 GATE（旧UNKNOWN HARAJUKU）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": "2026-08-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000406.000017190.html",
+   "https://coffee-station.jp/archives/43482"
+  ],
+  "summary": "フランスの調理家電ブランド「KRUPS by T-fal」日本初上陸を記念し、原宿で本格コーヒー（エスプレッソ・ドリップ・カフェラテ・アフォガート）を無料体験できる3日間限定ポップアップカフェを2026年8月28日〜30日開催。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... ポップアップストア",
+  "area": "上野",
+  "address": "東京都台東区上野7-1-1 エキュート上野",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-14",
+   "end": "2026-09-27"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://cake.jp/mag/new-items/68840/",
+   "https://straightpress.jp/20260807/1676272"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストア全国5都市展開の一環として、カマンベール・パルメザンを使ったフィナンシェやクッキーをエキュート上野にて2026年9月14日〜27日販売。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... ポップアップストア",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内1丁目9-1 グランスタ丸の内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-13",
+   "end": "2026-11-01"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://cake.jp/mag/new-items/68840/",
+   "https://straightpress.jp/20260807/1676272"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアがグランスタ丸の内にて2026年10月13日〜11月1日開催。カマンベール・パルメザンを使ったフィナンシェやクッキーを販売。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... ポップアップストア",
+  "area": "品川",
+  "address": "東京都港区高輪3-26-27 エキュート品川",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-16",
+   "end": "2026-11-29"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://cake.jp/mag/new-items/68840/",
+   "https://straightpress.jp/20260807/1676272"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアがエキュート品川にて2026年11月16日〜29日開催。カマンベール・パルメザンを使ったフィナンシェやクッキーを販売。",
+  "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... ポップアップストア",
+  "area": "池袋",
+  "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋本店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-26",
+   "end": "2026-12-02"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://cake.jp/mag/new-items/68840/",
+   "https://straightpress.jp/20260807/1676272"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアが東武百貨店池袋本店にて2026年11月26日〜12月2日開催。カマンベール・パルメザンを使ったフィナンシェやクッキーを販売。",
+  "collected_at": "2026-08-22"
+ }
 ]
