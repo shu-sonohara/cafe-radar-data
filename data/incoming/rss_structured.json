@@ -2052,5 +2052,397 @@
   ],
   "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアが全国5都市で開催決定。東京ではエキュート上野に2026年9月14日〜27日出店する。",
   "collected_at": "2026-08-22"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "『お茶犬』コラボカフェ（カプコンカフェ 池袋店）",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1-30-3 グランドスケープ池袋3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-17",
+   "end": "2026-08-27"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://news.yahoo.co.jp/articles/8308d2d2ae6c190110506a50fef5299172799288",
+   "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/topics/2875/"
+  ],
+  "summary": "カプコンカフェ池袋店で「お茶犬」とのコラボカフェを2026年7月17日〜8月27日開催。“リョク”をイメージしたオムライスなどコラボフード・スイーツ・ドリンク計18品を提供する。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "田辺のお茶会（ぼる塾・田辺智加 スイーツPOP UP SHOP）",
+  "area": "渋谷",
+  "address": "東京都渋谷区宇田川町21-1 西武渋谷店A館1階プロモーションスペース",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-08",
+   "end": "2026-09-14"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000005260.000029501.html"
+  ],
+  "summary": "ぼる塾・田辺智加によるスイーツPOP UP SHOP「田辺のお茶会」が西武渋谷店A館1階プロモーションスペースで2026年9月8日〜14日開催。田辺セレクトのお菓子セットやオリジナルグッズを販売。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "MAGIC HOUSE",
+  "area": "上用賀・馬事公苑",
+  "address": "東京都世田谷区上用賀2-4-18 コリーヌ馬事公苑1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-02-06",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://spur.hpplus.jp/lifestyle/news/2026-02-06-An63Jw/",
+   "https://newscast.jp/smart/news/9415345"
+  ],
+  "summary": "コーヒー・アート・コミュニティが交差する新業態カフェ「MAGIC HOUSE」が世田谷・コリーヌ馬事公苑1Fに2026年2月6日オープン。国内外のクリエイターが手がける食とアートの空間。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ポケモンカフェ TOKYO",
+  "area": "日本橋",
+  "address": "東京都中央区日本橋2-11-2 日本橋髙島屋S.C.東館5階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-17",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.famitsu.com/article/202605/74383",
+   "https://game.watch.impress.co.jp/docs/news/2107443.html"
+  ],
+  "summary": "「ポケモンカフェ TOKYO」が初のフルリニューアルを行い2026年6月17日オープン。5つ星レストラン風の店内に一新し、ピカチュウと一緒にパフェを作る新ショーも登場。完全予約制に移行。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "カフェ パブロフ 赤坂店",
+  "area": "赤坂",
+  "address": "東京都港区赤坂2-17-22 東京ワールドゲート赤坂 赤坂トラストタワー1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-30",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000010.000165013.html"
+  ],
+  "summary": "横浜元町のパウンドケーキ専門店「パティスリーパブロフ」が手がける新業態「カフェ パブロフ」が東京ワールドゲート赤坂に2026年3月30日オープン。パンやスイーツ、デリを提供。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "MATCHAMON 浅草花やしき通り店",
+  "area": "浅草",
+  "address": "東京都台東区浅草2-7-19 高橋ビル1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-13",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000174301.html"
+  ],
+  "summary": "京都発の抹茶ブランド「MATCHAMON」の2号店が浅草花やしき通りに2026年4月13日オープン。抹茶ドリンクや大福とのコラボメニューを提供する東京初出店。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "TOWER RECORDS CAFE 中目黒店",
+  "area": "中目黒",
+  "address": "東京都目黒区上目黒2-13-3 GEMS中目黒3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-01-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001342.000025445.html"
+  ],
+  "summary": "タワーレコードのコラボレーションカフェ8号店「TOWER RECORDS CAFE 中目黒店」が2026年1月28日オープン。都内では4店舗目で、開店記念コラボも展開。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "WAKU motoasakusa",
+  "area": "元浅草",
+  "address": "東京都台東区元浅草1-16-5",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-27",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://coffee-station.jp/archives/38156",
+   "https://prtimes.jp/main/html/rd/p/000000057.000059362.html"
+  ],
+  "summary": "元印刷工場をリノベーションしたカフェ「WAKU motoasakusa」が東京・元浅草に2026年4月27日オープン。こだわりのコーヒーと本格スイーツを提供。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "ウッドベリーコーヒー 玉川高島屋S.C.店",
+  "area": "二子玉川",
+  "address": "東京都世田谷区玉川3-17-1 玉川高島屋S.C.南館1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-09-23",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000013.000075034.html"
+  ],
+  "summary": "スペシャルティコーヒー専門店「ウッドベリーコーヒー」の直営9店舗目「玉川高島屋S.C.店」が2025年9月23日オープン。全40席でランチやスイーツも提供。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "Bacha Coffee 銀座",
+  "area": "銀座",
+  "address": "東京都中央区銀座5-6-6",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-12-11",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.mensnonno.jp/lifestyle/tasty-food/687544/",
+   "https://oggi.jp/7656646"
+  ],
+  "summary": "モロッコ発コーヒーブランド「Bacha Coffee」の日本初旗艦店が銀座に2025年12月11日オープン。地上3階建てで1階はコーヒーブティック、2〜3階はコーヒールーム、総席数40席。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "ブルーボトルコーヒー 原宿カフェ",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6-15-17 クレストコート神宮前1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-19",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000123.000048883.html"
+  ],
+  "summary": "「ブルーボトルコーヒー 原宿カフェ」が2026年3月19日グランドオープン。初の水出しコーヒーや桜香るラテ、焼きたて抹茶ワッフルなど先行メニューを提供。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "PRIME FIVE TULLY'S COFFEE 広尾店",
+  "area": "広尾",
+  "address": "東京都港区南麻布5-16-13 グリーンコア広尾",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-26",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000542.000020545.html"
+  ],
+  "summary": "タリーズコーヒーの新コンセプト店「PRIME FIVE TULLY'S COFFEE 広尾店」が2026年3月26日オープン。上質なコーヒーとつながりの空間をコンセプトに、全38席を展開。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "スターバックス コーヒー 大井町トラックスパーク店",
+  "area": "大井町",
+  "address": "東京都品川区広町2-2-9 OIMACHI TRACKS 1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-03-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://stories.starbucks.co.jp/press/2026/pr-2026-0324/"
+  ],
+  "summary": "「スターバックス コーヒー 大井町トラックスパーク店」がOIMACHI TRACKS 1階に2026年3月28日オープン。犬と一緒に楽しめるドッグフレンドリーな空間を備える。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ゴンチャ 有明ガーデン店",
+  "area": "有明",
+  "address": "東京都江東区有明2-1-8 有明ガーデン モール2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-01-15",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.ryutsuu.biz/store/r111473.html",
+   "https://www.chiba-tv.com/plus/detail/2026011182915"
+  ],
+  "summary": "ティースタンド「ゴンチャ」218店舗目となる「有明ガーデン店」が2026年1月15日オープン。有明ガーデン モール2階、視認性の高いエスカレーター降り口付近に出店。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "LIWEI TOKYO",
+  "area": "新富町",
+  "address": "東京都中央区新富2-14-6",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-10-11",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.timeout.jp/tokyo/ja/news/liwei-tokyo-open-110425",
+   "https://news.yahoo.co.jp/expert/articles/7da9fd1aaa943d24ba1dcc156910efdaef62ffea"
+  ],
+  "summary": "台湾出身の世界大会優勝バリスタ・リウェイ氏による4店舗目「LIWEI TOKYO」が新富町に2025年10月11日オープン。台湾・阿里山産の希少なコーヒー豆を使ったブレンドなどを提供。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "カフェ ディオール by アンヌ＝ソフィー・ピック（バンブー パビリオン）",
+  "area": "代官山",
+  "address": "東京都渋谷区猿楽町8-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-02-12",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://marieclairejapon.com/lifestyle/273935/",
+   "https://precious.jp/articles/-/59508"
+  ],
+  "summary": "ディオールの新コンセプトストア「ディオール バンブー パビリオン」代官山に併設で「カフェ ディオール by アンヌ＝ソフィー・ピック」が2026年2月12日オープン。ミシュラン獲得シェフ監修のフランス料理を提供。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "Vivienne Westwood CAFÉ 青山店",
+  "area": "南青山",
+  "address": "東京都港区南青山3-17-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-09-20",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/137998",
+   "https://spur.hpplus.jp/lifestyle/news/2025-09-20-bg1vaQ/"
+  ],
+  "summary": "「ヴィヴィアン・ウエストウッド」新旗艦店に日本初上陸のカフェが併設で青山に2025年9月20日オープン。ロンドン本店「ワールズ・エンド」着想のインテリアで、コーヒーや英国風スコーンを提供。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "スターバックス リザーブ カフェ 新宿マルイ本館2階店",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-30-13 新宿マルイ本館",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-09-01",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.starbucks.co.jp/press_release/pr2025-5590.php"
+  ],
+  "summary": "スターバックスの新業態「カフェベーカリー」第1号店「スターバックス リザーブ カフェ 新宿マルイ本館2階店」が2025年9月1日オープン。エスプレッソビバレッジとプリンチ®のコルネッティを提供。",
+  "collected_at": "2026-08-23"
  }
 ]

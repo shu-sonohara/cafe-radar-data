@@ -243,5 +243,52 @@
   ],
   "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアが東武百貨店池袋本店にて2026年11月26日〜12月2日開催。カマンベール・パルメザンを使ったフィナンシェやクッキーを販売。",
   "collected_at": "2026-08-22"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "ペンギンベーカリー 中目黒店",
+  "area": "中目黒",
+  "address": "東京都目黒区青葉台1-27-12 サンライトビル",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-07",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000108.000102430.html",
+   "https://x.com/penguinhokkaido/status/2083019819268428220",
+   "https://meguro.goguynet.jp/2026/08/03/benguinbakery_nakameguro/"
+  ],
+  "summary": "北海道発の人気ベーカリー「ペンギンベーカリー」が東京・中目黒に新店舗「ペンギンベーカリー 中目黒店」を2026年8月7日オープン。北海道産小麦を使用した焼きたてパンを展開。",
+  "collected_at": "2026-08-23"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "アニメ「リラックマ」×「SASUKEワールドカップ2026」コラボカフェ",
+  "area": "赤坂",
+  "address": "東京都港区赤坂5-4-7 THE HEXAGON 1F ブランチパーク",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-27",
+   "end": "2026-09-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://brunchpark.jp/blogs/topics/rilakkuma-anime-com",
+   "https://www.san-x.co.jp/ja/blog/2026-08-post-0146180/",
+   "https://news.yahoo.co.jp/articles/dd8a7bd5a732c8138bfc9316f004387ffe27f449"
+  ],
+  "summary": "「SASUKEワールドカップ2026」開催記念として、アニメ「リラックマ」とのコラボカフェが赤坂「ブランチパーク」にて2026年8月27日〜9月13日開催。第2弾「てくてく世界旅行」をイメージしたメニューを展開。",
+  "collected_at": "2026-08-23"
  }
 ]
