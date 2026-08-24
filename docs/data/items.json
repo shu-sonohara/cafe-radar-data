@@ -18,7 +18,8 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000005.000189124.html",
-    "https://www.atpress.ne.jp/news/618358"
+    "https://www.atpress.ne.jp/news/618358",
+    "https://www.enjoytokyo.jp/news/205125/"
    ],
    "summary": "東京国立博物館の東洋館別棟1階に「THE RESTAURANT 東京国立博物館」と「ガーデンカフェ」が2026年8月28日にオープン。旬を味わう「東博御膳」や東博カツサンドなどが提供される。法隆寺宝物館では別途「鮨会席 おく乃」が9月30日に開業予定。",
    "collected_at": "2026-08-22",
@@ -2233,6 +2234,146 @@
    "type": "new_cafe",
    "genre": [
     "カフェ",
+    "スイーツ"
+   ],
+   "name": "八三六（Hachi San Roku）",
+   "area": "谷中銀座",
+   "address": "東京都台東区谷中3-13-2",
+   "lat": 35.727699,
+   "lng": 139.765244,
+   "period": {
+    "start": "2026-06-11",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000061.000071067.html"
+   ],
+   "summary": "谷中銀座商店街に築80年の古民家をリノベーションした和カフェ「八三六」がオープン。京都産宇治抹茶や北海道産小豆など厳選素材を使い、氷を育てる体験型かき氷「氷あそび」を看板メニューとする。",
+   "collected_at": "2026-08-24",
+   "id": "e4cce494ee85",
+   "is_new": true
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "スイーツ",
+    "カフェ"
+   ],
+   "name": "ピエール マルコリーニ 自由が丘店",
+   "area": "自由が丘",
+   "address": "東京都目黒区自由が丘1-29-1 1F",
+   "lat": 35.608524,
+   "lng": 139.669067,
+   "period": {
+    "start": "2026-09-17",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://syougyoushisetsu.com/news/pierre-marcolini-jiyugaoka-muse-square/"
+   ],
+   "summary": "自由が丘駅前の新商業施設「JIYUGAOKA MUSE SQUARE」1階に、ベルギー発ショコラティエ「ピエール マルコリーニ」がカフェ併設店で出店予定。店内36席・店外4席、計40席の規模。",
+   "collected_at": "2026-08-24",
+   "id": "b25d650a3b11",
+   "is_new": false
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "Fender Cafe 下北沢店",
+   "area": "下北沢",
+   "address": "東京都世田谷区北沢1-40-11 1F",
+   "lat": 35.662346,
+   "lng": 139.670258,
+   "period": {
+    "start": "2026-07-03",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000710.000021878.html"
+   ],
+   "summary": "Fender Cafeの路面独立型2号店が下北沢にオープン。1940年代の伝説的スタジオモニター「RCA LC-1」などヴィンテージスピーカーとLINNの最新オーディオシステムを組み合わせた、音楽をテーマにしたカフェ。",
+   "collected_at": "2026-08-24",
+   "id": "55a9ac475638",
+   "is_new": true
+  },
+  {
+   "type": "event",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "FC東京×府中市 コラボカフェ",
+   "area": "府中",
+   "address": "東京都府中市宮町1-1-10 京王府中ショッピングセンター内2F",
+   "lat": 35.671974,
+   "lng": 139.479385,
+   "period": {
+    "start": "2026-08-01",
+    "end": "2026-09-30"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.fctokyo.co.jp/news/details/338253/"
+   ],
+   "summary": "京王線府中駅北口の「183 FUCHU FAN ZONE with PRONTO」でFC東京×府中市のコラボカフェを開催。期間限定オリジナルドリンクの提供や2026/27シーズンユニフォームの展示を実施。",
+   "collected_at": "2026-08-24",
+   "id": "e0b37b46cc9e",
+   "is_new": false
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "呪術廻戦カフェ2026 5th Anniversary（新宿）",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿 8階",
+   "lat": 35.691784,
+   "lng": 139.700775,
+   "period": {
+    "start": "2026-07-09",
+    "end": "2026-09-27"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000306.000086964.html"
+   ],
+   "summary": "TVアニメ『呪術廻戦』5周年を記念したテーマカフェが「BOX cafe&space ルミネエスト新宿1号店」で開催。「懐玉・玉折」「劇場版0」「渋谷事変」をイメージしたフード・デザートを提供し、2023年開催時の人気メニュー「学園祭ティラミス」も再登場。",
+   "collected_at": "2026-08-24",
+   "id": "346287aaafa6",
+   "is_new": false
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "初音ミク Wa Modern Cafe（池袋）",
+   "area": "池袋",
+   "address": "東京都豊島区東池袋1-30-3 B1F",
+   "lat": 35.730762,
+   "lng": 139.716202,
+   "period": {
+    "start": "2026-08-07",
+    "end": "2026-09-27"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000307.000086964.html"
+   ],
+   "summary": "和モダンをコンセプトにしたピアプロキャラクターズのテーマカフェが池袋の「BOX cafe&space」（東池袋グランドスケープ内）で開催。和柄衣装をまとった初音ミクや鏡音リンらのキャラクターメニュー・グッズを展開。",
+   "collected_at": "2026-08-24",
+   "id": "8aed9e6f7691",
+   "is_new": false
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
     "コーヒー"
    ],
    "name": "BREAD & BEAN by B²",
@@ -2471,6 +2612,81 @@
    "summary": "「SASUKEワールドカップ2026」開催記念として、アニメ「リラックマ」とのコラボカフェが赤坂「ブランチパーク」にて2026年8月27日〜9月13日開催。第2弾「てくてく世界旅行」をイメージしたメニューを展開。",
    "collected_at": "2026-08-23",
    "id": "2e3fac0fb19e",
+   "is_new": false
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "TVアニメ「Dr.STONE」×Space Travelium TeNQ 企画展『ROAD TO THE MOON』(コラボカフェ)",
+   "area": "後楽園・水道橋",
+   "address": "東京都文京区後楽1丁目3番61号 東京ドームシティ Space Travelium TeNQ",
+   "lat": 35.703152,
+   "lng": 139.752151,
+   "period": {
+    "start": "2026-08-27",
+    "end": "2026-09-13"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000475.000077656.html",
+    "https://www.tokyo-dome.co.jp/en/tenq/event/exhibition-stt-7.html"
+   ],
+   "summary": "TVアニメ「Dr.STONE」とSpace Travelium TeNQ（東京ドームシティ）のコラボ企画展『ROAD TO THE MOON』が2026年8月27日〜9月13日開催。館内カフェ「TeNQ CAFE 138」でコラボメニューやオリジナルグッズを展開。",
+   "collected_at": "2026-08-24",
+   "id": "263a2864ef7e",
+   "is_new": false
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "とっとこハムちゃんずCAFE（THEキャラCAFE 東急プラザ渋谷店）",
+   "area": "渋谷",
+   "address": "東京都渋谷区道玄坂1丁目2番3号 東急プラザ渋谷5階",
+   "lat": 35.657677,
+   "lng": 139.700531,
+   "period": {
+    "start": "2026-08-28",
+    "end": "2026-09-29"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000001059.000069812.html",
+    "https://www.inside-games.jp/release/prtimes/20260810/301335.html"
+   ],
+   "summary": "「とっとこハムちゃんず」の期間限定コラボカフェが東急プラザ渋谷5階「THEキャラCAFE」にて2026年8月28日〜9月29日開催。キャラクターをモチーフにしたフード・ドリンクや限定グッズを展開。",
+   "collected_at": "2026-08-24",
+   "id": "b79304eb3ae6",
+   "is_new": false
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "Nissy Birthday Entertainment 2026 Cafe（BOX cafe&space SHIBUYA109渋谷店）",
+   "area": "渋谷",
+   "address": "東京都渋谷区道玄坂2丁目29番1号 SHIBUYA109 地下2階",
+   "lat": 35.659466,
+   "lng": 139.698898,
+   "period": {
+    "start": "2026-08-24",
+    "end": "2026-10-18"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://nissy.jp/news/2992/",
+    "https://prtimes.jp/main/html/rd/p/000000311.000086964.html"
+   ],
+   "summary": "Nissy（西島隆弘）の誕生日記念コラボカフェ「Nissy Birthday Entertainment 2026 Cafe」がSHIBUYA109渋谷店地下2階「BOX cafe&space」にて2026年8月24日〜10月18日開催。限定フード・ドリンクとオリジナルグッズを展開。",
+   "collected_at": "2026-08-24",
+   "id": "06c39a990047",
    "is_new": false
   }
  ]
