@@ -290,5 +290,96 @@
   ],
   "summary": "「SASUKEワールドカップ2026」開催記念として、アニメ「リラックマ」とのコラボカフェが赤坂「ブランチパーク」にて2026年8月27日〜9月13日開催。第2弾「てくてく世界旅行」をイメージしたメニューを展開。",
   "collected_at": "2026-08-23"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "TVアニメ「Dr.STONE」×Space Travelium TeNQ 企画展『ROAD TO THE MOON』(コラボカフェ)",
+  "area": "後楽園・水道橋",
+  "address": "東京都文京区後楽1丁目3番61号 東京ドームシティ Space Travelium TeNQ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-27",
+   "end": "2026-09-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000475.000077656.html",
+   "https://www.tokyo-dome.co.jp/en/tenq/event/exhibition-stt-7.html"
+  ],
+  "summary": "TVアニメ「Dr.STONE」とSpace Travelium TeNQ（東京ドームシティ）のコラボ企画展『ROAD TO THE MOON』が2026年8月27日〜9月13日開催。館内カフェ「TeNQ CAFE 138」でコラボメニューやオリジナルグッズを展開。",
+  "collected_at": "2026-08-24"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "とっとこハムちゃんずCAFE（THEキャラCAFE 東急プラザ渋谷店）",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂1丁目2番3号 東急プラザ渋谷5階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": "2026-09-29"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001059.000069812.html",
+   "https://www.inside-games.jp/release/prtimes/20260810/301335.html"
+  ],
+  "summary": "「とっとこハムちゃんず」の期間限定コラボカフェが東急プラザ渋谷5階「THEキャラCAFE」にて2026年8月28日〜9月29日開催。キャラクターをモチーフにしたフード・ドリンクや限定グッズを展開。",
+  "collected_at": "2026-08-24"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Nissy Birthday Entertainment 2026 Cafe（BOX cafe&space SHIBUYA109渋谷店）",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂2丁目29番1号 SHIBUYA109 地下2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-24",
+   "end": "2026-10-18"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://nissy.jp/news/2992/",
+   "https://prtimes.jp/main/html/rd/p/000000311.000086964.html"
+  ],
+  "summary": "Nissy（西島隆弘）の誕生日記念コラボカフェ「Nissy Birthday Entertainment 2026 Cafe」がSHIBUYA109渋谷店地下2階「BOX cafe&space」にて2026年8月24日〜10月18日開催。限定フード・ドリンクとオリジナルグッズを展開。",
+  "collected_at": "2026-08-24"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ガーデンカフェ（東京国立博物館）",
+  "area": "上野",
+  "address": "東京都台東区上野公園13番9号 東京国立博物館",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000189124.html",
+   "https://www.enjoytokyo.jp/news/205125/"
+  ],
+  "summary": "東京国立博物館の館内レストラン3店舗リニューアルの一環として、テラス席・テイクアウトを備えた「ガーデンカフェ」が2026年8月28日オープン予定。軽食やスパークリングワインなどを提供。",
+  "collected_at": "2026-08-24"
  }
 ]

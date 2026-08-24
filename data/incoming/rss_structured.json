@@ -2444,5 +2444,133 @@
   ],
   "summary": "スターバックスの新業態「カフェベーカリー」第1号店「スターバックス リザーブ カフェ 新宿マルイ本館2階店」が2025年9月1日オープン。エスプレッソビバレッジとプリンチ®のコルネッティを提供。",
   "collected_at": "2026-08-23"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "八三六（Hachi San Roku）",
+  "area": "谷中銀座",
+  "address": "東京都台東区谷中3-13-2",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-11",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000061.000071067.html"
+  ],
+  "summary": "谷中銀座商店街に築80年の古民家をリノベーションした和カフェ「八三六」がオープン。京都産宇治抹茶や北海道産小豆など厳選素材を使い、氷を育てる体験型かき氷「氷あそび」を看板メニューとする。",
+  "collected_at": "2026-08-24"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ",
+   "カフェ"
+  ],
+  "name": "ピエール マルコリーニ 自由が丘店",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://syougyoushisetsu.com/news/pierre-marcolini-jiyugaoka-muse-square/"
+  ],
+  "summary": "自由が丘駅前の新商業施設「JIYUGAOKA MUSE SQUARE」1階に、ベルギー発ショコラティエ「ピエール マルコリーニ」がカフェ併設店で出店予定。店内36席・店外4席、計40席の規模。",
+  "collected_at": "2026-08-24"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "Fender Cafe 下北沢店",
+  "area": "下北沢",
+  "address": "東京都世田谷区北沢1-40-11 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-03",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000710.000021878.html"
+  ],
+  "summary": "Fender Cafeの路面独立型2号店が下北沢にオープン。1940年代の伝説的スタジオモニター「RCA LC-1」などヴィンテージスピーカーとLINNの最新オーディオシステムを組み合わせた、音楽をテーマにしたカフェ。",
+  "collected_at": "2026-08-24"
+ },
+ {
+  "type": "event",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "FC東京×府中市 コラボカフェ",
+  "area": "府中",
+  "address": "東京都府中市宮町1-1-10 京王府中ショッピングセンター内2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-01",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.fctokyo.co.jp/news/details/338253/"
+  ],
+  "summary": "京王線府中駅北口の「183 FUCHU FAN ZONE with PRONTO」でFC東京×府中市のコラボカフェを開催。期間限定オリジナルドリンクの提供や2026/27シーズンユニフォームの展示を実施。",
+  "collected_at": "2026-08-24"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "呪術廻戦カフェ2026 5th Anniversary（新宿）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿 8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-09",
+   "end": "2026-09-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000306.000086964.html"
+  ],
+  "summary": "TVアニメ『呪術廻戦』5周年を記念したテーマカフェが「BOX cafe&space ルミネエスト新宿1号店」で開催。「懐玉・玉折」「劇場版0」「渋谷事変」をイメージしたフード・デザートを提供し、2023年開催時の人気メニュー「学園祭ティラミス」も再登場。",
+  "collected_at": "2026-08-24"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "初音ミク Wa Modern Cafe（池袋）",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1-30-3 B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-07",
+   "end": "2026-09-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000307.000086964.html"
+  ],
+  "summary": "和モダンをコンセプトにしたピアプロキャラクターズのテーマカフェが池袋の「BOX cafe&space」（東池袋グランドスケープ内）で開催。和柄衣装をまとった初音ミクや鏡音リンらのキャラクターメニュー・グッズを展開。",
+  "collected_at": "2026-08-24"
  }
 ]
