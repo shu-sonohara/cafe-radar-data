@@ -381,5 +381,95 @@
   ],
   "summary": "東京国立博物館の館内レストラン3店舗リニューアルの一環として、テラス席・テイクアウトを備えた「ガーデンカフェ」が2026年8月28日オープン予定。軽食やスパークリングワインなどを提供。",
   "collected_at": "2026-08-24"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「くまのプーさん」OH MY CAFE",
+  "area": "押上・東京スカイツリータウン",
+  "address": "東京都墨田区押上1丁目1-2 東京スカイツリータウン・ソラマチ 1F タワーヤード6番地",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": "2026-10-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000315.000086964.html",
+   "https://www.walkerplus.com/event/ar0313e609289/"
+  ],
+  "summary": "「くまのプーさん」原作デビュー100周年を記念したコラボカフェ「OH MY CAFE」が、東京スカイツリータウン・ソラマチ1Fタワーヤードにて2026年8月20日〜10月25日の期間限定オープン。作品世界観を再現した空間でオリジナルメニュー・グッズを展開。",
+  "collected_at": "2026-08-26"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "セルフカフェ早稲田店",
+  "area": "早稲田",
+  "address": "東京都新宿区馬場下町61-6 髙橋ビル4階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-15",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://selfcafe.jp/newstore/202608122844/",
+   "https://prtimes.jp/main/html/rd/p/000001118.000045400.html"
+  ],
+  "summary": "会員登録不要・完全無人型の「セルフカフェ」が早稲田駅前に新店舗「セルフカフェ早稲田店」を2026年8月15日オープン。ドリンク1杯で時間無制限、電源・Wi-Fi完備の50席、朝6時〜深夜0時営業。",
+  "collected_at": "2026-08-26"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee（ア バイト コーヒー）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 地下1階 丸の内改札内エリア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000300.000014043.html",
+   "https://www.ryutsuu.biz/store/s061111.html"
+  ],
+  "summary": "菓子ブランドBAKE INC.が「コーヒーを飲むから食べるへ」をコンセプトにした新ブランド「A Bite Coffee」を、グランスタ東京の地下丸の内改札内エリアリニューアルに合わせ2026年9月16日オープン予定。ひとくちサイズのコーヒー菓子を展開。",
+  "collected_at": "2026-08-26"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "LEAF et BEURRE（リーフ エ ブール）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店1階 ほっぺタウン「MVPスイーツ」",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-26",
+   "end": "2026-09-01"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002493.000005342.html",
+   "https://www.jiji.com/jc/article?k=000002493.000005342&g=prt"
+  ],
+  "summary": "紅茶とバターの香りにこだわったスイーツブランド「LEAF et BEURRE」が大丸東京店に初登場。国産バターとアールグレイ茶葉を使ったサブレ「ブール・ド・ネージュ」などを2026年8月26日〜9月1日の期間限定販売。",
+  "collected_at": "2026-08-26"
  }
 ]
