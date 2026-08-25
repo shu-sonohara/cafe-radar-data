@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25",
+ "updated_at": "2026-08-26",
  "items": [
   {
    "type": "new_cafe",
@@ -1503,7 +1503,7 @@
    "collected_at": "2026-08-22",
    "id": "f3469341d916",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -1802,30 +1802,6 @@
    "id": "ff79b3e81e16",
    "is_new": false,
    "freshness": 365
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ"
-   ],
-   "name": "「ココ マドモアゼル クラッシュ アプソリュ」特別カフェイベント",
-   "area": "原宿",
-   "address": "東京都渋谷区神宮前6-32-10 ピアザアネックス1階",
-   "lat": 35.668056,
-   "lng": 139.704285,
-   "period": {
-    "start": "2026-08-21",
-    "end": "2026-08-25"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.fashionsnap.com/article/2026-08-05/chanel-coco-mademoiselle-popup/"
-   ],
-   "summary": "シャネルが新作香水「ココ マドモアゼル クラッシュ アプソリュ」の発売を記念し、原宿に限定カフェ・バーを併設した体験型イベントを開催。会期は2026年8月21日〜25日。",
-   "collected_at": "2026-08-22",
-   "id": "d33db2edbb4a",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -2569,31 +2545,6 @@
    "id": "8801b4281c80",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "坂角総本舗「LOVE ikaty! TOKYO」",
-   "area": "東京駅・丸の内",
-   "address": "東京都千代田区丸の内1-9-1 大丸東京店1階 和洋菓子催事スペース「MVPスイーツ」",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-08-12",
-    "end": "2026-08-25"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://gourmetpress.net/1468307/",
-    "https://news.yahoo.co.jp/articles/63b04ef1d6d2d75c55451d91bc2de67d06f85deb"
-   ],
-   "summary": "海老せんべい「ゆかり」の坂角総本舖が、東京限定イカチップス新作「LOVE ikaty! TOKYO」を大丸東京店で2026年8月12日〜25日の期間限定販売。",
-   "collected_at": "2026-08-22",
-   "id": "c910cf852d32",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "popup",
