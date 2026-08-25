@@ -40,3 +40,23 @@ def test_dedupe_keeps_distinct_items():
         _item("Cafe B", "東京都X区2-2", "media", "https://b.example.com"),
     ]
     assert len(dedupe_by_key(items)) == 2
+
+
+def test_dedupe_takes_latest_collected_at_and_fills_start():
+    # 再収集されたら collected_at を新しい方に更新する（30日TTLの延長。仕様§4.3）
+    a = _item("Cafe A", "東京都X区1-1", "media", "https://m1.example.com")
+    a["collected_at"] = "2026-08-01"
+    b = _item("Cafe A", "東京都X区1-1", "media", "https://m2.example.com")
+    b["collected_at"] = "2026-08-25"
+    b["period"] = {"start": None, "end": None}
+    a["period"] = {"start": None, "end": None}
+    out = dedupe_by_key([a, b])
+    assert out[0]["collected_at"] == "2026-08-25"
+
+    # start は「埋まっている方」を採用
+    c = _item("Cafe B", "東京都X区2-2", "media", "https://m3.example.com")
+    c["period"] = {"start": None, "end": None}
+    d = _item("Cafe B", "東京都X区2-2", "media", "https://m4.example.com")
+    d["period"] = {"start": "2026-08-10", "end": None}
+    out = dedupe_by_key([c, d])
+    assert out[0]["period"]["start"] == "2026-08-10"

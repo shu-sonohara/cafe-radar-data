@@ -94,3 +94,48 @@ def test_run_reuses_existing_cache_without_lookup(tmp_path):
     item = json.loads(Path(out).read_text(encoding="utf-8"))["items"][0]
     assert (item["lat"], item["lng"]) == (1.5, 2.5)
     assert calls == []  # 終了済みは鮮度判定で先に落ちるので問い合わせも起きない
+
+
+def test_run_keeps_published_items_when_incoming_shrinks(tmp_path):
+    # incoming が上書き・縮小されても、一度配信したアイテムはアーカイブから復元される
+    incoming = tmp_path / "incoming"
+    incoming.mkdir()
+    (incoming / "a.json").write_text(json.dumps([RAW], ensure_ascii=False), encoding="utf-8")
+    out = str(tmp_path / "items.json")
+    archive = str(tmp_path / "archive.json")
+
+    run(str(incoming), out, today="2026-08-19", http_get_json=lambda u: GSI_OK,
+        archive_path=archive)
+    assert len(json.loads(Path(out).read_text(encoding="utf-8"))["items"]) == 1
+
+    (incoming / "a.json").write_text("[]", encoding="utf-8")  # 上書きで消えた想定
+    run(str(incoming), out, today="2026-08-20", http_get_json=lambda u: GSI_OK,
+        archive_path=archive)
+    items = json.loads(Path(out).read_text(encoding="utf-8"))["items"]
+    assert [i["name"] for i in items] == ["抹茶POP-UP"]
+
+
+def test_archive_keeps_expired_items_out_of_feed_but_on_disk(tmp_path):
+    incoming = tmp_path / "incoming"
+    incoming.mkdir()
+    (incoming / "a.json").write_text(json.dumps([ENDED], ensure_ascii=False), encoding="utf-8")
+    out = str(tmp_path / "items.json")
+    archive = str(tmp_path / "archive.json")
+    run(str(incoming), out, today="2026-08-19", http_get_json=lambda u: GSI_OK,
+        archive_path=archive)
+    assert json.loads(Path(out).read_text(encoding="utf-8"))["items"] == []
+    saved = json.loads(Path(archive).read_text(encoding="utf-8"))
+    assert [i["name"] for i in saved] == ["終了済イベント"]  # データは保持（仕様§4.3）
+
+
+def test_published_items_carry_freshness_field(tmp_path):
+    incoming = tmp_path / "incoming"
+    incoming.mkdir()
+    cafe = {**RAW, "type": "new_cafe", "name": "新店カフェ",
+            "period": {"start": "2026-08-01", "end": None}}
+    (incoming / "a.json").write_text(json.dumps([cafe, RAW], ensure_ascii=False), encoding="utf-8")
+    out = str(tmp_path / "items.json")
+    run(str(incoming), out, today="2026-08-19", http_get_json=lambda u: GSI_OK)
+    items = {i["name"]: i for i in json.loads(Path(out).read_text(encoding="utf-8"))["items"]}
+    assert items["新店カフェ"]["freshness"] == 30
+    assert items["抹茶POP-UP"]["freshness"] is None

@@ -28,12 +28,18 @@ def _merge(base: dict, other: dict) -> dict:
     merged["sources"] = list(dict.fromkeys(base["sources"] + other["sources"]))
     if CONF_RANK[other["confidence"]] > CONF_RANK[base["confidence"]]:
         merged["confidence"] = other["confidence"]
-    # 座標・終了日は「埋まっている方」を優先
+    # 座標・開始日・終了日は「埋まっている方」を優先
     for f in ("lat", "lng"):
         if merged[f] is None and other[f] is not None:
             merged[f] = other[f]
-    if merged["period"]["end"] is None and other["period"]["end"] is not None:
-        merged["period"] = dict(other["period"])
+    period = dict(merged["period"])
+    for f in ("start", "end"):
+        if period[f] is None and other["period"][f] is not None:
+            period[f] = other["period"][f]
+    merged["period"] = period
+    # 再収集されたら collected_at を更新（終了日不明popupの30日TTLを延長。仕様§4.3）
+    if other["collected_at"] > merged["collected_at"]:
+        merged["collected_at"] = other["collected_at"]
     return merged
 
 

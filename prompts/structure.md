@@ -13,10 +13,12 @@
  "lat": null, "lng": null,
  "period": {"start": "YYYY-MM-DD|null", "end": "YYYY-MM-DD|null"},
  "confidence": "official|media", "sources": ["候補のurl"],
- "summary": "2〜3行・事実のみ", "collected_at": "今日の日付"}
+ "summary": "2〜3行・事実のみ", "collected_at": "今日の日付（JST。`TZ=Asia/Tokyo date +%F` の値を使う）"}
 ```
 
 ## ルール
+
+- 日付はすべてJST基準（実行環境はUTCなので `TZ=Asia/Tokyo date +%F` で取得）
 
 - 必要なら候補のURL先を読んで住所・期間を補完する
 - **`sources` には記事の実URLを入れる。** 候補の `url` は

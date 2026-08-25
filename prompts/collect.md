@@ -19,6 +19,8 @@ RSS系統（PR TIMES）は全件フィードのみで東京カフェ系の比率
 
 ## ルール
 
+- 日付はすべてJST基準（実行環境はUTCなので `TZ=Asia/Tokyo date +%F` で取得）
+
 - 出典URLが確認できたものだけ収集（URLを `sources` に必ず入れる）
 - 個人ブログ・まとめサイト単一ソースの場合は `confidence: "unverified"`
 - 公式サイト・プレスリリースを出典に確認できたら `official`、報道記事なら `media`
