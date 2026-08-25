@@ -2572,5 +2572,70 @@
   ],
   "summary": "和モダンをコンセプトにしたピアプロキャラクターズのテーマカフェが池袋の「BOX cafe&space」（東池袋グランドスケープ内）で開催。和柄衣装をまとった初音ミクや鏡音リンらのキャラクターメニュー・グッズを展開。",
   "collected_at": "2026-08-24"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "goodNess 渋谷",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティ4F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-05-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://konas-coffee.com/news/kivpnlpjs_v/",
+   "https://www.ryutsuu.biz/store/s051475.html"
+  ],
+  "summary": "コナズ珈琲を展開するKONA'Sの新ブランド1号店「goodNess（グッドネス）」が渋谷マークシティ4階に2026年5月28日グランドオープン。「いちばん近いハワイ」をコンセプトにハワイアン料理とアルコールを提供。",
+  "collected_at": "2026-08-26"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "THE SCENE TABLE GINZA（アニメ「天官賜福」展カフェ）",
+  "area": "銀座",
+  "address": "東京都中央区銀座2-3-6 松屋銀座 並木通り館3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-05",
+   "end": "2026-09-29"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://dtimes.jp/post-1343546/",
+   "https://premium.gamepedia.jp/hobby/archives/235245"
+  ],
+  "summary": "松屋銀座の新館「並木通り館」に誕生した展示施設「ギンザミライミュージアム」内のテーマカフェ「THE SCENE TABLE GINZA」で、「アニメ天官賜福展 -天地流光-」とのコラボメニューを2026年9月5日〜29日の期間限定で提供。",
+  "collected_at": "2026-08-26"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "アイスみーそーカフェ（Marunouchi Happ. Stand & Gallery）",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内2丁目5番地1 丸の内二丁目ビル1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-24",
+   "end": "2026-08-30"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://straightpress.jp/20260825/1695820"
+  ],
+  "summary": "冷たいみそ汁ドリンク「アイスみーそー」を楽しめる期間限定カフェが、丸の内の「Marunouchi Happ. Stand & Gallery」にて2026年8月24日〜30日開催。赤だしや貝だしなど複数の味のみそ汁ドリンクを提供。",
+  "collected_at": "2026-08-26"
  }
 ]
