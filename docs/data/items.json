@@ -971,7 +971,8 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000315.000086964.html"
+    "https://prtimes.jp/main/html/rd/p/000000315.000086964.html",
+    "https://www.walkerplus.com/event/ar0313e609289/"
    ],
    "summary": "「くまのプーさん」原作デビュー100周年を記念したテーマカフェが東京スカイツリータウン・ソラマチにて2026年8月20日〜10月25日開催中（大阪でも同時開催）。",
    "collected_at": "2026-08-22",
@@ -2749,6 +2750,130 @@
    "summary": "Nissy（西島隆弘）の誕生日記念コラボカフェ「Nissy Birthday Entertainment 2026 Cafe」がSHIBUYA109渋谷店地下2階「BOX cafe&space」にて2026年8月24日〜10月18日開催。限定フード・ドリンクとオリジナルグッズを展開。",
    "collected_at": "2026-08-24",
    "id": "06c39a990047",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "goodNess 渋谷",
+   "area": "渋谷",
+   "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティ4F",
+   "lat": 35.658337,
+   "lng": 139.698578,
+   "period": {
+    "start": "2026-05-28",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://konas-coffee.com/news/kivpnlpjs_v/",
+    "https://www.ryutsuu.biz/store/s051475.html"
+   ],
+   "summary": "コナズ珈琲を展開するKONA'Sの新ブランド1号店「goodNess（グッドネス）」が渋谷マークシティ4階に2026年5月28日グランドオープン。「いちばん近いハワイ」をコンセプトにハワイアン料理とアルコールを提供。",
+   "collected_at": "2026-08-26",
+   "id": "1597d9989874",
+   "is_new": true,
+   "freshness": 90
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "THE SCENE TABLE GINZA（アニメ「天官賜福」展カフェ）",
+   "area": "銀座",
+   "address": "東京都中央区銀座2-3-6 松屋銀座 並木通り館3F",
+   "lat": 35.674278,
+   "lng": 139.766144,
+   "period": {
+    "start": "2026-09-05",
+    "end": "2026-09-29"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://dtimes.jp/post-1343546/",
+    "https://premium.gamepedia.jp/hobby/archives/235245"
+   ],
+   "summary": "松屋銀座の新館「並木通り館」に誕生した展示施設「ギンザミライミュージアム」内のテーマカフェ「THE SCENE TABLE GINZA」で、「アニメ天官賜福展 -天地流光-」とのコラボメニューを2026年9月5日〜29日の期間限定で提供。",
+   "collected_at": "2026-08-26",
+   "id": "5a5a4647e1c4",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "アイスみーそーカフェ（Marunouchi Happ. Stand & Gallery）",
+   "area": "丸の内",
+   "address": "東京都千代田区丸の内2丁目5番地1 丸の内二丁目ビル1階",
+   "lat": 35.67997,
+   "lng": 139.763443,
+   "period": {
+    "start": "2026-08-24",
+    "end": "2026-08-30"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://straightpress.jp/20260825/1695820"
+   ],
+   "summary": "冷たいみそ汁ドリンク「アイスみーそー」を楽しめる期間限定カフェが、丸の内の「Marunouchi Happ. Stand & Gallery」にて2026年8月24日〜30日開催。赤だしや貝だしなど複数の味のみそ汁ドリンクを提供。",
+   "collected_at": "2026-08-26",
+   "id": "b1c4dc3f30ff",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "セルフカフェ早稲田店",
+   "area": "早稲田",
+   "address": "東京都新宿区馬場下町61-6 髙橋ビル4階",
+   "lat": 35.70612,
+   "lng": 139.720352,
+   "period": {
+    "start": "2026-08-15",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://selfcafe.jp/newstore/202608122844/",
+    "https://prtimes.jp/main/html/rd/p/000001118.000045400.html"
+   ],
+   "summary": "会員登録不要・完全無人型の「セルフカフェ」が早稲田駅前に新店舗「セルフカフェ早稲田店」を2026年8月15日オープン。ドリンク1杯で時間無制限、電源・Wi-Fi完備の50席、朝6時〜深夜0時営業。",
+   "collected_at": "2026-08-26",
+   "id": "72c5e27bddb0",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "LEAF et BEURRE（リーフ エ ブール）",
+   "area": "東京駅・丸の内",
+   "address": "東京都千代田区丸の内1-9-1 大丸東京店1階 ほっぺタウン「MVPスイーツ」",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-08-26",
+    "end": "2026-09-01"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000002493.000005342.html",
+    "https://www.jiji.com/jc/article?k=000002493.000005342&g=prt"
+   ],
+   "summary": "紅茶とバターの香りにこだわったスイーツブランド「LEAF et BEURRE」が大丸東京店に初登場。国産バターとアールグレイ茶葉を使ったサブレ「ブール・ド・ネージュ」などを2026年8月26日〜9月1日の期間限定販売。",
+   "collected_at": "2026-08-26",
+   "id": "6e528939d4d8",
    "is_new": false,
    "freshness": null
   }
