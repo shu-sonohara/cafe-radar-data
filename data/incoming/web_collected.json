@@ -471,5 +471,27 @@
   ],
   "summary": "紅茶とバターの香りにこだわったスイーツブランド「LEAF et BEURRE」が大丸東京店に初登場。国産バターとアールグレイ茶葉を使ったサブレ「ブール・ド・ネージュ」などを2026年8月26日〜9月1日の期間限定販売。",
   "collected_at": "2026-08-26"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "『妹はシスコン兄がめんどくさい』コラボカフェ in Patio de METRO",
+  "area": "池袋",
+  "address": "東京都豊島区西池袋3丁目28-14 東京芸術劇場地下1階直結 Patio de METRO",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-25",
+   "end": "2026-09-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.anemo.co.jp/pressrelease/435216-20260814/",
+   "https://newscast.jp/news/5205967"
+  ],
+  "summary": "コミック『妹はシスコン兄がめんどくさい』6巻発売記念コラボカフェが、池袋・東京芸術劇場地下1階直結のPatio de METROにて2026年8月25日〜9月13日開催。コラボフード・ドリンクや購入特典コースター、キャラクターグッズを展開。",
+  "collected_at": "2026-08-27"
  }
 ]
