@@ -2832,6 +2832,79 @@
    "genre": [
     "カフェ"
    ],
+   "name": "明治安田CAFE 丸の内",
+   "area": "丸の内",
+   "address": "東京都千代田区丸の内2-1-1 明治生命館1階",
+   "lat": 35.679062,
+   "lng": 139.761841,
+   "period": {
+    "start": "2025-11-22",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.timeout.jp/tokyo/ja/news/meijiyasudacafe-120125"
+   ],
+   "summary": "国指定重要文化財「明治生命館」1階に、文化財カフェとして日本最大級となる60席の「明治安田CAFE 丸の内」が2025年11月22日にオープン。大理石の柱や自然光が差し込む大ホールで喫茶を楽しめる。",
+   "collected_at": "2026-08-27",
+   "id": "1ec133891dda",
+   "is_new": false,
+   "freshness": 365
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "BLEACH GRAFFITI コラボカフェ at 洒落CAFE（新宿マルイ本館店）",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3-30-13 新宿マルイ本館8階",
+   "lat": 35.691158,
+   "lng": 139.703949,
+   "period": {
+    "start": "2026-08-26",
+    "end": "2026-09-13"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.tv-tokyo.co.jp/plus/external-pr/entry/188740.html"
+   ],
+   "summary": "TVアニメ『BLEACH 千年血戦篇-禍進譚-』放送記念コラボカフェが洒落CAFE新宿マルイ本館店にて2026年8月26日〜9月13日開催。オリジナルグッズとコラボメニューを展開。",
+   "collected_at": "2026-08-27",
+   "id": "50e14cb41650",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "コーヒー",
+    "カフェ"
+   ],
+   "name": "Drop Coffee Roasters 中野マルイ",
+   "area": "中野",
+   "address": "東京都中野区中野3-34-28 中野マルイ2階",
+   "lat": 35.70472,
+   "lng": 139.665329,
+   "period": {
+    "start": "2026-09-18",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://media.kawa-colle.jp/_ct/17860292"
+   ],
+   "summary": "スウェーデン・ストックホルム発のスペシャルティコーヒーブランド「Drop Coffee Roasters」が日本初出店となる旗艦店を中野マルイ2階に2026年9月18日オープン予定。51席で北欧の「フィーカ」文化を提案する。",
+   "collected_at": "2026-08-27",
+   "id": "8ccf1de144b5",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
    "name": "セルフカフェ早稲田店",
    "area": "早稲田",
    "address": "東京都新宿区馬場下町61-6 髙橋ビル4階",
@@ -2874,6 +2947,31 @@
    "summary": "紅茶とバターの香りにこだわったスイーツブランド「LEAF et BEURRE」が大丸東京店に初登場。国産バターとアールグレイ茶葉を使ったサブレ「ブール・ド・ネージュ」などを2026年8月26日〜9月1日の期間限定販売。",
    "collected_at": "2026-08-26",
    "id": "6e528939d4d8",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "『妹はシスコン兄がめんどくさい』コラボカフェ in Patio de METRO",
+   "area": "池袋",
+   "address": "東京都豊島区西池袋3丁目28-14 東京芸術劇場地下1階直結 Patio de METRO",
+   "lat": 35.731293,
+   "lng": 139.708008,
+   "period": {
+    "start": "2026-08-25",
+    "end": "2026-09-13"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.anemo.co.jp/pressrelease/435216-20260814/",
+    "https://newscast.jp/news/5205967"
+   ],
+   "summary": "コミック『妹はシスコン兄がめんどくさい』6巻発売記念コラボカフェが、池袋・東京芸術劇場地下1階直結のPatio de METROにて2026年8月25日〜9月13日開催。コラボフード・ドリンクや購入特典コースター、キャラクターグッズを展開。",
+   "collected_at": "2026-08-27",
+   "id": "f17d197019a9",
    "is_new": false,
    "freshness": null
   }
