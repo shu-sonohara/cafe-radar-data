@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26",
+ "updated_at": "2026-08-27",
  "items": [
   {
    "type": "new_cafe",
@@ -2775,8 +2775,8 @@
    "summary": "コナズ珈琲を展開するKONA'Sの新ブランド1号店「goodNess（グッドネス）」が渋谷マークシティ4階に2026年5月28日グランドオープン。「いちばん近いハワイ」をコンセプトにハワイアン料理とアルコールを提供。",
    "collected_at": "2026-08-26",
    "id": "1597d9989874",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "popup",
