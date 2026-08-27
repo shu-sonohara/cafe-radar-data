@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-27",
+ "updated_at": "2026-08-28",
  "items": [
   {
    "type": "new_cafe",
@@ -1851,31 +1851,6 @@
    "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアが全国5都市で開催決定。東京ではエキュート上野に2026年9月14日〜27日出店する。",
    "collected_at": "2026-08-22",
    "id": "fa27fd7fae35",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ"
-   ],
-   "name": "『お茶犬』コラボカフェ（カプコンカフェ 池袋店）",
-   "area": "池袋",
-   "address": "東京都豊島区東池袋1-30-3 グランドスケープ池袋3F",
-   "lat": 35.730762,
-   "lng": 139.716202,
-   "period": {
-    "start": "2026-07-17",
-    "end": "2026-08-27"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://news.yahoo.co.jp/articles/8308d2d2ae6c190110506a50fef5299172799288",
-    "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/topics/2875/"
-   ],
-   "summary": "カプコンカフェ池袋店で「お茶犬」とのコラボカフェを2026年7月17日〜8月27日開催。“リョク”をイメージしたオムライスなどコラボフード・スイーツ・ドリンク計18品を提供する。",
-   "collected_at": "2026-08-23",
-   "id": "be57667d4444",
    "is_new": false,
    "freshness": null
   },
