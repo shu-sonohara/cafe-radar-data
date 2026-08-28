@@ -2876,6 +2876,80 @@
    "freshness": 30
   },
   {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "秋の栗スイーツフェア",
+   "area": "東京駅・丸の内",
+   "address": "東京都千代田区丸の内1-9-1 東京駅一番街 グランスタ東京・グランスタ丸の内",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-10-02",
+    "end": "2026-10-31"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000904.000082978.html"
+   ],
+   "summary": "グランスタ東京・グランスタ丸の内にて初開催の「和栗と洋栗食べ比べ 秋の栗スイーツ」フェア。注文を受けてから搾る作りたてモンブラン、和栗の半熟カヌレ、栗×ショコラのデニッシュなどグランスタ限定21商品が集結。",
+   "collected_at": "2026-08-28",
+   "id": "c40dff8f7de6",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "スイーツ"
+   ],
+   "name": "SAKAMOTO DAYS SECRET BAR & CAFE（池袋）",
+   "area": "池袋",
+   "address": "東京都豊島区南池袋1-28-2 池袋パルコ8F",
+   "lat": 35.727123,
+   "lng": 139.710342,
+   "period": {
+    "start": "2026-08-28",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://collabo.sld-inc.com/sakamotodays_2608"
+   ],
+   "summary": "TVアニメ『SAKAMOTO DAYS』のコラボカフェ「SAKAMOTO DAYS SECRET BAR & CAFE」がCollabo_Index池袋（池袋パルコ8F）にて2026年8月28日オープン。秘密の隠れ家バーをコンセプトに、坂本たちをイメージしたフード・スイーツ・ドリンクを提供。",
+   "collected_at": "2026-08-28",
+   "id": "f283e087c19a",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "コーヒー",
+    "カフェ"
+   ],
+   "name": "スターバックス コーヒー 西東京新町店",
+   "area": "西東京市",
+   "address": "東京都西東京市新町5-19-10",
+   "lat": 35.712135,
+   "lng": 139.533096,
+   "period": {
+    "start": "2026-05-25",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://store.starbucks.co.jp/detail-1815/"
+   ],
+   "summary": "樹齢約300年のクスノキを残した木造の「スターバックス コーヒー 西東京新町店」が2026年5月25日オープン。木材活用による環境配慮型の店舗づくりを推進し、ドライブスルーにも対応。",
+   "collected_at": "2026-08-28",
+   "id": "5385accb1b6e",
+   "is_new": false,
+   "freshness": 180
+  },
+  {
    "type": "new_cafe",
    "genre": [
     "カフェ"
