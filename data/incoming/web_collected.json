@@ -493,5 +493,72 @@
   ],
   "summary": "コミック『妹はシスコン兄がめんどくさい』6巻発売記念コラボカフェが、池袋・東京芸術劇場地下1階直結のPatio de METROにて2026年8月25日〜9月13日開催。コラボフード・ドリンクや購入特典コースター、キャラクターグッズを展開。",
   "collected_at": "2026-08-27"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "アニメ「リラックマ」×「SASUKE」コラボカフェ（ブランチパーク）",
+  "area": "赤坂",
+  "address": "東京都港区赤坂5丁目4-7 THE HEXAGON 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-27",
+   "end": "2026-09-13"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://brunchpark.jp/blogs/topics/rilakkuma-anime-com",
+   "https://www.oricon.co.jp/news/2472423/full/"
+  ],
+  "summary": "『SASUKEワールドカップ2026』開催記念でアニメ『リラックマ』とのコラボカフェが赤坂ブランチパークで開催。『てくてく世界旅行』をテーマにしたフード・ドリンクを提供。",
+  "collected_at": "2026-08-29"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "映画ちいかわ 人魚の島のひみつ Collaboration CAFE（渋谷PARCO店）",
+  "area": "渋谷",
+  "address": "東京都渋谷区宇田川町15-1 渋谷PARCO 6F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-10",
+   "end": "2026-09-14"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://cafe.parco.jp/event/chiikawamovie_cafe_shibuya?area=029438"
+  ],
+  "summary": "『映画ちいかわ 人魚の島のひみつ』のコラボカフェが渋谷PARCO6階のTHE GUEST CAFE BY PARCOで開催。島編着想のメニューやオリジナルグッズを展開。",
+  "collected_at": "2026-08-29"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉×スイーツパラダイス コラボカフェ（COLLABO PARADISE 新宿マルイアネックス店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-1-26 新宿マルイ アネックス 8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-02",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sweets-paradise.jp/collaboration/magica-wr",
+   "https://www.sweets-paradise.jp/shop/collabo-paradise-shinjukumaruiannex/"
+  ],
+  "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェがCOLLABO PARADISE新宿マルイアネックス店で2026年9月2日より開催。オリジナルメニューやコースターを展開。",
+  "collected_at": "2026-08-29"
  }
 ]

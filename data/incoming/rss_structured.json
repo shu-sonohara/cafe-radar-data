@@ -2766,5 +2766,111 @@
     ],
     "summary": "樹齢約300年のクスノキを残した木造の「スターバックス コーヒー 西東京新町店」が2026年5月25日オープン。木材活用による環境配慮型の店舗づくりを推進し、ドライブスルーにも対応。",
     "collected_at": "2026-08-28"
+  },
+  {
+    "type": "popup",
+    "genre": [
+      "カフェ"
+    ],
+    "name": "ポークビッツ ポップアップキャラバン（東京・新橋 第1弾）",
+    "area": "新橋",
+    "address": "東京都港区新橋2-14-4 カフェ ピアッザ 1F",
+    "lat": null,
+    "lng": null,
+    "period": {
+      "start": "2026-09-02",
+      "end": "2026-09-04"
+    },
+    "confidence": "official",
+    "sources": [
+      "https://prtimes.jp/main/html/rd/p/000000763.000004867.html"
+    ],
+    "summary": "伊藤ハム米久ホールディングスが全6都市を巡る「ポークビッツ」ポップアップキャラバンを実施。第1弾は東京・新橋のカフェ ピアッザにて2026年9月2日〜4日開催。",
+    "collected_at": "2026-08-29"
+  },
+  {
+    "type": "new_cafe",
+    "genre": [
+      "コーヒー"
+    ],
+    "name": "URBAN COFFEE ROASTER TOKYO（UCR）",
+    "area": "外苑前",
+    "address": "東京都港区南青山2-11-14 シグマ南青山ビル1階",
+    "lat": null,
+    "lng": null,
+    "period": {
+      "start": "2026-08-07",
+      "end": null
+    },
+    "confidence": "media",
+    "sources": [
+      "https://straightpress.jp/20260805/1678382"
+    ],
+    "summary": "香港発のスペシャルティコーヒーブランド「URBAN COFFEE ROASTER（UCR）」が海外初の独立店舗を外苑前エリアにオープン。2026年8月7日開業、代表メニューは「Coffee Eggnog」。",
+    "collected_at": "2026-08-29"
+  },
+  {
+    "type": "new_cafe",
+    "genre": [
+      "カフェ"
+    ],
+    "name": "UNIVERSAL WORKS CANTEEN（ユニバーサルワークス キャンティーン）",
+    "area": "有楽町",
+    "address": "東京都千代田区有楽町2-5-1 阪急メンズ東京6階",
+    "lat": null,
+    "lng": null,
+    "period": {
+      "start": "2026-08-28",
+      "end": null
+    },
+    "confidence": "media",
+    "sources": [
+      "https://www.fashionsnap.com/article/2026-08-28/universal-works-hankyu-mens-tokyo/"
+    ],
+    "summary": "英国発「ユニバーサルワークス」が日本初の直営店を阪急メンズ東京6階に2026年8月28日オープン。ブランド初のカフェスペース「ユニバーサルワークス キャンティーン」を併設。",
+    "collected_at": "2026-08-29"
+  },
+  {
+    "type": "new_cafe",
+    "genre": [
+      "パンケーキ",
+      "カフェ"
+    ],
+    "name": "FLIPPER'S 新宿店",
+    "area": "新宿",
+    "address": "東京都新宿区新宿4-1-7 DIGS 2階",
+    "lat": null,
+    "lng": null,
+    "period": {
+      "start": "2025-12-23",
+      "end": null
+    },
+    "confidence": "media",
+    "sources": [
+      "https://www.enjoytokyo.jp/news/204614/"
+    ],
+    "summary": "“奇跡のパンケーキ”で人気の「フリッパーズ」が、食の新拠点「DIGS」2階に新宿店を2025年12月23日オープン。個室を備えたゆったりとした空間が特徴。",
+    "collected_at": "2026-08-29"
+  },
+  {
+    "type": "popup",
+    "genre": [
+      "カフェ"
+    ],
+    "name": "CORTIS COLLABORATION CAFE in SHIBUYA TSUTAYA",
+    "area": "渋谷",
+    "address": "東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA 7階",
+    "lat": null,
+    "lng": null,
+    "period": {
+      "start": "2026-08-27",
+      "end": "2026-09-23"
+    },
+    "confidence": "official",
+    "sources": [
+      "https://shibuyatsutaya.tsite.jp/article/2563.html"
+    ],
+    "summary": "5人組グループCORTISの初の日本単独公演を記念したコラボカフェがSHIBUYA TSUTAYA 7階に2026年8月27日〜9月23日開催。限定フード・ドリンクと大型ビジュアル展示、ポップアップストアを併設。",
+    "collected_at": "2026-08-29"
   }
 ]
