@@ -565,5 +565,143 @@
   ],
   "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェがCOLLABO PARADISE新宿マルイアネックス店で2026年9月2日より開催。オリジナルメニューやコースターを展開。",
   "collected_at": "2026-08-29"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "PRISMIC（プリズミック）",
+  "area": "渋谷（青山エリア）",
+  "address": "東京都渋谷区渋谷1丁目7-2 VORT渋谷eastII 1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-08",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000002.000136860.html",
+   "https://www.enjoytokyo.jp/news/205114/"
+  ],
+  "summary": "洋菓子世界大会優勝シェフ率いるパティスリーブランド「PRISM」の新業態「PRISMIC」が2026年8月8日、渋谷1丁目にオープン。サロン併設スペースは9月末オープン予定。",
+  "collected_at": "2026-08-29",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "「トイ・ストーリー5」スペシャルカフェ",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-10",
+   "end": "2026-08-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.disney.co.jp/shopping/cafenews/20260803_01",
+   "https://www.lumine.ne.jp/est/news/detail/?cd=010710&scd=003222"
+  ],
+  "summary": "映画「トイ・ストーリー5」公開に合わせたスペシャルカフェがBOX cafe&space ルミネエスト新宿2号店にて2026年7月10日〜8月30日開催。ウッディ・ジェシー・バズら新旧キャラクターにちなんだメニューを展開。",
+  "collected_at": "2026-08-29",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "Rilakkuma cafe てくてく世界旅行（SASUKEワールドカップ2026コラボ）",
+  "area": "赤坂",
+  "address": "東京都港区赤坂5丁目4-7 THE HEXAGON 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-27",
+   "end": "2026-09-13"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://animeanime.jp/article/2026/08/06/101793.html",
+   "https://brunchpark.jp/blogs/topics/rilakkuma-anime-com"
+  ],
+  "summary": "アニメ「リラックマ てくてく世界旅行」とTBS「SASUKEワールドカップ2026」のコラボカフェがブランチパーク赤坂にて2026年8月27日〜9月13日開催。",
+  "collected_at": "2026-08-29",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "自由が丘 モンブラン 本店",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1 自由が丘ミューズスクエア1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.fashion-press.net/news/142683",
+   "https://www.mont-blanc.jp/view/page/access"
+  ],
+  "summary": "モンブラン発祥の名店「自由が丘 モンブラン」本店が、駅前新商業施設「自由が丘ミューズスクエア」1階に移転オープン。2026年9月17日開業。",
+  "collected_at": "2026-08-29",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "TVアニメ『東京リベンジャーズ』×プリンセスカフェ",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1-32-4 藤原ビル B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-04",
+   "end": "2026-09-27"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://collabo-cafe.com/events/collabo/tokyo-revengers-toman-pripricafe-cafe-2026/",
+   "https://www.pripricafe.com/event/cafe/revengers_college.html"
+  ],
+  "summary": "TVアニメ『東京リベンジャーズ』×プリンセスカフェ池袋館のコラボカフェが2026年9月4日〜9月27日開催。前半・後半でメニューやグッズが切り替わる。",
+  "collected_at": "2026-08-29",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "銀魂秋色茶房（and GALLERY 池袋店）",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1-5-7 LABI1 LIFE SELECT池袋7F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-09",
+   "end": "2026-10-07"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://news.denfaminicogamer.jp/news/2608102c",
+   "https://www.excite.co.jp/news/article/Nijimen_0000000000630241/"
+  ],
+  "summary": "TVアニメ『銀魂』とand GALLERYのコラボカフェ「銀魂秋色茶房」がand GALLERY池袋店にて2026年9月9日〜10月7日開催。秋の和装をまとったキャラクターの描き下ろしイラストを使用。",
+  "collected_at": "2026-08-29",
+  "id": ""
  }
 ]

@@ -2894,5 +2894,28 @@
   ],
   "summary": "5人組グループCORTISの初の日本単独公演を記念したコラボカフェがSHIBUYA TSUTAYA 7階に2026年8月27日〜9月23日開催。限定フード・ドリンクと大型ビジュアル展示、ポップアップストアを併設。",
   "collected_at": "2026-08-29"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "はなまるおばけのはなまるごほうびカフェ",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6丁目28番6号 キュープラザ原宿3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-23",
+   "end": "2026-08-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sanrio.co.jp/news/spots/ho-cafe-pop-up-20260707/",
+   "https://prtimes.jp/main/html/rd/p/000000308.000086964.html"
+  ],
+  "summary": "サンリオキャラクター「はなまるおばけ」のテーマカフェ「はなまるおばけのはなまるごほうびカフェ」がBOX cafe&space キュープラザ原宿店にて2026年7月23日〜8月30日開催。",
+  "collected_at": "2026-08-29",
+  "id": ""
  }
 ]
