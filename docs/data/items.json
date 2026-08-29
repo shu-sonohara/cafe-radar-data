@@ -979,10 +979,11 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000315.000086964.html",
-    "https://www.walkerplus.com/event/ar0313e609289/"
+    "https://www.walkerplus.com/event/ar0313e609289/",
+    "https://hunny2026-ohmycafe.ltr-online.com/lp/hunny2026-ohmycafe-s005/"
    ],
    "summary": "「くまのプーさん」原作デビュー100周年を記念したテーマカフェが東京スカイツリータウン・ソラマチにて2026年8月20日〜10月25日開催中（大阪でも同時開催）。",
-   "collected_at": "2026-08-26",
+   "collected_at": "2026-08-30",
    "id": "51e7b398d705",
    "is_new": false,
    "freshness": null
@@ -2577,10 +2578,11 @@
     "start": "2026-10-13",
     "end": "2026-11-01"
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
     "https://cake.jp/mag/new-items/68840/",
-    "https://straightpress.jp/20260807/1676272"
+    "https://straightpress.jp/20260807/1676272",
+    "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
    ],
    "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアがグランスタ丸の内にて2026年10月13日〜11月1日開催。カマンベール・パルメザンを使ったフィナンシェやクッキーを販売。",
    "collected_at": "2026-08-22",
@@ -2602,10 +2604,11 @@
     "start": "2026-11-16",
     "end": "2026-11-29"
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
     "https://cake.jp/mag/new-items/68840/",
-    "https://straightpress.jp/20260807/1676272"
+    "https://straightpress.jp/20260807/1676272",
+    "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
    ],
    "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアがエキュート品川にて2026年11月16日〜29日開催。カマンベール・パルメザンを使ったフィナンシェやクッキーを販売。",
    "collected_at": "2026-08-22",
@@ -2627,10 +2630,11 @@
     "start": "2026-11-26",
     "end": "2026-12-02"
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
     "https://cake.jp/mag/new-items/68840/",
-    "https://straightpress.jp/20260807/1676272"
+    "https://straightpress.jp/20260807/1676272",
+    "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
    ],
    "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアが東武百貨店池袋本店にて2026年11月26日〜12月2日開催。カマンベール・パルメザンを使ったフィナンシェやクッキーを販売。",
    "collected_at": "2026-08-22",
@@ -3294,6 +3298,56 @@
    "summary": "TVアニメ『東京リベンジャーズ』×プリンセスカフェ池袋館のコラボカフェが2026年9月4日〜9月27日開催。前半・後半でメニューやグッズが切り替わる。",
    "collected_at": "2026-08-29",
    "id": "6f964f3e1a7c",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "学園アイドルマスター×Chugai Grace Café（渋谷MODI店・リバイバル）",
+   "area": "渋谷",
+   "address": "東京都渋谷区神南1-21-3 渋谷MODI 7F",
+   "lat": 35.661812,
+   "lng": 139.700653,
+   "period": {
+    "start": "2026-09-03",
+    "end": "2026-09-27"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://chugai-grace-cafe.jp/collaboration/gakuen_idolmaster_revival_shibuya/",
+    "https://idolmaster-official.jp/news/01_19534"
+   ],
+   "summary": "「学園アイドルマスター」とChugai Grace Caféのコラボカフェをリバイバル開催。限定メニュー・グッズ・特典を展開。",
+   "collected_at": "2026-08-30",
+   "id": "d2b17a23f330",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "ジェニーベーカリー ポップアップ（大丸東京店）",
+   "area": "東京駅・丸の内",
+   "address": "東京都千代田区丸の内1-9-1 大丸東京店 1階",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-07-12",
+    "end": "2026-08-31"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://shopblog.dmdepart.jp/tokyo/detail/?cd=007762&scd=000368"
+   ],
+   "summary": "香港の人気クッキー専門店「ジェニーベーカリー」の期間限定ショップ。マーガリン・ショートニング不使用のバタークッキーなどを販売。",
+   "collected_at": "2026-08-30",
+   "id": "dff478f28514",
    "is_new": false,
    "freshness": null
   }
