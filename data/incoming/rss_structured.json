@@ -2917,5 +2917,117 @@
   "summary": "サンリオキャラクター「はなまるおばけ」のテーマカフェ「はなまるおばけのはなまるごほうびカフェ」がBOX cafe&space キュープラザ原宿店にて2026年7月23日〜8月30日開催。",
   "collected_at": "2026-08-29",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「くまのプーさん」OH MY CAFE（東京スカイツリータウン・ソラマチ）",
+  "area": "押上・東京スカイツリータウン",
+  "address": "東京都墨田区押上1丁目1-2 東京スカイツリータウン・ソラマチ タワーヤード1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": "2026-10-25"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000315.000086964.html",
+   "https://hunny2026-ohmycafe.ltr-online.com/lp/hunny2026-ohmycafe-s005/"
+  ],
+  "summary": "くまのプーさん原作デビュー100周年を祝うコラボカフェ。100周年お祝いパフェや原作キャラクターをイメージしたフード・ドリンクを提供。",
+  "collected_at": "2026-08-30",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... POP UP STORE（エキュート上野店）",
+  "area": "上野",
+  "address": "東京都台東区上野7丁目1-1 エキュート上野",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-14",
+   "end": "2026-09-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストア。カマンベールやパルミジャーノを使ったフィナンシェ・クッキーなどを販売。",
+  "collected_at": "2026-08-30",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... POP UP STORE（グランスタ丸の内店）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1丁目9-1 グランスタ丸の内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-13",
+   "end": "2026-11-01"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストア。カマンベールやパルミジャーノを使ったフィナンシェ・クッキーなどを販売。",
+  "collected_at": "2026-08-30",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... POP UP STORE（エキュート品川店）",
+  "area": "品川",
+  "address": "東京都港区高輪3丁目26-27 エキュート品川",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-16",
+   "end": "2026-11-29"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストア。カマンベールやパルミジャーノを使ったフィナンシェ・クッキーなどを販売。",
+  "collected_at": "2026-08-30",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... POP UP STORE（東武百貨店池袋本店）",
+  "area": "池袋",
+  "address": "東京都豊島区西池袋1丁目1-25 東武百貨店池袋本店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-26",
+   "end": "2026-12-02"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストア。カマンベールやパルミジャーノを使ったフィナンシェ・クッキーなどを販売。",
+  "collected_at": "2026-08-30",
+  "id": ""
  }
 ]

@@ -703,5 +703,74 @@
   "summary": "TVアニメ『銀魂』とand GALLERYのコラボカフェ「銀魂秋色茶房」がand GALLERY池袋店にて2026年9月9日〜10月7日開催。秋の和装をまとったキャラクターの描き下ろしイラストを使用。",
   "collected_at": "2026-08-29",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "リラックマ×SASUKE コラボカフェ（ブランチパーク）",
+  "area": "赤坂",
+  "address": "東京都港区赤坂5-4-7 THE HEXAGON 1F ブランチパーク",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-27",
+   "end": "2026-09-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://brunchpark.jp/blogs/topics/rilakkuma-anime-com"
+  ],
+  "summary": "アニメ『リラックマ てくてく世界旅行』と『SASUKE』のコラボカフェ。世界観をイメージしたフード・デザート・ドリンクを提供し、注文ごとにオリジナルコースターをプレゼント。",
+  "collected_at": "2026-08-30",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "学園アイドルマスター×Chugai Grace Café（渋谷MODI店・リバイバル）",
+  "area": "渋谷",
+  "address": "東京都渋谷区神南1-21-3 渋谷MODI 7F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-03",
+   "end": "2026-09-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://chugai-grace-cafe.jp/collaboration/gakuen_idolmaster_revival_shibuya/",
+   "https://idolmaster-official.jp/news/01_19534"
+  ],
+  "summary": "「学園アイドルマスター」とChugai Grace Caféのコラボカフェをリバイバル開催。限定メニュー・グッズ・特典を展開。",
+  "collected_at": "2026-08-30",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "ジェニーベーカリー ポップアップ（大丸東京店）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店 1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-12",
+   "end": "2026-08-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://shopblog.dmdepart.jp/tokyo/detail/?cd=007762&scd=000368"
+  ],
+  "summary": "香港の人気クッキー専門店「ジェニーベーカリー」の期間限定ショップ。マーガリン・ショートニング不使用のバタークッキーなどを販売。",
+  "collected_at": "2026-08-30",
+  "id": ""
  }
 ]
