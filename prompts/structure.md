@@ -16,9 +16,9 @@
 
 ## 裏取りの方法
 
-候補の `url` を **WebFetch で直接開き**、記事本文から店名・住所・期間を確認する
-（環境のネットワーク設定を2026-08-29に開放済み。`news.google.com` の中間URLは
-リダイレクト先の記事に飛ぶので、そのまま開いてよい）。
+候補の `url` が `news.google.com` の場合、WebFetch では中身が取れない（JSリダイレクト）。
+まず **タイトルで WebSearch して記事の実URLを見つけ**、そのURLを **WebFetch で開いて**
+店名・住所・期間を確認する（`prtimes.jp` 等の直URLならそのまま WebFetch でよい）。
 記事に住所がなければ、店名＋エリアでWebSearchして公式サイト・プレスリリースで補完する。
 
 もし WebFetch が `EGRESS_BLOCKED` で失敗したら（設定が戻っている場合）、

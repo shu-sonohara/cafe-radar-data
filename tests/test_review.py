@@ -64,3 +64,12 @@ def test_direct_article_source_is_not_flagged():
     issues = find_issues([_item(sources=["https://prtimes.jp/main/html/rd/p/1.html"])],
                          today="2026-08-21")
     assert not any(i["kind"] == "出典がGoogleニュース経由" for i in issues)
+
+
+def test_flags_same_address_same_period_popups():
+    a = _item(name="Aコラボカフェ", type="popup", address="東京都港区赤坂5-4-7 THE HEXAGON 1F",
+              period={"start": "2026-08-27", "end": "2026-09-13"})
+    b = _item(name="Rilakkuma cafe", type="popup", address="東京都港区赤坂5丁目4-7 THE HEXAGON 1F",
+              period={"start": "2026-08-27", "end": "2026-09-13"})
+    issues = find_issues([a, b], today="2026-08-29")
+    assert any(i["kind"] == "同住所・同期間" for i in issues)

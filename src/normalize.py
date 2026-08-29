@@ -19,8 +19,24 @@ def normalize_address(s: str) -> str:
     return _STRIP.sub("", s).rstrip("-")
 
 
+_PAREN = re.compile(r"[（(【\[][^）)】\]]*[）)】\]]")
+_ADDR_CORE = re.compile(r"^(.*?\d+-\d+(?:-\d+)?)")  # 「…5-4-7」までを住所の核とみなす
+
+
+def key_name(name: str) -> str:
+    """重複判定用の店名: 「（東京会場）」等の括弧書きを無視する。"""
+    return normalize_name(_PAREN.sub("", name))
+
+
+def key_address(address: str) -> str:
+    """重複判定用の住所: 番地までで切り、建物名・階の表記ゆれを無視する。"""
+    norm = normalize_address(address)
+    m = _ADDR_CORE.match(norm)
+    return m.group(1) if m else norm
+
+
 def _key(item: dict) -> str:
-    return f"{normalize_name(item['name'])}|{normalize_address(item['address'])}"
+    return f"{key_name(item['name'])}|{key_address(item['address'])}"
 
 
 def _merge(base: dict, other: dict) -> dict:

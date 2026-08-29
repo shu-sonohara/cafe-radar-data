@@ -722,7 +722,7 @@
     "https://straightpress.jp/20260805/1678382"
    ],
    "summary": "香港発、チャンピオンバリスタ手掛けるスペシャルティコーヒーブランド「URBAN COFFEE ROASTER」の海外初独立店舗が外苑いちょう並木前に2026年8月7日オープン。",
-   "collected_at": "2026-08-22",
+   "collected_at": "2026-08-29",
    "id": "6cfff25429c5",
    "is_new": true,
    "freshness": 30
@@ -899,10 +899,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000308.000086964.html"
+    "https://prtimes.jp/main/html/rd/p/000000308.000086964.html",
+    "https://www.sanrio.co.jp/news/spots/ho-cafe-pop-up-20260707/"
    ],
    "summary": "サンリオキャラクター「はなまるおばけ」のテーマカフェがBOX cafe&space キュープラザ原宿店で2026年7月23日〜8月30日開催中。「特別なハナマル」がもらえるごほうびメニューを展開。",
-   "collected_at": "2026-08-22",
+   "collected_at": "2026-08-29",
    "id": "1d555737af8d",
    "is_new": false,
    "freshness": null
@@ -981,7 +982,7 @@
     "https://www.walkerplus.com/event/ar0313e609289/"
    ],
    "summary": "「くまのプーさん」原作デビュー100周年を記念したテーマカフェが東京スカイツリータウン・ソラマチにて2026年8月20日〜10月25日開催中（大阪でも同時開催）。",
-   "collected_at": "2026-08-22",
+   "collected_at": "2026-08-26",
    "id": "51e7b398d705",
    "is_new": false,
    "freshness": null
@@ -2657,7 +2658,8 @@
     "https://brunchpark.jp/blogs/topics/rilakkuma-anime-com",
     "https://www.san-x.co.jp/ja/blog/2026-08-post-0146180/",
     "https://news.yahoo.co.jp/articles/dd8a7bd5a732c8138bfc9316f004387ffe27f449",
-    "https://www.oricon.co.jp/news/2472423/full/"
+    "https://www.oricon.co.jp/news/2472423/full/",
+    "https://animeanime.jp/article/2026/08/06/101793.html"
    ],
    "summary": "「SASUKEワールドカップ2026」開催記念として、アニメ「リラックマ」とのコラボカフェが赤坂「ブランチパーク」にて2026年8月27日〜9月13日開催。第2弾「てくてく世界旅行」をイメージしたメニューを展開。",
    "collected_at": "2026-08-23",
@@ -3192,6 +3194,106 @@
    "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェがCOLLABO PARADISE新宿マルイアネックス店で2026年9月2日より開催。オリジナルメニューやコースターを展開。",
    "collected_at": "2026-08-29",
    "id": "cb27cc977af4",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "PRISMIC（プリズミック）",
+   "area": "渋谷（青山エリア）",
+   "address": "東京都渋谷区渋谷1丁目7-2 VORT渋谷eastII 1階",
+   "lat": 35.6609,
+   "lng": 139.706528,
+   "period": {
+    "start": "2026-08-08",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000002.000136860.html",
+    "https://www.enjoytokyo.jp/news/205114/"
+   ],
+   "summary": "洋菓子世界大会優勝シェフ率いるパティスリーブランド「PRISM」の新業態「PRISMIC」が2026年8月8日、渋谷1丁目にオープン。サロン併設スペースは9月末オープン予定。",
+   "collected_at": "2026-08-29",
+   "id": "3be2e27c6e70",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "コラボカフェ"
+   ],
+   "name": "「トイ・ストーリー5」スペシャルカフェ",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+   "lat": 35.691784,
+   "lng": 139.700775,
+   "period": {
+    "start": "2026-07-10",
+    "end": "2026-08-30"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.disney.co.jp/shopping/cafenews/20260803_01",
+    "https://www.lumine.ne.jp/est/news/detail/?cd=010710&scd=003222"
+   ],
+   "summary": "映画「トイ・ストーリー5」公開に合わせたスペシャルカフェがBOX cafe&space ルミネエスト新宿2号店にて2026年7月10日〜8月30日開催。ウッディ・ジェシー・バズら新旧キャラクターにちなんだメニューを展開。",
+   "collected_at": "2026-08-29",
+   "id": "bf1d9c29d656",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "自由が丘 モンブラン 本店",
+   "area": "自由が丘",
+   "address": "東京都目黒区自由が丘1-29-1 自由が丘ミューズスクエア1階",
+   "lat": 35.608524,
+   "lng": 139.669067,
+   "period": {
+    "start": "2026-09-17",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.fashion-press.net/news/142683",
+    "https://www.mont-blanc.jp/view/page/access"
+   ],
+   "summary": "モンブラン発祥の名店「自由が丘 モンブラン」本店が、駅前新商業施設「自由が丘ミューズスクエア」1階に移転オープン。2026年9月17日開業。",
+   "collected_at": "2026-08-29",
+   "id": "a3b289ccbf1d",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "コラボカフェ"
+   ],
+   "name": "TVアニメ『東京リベンジャーズ』×プリンセスカフェ",
+   "area": "池袋",
+   "address": "東京都豊島区東池袋1-32-4 藤原ビル B1F",
+   "lat": 35.732727,
+   "lng": 139.715851,
+   "period": {
+    "start": "2026-09-04",
+    "end": "2026-09-27"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://collabo-cafe.com/events/collabo/tokyo-revengers-toman-pripricafe-cafe-2026/",
+    "https://www.pripricafe.com/event/cafe/revengers_college.html"
+   ],
+   "summary": "TVアニメ『東京リベンジャーズ』×プリンセスカフェ池袋館のコラボカフェが2026年9月4日〜9月27日開催。前半・後半でメニューやグッズが切り替わる。",
+   "collected_at": "2026-08-29",
+   "id": "6f964f3e1a7c",
    "is_new": false,
    "freshness": null
   }

@@ -10,6 +10,7 @@ from datetime import date
 from pathlib import Path
 
 from src.merge import haversine_m, name_similarity
+from src.normalize import key_address
 
 DUP_DIST_M = 5000      # 同名の店が5km以内に2つあれば重複を疑う
 DUP_SIM = 0.85
@@ -43,6 +44,11 @@ def find_issues(items: list, today: str) -> list:
 
     for a, b in ((items[i], items[j])
                  for i in range(len(items)) for j in range(i + 1, len(items))):
+        if (a["type"] in ("popup", "event") and a["type"] == b["type"]
+                and a["period"] == b["period"] and a["period"]["end"] is not None
+                and key_address(a["address"]) == key_address(b["address"])):
+            issues.append(_issue(a, "同住所・同期間", f'{b["name"]} と同一の可能性'))
+            continue
         if name_similarity(a["name"], b["name"]) < DUP_SIM:
             continue
         if None in (a.get("lat"), a.get("lng"), b.get("lat"), b.get("lng")):

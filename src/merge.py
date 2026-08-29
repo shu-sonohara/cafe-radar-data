@@ -21,11 +21,23 @@ def name_similarity(a: str, b: str) -> float:
     return SequenceMatcher(None, normalize_name(a), normalize_name(b)).ratio()
 
 
+def _same_period_event(a: dict, b: dict) -> bool:
+    """同じ地点で開始日・終了日が完全に一致する popup/event は、
+    媒体ごとに名前が違っても同一イベントとみなす（リラックマ×SASUKE が
+    3つの名前で登録された実例への対策）。常設店（new_cafe）には適用しない。"""
+    if a["type"] != b["type"] or a["type"] not in ("popup", "event"):
+        return False
+    pa, pb = a["period"], b["period"]
+    return pa["start"] is not None and pa["end"] is not None and pa == pb
+
+
 def _same(a: dict, b: dict) -> bool:
     if None in (a["lat"], a["lng"], b["lat"], b["lng"]):
         return False
     if haversine_m(a["lat"], a["lng"], b["lat"], b["lng"]) > DIST_THRESHOLD_M:
         return False
+    if _same_period_event(a, b):
+        return True
     return name_similarity(a["name"], b["name"]) > SIM_THRESHOLD
 
 

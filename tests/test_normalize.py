@@ -60,3 +60,17 @@ def test_dedupe_takes_latest_collected_at_and_fills_start():
     d["period"] = {"start": "2026-08-10", "end": None}
     out = dedupe_by_key([c, d])
     assert out[0]["period"]["start"] == "2026-08-10"
+
+
+def test_dedupe_ignores_parenthetical_suffix_in_name():
+    # 「（東京会場）」の有無だけ違う同一イベント（実データ 2026-08-29）
+    a = _item("はなまるおばけのはなまるごほうびカフェ（東京会場）", "東京都渋谷区神宮前6-28-6 キュープラザ原宿3F", "official", "https://a.example.com")
+    b = _item("はなまるおばけのはなまるごほうびカフェ", "東京都渋谷区神宮前6丁目28番6号 キュープラザ原宿3F", "official", "https://b.example.com")
+    assert len(dedupe_by_key([a, b])) == 1
+
+
+def test_dedupe_ignores_building_name_suffix_in_address():
+    # 「5-4-7 THE HEXAGON 1F ブランチパーク」と「5丁目4-7 THE HEXAGON 1F」は同じ場所
+    a = _item("Cafe X", "東京都港区赤坂5-4-7 THE HEXAGON 1F ブランチパーク", "media", "https://a.example.com")
+    b = _item("Cafe X", "東京都港区赤坂5丁目4-7 THE HEXAGON 1F", "media", "https://b.example.com")
+    assert len(dedupe_by_key([a, b])) == 1
