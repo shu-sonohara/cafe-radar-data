@@ -9,6 +9,7 @@ import json
 from datetime import date
 from pathlib import Path
 
+from src.collab import tag_collab
 from src.freshness import freshness_bucket, is_new_badge, is_visible
 from src.geocode import geocode_items
 from src.merge import dedupe_by_location
@@ -60,6 +61,7 @@ def run(incoming_dir: str, out_path: str, today: str, http_get_json,
 
     published = []
     for item in items:
+        item = tag_collab(item)  # コラボカフェの安全網タグ付け
         item["is_new"] = is_new_badge(item, today)
         item["freshness"] = freshness_bucket(item, today)
         published.append(item)

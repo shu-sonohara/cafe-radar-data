@@ -25,7 +25,8 @@
  {
   "type": "popup",
   "genre": [
-   "カフェ"
+   "カフェ",
+   "コラボカフェ"
   ],
   "name": "そういう時期の進撃の巨人カフェ〜思春期の晩餐〜",
   "area": "新宿",
@@ -118,7 +119,8 @@
  {
   "type": "popup",
   "genre": [
-   "カフェ"
+   "カフェ",
+   "コラボカフェ"
   ],
   "name": "ブルーロックカフェ -青い監獄-",
   "area": "渋谷",
@@ -390,7 +392,8 @@
  {
   "type": "popup",
   "genre": [
-   "カフェ"
+   "カフェ",
+   "コラボカフェ"
   ],
   "name": "「トイ・ストーリー5」OH MY CAFE（表参道）",
   "area": "表参道",
@@ -806,7 +809,8 @@
   "type": "popup",
   "genre": [
    "カフェ",
-   "スイーツ"
+   "スイーツ",
+   "コラボカフェ"
   ],
   "name": "はなまるおばけのはなまるごほうびカフェ（東京会場）",
   "area": "原宿",
@@ -877,7 +881,8 @@
   "type": "popup",
   "genre": [
    "カフェ",
-   "スイーツ"
+   "スイーツ",
+   "コラボカフェ"
   ],
   "name": "「くまのプーさん」OH MY CAFE（東京・スカイツリータウン）",
   "area": "押上・東京スカイツリー",
@@ -1570,7 +1575,8 @@
   "type": "popup",
   "genre": [
    "カフェ",
-   "コーヒー"
+   "コーヒー",
+   "コラボカフェ"
   ],
   "name": "パンとエスプレッソとMoflinとまちあわせ",
   "area": "渋谷・MIYASHITA PARK",
@@ -1593,7 +1599,8 @@
   "type": "popup",
   "genre": [
    "カフェ",
-   "スイーツ"
+   "スイーツ",
+   "コラボカフェ"
   ],
   "name": "銀魂秋色茶房",
   "area": "池袋",
@@ -1617,7 +1624,8 @@
   "type": "popup",
   "genre": [
    "カフェ",
-   "スイーツ"
+   "スイーツ",
+   "コラボカフェ"
   ],
   "name": "「くまのプーさん」OH MY CAFE",
   "area": "押上・東京ソラマチ",
@@ -1730,7 +1738,8 @@
   "type": "popup",
   "genre": [
    "カフェ",
-   "スイーツ"
+   "スイーツ",
+   "コラボカフェ"
   ],
   "name": "刀剣乱舞万屋かふぇ〜軽装まつり〜",
   "area": "池袋",
@@ -1799,7 +1808,8 @@
   "type": "popup",
   "genre": [
    "スイーツ",
-   "カフェ"
+   "カフェ",
+   "コラボカフェ"
   ],
   "name": "ペコちゃん×しろたん みんなでふわふわスイーツパーティー",
   "area": "東京駅",
@@ -1822,7 +1832,8 @@
   "type": "popup",
   "genre": [
    "カフェ",
-   "スイーツ"
+   "スイーツ",
+   "コラボカフェ"
   ],
   "name": "「くまのプーさん」OH MY CAFE",
   "area": "押上・東京スカイツリータウン",
@@ -1835,10 +1846,11 @@
   },
   "confidence": "official",
   "sources": [
-   "https://prtimes.jp/main/html/rd/p/000000315.000086964.html"
+   "https://prtimes.jp/main/html/rd/p/000000315.000086964.html",
+   "https://www.walkerplus.com/event/ar0313e609289/"
   ],
   "summary": "くまのプーさん原作デビュー100周年を記念したテーマカフェ「OH MY CAFE」が東京スカイツリータウン・ソラマチのBOX cafe&spaceにて開催。会期は2026年8月20日〜10月25日。",
-  "collected_at": "2026-08-22",
+  "collected_at": "2026-08-26",
   "id": "230ecf15977e"
  },
  {
@@ -1888,7 +1900,8 @@
  {
   "type": "popup",
   "genre": [
-   "カフェ"
+   "カフェ",
+   "コラボカフェ"
   ],
   "name": "ことのは文庫 創刊7周年記念コラボカフェ（Cafe＆Dining Take）",
   "area": "新富町",
@@ -2043,7 +2056,8 @@
  {
   "type": "popup",
   "genre": [
-   "カフェ"
+   "カフェ",
+   "コラボカフェ"
   ],
   "name": "ジグザグ×サンリオキャラクタァズCAFE",
   "area": "渋谷",
@@ -2153,7 +2167,8 @@
  {
   "type": "popup",
   "genre": [
-   "カフェ"
+   "カフェ",
+   "コラボカフェ"
   ],
   "name": "『お茶犬』コラボカフェ（カプコンカフェ 池袋店）",
   "area": "池袋",
@@ -2631,7 +2646,8 @@
  {
   "type": "event",
   "genre": [
-   "カフェ"
+   "カフェ",
+   "コラボカフェ"
   ],
   "name": "FC東京×府中市 コラボカフェ",
   "area": "府中",
@@ -2653,7 +2669,8 @@
  {
   "type": "popup",
   "genre": [
-   "カフェ"
+   "カフェ",
+   "コラボカフェ"
   ],
   "name": "呪術廻戦カフェ2026 5th Anniversary（新宿）",
   "area": "新宿",
@@ -2675,7 +2692,8 @@
  {
   "type": "popup",
   "genre": [
-   "カフェ"
+   "カフェ",
+   "コラボカフェ"
   ],
   "name": "初音ミク Wa Modern Cafe（池袋）",
   "area": "池袋",
@@ -2814,7 +2832,8 @@
   "type": "popup",
   "genre": [
    "コーヒー",
-   "カフェ"
+   "カフェ",
+   "コラボカフェ"
   ],
   "name": "\"15cm CAFÉ\" KRUPS by T-fal",
   "area": "原宿",
@@ -3045,5 +3064,491 @@
   "summary": "東京国立博物館の館内レストラン3店舗リニューアルの一環として、テラス席・テイクアウトを備えた「ガーデンカフェ」が2026年8月28日オープン予定。軽食やスパークリングワインなどを提供。",
   "collected_at": "2026-08-24",
   "id": "6b5f8f289e69"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "goodNess 渋谷",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティ4F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-05-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://konas-coffee.com/news/kivpnlpjs_v/",
+   "https://www.ryutsuu.biz/store/s051475.html"
+  ],
+  "summary": "コナズ珈琲を展開するKONA'Sの新ブランド1号店「goodNess（グッドネス）」が渋谷マークシティ4階に2026年5月28日グランドオープン。「いちばん近いハワイ」をコンセプトにハワイアン料理とアルコールを提供。",
+  "collected_at": "2026-08-26",
+  "id": "1597d9989874"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "THE SCENE TABLE GINZA（アニメ「天官賜福」展カフェ）",
+  "area": "銀座",
+  "address": "東京都中央区銀座2-3-6 松屋銀座 並木通り館3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-05",
+   "end": "2026-09-29"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://dtimes.jp/post-1343546/",
+   "https://premium.gamepedia.jp/hobby/archives/235245"
+  ],
+  "summary": "松屋銀座の新館「並木通り館」に誕生した展示施設「ギンザミライミュージアム」内のテーマカフェ「THE SCENE TABLE GINZA」で、「アニメ天官賜福展 -天地流光-」とのコラボメニューを2026年9月5日〜29日の期間限定で提供。",
+  "collected_at": "2026-08-26",
+  "id": "5a5a4647e1c4"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "アイスみーそーカフェ（Marunouchi Happ. Stand & Gallery）",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内2丁目5番地1 丸の内二丁目ビル1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-24",
+   "end": "2026-08-30"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://straightpress.jp/20260825/1695820"
+  ],
+  "summary": "冷たいみそ汁ドリンク「アイスみーそー」を楽しめる期間限定カフェが、丸の内の「Marunouchi Happ. Stand & Gallery」にて2026年8月24日〜30日開催。赤だしや貝だしなど複数の味のみそ汁ドリンクを提供。",
+  "collected_at": "2026-08-26",
+  "id": "b1c4dc3f30ff"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "明治安田CAFE 丸の内",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内2-1-1 明治生命館1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-11-22",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.timeout.jp/tokyo/ja/news/meijiyasudacafe-120125"
+  ],
+  "summary": "国指定重要文化財「明治生命館」1階に、文化財カフェとして日本最大級となる60席の「明治安田CAFE 丸の内」が2025年11月22日にオープン。大理石の柱や自然光が差し込む大ホールで喫茶を楽しめる。",
+  "collected_at": "2026-08-27",
+  "id": "1ec133891dda"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "BLEACH GRAFFITI コラボカフェ at 洒落CAFE（新宿マルイ本館店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-30-13 新宿マルイ本館8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-26",
+   "end": "2026-09-13"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.tv-tokyo.co.jp/plus/external-pr/entry/188740.html"
+  ],
+  "summary": "TVアニメ『BLEACH 千年血戦篇-禍進譚-』放送記念コラボカフェが洒落CAFE新宿マルイ本館店にて2026年8月26日〜9月13日開催。オリジナルグッズとコラボメニューを展開。",
+  "collected_at": "2026-08-27",
+  "id": "50e14cb41650"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "カフェ"
+  ],
+  "name": "Drop Coffee Roasters 中野マルイ",
+  "area": "中野",
+  "address": "東京都中野区中野3-34-28 中野マルイ2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-18",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://media.kawa-colle.jp/_ct/17860292"
+  ],
+  "summary": "スウェーデン・ストックホルム発のスペシャルティコーヒーブランド「Drop Coffee Roasters」が日本初出店となる旗艦店を中野マルイ2階に2026年9月18日オープン予定。51席で北欧の「フィーカ」文化を提案する。",
+  "collected_at": "2026-08-27",
+  "id": "8ccf1de144b5"
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "秋の栗スイーツフェア",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 東京駅一番街 グランスタ東京・グランスタ丸の内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": "2026-10-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000904.000082978.html"
+  ],
+  "summary": "グランスタ東京・グランスタ丸の内にて初開催の「和栗と洋栗食べ比べ 秋の栗スイーツ」フェア。注文を受けてから搾る作りたてモンブラン、和栗の半熟カヌレ、栗×ショコラのデニッシュなどグランスタ限定21商品が集結。",
+  "collected_at": "2026-08-28",
+  "id": "c40dff8f7de6"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "SAKAMOTO DAYS SECRET BAR & CAFE（池袋）",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1-28-2 池袋パルコ8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://collabo.sld-inc.com/sakamotodays_2608"
+  ],
+  "summary": "TVアニメ『SAKAMOTO DAYS』のコラボカフェ「SAKAMOTO DAYS SECRET BAR & CAFE」がCollabo_Index池袋（池袋パルコ8F）にて2026年8月28日オープン。秘密の隠れ家バーをコンセプトに、坂本たちをイメージしたフード・スイーツ・ドリンクを提供。",
+  "collected_at": "2026-08-28",
+  "id": "f283e087c19a"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "カフェ"
+  ],
+  "name": "スターバックス コーヒー 西東京新町店",
+  "area": "西東京市",
+  "address": "東京都西東京市新町5-19-10",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-05-25",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://store.starbucks.co.jp/detail-1815/"
+  ],
+  "summary": "樹齢約300年のクスノキを残した木造の「スターバックス コーヒー 西東京新町店」が2026年5月25日オープン。木材活用による環境配慮型の店舗づくりを推進し、ドライブスルーにも対応。",
+  "collected_at": "2026-08-28",
+  "id": "5385accb1b6e"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ポークビッツ ポップアップキャラバン（東京・新橋 第1弾）",
+  "area": "新橋",
+  "address": "東京都港区新橋2-14-4 カフェ ピアッザ 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-02",
+   "end": "2026-09-04"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000763.000004867.html"
+  ],
+  "summary": "伊藤ハム米久ホールディングスが全6都市を巡る「ポークビッツ」ポップアップキャラバンを実施。第1弾は東京・新橋のカフェ ピアッザにて2026年9月2日〜4日開催。",
+  "collected_at": "2026-08-29",
+  "id": "cc429cf8a763"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "URBAN COFFEE ROASTER TOKYO（UCR）",
+  "area": "外苑前",
+  "address": "東京都港区南青山2-11-14 シグマ南青山ビル1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-07",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://straightpress.jp/20260805/1678382"
+  ],
+  "summary": "香港発のスペシャルティコーヒーブランド「URBAN COFFEE ROASTER（UCR）」が海外初の独立店舗を外苑前エリアにオープン。2026年8月7日開業、代表メニューは「Coffee Eggnog」。",
+  "collected_at": "2026-08-29",
+  "id": "e2b46a9beead"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "UNIVERSAL WORKS CANTEEN（ユニバーサルワークス キャンティーン）",
+  "area": "有楽町",
+  "address": "東京都千代田区有楽町2-5-1 阪急メンズ東京6階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashionsnap.com/article/2026-08-28/universal-works-hankyu-mens-tokyo/"
+  ],
+  "summary": "英国発「ユニバーサルワークス」が日本初の直営店を阪急メンズ東京6階に2026年8月28日オープン。ブランド初のカフェスペース「ユニバーサルワークス キャンティーン」を併設。",
+  "collected_at": "2026-08-29",
+  "id": "59140866093b"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "パンケーキ",
+   "カフェ"
+  ],
+  "name": "FLIPPER'S 新宿店",
+  "area": "新宿",
+  "address": "東京都新宿区新宿4-1-7 DIGS 2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-12-23",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/204614/"
+  ],
+  "summary": "“奇跡のパンケーキ”で人気の「フリッパーズ」が、食の新拠点「DIGS」2階に新宿店を2025年12月23日オープン。個室を備えたゆったりとした空間が特徴。",
+  "collected_at": "2026-08-29",
+  "id": "d976ad4c617a"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "CORTIS COLLABORATION CAFE in SHIBUYA TSUTAYA",
+  "area": "渋谷",
+  "address": "東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA 7階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-27",
+   "end": "2026-09-23"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://shibuyatsutaya.tsite.jp/article/2563.html"
+  ],
+  "summary": "5人組グループCORTISの初の日本単独公演を記念したコラボカフェがSHIBUYA TSUTAYA 7階に2026年8月27日〜9月23日開催。限定フード・ドリンクと大型ビジュアル展示、ポップアップストアを併設。",
+  "collected_at": "2026-08-29",
+  "id": "c8dc710ffa9f"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "セルフカフェ早稲田店",
+  "area": "早稲田",
+  "address": "東京都新宿区馬場下町61-6 髙橋ビル4階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-15",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://selfcafe.jp/newstore/202608122844/",
+   "https://prtimes.jp/main/html/rd/p/000001118.000045400.html"
+  ],
+  "summary": "会員登録不要・完全無人型の「セルフカフェ」が早稲田駅前に新店舗「セルフカフェ早稲田店」を2026年8月15日オープン。ドリンク1杯で時間無制限、電源・Wi-Fi完備の50席、朝6時〜深夜0時営業。",
+  "collected_at": "2026-08-26",
+  "id": "72c5e27bddb0"
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee（ア バイト コーヒー）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 地下1階 丸の内改札内エリア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000300.000014043.html",
+   "https://www.ryutsuu.biz/store/s061111.html"
+  ],
+  "summary": "菓子ブランドBAKE INC.が「コーヒーを飲むから食べるへ」をコンセプトにした新ブランド「A Bite Coffee」を、グランスタ東京の地下丸の内改札内エリアリニューアルに合わせ2026年9月16日オープン予定。ひとくちサイズのコーヒー菓子を展開。",
+  "collected_at": "2026-08-26",
+  "id": "a95f9b97839d"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "LEAF et BEURRE（リーフ エ ブール）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店1階 ほっぺタウン「MVPスイーツ」",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-26",
+   "end": "2026-09-01"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002493.000005342.html",
+   "https://www.jiji.com/jc/article?k=000002493.000005342&g=prt"
+  ],
+  "summary": "紅茶とバターの香りにこだわったスイーツブランド「LEAF et BEURRE」が大丸東京店に初登場。国産バターとアールグレイ茶葉を使ったサブレ「ブール・ド・ネージュ」などを2026年8月26日〜9月1日の期間限定販売。",
+  "collected_at": "2026-08-26",
+  "id": "6e528939d4d8"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "『妹はシスコン兄がめんどくさい』コラボカフェ in Patio de METRO",
+  "area": "池袋",
+  "address": "東京都豊島区西池袋3丁目28-14 東京芸術劇場地下1階直結 Patio de METRO",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-25",
+   "end": "2026-09-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.anemo.co.jp/pressrelease/435216-20260814/",
+   "https://newscast.jp/news/5205967"
+  ],
+  "summary": "コミック『妹はシスコン兄がめんどくさい』6巻発売記念コラボカフェが、池袋・東京芸術劇場地下1階直結のPatio de METROにて2026年8月25日〜9月13日開催。コラボフード・ドリンクや購入特典コースター、キャラクターグッズを展開。",
+  "collected_at": "2026-08-27",
+  "id": "f17d197019a9"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "アニメ「リラックマ」×「SASUKE」コラボカフェ（ブランチパーク）",
+  "area": "赤坂",
+  "address": "東京都港区赤坂5丁目4-7 THE HEXAGON 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-27",
+   "end": "2026-09-13"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://brunchpark.jp/blogs/topics/rilakkuma-anime-com",
+   "https://www.oricon.co.jp/news/2472423/full/"
+  ],
+  "summary": "『SASUKEワールドカップ2026』開催記念でアニメ『リラックマ』とのコラボカフェが赤坂ブランチパークで開催。『てくてく世界旅行』をテーマにしたフード・ドリンクを提供。",
+  "collected_at": "2026-08-29",
+  "id": "c95aafa7e7b6"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "映画ちいかわ 人魚の島のひみつ Collaboration CAFE（渋谷PARCO店）",
+  "area": "渋谷",
+  "address": "東京都渋谷区宇田川町15-1 渋谷PARCO 6F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-10",
+   "end": "2026-09-14"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://cafe.parco.jp/event/chiikawamovie_cafe_shibuya?area=029438"
+  ],
+  "summary": "『映画ちいかわ 人魚の島のひみつ』のコラボカフェが渋谷PARCO6階のTHE GUEST CAFE BY PARCOで開催。島編着想のメニューやオリジナルグッズを展開。",
+  "collected_at": "2026-08-29",
+  "id": "adeb9a3c3b70"
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉×スイーツパラダイス コラボカフェ（COLLABO PARADISE 新宿マルイアネックス店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-1-26 新宿マルイ アネックス 8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-02",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sweets-paradise.jp/collaboration/magica-wr",
+   "https://www.sweets-paradise.jp/shop/collabo-paradise-shinjukumaruiannex/"
+  ],
+  "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェがCOLLABO PARADISE新宿マルイアネックス店で2026年9月2日より開催。オリジナルメニューやコースターを展開。",
+  "collected_at": "2026-08-29",
+  "id": "cb27cc977af4"
  }
 ]

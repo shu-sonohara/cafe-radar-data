@@ -139,3 +139,14 @@ def test_published_items_carry_freshness_field(tmp_path):
     items = {i["name"]: i for i in json.loads(Path(out).read_text(encoding="utf-8"))["items"]}
     assert items["新店カフェ"]["freshness"] == 30
     assert items["抹茶POP-UP"]["freshness"] is None
+
+
+def test_run_tags_collab_cafe_genre(tmp_path):
+    incoming = tmp_path / "incoming"
+    incoming.mkdir()
+    collab = {**RAW, "name": "ブルーロックカフェ コラボ", "address": "東京都渋谷区9-9"}
+    (incoming / "a.json").write_text(json.dumps([collab], ensure_ascii=False), encoding="utf-8")
+    out = str(tmp_path / "items.json")
+    run(str(incoming), out, today="2026-08-19", http_get_json=lambda u: GSI_OK)
+    item = json.loads(Path(out).read_text(encoding="utf-8"))["items"][0]
+    assert "コラボカフェ" in item["genre"]
