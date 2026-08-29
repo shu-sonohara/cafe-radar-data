@@ -23,7 +23,7 @@ RSS系統が拾わない情報（個人店・ローカルメディア・百貨�
 
 ## 裏取り
 
-`structure.md` と同じ（WebFetchが遮断されていればWebSearch突き合わせ）。
+`structure.md` と同じ（WebFetchで記事を直接開いて確認。遮断されていればWebSearch突き合わせ）。
 出典URLが確認できたものだけ。個人ブログ・まとめ単一ソースは `confidence: "unverified"`。
 
 ## ルール
