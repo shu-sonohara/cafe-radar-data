@@ -932,29 +932,6 @@
  {
   "type": "new_cafe",
   "genre": [
-   "カフェ",
-   "コーヒー"
-  ],
-  "name": "タリーズコーヒー テレ東BIZカフェ店",
-  "area": "六本木一丁目",
-  "address": "東京都港区六本木3-2-1 住友不動産六本木グランドタワー1F",
-  "lat": null,
-  "lng": null,
-  "period": {
-   "start": "2026-06-01",
-   "end": null
-  },
-  "confidence": "official",
-  "sources": [
-   "https://prtimes.jp/main/html/rd/p/000002269.000002734.html"
-  ],
-  "summary": "テレビ東京ホールディングスが六本木一丁目駅直結の複合カフェ「タリーズコーヒー テレ東BIZカフェ店」をグランドオープン。ビジネスパーソン向けのインプット拠点として展開する。",
-  "collected_at": "2026-08-22",
-  "id": "12f501badb7c"
- },
- {
-  "type": "new_cafe",
-  "genre": [
    "コーヒー"
   ],
   "name": "Bacha Coffee 新丸ビル",
@@ -1597,32 +1574,8 @@
    "https://www.excite.co.jp/news/article/Nijimen_0000000000630241/"
   ],
   "summary": "TVアニメ『銀魂』とのコラボカフェ「銀魂秋色茶房」がand GALLERY池袋店にて2026年9月9日〜10月7日開催。秋の和装姿の銀時たちをテーマにした限定メニュー・グッズを展開。",
-  "collected_at": "2026-08-22",
+  "collected_at": "2026-08-29",
   "id": "f1c6058ea878"
- },
- {
-  "type": "popup",
-  "genre": [
-   "カフェ",
-   "スイーツ",
-   "コラボカフェ"
-  ],
-  "name": "「くまのプーさん」OH MY CAFE",
-  "area": "押上・東京ソラマチ",
-  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ（BOX cafe&space 東京ソラマチ店）",
-  "lat": null,
-  "lng": null,
-  "period": {
-   "start": "2026-08-20",
-   "end": "2026-10-25"
-  },
-  "confidence": "official",
-  "sources": [
-   "https://prtimes.jp/main/html/rd/p/000000315.000086964.html"
-  ],
-  "summary": "『くまのプーさん』原作デビュー100周年を記念したスペシャルカフェがBOX cafe&space東京ソラマチ店にて2026年8月20日〜10月25日、期間限定オープン中。「英雄をたたえるケーキセット」など記念メニューを提供。",
-  "collected_at": "2026-08-22",
-  "id": "6ca937bc0970"
  },
  {
   "type": "new_cafe",
@@ -1641,33 +1594,12 @@
   "confidence": "official",
   "sources": [
    "https://prtimes.jp/main/html/rd/p/000000005.000189124.html",
-   "https://www.atpress.ne.jp/news/618358"
+   "https://www.atpress.ne.jp/news/618358",
+   "https://www.enjoytokyo.jp/news/205125/"
   ],
   "summary": "東京国立博物館の館内レストランがリニューアルし、「THE RESTAURANT 東京国立博物館」と「ガーデンカフェ」が2026年8月28日にオープン。ガーデンカフェはテラス席・テイクアウトでカフェメニューや軽食、スパークリングワインを提供。",
-  "collected_at": "2026-08-22",
+  "collected_at": "2026-08-24",
   "id": "7f68234b6aba"
- },
- {
-  "type": "new_cafe",
-  "genre": [
-   "カフェ"
-  ],
-  "name": "TOKYO STATION CAFE -THE NORTH DOME-",
-  "area": "東京駅・丸の内",
-  "address": "東京都千代田区丸の内1-9-1 JR東日本東京駅丸の内北口改札外",
-  "lat": null,
-  "lng": null,
-  "period": {
-   "start": "2026-04-21",
-   "end": null
-  },
-  "confidence": "official",
-  "sources": [
-   "https://prtimes.jp/main/html/rd/p/000001069.000082978.html"
-  ],
-  "summary": "重要文化財である東京駅丸の内駅舎の歴史的質感を体感できるカフェが2026年4月21日、東京駅丸の内北ドーム内にオープン。大正3年竣工当時の「待合室」の空間を受け継ぐデザインで、全63席を完備。",
-  "collected_at": "2026-08-22",
-  "id": "5a92e3a0cc73"
  },
  {
   "type": "new_cafe",
@@ -1760,29 +1692,6 @@
   "summary": "JR東京駅「グランスタ」にて、桃やマンゴーなど夏フルーツを使った冷たいグラススイーツ・ゼリー・パンなどを集めた「ひんやりフルーツ。」フェアを初開催。グランスタ限定18商品を含む全22商品が登場、2026年7月21日〜9月7日開催中。",
   "collected_at": "2026-08-22",
   "id": "07b307c47322"
- },
- {
-  "type": "new_cafe",
-  "genre": [
-   "カフェ",
-   "コーヒー"
-  ],
-  "name": "HORIGUCHI COFFEE à la table",
-  "area": "有明（東京ドリームパーク）",
-  "address": "東京都江東区有明3-3-8 東京ドリームパーク 2F",
-  "lat": null,
-  "lng": null,
-  "period": {
-   "start": "2026-06-12",
-   "end": null
-  },
-  "confidence": "official",
-  "sources": [
-   "https://prtimes.jp/main/html/rd/p/000000030.000068009.html"
-  ],
-  "summary": "堀口珈琲がスペシャルティコーヒーを軸にしたフレンチカフェ「HORIGUCHI COFFEE à la table」を東京都江東区有明の東京ドリームパーク2Fに2026年6月12日オープン。堀口珈琲の直営7号店で、初のディナー営業も導入している。",
-  "collected_at": "2026-08-22",
-  "id": "bcc7414c2cf5"
  },
  {
   "type": "popup",
@@ -1944,28 +1853,6 @@
  {
   "type": "new_cafe",
   "genre": [
-   "カフェ"
-  ],
-  "name": "TOKYO STATION CAFE -THE NORTH DOME-",
-  "area": "東京駅・丸の内",
-  "address": "東京都千代田区丸の内1-9-1 JR東京駅 丸の内北口改札外",
-  "lat": null,
-  "lng": null,
-  "period": {
-   "start": "2026-04-21",
-   "end": null
-  },
-  "confidence": "official",
-  "sources": [
-   "https://prtimes.jp/main/html/rd/p/000001069.000082978.html"
-  ],
-  "summary": "重要文化財である東京駅丸の内駅舎内に「TOKYO STATION CAFE -THE NORTH DOME-」が2026年4月21日オープン。1914年竣工当時の待合室空間を受け継いだ内装が特徴。",
-  "collected_at": "2026-08-22",
-  "id": "05880f4b6224"
- },
- {
-  "type": "new_cafe",
-  "genre": [
    "カフェ",
    "パンケーキ"
   ],
@@ -1985,28 +1872,6 @@
   "summary": "アパレルブランドJOURNAL STANDARDが手掛ける新業態カフェ「JOURNAL STANDARD CAFE」が池袋・サンシャインシティ アルパ3階に2026年7月17日オープン。カスタムティー飲み放題とスフレベイクパンケーキが名物。",
   "collected_at": "2026-08-22",
   "id": "cbf7b2b985bb"
- },
- {
-  "type": "new_cafe",
-  "genre": [
-   "カフェ"
-  ],
-  "name": "Antre Tokyo（アントレ トーキョー）",
-  "area": "渋谷",
-  "address": "東京都渋谷区渋谷3-25-7 Bre.S SHIBUYA 1F",
-  "lat": null,
-  "lng": null,
-  "period": {
-   "start": "2026-07-11",
-   "end": null
-  },
-  "confidence": "official",
-  "sources": [
-   "https://prtimes.jp/main/html/rd/p/000000005.000164042.html"
-  ],
-  "summary": "インドネシアの食文化を体験できるカフェ「Antre Tokyo」が、インドネシア発信拠点「SUKU SPACE」1階に2026年7月11日オープン。名物はインドネシア料理「ルンダン」を使ったパイ。",
-  "collected_at": "2026-08-22",
-  "id": "40fa8f9aaa44"
  },
  {
   "type": "popup",
@@ -2981,29 +2846,6 @@
   "genre": [
    "カフェ"
   ],
-  "name": "ガーデンカフェ（東京国立博物館）",
-  "area": "上野",
-  "address": "東京都台東区上野公園13番9号 東京国立博物館",
-  "lat": null,
-  "lng": null,
-  "period": {
-   "start": "2026-08-28",
-   "end": null
-  },
-  "confidence": "official",
-  "sources": [
-   "https://prtimes.jp/main/html/rd/p/000000005.000189124.html",
-   "https://www.enjoytokyo.jp/news/205125/"
-  ],
-  "summary": "東京国立博物館の館内レストラン3店舗リニューアルの一環として、テラス席・テイクアウトを備えた「ガーデンカフェ」が2026年8月28日オープン予定。軽食やスパークリングワインなどを提供。",
-  "collected_at": "2026-08-24",
-  "id": "6b5f8f289e69"
- },
- {
-  "type": "new_cafe",
-  "genre": [
-   "カフェ"
-  ],
   "name": "goodNess 渋谷",
   "area": "渋谷",
   "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティ4F",
@@ -3577,28 +3419,5 @@
   "summary": "TVアニメ『東京リベンジャーズ』×プリンセスカフェ池袋館のコラボカフェが2026年9月4日〜9月27日開催。前半・後半でメニューやグッズが切り替わる。",
   "collected_at": "2026-08-29",
   "id": "6f964f3e1a7c"
- },
- {
-  "type": "popup",
-  "genre": [
-   "コラボカフェ"
-  ],
-  "name": "銀魂秋色茶房（and GALLERY 池袋店）",
-  "area": "池袋",
-  "address": "東京都豊島区東池袋1-5-7 LABI1 LIFE SELECT池袋7F",
-  "lat": null,
-  "lng": null,
-  "period": {
-   "start": "2026-09-09",
-   "end": "2026-10-07"
-  },
-  "confidence": "media",
-  "sources": [
-   "https://news.denfaminicogamer.jp/news/2608102c",
-   "https://www.excite.co.jp/news/article/Nijimen_0000000000630241/"
-  ],
-  "summary": "TVアニメ『銀魂』とand GALLERYのコラボカフェ「銀魂秋色茶房」がand GALLERY池袋店にて2026年9月9日〜10月7日開催。秋の和装をまとったキャラクターの描き下ろしイラストを使用。",
-  "collected_at": "2026-08-29",
-  "id": "2d88b62810e1"
  }
 ]

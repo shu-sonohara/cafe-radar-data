@@ -66,8 +66,8 @@ def test_same_spot_same_period_popups_merge_even_with_different_names():
 
 def test_same_spot_different_period_popups_stay_separate():
     # 同じ会場（BOX cafe&space 等）で期間が違うコラボは別イベント
-    a = _popup("Aカフェ", 35.6720, 139.7370, "2026-08-01", "2026-08-31", "https://a.example.com")
-    b = _popup("Bカフェ", 35.6720, 139.7370, "2026-09-01", "2026-09-30", "https://b.example.com")
+    a = _popup("抹茶スタンド ポップアップ", 35.6720, 139.7370, "2026-08-01", "2026-08-31", "https://a.example.com")
+    b = _popup("BLEACH GRAFFITI コラボ", 35.6720, 139.7370, "2026-09-01", "2026-09-30", "https://b.example.com")
     assert len(dedupe_by_location([a, b])) == 2
 
 

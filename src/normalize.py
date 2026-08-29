@@ -28,11 +28,19 @@ def key_name(name: str) -> str:
     return normalize_name(_PAREN.sub("", name))
 
 
+_WS = re.compile(r"[\s　・]+")
+_DASHES = re.compile(r"[‐−–—]")
+
+
 def key_address(address: str) -> str:
-    """重複判定用の住所: 番地までで切り、建物名・階の表記ゆれを無視する。"""
-    norm = normalize_address(address)
-    m = _ADDR_CORE.match(norm)
-    return m.group(1) if m else norm
+    """重複判定用の住所: 番地（例「赤坂5-4-7」）までで切り、建物名・階の表記ゆれを無視する。
+    normalize_address はハイフンも落とすため、ここではハイフンを残した形で番地を切り出す。
+    番地まで無い住所（丁目レベルの unverified 等）は normalize_address にフォールバック。"""
+    s = unicodedata.normalize("NFKC", address).lower()
+    s = s.replace("丁目", "-").replace("番地", "-").replace("番", "-").replace("号", "")
+    s = _DASHES.sub("-", _WS.sub("", s))
+    m = _ADDR_CORE.match(s)
+    return m.group(1) if m else normalize_address(address)
 
 
 def _key(item: dict) -> str:
