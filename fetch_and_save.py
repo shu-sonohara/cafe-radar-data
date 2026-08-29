@@ -10,9 +10,10 @@ from pathlib import Path
 
 import requests
 
+from src.candidates import drop_stale
 from src.fetch_rss import fetch_all, load_sources, merge_candidates
 
-TODAY = date.today().isoformat()
+TODAY = date.today().isoformat()  # Actions側は TZ=Asia/Tokyo を設定して呼ぶ
 STORE = Path("data/raw_candidates.json")
 
 fresh = fetch_all(
@@ -21,6 +22,8 @@ fresh = fetch_all(
         u, timeout=30, headers={"User-Agent": "cafe-radar/0.1"}).text,
     config_path="sources.yaml",
 )
+# GoogleニュースRSSは数年前の記事も返すため、記事日付が60日より古いものはここで落とす
+fresh = drop_stale(fresh, today=TODAY)
 existing = json.loads(STORE.read_text(encoding="utf-8")) if STORE.exists() else []
 merged = merge_candidates(existing, fresh, today=TODAY)
 

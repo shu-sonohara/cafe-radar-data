@@ -24,14 +24,16 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python -m pytest -q
       - name: RSS候補を取得
-        run: python fetch_and_save.py
+        run: TZ=Asia/Tokyo python fetch_and_save.py
+      - name: 要確認候補を選別（処理済み・古い記事・同話題を除外）
+        run: python -m src.candidates todo --today "$(TZ=Asia/Tokyo date +%F)"
       - name: 配信JSONを生成（ジオコーディング込み）
         run: python -m src.run_pipeline --today "$(TZ=Asia/Tokyo date +%F)"
       - name: commit
         run: |
           git config user.name "cafe-radar-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/raw_candidates.json data/geocode_cache.json docs/data/items.json
+          git add data/raw_candidates.json data/candidates_todo.json data/geocode_cache.json docs/data/items.json
           git diff --cached --quiet || git commit -m "chore: 候補取得と配信JSON更新"
           git pull --rebase --autostash
           git push
