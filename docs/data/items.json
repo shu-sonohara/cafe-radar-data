@@ -715,7 +715,8 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000001.000188075.html"
+    "https://prtimes.jp/main/html/rd/p/000000001.000188075.html",
+    "https://straightpress.jp/20260805/1678382"
    ],
    "summary": "香港発、チャンピオンバリスタ手掛けるスペシャルティコーヒーブランド「URBAN COFFEE ROASTER」の海外初独立店舗が外苑いちょう並木前に2026年8月7日オープン。",
    "collected_at": "2026-08-22",
@@ -2642,7 +2643,8 @@
    "sources": [
     "https://brunchpark.jp/blogs/topics/rilakkuma-anime-com",
     "https://www.san-x.co.jp/ja/blog/2026-08-post-0146180/",
-    "https://news.yahoo.co.jp/articles/dd8a7bd5a732c8138bfc9316f004387ffe27f449"
+    "https://news.yahoo.co.jp/articles/dd8a7bd5a732c8138bfc9316f004387ffe27f449",
+    "https://www.oricon.co.jp/news/2472423/full/"
    ],
    "summary": "「SASUKEワールドカップ2026」開催記念として、アニメ「リラックマ」とのコラボカフェが赤坂「ブランチパーク」にて2026年8月27日〜9月13日開催。第2弾「てくてく世界旅行」をイメージしたメニューを展開。",
    "collected_at": "2026-08-23",
@@ -2950,6 +2952,103 @@
    "freshness": 180
   },
   {
+   "type": "popup",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "ポークビッツ ポップアップキャラバン（東京・新橋 第1弾）",
+   "area": "新橋",
+   "address": "東京都港区新橋2-14-4 カフェ ピアッザ 1F",
+   "lat": 35.666718,
+   "lng": 139.755554,
+   "period": {
+    "start": "2026-09-02",
+    "end": "2026-09-04"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000763.000004867.html"
+   ],
+   "summary": "伊藤ハム米久ホールディングスが全6都市を巡る「ポークビッツ」ポップアップキャラバンを実施。第1弾は東京・新橋のカフェ ピアッザにて2026年9月2日〜4日開催。",
+   "collected_at": "2026-08-29",
+   "id": "cc429cf8a763",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "UNIVERSAL WORKS CANTEEN（ユニバーサルワークス キャンティーン）",
+   "area": "有楽町",
+   "address": "東京都千代田区有楽町2-5-1 阪急メンズ東京6階",
+   "lat": 35.673576,
+   "lng": 139.762802,
+   "period": {
+    "start": "2026-08-28",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.fashionsnap.com/article/2026-08-28/universal-works-hankyu-mens-tokyo/"
+   ],
+   "summary": "英国発「ユニバーサルワークス」が日本初の直営店を阪急メンズ東京6階に2026年8月28日オープン。ブランド初のカフェスペース「ユニバーサルワークス キャンティーン」を併設。",
+   "collected_at": "2026-08-29",
+   "id": "59140866093b",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "パンケーキ",
+    "カフェ"
+   ],
+   "name": "FLIPPER'S 新宿店",
+   "area": "新宿",
+   "address": "東京都新宿区新宿4-1-7 DIGS 2階",
+   "lat": 35.688671,
+   "lng": 139.702438,
+   "period": {
+    "start": "2025-12-23",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.enjoytokyo.jp/news/204614/"
+   ],
+   "summary": "“奇跡のパンケーキ”で人気の「フリッパーズ」が、食の新拠点「DIGS」2階に新宿店を2025年12月23日オープン。個室を備えたゆったりとした空間が特徴。",
+   "collected_at": "2026-08-29",
+   "id": "d976ad4c617a",
+   "is_new": false,
+   "freshness": 365
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "CORTIS COLLABORATION CAFE in SHIBUYA TSUTAYA",
+   "area": "渋谷",
+   "address": "東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA 7階",
+   "lat": 35.659824,
+   "lng": 139.700226,
+   "period": {
+    "start": "2026-08-27",
+    "end": "2026-09-23"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://shibuyatsutaya.tsite.jp/article/2563.html"
+   ],
+   "summary": "5人組グループCORTISの初の日本単独公演を記念したコラボカフェがSHIBUYA TSUTAYA 7階に2026年8月27日〜9月23日開催。限定フード・ドリンクと大型ビジュアル展示、ポップアップストアを併設。",
+   "collected_at": "2026-08-29",
+   "id": "c8dc710ffa9f",
+   "is_new": false,
+   "freshness": null
+  },
+  {
    "type": "new_cafe",
    "genre": [
     "カフェ"
@@ -3021,6 +3120,57 @@
    "summary": "コミック『妹はシスコン兄がめんどくさい』6巻発売記念コラボカフェが、池袋・東京芸術劇場地下1階直結のPatio de METROにて2026年8月25日〜9月13日開催。コラボフード・ドリンクや購入特典コースター、キャラクターグッズを展開。",
    "collected_at": "2026-08-27",
    "id": "f17d197019a9",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "スイーツ"
+   ],
+   "name": "映画ちいかわ 人魚の島のひみつ Collaboration CAFE（渋谷PARCO店）",
+   "area": "渋谷",
+   "address": "東京都渋谷区宇田川町15-1 渋谷PARCO 6F",
+   "lat": 35.662212,
+   "lng": 139.699203,
+   "period": {
+    "start": "2026-07-10",
+    "end": "2026-09-14"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://cafe.parco.jp/event/chiikawamovie_cafe_shibuya?area=029438"
+   ],
+   "summary": "『映画ちいかわ 人魚の島のひみつ』のコラボカフェが渋谷PARCO6階のTHE GUEST CAFE BY PARCOで開催。島編着想のメニューやオリジナルグッズを展開。",
+   "collected_at": "2026-08-29",
+   "id": "adeb9a3c3b70",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "スイーツ"
+   ],
+   "name": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉×スイーツパラダイス コラボカフェ（COLLABO PARADISE 新宿マルイアネックス店）",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3-1-26 新宿マルイ アネックス 8F",
+   "lat": 35.690266,
+   "lng": 139.705917,
+   "period": {
+    "start": "2026-09-02",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.sweets-paradise.jp/collaboration/magica-wr",
+    "https://www.sweets-paradise.jp/shop/collabo-paradise-shinjukumaruiannex/"
+   ],
+   "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェがCOLLABO PARADISE新宿マルイアネックス店で2026年9月2日より開催。オリジナルメニューやコースターを展開。",
+   "collected_at": "2026-08-29",
+   "id": "cb27cc977af4",
    "is_new": false,
    "freshness": null
   }
