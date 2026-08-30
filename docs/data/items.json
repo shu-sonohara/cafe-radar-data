@@ -51,7 +51,7 @@
     "https://cho-animedia.jp/article/2026/08/22/62510.html"
    ],
    "summary": "TVアニメ『進撃の巨人』のテーマカフェがルミネエスト新宿8階のBOX cafe&space ルミネエスト新宿2号店で2026年9月3日〜10月12日開催。WIT STUDIOが企画協力し「決戦前夜の晩餐」をコンセプトにした限定メニューと描き下ろしグッズを展開。",
-   "collected_at": "2026-08-22",
+   "collected_at": "2026-08-31",
    "id": "372a7e6fed2c",
    "is_new": false,
    "freshness": null
@@ -2986,10 +2986,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://shibuyatsutaya.tsite.jp/article/2563.html"
+    "https://shibuyatsutaya.tsite.jp/article/2563.html",
+    "https://korepo.com/archives/1703769"
    ],
    "summary": "5人組グループCORTISの初の日本単独公演を記念したコラボカフェがSHIBUYA TSUTAYA 7階に2026年8月27日〜9月23日開催。限定フード・ドリンクと大型ビジュアル展示、ポップアップストアを併設。",
-   "collected_at": "2026-08-29",
+   "collected_at": "2026-08-31",
    "id": "c8dc710ffa9f",
    "is_new": false,
    "freshness": null
@@ -3140,10 +3141,11 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000002.000136860.html",
-    "https://www.enjoytokyo.jp/news/205114/"
+    "https://www.enjoytokyo.jp/news/205114/",
+    "https://www.fashion-press.net/news/149587"
    ],
    "summary": "洋菓子世界大会優勝シェフ率いるパティスリーブランド「PRISM」の新業態「PRISMIC」が2026年8月8日、渋谷1丁目にオープン。サロン併設スペースは9月末オープン予定。",
-   "collected_at": "2026-08-29",
+   "collected_at": "2026-08-31",
    "id": "3be2e27c6e70",
    "is_new": true,
    "freshness": 30
@@ -3199,6 +3201,32 @@
    "freshness": null
   },
   {
+   "type": "new_cafe",
+   "genre": [
+    "ベーカリー",
+    "カフェ"
+   ],
+   "name": "sonomama Tokyo",
+   "area": "渋谷",
+   "address": "東京都渋谷区渋谷2-11-12",
+   "lat": 35.66,
+   "lng": 139.706909,
+   "period": {
+    "start": "2026-01-26",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://nakameno853.blog/shibuya-cafe-sonomama-tokyo/",
+    "https://news.yahoo.co.jp/expert/articles/ff57024bf8bd33e0a5cd137bfb2b8b7f57de1300"
+   ],
+   "summary": "韓国・聖水エリア発の人気ベーカリー文化を取り入れたベーカリーカフェ。巨大デニッシュ・クロワッサンが名物。",
+   "collected_at": "2026-08-31",
+   "id": "60d00dd71f84",
+   "is_new": false,
+   "freshness": 365
+  },
+  {
    "type": "popup",
    "genre": [
     "カフェ",
@@ -3216,7 +3244,8 @@
    "confidence": "official",
    "sources": [
     "https://chugai-grace-cafe.jp/collaboration/gakuen_idolmaster_revival_shibuya/",
-    "https://idolmaster-official.jp/news/01_19534"
+    "https://idolmaster-official.jp/news/01_19534",
+    "https://chugai-grace-cafe.jp/collaboration/gakuen_idolmaster_shibuya/"
    ],
    "summary": "「学園アイドルマスター」とChugai Grace Caféのコラボカフェをリバイバル開催。限定メニュー・グッズ・特典を展開。",
    "collected_at": "2026-08-30",
@@ -3245,6 +3274,31 @@
    "summary": "香港の人気クッキー専門店「ジェニーベーカリー」の期間限定ショップ。マーガリン・ショートニング不使用のバタークッキーなどを販売。",
    "collected_at": "2026-08-30",
    "id": "dff478f28514",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "コラボカフェ"
+   ],
+   "name": "超かぐや姫！ in TreeVillage Cafe",
+   "area": "押上",
+   "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ ウエストヤード4F",
+   "lat": 35.710083,
+   "lng": 139.808609,
+   "period": {
+    "start": "2026-09-01",
+    "end": "2026-09-18"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://tree-village.jp/news/014472.html",
+    "https://collabo-cafe.com/events/collabo/cho-kaguyahime-tree-village-cafe-2026/"
+   ],
+   "summary": "『超かぐや姫！』とTreeVillage Cafeのコラボカフェ。新規描き下ろし「デフォっと」シリーズのグッズ・メニューを展開。",
+   "collected_at": "2026-08-31",
+   "id": "9011f0a80055",
    "is_new": false,
    "freshness": null
   }
