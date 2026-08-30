@@ -772,5 +772,119 @@
   "summary": "香港の人気クッキー専門店「ジェニーベーカリー」の期間限定ショップ。マーガリン・ショートニング不使用のバタークッキーなどを販売。",
   "collected_at": "2026-08-30",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "リラックマ×SASUKE コラボカフェ in ブランチパーク",
+  "area": "赤坂",
+  "address": "東京都港区赤坂5丁目4-7 THE HEXAGON 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-27",
+   "end": "2026-09-13"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://brunchpark.jp/blogs/topics/rilakkuma-anime-com",
+   "https://animeanime.jp/article/2026/08/06/101793.html"
+  ],
+  "summary": "アニメ『リラックマ てくてく世界旅行』とSASUKEのコラボカフェ。世界観をイメージしたフード・デザート・ドリンクを提供。",
+  "collected_at": "2026-08-31",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "そういう時期の進撃の巨人カフェ〜思春期の晩餐〜",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-03",
+   "end": "2026-10-12"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://collabo-cafe.com/events/collabo/shingeki-cafe-souiujiki-2026/",
+   "https://animeanime.jp/article/2026/08/22/102280.html"
+  ],
+  "summary": "『進撃の巨人』のテーマカフェ。BOX cafe&space ルミネエスト新宿2号店で開催、描き下ろしイラストのメニュー・グッズを展開。",
+  "collected_at": "2026-08-31",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "学園アイドルマスター × Chugai Grace Café 渋谷店（リバイバル）",
+  "area": "渋谷",
+  "address": "東京都渋谷区神南1-21-3 渋谷MODI 7F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-03",
+   "end": "2026-09-27"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://idolmaster-official.jp/news/01_19534",
+   "https://chugai-grace-cafe.jp/collaboration/gakuen_idolmaster_shibuya/"
+  ],
+  "summary": "『学園アイドルマスター』とChugai Grace Caféのコラボカフェのリバイバル開催。",
+  "collected_at": "2026-08-31",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "超かぐや姫！ in TreeVillage Cafe",
+  "area": "押上",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ ウエストヤード4F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-09-18"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://tree-village.jp/news/014472.html",
+   "https://collabo-cafe.com/events/collabo/cho-kaguyahime-tree-village-cafe-2026/"
+  ],
+  "summary": "『超かぐや姫！』とTreeVillage Cafeのコラボカフェ。新規描き下ろし「デフォっと」シリーズのグッズ・メニューを展開。",
+  "collected_at": "2026-08-31",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "PRISMIC（プリズミック）",
+  "area": "渋谷",
+  "address": "東京都渋谷区渋谷1-7-2 VORT渋谷east II 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-08",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/149587"
+  ],
+  "summary": "洋菓子世界大会優勝シェフ率いるブランド「PRISM」の東京初出店。ギフトスイーツのブティックと、できたてデザートを楽しめるショールームサロン（9月下旬オープン予定）を併設。",
+  "collected_at": "2026-08-31",
+  "id": ""
  }
 ]
