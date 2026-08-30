@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-30",
+ "updated_at": "2026-08-31",
  "items": [
   {
    "type": "new_cafe",
@@ -201,7 +201,7 @@
    "collected_at": "2026-08-22",
    "id": "020469e8c280",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -302,7 +302,7 @@
    "collected_at": "2026-08-22",
    "id": "e93b8aa28a9c",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "popup",
@@ -878,35 +878,8 @@
    "summary": "テレビ東京本社1階に「タリーズコーヒー テレ東BIZカフェ店」が2026年6月1日グランドオープン。スマホをかざすと有料番組「テレ東BIZ」が無料視聴でき、高速Wi-Fiも完備するビジネスパーソン向け店舗。",
    "collected_at": "2026-08-22",
    "id": "ac85fd16401c",
-   "is_new": true,
-   "freshness": 90
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "はなまるおばけのはなまるごほうびカフェ（東京会場）",
-   "area": "原宿",
-   "address": "東京都渋谷区神宮前6-28-6 キュープラザ原宿3F",
-   "lat": 35.666981,
-   "lng": 139.704132,
-   "period": {
-    "start": "2026-07-23",
-    "end": "2026-08-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000308.000086964.html",
-    "https://www.sanrio.co.jp/news/spots/ho-cafe-pop-up-20260707/"
-   ],
-   "summary": "サンリオキャラクター「はなまるおばけ」のテーマカフェがBOX cafe&space キュープラザ原宿店で2026年7月23日〜8月30日開催中。「特別なハナマル」がもらえるごほうびメニューを展開。",
-   "collected_at": "2026-08-29",
-   "id": "1d555737af8d",
    "is_new": false,
-   "freshness": null
+   "freshness": 180
   },
   {
    "type": "new_cafe",
@@ -2540,33 +2513,6 @@
   {
    "type": "popup",
    "genre": [
-    "コーヒー",
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "\"15cm CAFÉ\" KRUPS by T-fal",
-   "area": "原宿",
-   "address": "東京都渋谷区神宮前6-5-10 GATE（旧UNKNOWN HARAJUKU）",
-   "lat": 35.667896,
-   "lng": 139.705536,
-   "period": {
-    "start": "2026-08-28",
-    "end": "2026-08-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000406.000017190.html",
-    "https://coffee-station.jp/archives/43482"
-   ],
-   "summary": "フランスの調理家電ブランド「KRUPS by T-fal」日本初上陸を記念し、原宿で本格コーヒー（エスプレッソ・ドリップ・カフェラテ・アフォガート）を無料体験できる3日間限定ポップアップカフェを2026年8月28日〜30日開催。",
-   "collected_at": "2026-08-22",
-   "id": "93fcafb85d95",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
     "スイーツ"
    ],
    "name": "Cheese is... ポップアップストア",
@@ -2797,30 +2743,6 @@
    "summary": "松屋銀座の新館「並木通り館」に誕生した展示施設「ギンザミライミュージアム」内のテーマカフェ「THE SCENE TABLE GINZA」で、「アニメ天官賜福展 -天地流光-」とのコラボメニューを2026年9月5日〜29日の期間限定で提供。",
    "collected_at": "2026-08-26",
    "id": "5a5a4647e1c4",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ"
-   ],
-   "name": "アイスみーそーカフェ（Marunouchi Happ. Stand & Gallery）",
-   "area": "丸の内",
-   "address": "東京都千代田区丸の内2丁目5番地1 丸の内二丁目ビル1階",
-   "lat": 35.67997,
-   "lng": 139.763443,
-   "period": {
-    "start": "2026-08-24",
-    "end": "2026-08-30"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://straightpress.jp/20260825/1695820"
-   ],
-   "summary": "冷たいみそ汁ドリンク「アイスみーそー」を楽しめる期間限定カフェが、丸の内の「Marunouchi Happ. Stand & Gallery」にて2026年8月24日〜30日開催。赤だしや貝だしなど複数の味のみそ汁ドリンクを提供。",
-   "collected_at": "2026-08-26",
-   "id": "b1c4dc3f30ff",
    "is_new": false,
    "freshness": null
   },
@@ -3225,31 +3147,6 @@
    "id": "3be2e27c6e70",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "コラボカフェ"
-   ],
-   "name": "「トイ・ストーリー5」スペシャルカフェ",
-   "area": "新宿",
-   "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
-   "lat": 35.691784,
-   "lng": 139.700775,
-   "period": {
-    "start": "2026-07-10",
-    "end": "2026-08-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.disney.co.jp/shopping/cafenews/20260803_01",
-    "https://www.lumine.ne.jp/est/news/detail/?cd=010710&scd=003222"
-   ],
-   "summary": "映画「トイ・ストーリー5」公開に合わせたスペシャルカフェがBOX cafe&space ルミネエスト新宿2号店にて2026年7月10日〜8月30日開催。ウッディ・ジェシー・バズら新旧キャラクターにちなんだメニューを展開。",
-   "collected_at": "2026-08-29",
-   "id": "bf1d9c29d656",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
