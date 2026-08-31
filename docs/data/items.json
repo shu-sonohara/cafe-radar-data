@@ -744,10 +744,11 @@
    "confidence": "media",
    "sources": [
     "https://news.yahoo.co.jp/articles/75c53c25c9875f464d1fb48016a2f27854473653",
-    "https://tabelog.com/tokyo/A1301/A130103/13325467/"
+    "https://tabelog.com/tokyo/A1301/A130103/13325467/",
+    "https://kstyle.com/article.ksn?articleNo=2282238"
    ],
    "summary": "韓国全土に1,800店舗以上を展開するコーヒーチェーン「Paik's DABANG（ペクスダバン）」の日本1号店が、新橋・烏森神社近くに2026年8月6日オープンし海外進出を本格化。",
-   "collected_at": "2026-08-22",
+   "collected_at": "2026-09-01",
    "id": "5a7ebec73fd9",
    "is_new": true,
    "freshness": 30
@@ -3177,6 +3178,55 @@
    "freshness": 365
   },
   {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "R.O.STAR Seaside Terrace",
+   "area": "お台場",
+   "address": "東京都港区台場1-7-1 アクアシティお台場 5F",
+   "lat": 35.627804,
+   "lng": 139.77359,
+   "period": {
+    "start": "2026-09-10",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000454.000036259.html"
+   ],
+   "summary": "東京湾を望むカフェ&バー。自家焙煎コーヒーやサンドイッチ、彩り豊かなワンプレートランチを提供。お台場海浜公園・自由の女神像・レインボーブリッジを望む大きな窓が特徴。",
+   "collected_at": "2026-09-01",
+   "id": "65cd200d00c3",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "フルーツピークス アトレ中野店",
+   "area": "中野",
+   "address": "東京都中野区中野4-9-26 アトレ中野 2F",
+   "lat": 35.707039,
+   "lng": 139.66304,
+   "period": {
+    "start": "2026-12-09",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000211.000054019.html"
+   ],
+   "summary": "福島発のフルーツタルト専門店。青木フルーツ株式会社が運営。中野駅直結の新駅ビル「アトレ中野」開業に合わせて出店。",
+   "collected_at": "2026-09-01",
+   "id": "9c97664b6615",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
    "type": "popup",
    "genre": [
     "カフェ",
@@ -3225,6 +3275,54 @@
    "summary": "『超かぐや姫！』とTreeVillage Cafeのコラボカフェ。新規描き下ろし「デフォっと」シリーズのグッズ・メニューを展開。",
    "collected_at": "2026-08-31",
    "id": "9011f0a80055",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "秋菓子に恋する3週間",
+   "area": "東京駅/丸の内",
+   "address": "東京都千代田区丸の内1-9-1 大丸東京店",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-09-17",
+    "end": "2026-09-23"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.daimaru.co.jp/tokyo/topics/akigashi.html"
+   ],
+   "summary": "大丸東京店で開催される秋の味覚（栗・芋・ぶどうなど）を使ったスイーツ催事。バイヤー厳選の秋菓子約40種を販売、期間限定ポップアップショップも登場。",
+   "collected_at": "2026-09-01",
+   "id": "85415b2c25ea",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "Mont Blanc is ART 2026",
+   "area": "品川",
+   "address": "東京都港区高輪3-26-27 エキュート品川",
+   "lat": 35.629002,
+   "lng": 139.737823,
+   "period": {
+    "start": "2026-09-07",
+    "end": "2026-09-27"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://gourmetpress.net/1473098/"
+   ],
+   "summary": "エキュート品川で開催されるモンブランフェア。王道から進化系まで全16種、おはぎ・羊羹など和素材を使ったものやパン・カヌレとのコラボモンブランも登場。",
+   "collected_at": "2026-09-01",
+   "id": "c3ad2faeffbb",
    "is_new": false,
    "freshness": null
   }
