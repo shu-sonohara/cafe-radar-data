@@ -3076,5 +3076,117 @@
   "summary": "5人組グループCORTISの初の日本単独公演を記念したコラボカフェ。楽曲モチーフのフード・ドリンクメニューを提供、注文特典としてステッカーやポストカードあり（イートインのみ）。",
   "collected_at": "2026-08-31",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "R.O.STAR Seaside Terrace",
+  "area": "お台場",
+  "address": "東京都港区台場1-7-1 アクアシティお台場 5F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-10",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000454.000036259.html"
+  ],
+  "summary": "東京湾を望むカフェ&バー。自家焙煎コーヒーやサンドイッチ、彩り豊かなワンプレートランチを提供。お台場海浜公園・自由の女神像・レインボーブリッジを望む大きな窓が特徴。",
+  "collected_at": "2026-09-01",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ガーデンカフェ",
+  "area": "上野",
+  "address": "東京都台東区上野公園13-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000189124.html"
+  ],
+  "summary": "東京国立博物館・東洋館別棟1階にオープンしたカフェスタンド。名物「東博カツサンド」のほか、ソフトクリームや丸ごと生絞りジュースを提供。",
+  "collected_at": "2026-09-01",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "Paik's DABANG Coffee 新橋店",
+  "area": "新橋",
+  "address": "東京都港区新橋2-15-11",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-06",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://kstyle.com/article.ksn?articleNo=2282238"
+  ],
+  "summary": "韓国の人気コーヒーチェーン「ペクスダバン」の日本1号店。烏森神社そば、JR新橋駅烏森口から徒歩3分。営業時間は平日8:00〜20:00、土日9:00〜19:00。",
+  "collected_at": "2026-09-01",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "フルーツピークス アトレ中野店",
+  "area": "中野",
+  "address": "東京都中野区中野4-9-26 アトレ中野 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-12-09",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000211.000054019.html"
+  ],
+  "summary": "福島発のフルーツタルト専門店。青木フルーツ株式会社が運営。中野駅直結の新駅ビル「アトレ中野」開業に合わせて出店。",
+  "collected_at": "2026-09-01",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee",
+  "area": "東京駅/丸の内",
+  "address": "東京都千代田区丸の内1-9-1 東京駅一番街 グランスタ東京",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000300.000014043.html"
+  ],
+  "summary": "BAKE INC.が手がけるコーヒー菓子専門の新ブランド。「飲む」から「食べる」コーヒー体験を提案。グランスタ東京・地下丸の内改札内エリアのリニューアルオープンに合わせて出店。",
+  "collected_at": "2026-09-01",
+  "id": ""
  }
 ]

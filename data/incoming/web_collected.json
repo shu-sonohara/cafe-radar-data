@@ -886,5 +886,93 @@
   "summary": "洋菓子世界大会優勝シェフ率いるブランド「PRISM」の東京初出店。ギフトスイーツのブティックと、できたてデザートを楽しめるショールームサロン（9月下旬オープン予定）を併設。",
   "collected_at": "2026-08-31",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "リラックマ×SASUKEワールドカップ2026 コラボカフェ",
+  "area": "赤坂",
+  "address": "東京都港区赤坂5-4-7 THE HEXAGON 1F ブランチパーク",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-27",
+   "end": "2026-09-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.san-x.co.jp/ja/blog/2026-08-post-0146180/"
+  ],
+  "summary": "TBS「SASUKEワールドカップ2026」放送記念のリラックマコラボカフェ。アニメ「リラックマ」第2弾「てくてく世界旅行」をイメージしたメニューを提供。",
+  "collected_at": "2026-09-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "「くまのプーさん」OH MY CAFE 東京",
+  "area": "押上/東京スカイツリータウン",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ 1F タワーヤード6番地",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": "2026-10-25"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000315.000086964.html"
+  ],
+  "summary": "「くまのプーさん」原作デビュー100周年を記念した期間限定テーマカフェ。カレーやサンドイッチのデリプレート、100周年記念パフェ・デザートなどを提供。",
+  "collected_at": "2026-09-01",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "秋菓子に恋する3週間",
+  "area": "東京駅/丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": "2026-09-23"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.daimaru.co.jp/tokyo/topics/akigashi.html"
+  ],
+  "summary": "大丸東京店で開催される秋の味覚（栗・芋・ぶどうなど）を使ったスイーツ催事。バイヤー厳選の秋菓子約40種を販売、期間限定ポップアップショップも登場。",
+  "collected_at": "2026-09-01",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Mont Blanc is ART 2026",
+  "area": "品川",
+  "address": "東京都港区高輪3-26-27 エキュート品川",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-07",
+   "end": "2026-09-27"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://gourmetpress.net/1473098/"
+  ],
+  "summary": "エキュート品川で開催されるモンブランフェア。王道から進化系まで全16種、おはぎ・羊羹など和素材を使ったものやパン・カヌレとのコラボモンブランも登場。",
+  "collected_at": "2026-09-01",
+  "id": ""
  }
 ]
