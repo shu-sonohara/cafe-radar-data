@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-31",
+ "updated_at": "2026-09-01",
  "items": [
   {
    "type": "new_cafe",
@@ -303,31 +303,6 @@
    "id": "e93b8aa28a9c",
    "is_new": true,
    "freshness": 90
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "スイーツ"
-   ],
-   "name": "Tamitu 期間限定カフェ（東京ミッドタウン）",
-   "area": "六本木・赤坂",
-   "address": "東京都港区赤坂9-7-1 東京ミッドタウン ガレリアB1",
-   "lat": 35.666023,
-   "lng": 139.732208,
-   "period": {
-    "start": "2026-07-01",
-    "end": "2026-08-31"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000353.000027065.html"
-   ],
-   "summary": "東京ミッドタウン ガレリアB1にてTamituの期間限定カフェが2026年7月1日〜8月31日開催中。「Tamituソーダ」やソフトクリームなどのPOP UP限定メニューを提供する。",
-   "collected_at": "2026-08-22",
-   "id": "93df452f08fc",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -1559,31 +1534,6 @@
    "summary": "JR東日本クロスステーションが東京駅グランスタで初開催する夏の果実フェア。桃やマンゴー、ベリーなどを使ったアイスやスイーツ、パンなど限定含む全22商品が集結する。",
    "collected_at": "2026-08-22",
    "id": "81577ef1b5f0",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "真夏の日比谷 冷たい誘惑（ひんやりスイーツフェア）",
-   "area": "日比谷",
-   "address": "東京都千代田区有楽町1-1-2 東京ミッドタウン日比谷",
-   "lat": 35.674088,
-   "lng": 139.759552,
-   "period": {
-    "start": "2026-07-10",
-    "end": "2026-08-31"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000083.000122345.html",
-    "https://www.hibiya.tokyo-midtown.com/jp/event/7490/"
-   ],
-   "summary": "東京ミッドタウン日比谷で夏にぴったりの冷たい甘味を集めたフェア「真夏の日比谷 冷たい誘惑」を開催。館内の複数店舗がひんやりスイーツを期間限定で提供する。",
-   "collected_at": "2026-08-22",
-   "id": "68e34527791e",
    "is_new": false,
    "freshness": null
   },
@@ -3250,30 +3200,6 @@
    "summary": "「学園アイドルマスター」とChugai Grace Caféのコラボカフェをリバイバル開催。限定メニュー・グッズ・特典を展開。",
    "collected_at": "2026-08-30",
    "id": "d2b17a23f330",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "ジェニーベーカリー ポップアップ（大丸東京店）",
-   "area": "東京駅・丸の内",
-   "address": "東京都千代田区丸の内1-9-1 大丸東京店 1階",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-07-12",
-    "end": "2026-08-31"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://shopblog.dmdepart.jp/tokyo/detail/?cd=007762&scd=000368"
-   ],
-   "summary": "香港の人気クッキー専門店「ジェニーベーカリー」の期間限定ショップ。マーガリン・ショートニング不使用のバタークッキーなどを販売。",
-   "collected_at": "2026-08-30",
-   "id": "dff478f28514",
    "is_new": false,
    "freshness": null
   },
