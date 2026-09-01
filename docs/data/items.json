@@ -2204,10 +2204,11 @@
    },
    "confidence": "media",
    "sources": [
-    "https://syougyoushisetsu.com/news/pierre-marcolini-jiyugaoka-muse-square/"
+    "https://syougyoushisetsu.com/news/pierre-marcolini-jiyugaoka-muse-square/",
+    "https://www.ryutsuu.biz/store/s082573.html"
    ],
    "summary": "自由が丘駅前の新商業施設「JIYUGAOKA MUSE SQUARE」1階に、ベルギー発ショコラティエ「ピエール マルコリーニ」がカフェ併設店で出店予定。店内36席・店外4席、計40席の規模。",
-   "collected_at": "2026-08-24",
+   "collected_at": "2026-09-02",
    "id": "b25d650a3b11",
    "is_new": true,
    "freshness": 30
@@ -2640,10 +2641,11 @@
    "confidence": "media",
    "sources": [
     "https://dtimes.jp/post-1343546/",
-    "https://premium.gamepedia.jp/hobby/archives/235245"
+    "https://premium.gamepedia.jp/hobby/archives/235245",
+    "https://www.ryutsuu.biz/store/s072972.html"
    ],
    "summary": "松屋銀座の新館「並木通り館」に誕生した展示施設「ギンザミライミュージアム」内のテーマカフェ「THE SCENE TABLE GINZA」で、「アニメ天官賜福展 -天地流光-」とのコラボメニューを2026年9月5日〜29日の期間限定で提供。",
-   "collected_at": "2026-08-26",
+   "collected_at": "2026-09-02",
    "id": "5a5a4647e1c4",
    "is_new": false,
    "freshness": null
@@ -2760,14 +2762,15 @@
    "lng": 139.710342,
    "period": {
     "start": "2026-08-28",
-    "end": null
+    "end": "2026-10-05"
    },
    "confidence": "official",
    "sources": [
-    "https://collabo.sld-inc.com/sakamotodays_2608"
+    "https://collabo.sld-inc.com/sakamotodays_2608",
+    "https://nijimen.kusuguru.co.jp/topics/632686"
    ],
    "summary": "TVアニメ『SAKAMOTO DAYS』のコラボカフェ「SAKAMOTO DAYS SECRET BAR & CAFE」がCollabo_Index池袋（池袋パルコ8F）にて2026年8月28日オープン。秘密の隠れ家バーをコンセプトに、坂本たちをイメージしたフード・スイーツ・ドリンクを提供。",
-   "collected_at": "2026-08-28",
+   "collected_at": "2026-09-02",
    "id": "f283e087c19a",
    "is_new": false,
    "freshness": null
@@ -2966,10 +2969,12 @@
    },
    "confidence": "official",
    "sources": [
-    "https://cafe.parco.jp/event/chiikawamovie_cafe_shibuya?area=029438"
+    "https://cafe.parco.jp/event/chiikawamovie_cafe_shibuya?area=029438",
+    "https://chiikawa-info.jp/p26/mck_cafe/shibuya/index.html",
+    "https://cafe.parco.jp/event/information/chiikawamovie_cafe_shibuya?area=029438"
    ],
    "summary": "『映画ちいかわ 人魚の島のひみつ』のコラボカフェが渋谷PARCO6階のTHE GUEST CAFE BY PARCOで開催。島編着想のメニューやオリジナルグッズを展開。",
-   "collected_at": "2026-08-29",
+   "collected_at": "2026-09-02",
    "id": "adeb9a3c3b70",
    "is_new": false,
    "freshness": null
@@ -3120,10 +3125,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000454.000036259.html"
+    "https://prtimes.jp/main/html/rd/p/000000454.000036259.html",
+    "https://toyosu.tokyo/cafe/odaiba-r-o-star-seaside-terrace-open-info/"
    ],
    "summary": "東京湾を望むカフェ&バー。自家焙煎コーヒーやサンドイッチ、彩り豊かなワンプレートランチを提供。お台場海浜公園・自由の女神像・レインボーブリッジを望む大きな窓が特徴。",
-   "collected_at": "2026-09-01",
+   "collected_at": "2026-09-02",
    "id": "65cd200d00c3",
    "is_new": true,
    "freshness": 30
@@ -3249,6 +3255,58 @@
    "summary": "エキュート品川で開催されるモンブランフェア。王道から進化系まで全16種、おはぎ・羊羹など和素材を使ったものやパン・カヌレとのコラボモンブランも登場。",
    "collected_at": "2026-09-01",
    "id": "c3ad2faeffbb",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "ベーカリー",
+    "カフェ"
+   ],
+   "name": "THE CITY BAKERY + Bar & Grill グランスタ東京",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1丁目9番1号 JR東日本東京駅B1F 丸の内改札内",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-09-16",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000262.000044858.html",
+    "https://www.the-miyanichi.co.jp/pressrelease/prtimes/1058147.html"
+   ],
+   "summary": "NY発のベーカリー「THE CITY BAKERY」がJR東京駅丸の内改札内・グランスタ東京にオープン。パンやペイストリー、限定サンドイッチのほか、17時からはアルコールとタパス・バーガー・パスタも提供。",
+   "collected_at": "2026-09-02",
+   "id": "33347521a16a",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "event",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3丁目36-1 パセラボタワー",
+   "lat": 35.689774,
+   "lng": 139.701981,
+   "period": {
+    "start": "2026-09-11",
+    "end": "2026-12-02"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://jp.finalfantasy.com/ffx25th_news/6121",
+    "https://www.appbank.net/2026/08/29/iphone-news/3090856.php"
+   ],
+   "summary": "『ファイナルファンタジーX』25周年を記念したコラボメニュー・グッズ展開が、新宿の常設カフェ「Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU」で開催。前期9/11〜10/22、後期10/23〜12/2。",
+   "collected_at": "2026-09-02",
+   "id": "132b0697a195",
    "is_new": false,
    "freshness": null
   }
