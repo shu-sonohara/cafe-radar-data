@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01",
+ "updated_at": "2026-09-02",
  "items": [
   {
    "type": "new_cafe",
@@ -1619,30 +1619,6 @@
   {
    "type": "popup",
    "genre": [
-    "スイーツ"
-   ],
-   "name": "名作絵本のクッキー缶セレクション by Cake.jp",
-   "area": "池袋",
-   "address": "東京都豊島区西池袋1-1-25 東武百貨店 池袋店",
-   "lat": 35.729939,
-   "lng": 139.71051,
-   "period": {
-    "start": "2026-08-25",
-    "end": "2026-09-01"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000944.000015685.html"
-   ],
-   "summary": "絵本をモチーフにしたクッキー缶を展開する「名作絵本のクッキー缶セレクション by Cake.jp」が東武百貨店池袋店8F催事場にて2026年8月25日〜9月1日の8日間、池袋初開催。",
-   "collected_at": "2026-08-22",
-   "id": "747abb362068",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
     "カフェ",
     "スイーツ",
     "コラボカフェ"
@@ -2183,31 +2159,6 @@
    "summary": "「ヴィヴィアン・ウエストウッド」新旗艦店に日本初上陸のカフェが併設で青山に2025年9月20日オープン。ロンドン本店「ワールズ・エンド」着想のインテリアで、コーヒーや英国風スコーンを提供。",
    "collected_at": "2026-08-23",
    "id": "a04dd7d0ac69",
-   "is_new": false,
-   "freshness": 365
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
-    "カフェ",
-    "コーヒー"
-   ],
-   "name": "スターバックス リザーブ カフェ 新宿マルイ本館2階店",
-   "area": "新宿",
-   "address": "東京都新宿区新宿3-30-13 新宿マルイ本館",
-   "lat": 35.691158,
-   "lng": 139.703949,
-   "period": {
-    "start": "2025-09-01",
-    "end": null
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.starbucks.co.jp/press_release/pr2025-5590.php"
-   ],
-   "summary": "スターバックスの新業態「カフェベーカリー」第1号店「スターバックス リザーブ カフェ 新宿マルイ本館2階店」が2025年9月1日オープン。エスプレッソビバレッジとプリンチ®のコルネッティを提供。",
-   "collected_at": "2026-08-23",
-   "id": "d8ba0977e872",
    "is_new": false,
    "freshness": 365
   },
@@ -2970,31 +2921,6 @@
    "id": "72c5e27bddb0",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "LEAF et BEURRE（リーフ エ ブール）",
-   "area": "東京駅・丸の内",
-   "address": "東京都千代田区丸の内1-9-1 大丸東京店1階 ほっぺタウン「MVPスイーツ」",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-08-26",
-    "end": "2026-09-01"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000002493.000005342.html",
-    "https://www.jiji.com/jc/article?k=000002493.000005342&g=prt"
-   ],
-   "summary": "紅茶とバターの香りにこだわったスイーツブランド「LEAF et BEURRE」が大丸東京店に初登場。国産バターとアールグレイ茶葉を使ったサブレ「ブール・ド・ネージュ」などを2026年8月26日〜9月1日の期間限定販売。",
-   "collected_at": "2026-08-26",
-   "id": "6e528939d4d8",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "popup",
