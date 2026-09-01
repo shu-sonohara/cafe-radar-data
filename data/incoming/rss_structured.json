@@ -3188,5 +3188,99 @@
   "summary": "BAKE INC.が手がけるコーヒー菓子専門の新ブランド。「飲む」から「食べる」コーヒー体験を提案。グランスタ東京・地下丸の内改札内エリアのリニューアルオープンに合わせて出店。",
   "collected_at": "2026-09-01",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "R.O.STAR Seaside Terrace",
+  "area": "お台場",
+  "address": "東京都港区台場1-7-1 アクアシティお台場5階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-10",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://toyosu.tokyo/cafe/odaiba-r-o-star-seaside-terrace-open-info/",
+   "https://prtimes.jp/main/html/rd/p/000000454.000036259.html"
+  ],
+  "summary": "豊洲で人気の「R.O.STAR」がアクアシティお台場5階に新業態「R.O.STAR Seaside Terrace」をオープン。東京湾を望むテラス席で自家焙煎コーヒーやサンドイッチを提供する。",
+  "collected_at": "2026-09-02",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "SAKAMOTO DAYS SECRET BAR & CAFE",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1丁目28-2 池袋PARCO 8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": "2026-10-05"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://nijimen.kusuguru.co.jp/topics/632686",
+   "https://collabo.sld-inc.com/sakamotodays_2608"
+  ],
+  "summary": "TVアニメ『SAKAMOTO DAYS』のコラボカフェ「SECRET BAR & CAFE」がCollabo_Index池袋PARCO店で開催。バーをテーマにした限定フード・グッズを展開。",
+  "collected_at": "2026-09-02",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "ピエール マルコリーニ 自由が丘店",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1 1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.ryutsuu.biz/store/s082573.html"
+  ],
+  "summary": "新商業施設「自由が丘ミューズスクエア」1階にピエール マルコリーニがカフェ併設店をオープン。出来たてアイス「タービネ ミニュット」を使ったパフェ・ワッフルなどを提供。",
+  "collected_at": "2026-09-02",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "THE SCENE TABLE GINZA",
+  "area": "銀座",
+  "address": "東京都中央区銀座2-3-6 銀座並木通りビル3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-05",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.ryutsuu.biz/store/s072972.html"
+  ],
+  "summary": "松屋銀座新館に隣接するミュージアム併設型テーマカフェ。日本のアニメ・ゲームIPコンテンツと連動した期間限定フード・ドリンク・グッズを展開する体験型店舗。",
+  "collected_at": "2026-09-02",
+  "id": ""
  }
 ]

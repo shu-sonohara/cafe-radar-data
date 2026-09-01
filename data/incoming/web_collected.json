@@ -974,5 +974,77 @@
   "summary": "エキュート品川で開催されるモンブランフェア。王道から進化系まで全16種、おはぎ・羊羹など和素材を使ったものやパン・カヌレとのコラボモンブランも登場。",
   "collected_at": "2026-09-01",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "THE CITY BAKERY + Bar & Grill グランスタ東京",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1丁目9番1号 JR東日本東京駅B1F 丸の内改札内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000262.000044858.html",
+   "https://www.the-miyanichi.co.jp/pressrelease/prtimes/1058147.html"
+  ],
+  "summary": "NY発のベーカリー「THE CITY BAKERY」がJR東京駅丸の内改札内・グランスタ東京にオープン。パンやペイストリー、限定サンドイッチのほか、17時からはアルコールとタパス・バーガー・パスタも提供。",
+  "collected_at": "2026-09-02",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3丁目36-1 パセラボタワー",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-12-02"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://jp.finalfantasy.com/ffx25th_news/6121",
+   "https://www.appbank.net/2026/08/29/iphone-news/3090856.php"
+  ],
+  "summary": "『ファイナルファンタジーX』25周年を記念したコラボメニュー・グッズ展開が、新宿の常設カフェ「Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU」で開催。前期9/11〜10/22、後期10/23〜12/2。",
+  "collected_at": "2026-09-02",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "映画ちいかわ 人魚の島のひみつ Collaboration CAFE",
+  "area": "渋谷",
+  "address": "東京都渋谷区宇田川町15-1 渋谷PARCO 6F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-10",
+   "end": "2026-09-14"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://chiikawa-info.jp/p26/mck_cafe/shibuya/index.html",
+   "https://cafe.parco.jp/event/information/chiikawamovie_cafe_shibuya?area=029438"
+  ],
+  "summary": "映画『ちいかわ 人魚の島のひみつ』のコラボカフェが渋谷PARCO6F「THE GUEST CAFE BY PARCO」で開催。島編をもとにした限定メニューやグッズを展開。",
+  "collected_at": "2026-09-02",
+  "id": ""
  }
 ]
