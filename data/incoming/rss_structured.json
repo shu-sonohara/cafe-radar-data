@@ -3282,5 +3282,75 @@
   "summary": "松屋銀座新館に隣接するミュージアム併設型テーマカフェ。日本のアニメ・ゲームIPコンテンツと連動した期間限定フード・ドリンク・グッズを展開する体験型店舗。",
   "collected_at": "2026-09-02",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "TOKYO BANANA Cafe Stand",
+  "area": "羽田空港",
+  "address": "東京都大田区羽田空港2-6-5 羽田空港第1ターミナル2階 出発ゲートラウンジ（北）16番ゲート前",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000325.000067976.html",
+   "https://dtimes.jp/post-1354919/"
+  ],
+  "summary": "東京ばな奈ブランド史上初のカフェスタンド。羽田空港第1ターミナル2階出発ゲートラウンジ（北）16番ゲート前、保安検査後エリアに9月17日オープン。店舗限定「東京ばな奈バー」やソフトクリームを提供。",
+  "collected_at": "2026-09-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "SHIBUYA109 × JO1 AUTUMN CAMPAIGN コラボカフェ",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂2-29-1 SHIBUYA109渋谷店 B1階 DISP!!!",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-09-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000427.000033586.html"
+  ],
+  "summary": "JO1とSHIBUYA109のコラボキャンペーン「SHIBUYA109 × JO1 AUTUMN CAMPAIGN」。渋谷店限定でオリジナルコラボメニューを提供するコラボカフェが登場、ポップアップストアも同時開催。",
+  "collected_at": "2026-09-03",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "炭火焙煎珈琲.凛",
+  "area": "銀座",
+  "address": "東京都中央区銀座3-3-14 銀座グランディアIIビル10F・11F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-05",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/205103/"
+  ],
+  "summary": "銀座で23年営業してきた喫茶店がビル建て替えに伴い移転。2026年3月末に一時閉店し、8月5日に銀座3丁目の新ビル10・11階で移転オープンした。",
+  "collected_at": "2026-09-03",
+  "id": ""
  }
 ]

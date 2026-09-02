@@ -1046,5 +1046,49 @@
   "summary": "映画『ちいかわ 人魚の島のひみつ』のコラボカフェが渋谷PARCO6F「THE GUEST CAFE BY PARCO」で開催。島編をもとにした限定メニューやグッズを展開。",
   "collected_at": "2026-09-02",
   "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "AUTUMN SWEETS & GOURMET FAIR",
+  "area": "押上/東京スカイツリータウン",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-10-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000449.000041446.html"
+  ],
+  "summary": "東京スカイツリータウン館内で栗・さつまいも・ぶどう・きのこなど秋の味覚を使ったスイーツ・グルメを取りそろえる期間限定フェア。",
+  "collected_at": "2026-09-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "パティスリーSATSUKI 出張販売 in 銀座三越",
+  "area": "銀座",
+  "address": "東京都中央区銀座4-6-16 銀座三越 地下2階 GINZAステージ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-09",
+   "end": "2026-09-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.mistore.jp/store/ginza/shops/foods/foodgarden/shopnews_list/shopnews0045.html"
+  ],
+  "summary": "ホテルニューオータニ東京のパティスリーSATSUKIが銀座三越地下2階GINZAステージに出張販売。「スーパーモンブラン」などのマロンスイーツを提供。",
+  "collected_at": "2026-09-03",
+  "id": ""
  }
 ]
