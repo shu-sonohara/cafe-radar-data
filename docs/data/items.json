@@ -3159,6 +3159,82 @@
    "freshness": 30
   },
   {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "スイーツ"
+   ],
+   "name": "TOKYO BANANA Cafe Stand",
+   "area": "羽田空港",
+   "address": "東京都大田区羽田空港2-6-5 羽田空港第1ターミナル2階 出発ゲートラウンジ（北）16番ゲート前",
+   "lat": 35.545406,
+   "lng": 139.767288,
+   "period": {
+    "start": "2026-09-17",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000325.000067976.html",
+    "https://dtimes.jp/post-1354919/"
+   ],
+   "summary": "東京ばな奈ブランド史上初のカフェスタンド。羽田空港第1ターミナル2階出発ゲートラウンジ（北）16番ゲート前、保安検査後エリアに9月17日オープン。店舗限定「東京ばな奈バー」やソフトクリームを提供。",
+   "collected_at": "2026-09-03",
+   "id": "529426bf78fa",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "SHIBUYA109 × JO1 AUTUMN CAMPAIGN コラボカフェ",
+   "area": "渋谷",
+   "address": "東京都渋谷区道玄坂2-29-1 SHIBUYA109渋谷店 B1階 DISP!!!",
+   "lat": 35.659466,
+   "lng": 139.698898,
+   "period": {
+    "start": "2026-09-01",
+    "end": "2026-09-15"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000427.000033586.html"
+   ],
+   "summary": "JO1とSHIBUYA109のコラボキャンペーン「SHIBUYA109 × JO1 AUTUMN CAMPAIGN」。渋谷店限定でオリジナルコラボメニューを提供するコラボカフェが登場、ポップアップストアも同時開催。",
+   "collected_at": "2026-09-03",
+   "id": "ee2b6a70b703",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "炭火焙煎珈琲.凛",
+   "area": "銀座",
+   "address": "東京都中央区銀座3-3-14 銀座グランディアIIビル10F・11F",
+   "lat": 35.673023,
+   "lng": 139.765015,
+   "period": {
+    "start": "2026-08-05",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.enjoytokyo.jp/news/205103/"
+   ],
+   "summary": "銀座で23年営業してきた喫茶店がビル建て替えに伴い移転。2026年3月末に一時閉店し、8月5日に銀座3丁目の新ビル10・11階で移転オープンした。",
+   "collected_at": "2026-09-03",
+   "id": "cfc7a3ee6a1e",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
    "type": "popup",
    "genre": [
     "カフェ",
@@ -3307,6 +3383,54 @@
    "summary": "『ファイナルファンタジーX』25周年を記念したコラボメニュー・グッズ展開が、新宿の常設カフェ「Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU」で開催。前期9/11〜10/22、後期10/23〜12/2。",
    "collected_at": "2026-09-02",
    "id": "132b0697a195",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "AUTUMN SWEETS & GOURMET FAIR",
+   "area": "押上/東京スカイツリータウン",
+   "address": "東京都墨田区押上1-1-2 東京スカイツリータウン",
+   "lat": 35.710083,
+   "lng": 139.808609,
+   "period": {
+    "start": "2026-09-01",
+    "end": "2026-10-31"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000449.000041446.html"
+   ],
+   "summary": "東京スカイツリータウン館内で栗・さつまいも・ぶどう・きのこなど秋の味覚を使ったスイーツ・グルメを取りそろえる期間限定フェア。",
+   "collected_at": "2026-09-03",
+   "id": "20853c0b2058",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "パティスリーSATSUKI 出張販売 in 銀座三越",
+   "area": "銀座",
+   "address": "東京都中央区銀座4-6-16 銀座三越 地下2階 GINZAステージ",
+   "lat": 35.671577,
+   "lng": 139.765594,
+   "period": {
+    "start": "2026-09-09",
+    "end": "2026-09-15"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.mistore.jp/store/ginza/shops/foods/foodgarden/shopnews_list/shopnews0045.html"
+   ],
+   "summary": "ホテルニューオータニ東京のパティスリーSATSUKIが銀座三越地下2階GINZAステージに出張販売。「スーパーモンブラン」などのマロンスイーツを提供。",
+   "collected_at": "2026-09-03",
+   "id": "98f3d02e933c",
    "is_new": false,
    "freshness": null
   }
