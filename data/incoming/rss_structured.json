@@ -3352,5 +3352,307 @@
   "summary": "銀座で23年営業してきた喫茶店がビル建て替えに伴い移転。2026年3月末に一時閉店し、8月5日に銀座3丁目の新ビル10・11階で移転オープンした。",
   "collected_at": "2026-09-03",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ガーデンカフェ",
+  "area": "上野",
+  "address": "東京都台東区上野公園13-9 東京国立博物館",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.tnm.jp/uploads/r_press/346.pdf",
+   "https://prtimes.jp/main/html/rd/p/000000005.000189124.html"
+  ],
+  "summary": "東京国立博物館の館内レストラン3店舗リニューアルの一環として東洋館別棟前に新設されたカフェスタンド。2026年8月28日オープン。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "NODERIUM/SØHOLM CAFE",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1 自由が丘ミューズスクエア3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000153.000071744.html",
+   "https://www.fashion-press.net/news/142683"
+  ],
+  "summary": "グリーンショップ「NODERIUM」とカフェ「SØHOLM CAFE」が一体化した新店。自由が丘ミューズスクエア3階に2026年9月17日オープン予定。地元焙煎所JIYUGAOKA ROASTERYの豆を使ったコーヒーを提供。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "パティスリーパブロフ 自由が丘店",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1 自由が丘ミューズスクエア1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000013.000165013.html"
+  ],
+  "summary": "横浜元町発のパウンドケーキ専門店が自由が丘に初出店。自由が丘ミューズスクエア1階に2026年9月17日グランドオープン。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "アトリエうかい Cafe & Factory HACHIOJI",
+  "area": "八王子",
+  "address": "東京都八王子市滝山町1-884 イオン八王子滝山 South A棟2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-07",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://gourmetpress.net/1476836/",
+   "https://tamapon.com/2026/07/11/atelierukai-cafe-factory/"
+  ],
+  "summary": "菓子製造工程を見学できる体験型複合施設。イオン八王子滝山内に2026年9月7日グランドオープン。ペット同伴可のテラス席を備えたカフェを併設。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "カフェ"
+  ],
+  "name": "ディズニーヴィランズ OH MY CAFE",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館地下3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": "2026-10-22"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://news.denfaminicogamer.jp/news/2609033h",
+   "https://gourmetpress.net/1477448/"
+  ],
+  "summary": "ディズニーヴィランズをテーマにしたハロウィン期テーマカフェ。表参道ヒルズ本館地下3階で2026年9月17日〜10月22日開催。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "カフェ"
+  ],
+  "name": "Ringo Jam Café（BOX cafe&space GEMS渋谷店）",
+  "area": "渋谷",
+  "address": "東京都渋谷区渋谷3-27-11 GEMS渋谷3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-25",
+   "end": "2026-12-06"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://news.yahoo.co.jp/articles/29685e2ca69792c05efddddb681039340b446c9b",
+   "https://mrsgreenapple.com/feature/ringojamshow2026"
+  ],
+  "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。BOX cafe&space GEMS渋谷店にて2026年9月25日〜12月6日開催。メンバーモチーフのソーダやオリジナルグッズを展開。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "カフェ"
+  ],
+  "name": "Ringo Jam Café（BOX cafe&space グランドスケープ池袋店）",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1-30-3 グランドスケープ池袋 B1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": "2026-12-06"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://news.yahoo.co.jp/articles/29685e2ca69792c05efddddb681039340b446c9b",
+   "https://mrsgreenapple.com/feature/ringojamshow2026"
+  ],
+  "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。BOX cafe&space グランドスケープ池袋店にて2026年10月2日〜12月6日開催。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "カフェ"
+  ],
+  "name": "Ringo Jam Café（Pacific DRIVE-IN ルミネエスト新宿店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": "2026-12-20"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://news.yahoo.co.jp/articles/29685e2ca69792c05efddddb681039340b446c9b",
+   "https://mrsgreenapple.com/feature/ringojamshow2026"
+  ],
+  "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。Pacific DRIVE-IN ルミネエスト新宿店にて2026年10月30日〜12月20日開催。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "東京ばな奈カフェスタンド",
+  "area": "羽田空港",
+  "address": "東京都大田区羽田空港3-3-2 羽田空港第1ターミナル2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000325.000067976.html",
+   "https://dtimes.jp/post-1354919/"
+  ],
+  "summary": "東京ばな奈ブランド史上初のカフェスタンド。羽田空港第1ターミナル2F出発ゲートラウンジ(北)16番ゲート前に2026年9月17日オープン。注文ごとに作る「東京ばな奈バー」を提供。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "タリーズコーヒー Express目白駅前店",
+  "area": "目白",
+  "address": "東京都豊島区目白3-3-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-30",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000560.000020545.html"
+  ],
+  "summary": "JR山手線目白駅改札横にオープンした短時間利用向けの新業態店舗。9席、通常店にはないフレーバーラテを提供。2026年7月30日オープン。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "JIMMY CHOO ストリートカフェ銀座",
+  "area": "銀座",
+  "address": "東京都中央区銀座2-6-3",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2025-09-12",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.jimmychoo.jp/ja/stories-street-cafe-ginza.html",
+   "https://www.fashion-press.net/news/137633"
+  ],
+  "summary": "ジミー チュウ銀座コンセプトストア内にオープンしたロンドン風カフェ。フィッシュ&チップスやスコーンなど英国メニューを提供。2025年9月12日オープン。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... ポップアップストア（グランスタ丸の内）",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ丸の内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-13",
+   "end": "2026-11-01"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」のポップアップストア第二弾。グランスタ丸の内にて2026年10月13日〜11月1日開催。",
+  "collected_at": "2026-09-04",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... ポップアップストア（エキュート品川）",
+  "area": "品川",
+  "address": "東京都港区高輪3-26-27 エキュート品川",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-16",
+   "end": "2026-11-29"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」のポップアップストア第二弾。エキュート品川にて2026年11月16日〜29日開催。",
+  "collected_at": "2026-09-04",
+  "id": ""
  }
 ]
