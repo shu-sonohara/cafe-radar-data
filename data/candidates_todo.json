@@ -49,7 +49,9 @@
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yTXBLYWdTQ3JrRHRKYkhZSEdUSHVNVmRjdS0wR01EZjZtdHRGXzRsUUgybE1QRFdNR0NLNGYyZUY1cXBycEQ2X1VVX1pWcFBJ?oc=5\" target=\"_blank\">期間限定「FC東京×府中市コラボカフェ」 9月の選手カード進呈も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">調布経済新聞</font>",
   "seen_at": "2026-09-04",
   "published_date": "2026-09-04",
-  "also_urls": []
+  "also_urls": [
+   "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45RTdZM183dkFTOUxIU0g5THF3cnlOZXNld0wtb0lmZVB0VThuSnVlQXF0VmJlUC1TamkzSTJCYjhLcHpvbzNManBrMWVqY1E?oc=5"
+  ]
  },
  {
   "source": "gnews:東京 期間限定 カフェ",
@@ -61,6 +63,18 @@
   "published_date": "2026-09-04",
   "also_urls": [
    "https://prtimes.jp/main/html/rd/p/000000615.000023331.html"
+  ]
+ },
+ {
+  "source": "gnews:東京 カフェ オープン",
+  "title": "皇居に初のカフェ、11月3日オープン 三の丸尚蔵館も全面公開に - 東京新聞",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUTNvVmJSeGVnaXIzdFB5MW1vamo2RGlOeEwzd1Z6OHZqZFZNamFIeFR4N25DUk4teDFDTVpXN3JJTUF4ZFVTampBLVUxNjVfekJZ?oc=5",
+  "published": "Fri, 04 Sep 2026 09:34:36 GMT",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUTNvVmJSeGVnaXIzdFB5MW1vamo2RGlOeEwzd1Z6OHZqZFZNamFIeFR4N25DUk4teDFDTVpXN3JJTUF4ZFVTampBLVUxNjVfekJZ?oc=5\" target=\"_blank\">皇居に初のカフェ、11月3日オープン 三の丸尚蔵館も全面公開に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞</font>",
+  "seen_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "also_urls": [
+   "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyUTJjaXpMYzZUWUI1bzllcFFoa1ZqZTFodzdYbWg4MWNVOEdJSml2SjJzMWJzeVpiUEFLNE1Qc3NmbDhzX2RuN09xbw?oc=5"
   ]
  },
  {
@@ -126,6 +140,16 @@
   ]
  },
  {
+  "source": "gnews:東京 コーヒースタンド オープン",
+  "title": "香港発・チャンピオンバリスタが手掛けるスペシャルティコーヒーブランド「URBAN COFFEE ROASTER」、海外初となる独立店舗を東京・外苑いちょう並木前にオープン… - フーズチャネル",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QVTVfZ2ZSdjlPcjEzdHhFTGM2Q3JEWnp1TWtJVGZWb2EtVUoxZi1DZTdQNktfbWZPNjA1Z1BLRFpmaWNIb3Q2TUlhaEk0NUdYOUF0SFRn?oc=5",
+  "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QVTVfZ2ZSdjlPcjEzdHhFTGM2Q3JEWnp1TWtJVGZWb2EtVUoxZi1DZTdQNktfbWZPNjA1Z1BLRFpmaWNIb3Q2TUlhaEk0NUdYOUF0SFRn?oc=5\" target=\"_blank\">香港発・チャンピオンバリスタが手掛けるスペシャルティコーヒーブランド「URBAN COFFEE ROASTER」、海外初となる独立店舗を東京・外苑いちょう並木前にオープン…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">フーズチャネル</font>",
+  "seen_at": "2026-09-04",
+  "published_date": "2026-07-31",
+  "also_urls": []
+ },
+ {
   "source": "prtimes_all",
   "title": "東武沿線初！忙しい日々に寄り添うクイックでスマートなベーカリースタンド「THE STAND BY KOBEYA」が池袋駅にオープン！",
   "url": "https://prtimes.jp/main/html/rd/p/000000068.000132572.html",
@@ -151,6 +175,16 @@
   "url": "https://prtimes.jp/main/html/rd/p/000000066.000127687.html",
   "published": "",
   "summary": "[株式会社EMILUS]\n[画像1: https://prcdn.freetls.fastly.net/release_image/127687/66/127687-66-c1459b6be938b22423ce955a73ebf89f-2048x1365.jpg?width=536&amp;quality=85%2C75&amp;format=jpeg&amp;auto=webp&amp;fit=bounds&...",
+  "seen_at": "2026-09-04",
+  "published_date": null,
+  "also_urls": []
+ },
+ {
+  "source": "prtimes_all",
+  "title": "REC COFFEE、新たなライフスタイル拠点へ出店。「REC COFFEE アイランドシティ照葉店」を2026年10月31日オープン",
+  "url": "https://prtimes.jp/main/html/rd/p/000000026.000057248.html",
+  "published": "",
+  "summary": "[レックコレクティブ株式会社]\n福岡発のスペシャルティコーヒーブランド「REC COFFEE」（運営：レックコレクティブ株式会社、本社：福岡県福岡市）は、2026年10月31日（土）、福岡市東区香椎照葉に「REC COFFEE アイランドシティ照葉店」をオー...",
   "seen_at": "2026-09-04",
   "published_date": null,
   "also_urls": []
