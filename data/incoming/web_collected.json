@@ -1230,5 +1230,97 @@
   "summary": "小樽洋菓子舗ルタオやイシヤなど北海道の名店約100店舗が集結する物産展。東武百貨店池袋店8階催事場ほかで2026年9月10日〜23日開催。",
   "collected_at": "2026-09-04",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "魔法少女まどか☆マギカ カフェ in スイパラ（新宿マルイアネックス店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-1-26 新宿マルイアネックス",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-02",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sweets-paradise.jp/collaboration/magica-wr",
+   "https://www.sweets-paradise.jp/shop/collabo-paradise-shinjukumaruiannex/"
+  ],
+  "summary": "劇場版「魔法少女まどか☆マギカ〈ワルプルギスの廻天〉」とスイーツパラダイスのコラボカフェが新宿マルイアネックス店で開催。描き下ろしイラストのグッズ・メニューを展開。",
+  "collected_at": "2026-09-05",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE（新宿）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3丁目36-1 パセラボタワー（Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-12-02"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://jp.finalfantasy.com/ffx25th_news/6121"
+  ],
+  "summary": "「FINAL FANTASY X」25周年を記念したコラボカフェが新宿のスクウェア・エニックス公式カフェで開催。前半・後半でメニューが変わる2部構成。",
+  "collected_at": "2026-09-05",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "モンブラン イズ アート 2026",
+  "area": "品川",
+  "address": "東京都港区高輪3-26-27 JR品川駅構内 エキュート品川",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-07",
+   "end": "2026-09-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://tetsudo-ch.com/13036326.html",
+   "https://gourmetpress.net/1473098/"
+  ],
+  "summary": "エキュート品川で秋のモンブランフェアを開催。王道から食感や味変を楽しむ進化系まで全16種が集結。",
+  "collected_at": "2026-09-05",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "東京スカイツリータウン AUTUMN SWEETS & GOURMET FAIR",
+  "area": "押上",
+  "address": "東京都墨田区押上一丁目1番2号 東京スカイツリータウン",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-10-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000449.000041446.html"
+  ],
+  "summary": "東京スカイツリータウンで秋の味覚（栗・さつまいも・ぶどう・きのこ）を使ったスイーツ・グルメの期間限定フェアを開催。",
+  "collected_at": "2026-09-05",
+  "id": ""
  }
 ]
