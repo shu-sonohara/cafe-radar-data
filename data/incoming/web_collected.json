@@ -1322,5 +1322,169 @@
   "summary": "東京スカイツリータウンで秋の味覚（栗・さつまいも・ぶどう・きのこ）を使ったスイーツ・グルメの期間限定フェアを開催。",
   "collected_at": "2026-09-05",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "THE CITY BAKERY 東京駅店",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 JR東日本東京駅グランスタ東京 B1F 丸の内改札内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000262.000044858.html",
+   "https://thecitybakery.jp/shop/granstatokyo"
+  ],
+  "summary": "NY発祥のベーカリー「THE CITY BAKERY」が東京駅改札内グランスタ東京にオープン。パンとBar & Grillを併設。",
+  "collected_at": "2026-09-06",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「くまのプーさん」OH MY CAFE（東京ソラマチ）",
+  "area": "押上・スカイツリー",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ タワーヤード1F BOX cafe&space 東京ソラマチ店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": "2026-10-25"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.disney.co.jp/shopping/cafenews/20250924_01",
+   "https://hunny2026-ohmycafe.ltr-online.com/"
+  ],
+  "summary": "「くまのプーさん」原作デビュー100周年を記念したスペシャルカフェが東京ソラマチのBOX cafe&space東京ソラマチ店で開催。はちみつモチーフの限定メニュー・グッズを展開。",
+  "collected_at": "2026-09-06",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE（新宿）",
+  "area": "新宿三丁目",
+  "address": "東京都新宿区新宿3-36-1 パセラボタワー Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-12-02"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://jp.finalfantasy.com/ffx25th_news/6121",
+   "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx"
+  ],
+  "summary": "『FINAL FANTASY X』25周年を記念したコラボカフェが新宿のOfficially Licensed SQUARE ENIX Cafe & Shop SHINJUKUで開催。前期(9/11〜10/22)・後期(10/23〜12/2)でメニュー内容が変わる。",
+  "collected_at": "2026-09-06",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "魔法少女まどか☆マギカ カフェ in スイーツパラダイス（新宿）",
+  "area": "新宿三丁目",
+  "address": "東京都新宿区新宿3-1-26 新宿マルイアネックス COLLABO PARADISE 新宿マルイアネックス店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-02",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://news.denfaminicogamer.jp/news/251202w",
+   "https://collabo-cafe.com/events/collabo/puella-magi-madoka-magica-cafe-sweets-paradise2026/"
+  ],
+  "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェが新宿マルイアネックスのCOLLABO PARADISEで開催。キュゥべえモチーフのクリームパスタなど限定メニューを提供。",
+  "collected_at": "2026-09-06",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Mont Blanc is ART 2026（エキュート品川）",
+  "area": "品川",
+  "address": "東京都港区高輪3-26-27 エキュート品川",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-07",
+   "end": "2026-09-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://gourmetpress.net/1473098/",
+   "https://tetsudo-ch.com/13036326.html"
+  ],
+  "summary": "エキュート品川の秋スイーツフェア「Mont Blanc is ART 2026」。王道から進化系まで全16種のモンブランが集結。",
+  "collected_at": "2026-09-06",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "デパチカ イベントスペース（西武池袋本店）9月ラインナップ",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1-28-1 西武池袋本店 地下1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002483.000031382.html",
+   "https://ikebukuro-times.com/archives/ikesei-depachika-sweetsevent202609.html"
+  ],
+  "summary": "西武池袋本店地下1階「デパチカ イベントスペース」で、マーロウ、パティスリーkazunori ikeda individuel、チーズケーキ専門店BELTZ、栃木銘菓「バターのいとこ」など人気スイーツブランドが週替わりで登場。",
+  "collected_at": "2026-09-06",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "AUTUMN SWEETS & GOURMET FAIR（東京スカイツリータウン）",
+  "area": "押上・スカイツリー",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-10-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000449.000041446.html",
+   "https://travelspot.jp/868016/"
+  ],
+  "summary": "東京スカイツリータウンで栗・さつまいも・ぶどう・きのこなど秋の味覚を使ったスイーツ・グルメを集めたフェアを開催。",
+  "collected_at": "2026-09-06",
+  "id": ""
  }
 ]

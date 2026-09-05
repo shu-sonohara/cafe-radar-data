@@ -3860,5 +3860,123 @@
   "summary": "神戸屋のベーカリースタンド「THE STAND BY KOBEYA」が東武池袋駅改札内にオープン。約30種類のパンとドリンクをクイックに提供。",
   "collected_at": "2026-09-05",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café（渋谷）",
+  "area": "渋谷",
+  "address": "東京都渋谷区渋谷3-27-11 GEMS渋谷3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-25",
+   "end": "2026-12-06"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000321.000086964.html",
+   "https://natalie.mu/music/news/687935"
+  ],
+  "summary": "Mrs. GREEN APPLE公式ファンクラブ「Ringo Jam」10周年を記念したテーマカフェがBOX cafe&space GEMS渋谷店で開催。マスコット「メメル」やアプリ「MGA App」の世界観をモチーフにした限定メニュー・グッズを展開。",
+  "collected_at": "2026-09-06",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café（池袋）",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1-30-3 B1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": "2026-12-06"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000321.000086964.html",
+   "https://natalie.mu/music/news/687935"
+  ],
+  "summary": "Mrs. GREEN APPLE公式ファンクラブ「Ringo Jam」10周年を記念したテーマカフェがBOX cafe&spaceグランドスケープ池袋店で開催。マスコット「メメル」やアプリ「MGA App」の世界観をモチーフにした限定メニュー・グッズを展開。",
+  "collected_at": "2026-09-06",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café（新宿）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": "2026-12-20"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000321.000086964.html",
+   "https://natalie.mu/music/news/687935"
+  ],
+  "summary": "Mrs. GREEN APPLE公式ファンクラブ「Ringo Jam」10周年を記念したテーマカフェがPacific DRIVE-INルミネエスト新宿店で開催。マスコット「メメル」やアプリ「MGA App」の世界観をモチーフにした限定メニュー・グッズを展開。",
+  "collected_at": "2026-09-06",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "KIELO COFFEE ROASTERY 浅草",
+  "area": "浅草",
+  "address": "東京都台東区浅草7-1-6",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-25",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000006.000147799.html",
+   "https://www.shibukei.com/release/617942/"
+  ],
+  "summary": "都内5店舗目となるKIELO COFFEE ROASTERYが浅草にオープン。北欧文化と日本建築美を融合した4階建て店舗で自家焙煎コーヒーを提供する。",
+  "collected_at": "2026-09-06",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Cheese is... ポップアップストア（東武百貨店池袋本店）",
+  "area": "池袋",
+  "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋本店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-26",
+   "end": "2026-12-02"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000023.000176183.html",
+   "https://cake.jp/mag/new-items/68840/"
+  ],
+  "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアが東武百貨店池袋本店で開催。カマンベールやパルメザンを使ったフィナンシェ・クッキーを販売。",
+  "collected_at": "2026-09-06",
+  "id": ""
  }
 ]
