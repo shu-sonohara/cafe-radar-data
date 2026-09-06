@@ -2749,7 +2749,7 @@
     "https://nijimen.kusuguru.co.jp/topics/632686"
    ],
    "summary": "TVアニメ『SAKAMOTO DAYS』のコラボカフェ「SAKAMOTO DAYS SECRET BAR & CAFE」がCollabo_Index池袋（池袋パルコ8F）にて2026年8月28日オープン。秘密の隠れ家バーをコンセプトに、坂本たちをイメージしたフード・スイーツ・ドリンクを提供。",
-   "collected_at": "2026-09-02",
+   "collected_at": "2026-09-07",
    "id": "f283e087c19a",
    "is_new": false,
    "freshness": null
@@ -3282,7 +3282,9 @@
    "confidence": "official",
    "sources": [
     "https://news.denfaminicogamer.jp/news/2609033h",
-    "https://gourmetpress.net/1477448/"
+    "https://gourmetpress.net/1477448/",
+    "https://www.cinemacafe.net/article/2026/09/06/112363.html",
+    "https://animeanime.jp/article/2026/09/06/102724.html"
    ],
    "summary": "ディズニーヴィランズをテーマにしたハロウィン期テーマカフェ。表参道ヒルズ本館地下3階で2026年9月17日〜10月22日開催。",
    "collected_at": "2026-09-04",
@@ -3396,7 +3398,7 @@
     "https://airline.ikaros.jp/news/60001/"
    ],
    "summary": "東京ばな奈ブランド史上初のカフェスタンド。羽田空港第1ターミナル2F出発ゲートラウンジ(北)16番ゲート前に2026年9月17日オープン。注文ごとに作る「東京ばな奈バー」を提供。",
-   "collected_at": "2026-09-05",
+   "collected_at": "2026-09-07",
    "id": "ebff69bf9a94",
    "is_new": true,
    "freshness": 30
@@ -3903,6 +3905,78 @@
    "summary": "西武池袋本店地下1階「デパチカ イベントスペース」で、マーロウ、パティスリーkazunori ikeda individuel、チーズケーキ専門店BELTZ、栃木銘菓「バターのいとこ」など人気スイーツブランドが週替わりで登場。",
    "collected_at": "2026-09-06",
    "id": "b1f68f049c19",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "ELLE café TAKANAWA",
+   "area": "高輪ゲートウェイ",
+   "address": "東京都港区三田3-15-1 TAKANAWA GATEWAY CITY RESIDENCE 2F",
+   "lat": 35.641529,
+   "lng": 139.742538,
+   "period": {
+    "start": "2026-09-08",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000004.000160522.html"
+   ],
+   "summary": "フランスの雑誌『ELLE』発のカフェ「ELLE café TAKANAWA」がTAKANAWA GATEWAY CITY RESIDENCE 2階にグランドオープン。クロワッサンとバーガーを掛け合わせた「Croger」やタルティーヌなどフレンチテイストのメニューを提供。",
+   "collected_at": "2026-09-07",
+   "id": "ac4d5bff9dcb",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "Dessert Choux（デセール・シュー）",
+   "area": "東京駅八重洲北口",
+   "address": "東京都千代田区丸の内1-9-1 東京ギフトパレット 1F",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-09-04",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000435.000007024.html"
+   ],
+   "summary": "ビアードパパが手がけるシューギフト専門店「Dessert Choux」が東京ギフトパレットに初の常設店舗としてオープン。ジャンドゥーヤと餅を合わせた「シュー餅」など、お土産向けのシュークリーム商品を展開。",
+   "collected_at": "2026-09-07",
+   "id": "e6fb6cb0de71",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "清明堂芋店",
+   "area": "品川",
+   "address": "東京都港区高輪3-26-27 エキュート品川",
+   "lat": 35.629002,
+   "lng": 139.737823,
+   "period": {
+    "start": "2026-08-31",
+    "end": "2026-09-20"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.ecute.jp/shinagawa/limitedshop"
+   ],
+   "summary": "国産さつま芋にこだわった芋スイーツ専門店「清明堂芋店」がエキュート品川に期間限定で出店。",
+   "collected_at": "2026-09-07",
+   "id": "636c3048fde2",
    "is_new": false,
    "freshness": null
   }
