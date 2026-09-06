@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-06",
+ "updated_at": "2026-09-07",
  "items": [
   {
    "type": "new_cafe",
@@ -527,7 +527,7 @@
    "collected_at": "2026-08-22",
    "id": "95fc4a014b33",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -702,7 +702,7 @@
    "collected_at": "2026-08-29",
    "id": "6cfff25429c5",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -781,7 +781,7 @@
    "collected_at": "2026-08-22",
    "id": "794b1255f5c9",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -1042,7 +1042,7 @@
    "collected_at": "2026-08-23",
    "id": "f31a309ca777",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -1620,33 +1620,6 @@
    "id": "72bdbfef54c2",
    "is_new": false,
    "freshness": 365
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "刀剣乱舞万屋かふぇ〜軽装まつり〜",
-   "area": "池袋",
-   "address": "東京都豊島区東池袋1-8-1 WACCA IKEBUKURO 5F",
-   "lat": 35.731373,
-   "lng": 139.714584,
-   "period": {
-    "start": "2026-06-20",
-    "end": "2026-09-06"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://twinplanet.co.jp/5099/",
-    "https://nijimen.kusuguru.co.jp/topics/618579"
-   ],
-   "summary": "「刀剣乱舞ONLINE」公式ストア企画のコラボカフェ「刀剣乱舞万屋かふぇ〜軽装まつり〜」がWACCA池袋5Fにて2026年6月20日〜9月6日開催中。軽装姿の刀剣男士をテーマにしたドリンクや、パティスリー監修の3Dケーキを提供。",
-   "collected_at": "2026-08-22",
-   "id": "411a538d97ec",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "popup",
