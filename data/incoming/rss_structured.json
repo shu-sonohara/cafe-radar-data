@@ -3978,5 +3978,75 @@
   "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアが東武百貨店池袋本店で開催。カマンベールやパルメザンを使ったフィナンシェ・クッキーを販売。",
   "collected_at": "2026-09-06",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「ディズニーヴィランズ」OH MY CAFE",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館地下3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": "2026-10-22"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.cinemacafe.net/article/2026/09/06/112363.html",
+   "https://animeanime.jp/article/2026/09/06/102724.html"
+  ],
+  "summary": "マレフィセント、スカー、アースラら「ディズニーヴィランズ」をテーマにしたOH MY CAFEが表参道ヒルズ本館地下3階に期間限定オープン。ヴィランごとのイメージメニューやグッズを展開。",
+  "collected_at": "2026-09-07",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "東京ばな奈カフェスタンド",
+  "area": "羽田空港第1ターミナル",
+  "address": "東京都大田区羽田空港3-3-2 羽田空港第1旅客ターミナル 2F 出発ゲートラウンジ（北）16番ゲート前",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
+  ],
+  "summary": "東京ばな奈ブランド史上初のカフェスタンドが羽田空港第1ターミナル保安エリア内にオープン。空港限定の「東京ばな奈ソフトクリーム」や「東京ばな奈バー チョコバナナ風」を販売。",
+  "collected_at": "2026-09-07",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "SAKAMOTO DAYS SECRET BAR & CAFE",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1-28-2 池袋パルコ本館8F Collabo_Index IKEBUKURO",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://nijimen.kusuguru.co.jp/topics/632686",
+   "https://collabo.sld-inc.com/sakamotodays_2608"
+  ],
+  "summary": "TVアニメ『SAKAMOTO DAYS』のコラボカフェ「SECRET BAR & CAFE」が池袋Collabo_Indexにて開催中。坂本太郎ら5キャラクターのバー衣装描き下ろしをテーマにしたフード・ドリンク・グッズを展開（終了日は情報源により差異があり未確定）。",
+  "collected_at": "2026-09-07",
+  "id": ""
  }
 ]

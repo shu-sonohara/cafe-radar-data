@@ -1486,5 +1486,71 @@
   "summary": "東京スカイツリータウンで栗・さつまいも・ぶどう・きのこなど秋の味覚を使ったスイーツ・グルメを集めたフェアを開催。",
   "collected_at": "2026-09-06",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ELLE café TAKANAWA",
+  "area": "高輪ゲートウェイ",
+  "address": "東京都港区三田3-15-1 TAKANAWA GATEWAY CITY RESIDENCE 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-08",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000004.000160522.html"
+  ],
+  "summary": "フランスの雑誌『ELLE』発のカフェ「ELLE café TAKANAWA」がTAKANAWA GATEWAY CITY RESIDENCE 2階にグランドオープン。クロワッサンとバーガーを掛け合わせた「Croger」やタルティーヌなどフレンチテイストのメニューを提供。",
+  "collected_at": "2026-09-07",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Dessert Choux（デセール・シュー）",
+  "area": "東京駅八重洲北口",
+  "address": "東京都千代田区丸の内1-9-1 東京ギフトパレット 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-04",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000435.000007024.html"
+  ],
+  "summary": "ビアードパパが手がけるシューギフト専門店「Dessert Choux」が東京ギフトパレットに初の常設店舗としてオープン。ジャンドゥーヤと餅を合わせた「シュー餅」など、お土産向けのシュークリーム商品を展開。",
+  "collected_at": "2026-09-07",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "清明堂芋店",
+  "area": "品川",
+  "address": "東京都港区高輪3-26-27 エキュート品川",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-31",
+   "end": "2026-09-20"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.ecute.jp/shinagawa/limitedshop"
+  ],
+  "summary": "国産さつま芋にこだわった芋スイーツ専門店「清明堂芋店」がエキュート品川に期間限定で出店。",
+  "collected_at": "2026-09-07",
+  "id": ""
  }
 ]
