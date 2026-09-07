@@ -1537,10 +1537,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000069.000050336.html"
+    "https://prtimes.jp/main/html/rd/p/000000069.000050336.html",
+    "https://robotstart.info/article/2026/08/19/382289.html"
    ],
    "summary": "カシオのAIペットロボット「Moflin」と人気ベーカリーカフェ「パンとエスプレッソとまちあわせ」が初コラボ。MIYASHITA PARK South 2Fに2026年9月5日〜13日の期間限定でオープンし、コラボメニューやノベルティを提供。",
-   "collected_at": "2026-08-22",
+   "collected_at": "2026-09-08",
    "id": "16c069fcc195",
    "is_new": false,
    "freshness": null
@@ -2924,15 +2925,17 @@
    "lng": 139.705917,
    "period": {
     "start": "2026-09-02",
-    "end": null
+    "end": "2026-09-30"
    },
    "confidence": "official",
    "sources": [
     "https://www.sweets-paradise.jp/collaboration/magica-wr",
-    "https://www.sweets-paradise.jp/shop/collabo-paradise-shinjukumaruiannex/"
+    "https://www.sweets-paradise.jp/shop/collabo-paradise-shinjukumaruiannex/",
+    "https://news.denfaminicogamer.jp/news/251202w",
+    "https://collabo-cafe.com/events/collabo/puella-magi-madoka-magica-cafe-sweets-paradise2026/"
    ],
    "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェがCOLLABO PARADISE新宿マルイアネックス店で2026年9月2日より開催。オリジナルメニューやコースターを展開。",
-   "collected_at": "2026-08-29",
+   "collected_at": "2026-09-08",
    "id": "cb27cc977af4",
    "is_new": false,
    "freshness": null
@@ -2980,10 +2983,11 @@
    "confidence": "official",
    "sources": [
     "https://www.fashion-press.net/news/142683",
-    "https://www.mont-blanc.jp/view/page/access"
+    "https://www.mont-blanc.jp/view/page/access",
+    "https://prtimes.jp/main/html/rd/p/000001637.000003710.html"
    ],
    "summary": "モンブラン発祥の名店「自由が丘 モンブラン」本店が、駅前新商業施設「自由が丘ミューズスクエア」1階に移転オープン。2026年9月17日開業。",
-   "collected_at": "2026-08-29",
+   "collected_at": "2026-09-08",
    "id": "a3b289ccbf1d",
    "is_new": true,
    "freshness": 30
@@ -3577,6 +3581,80 @@
    "freshness": 90
   },
   {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "Garden Café（東京国立博物館）",
+   "area": "上野",
+   "address": "東京都台東区上野公園13-9",
+   "lat": 35.717556,
+   "lng": 139.775543,
+   "period": {
+    "start": "2026-08-28",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000005.000189124.html",
+    "https://www.tnm.jp/uploads/r_press/346.pdf"
+   ],
+   "summary": "東京国立博物館の館内レストラン3店舗リニューアルの一環として、東洋館別棟前に「Garden Café」がオープン。ソフトクリームやフレッシュジュースなど軽食を提供。",
+   "collected_at": "2026-09-08",
+   "id": "42aa35861914",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "EXILE × TSUTAYAコラボレーションカフェ",
+   "area": "渋谷",
+   "address": "東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA 7階",
+   "lat": 35.659824,
+   "lng": 139.700226,
+   "period": {
+    "start": "2026-09-25",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://shibuyatsutaya.tsite.jp/article/2565.html"
+   ],
+   "summary": "EXILEデビュー25周年記念コンセプトアルバムのリリースを記念し、SHIBUYA TSUTAYA 7階にコラボレーションカフェが期間限定オープン。",
+   "collected_at": "2026-09-08",
+   "id": "ef11839bccb2",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "&EARL GREY ポップアップ（松坂屋上野店 秋のうまいもの物産展）",
+   "area": "上野",
+   "address": "東京都台東区上野3-29-5",
+   "lat": 35.707516,
+   "lng": 139.773193,
+   "period": {
+    "start": "2026-09-10",
+    "end": "2026-09-16"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000434.000069708.html"
+   ],
+   "summary": "松坂屋上野店6階催事場で開催の「秋のうまいもの物産展」内に、アールグレイ専門店&EARL GREYが出店。バタフライピーアールグレイ等のソフトクリームと新感覚スイーツ「バター餅」を期間限定販売。",
+   "collected_at": "2026-09-08",
+   "id": "88c8d95c55f7",
+   "is_new": false,
+   "freshness": null
+  },
+  {
    "type": "popup",
    "genre": [
     "カフェ",
@@ -3727,7 +3805,7 @@
     "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx"
    ],
    "summary": "『ファイナルファンタジーX』25周年を記念したコラボメニュー・グッズ展開が、新宿の常設カフェ「Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU」で開催。前期9/11〜10/22、後期10/23〜12/2。",
-   "collected_at": "2026-09-06",
+   "collected_at": "2026-09-08",
    "id": "132b0697a195",
    "is_new": false,
    "freshness": null
@@ -3832,34 +3910,6 @@
    "freshness": null
   },
   {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "魔法少女まどか☆マギカ カフェ in スイパラ（新宿マルイアネックス店）",
-   "area": "新宿",
-   "address": "東京都新宿区新宿3-1-26 新宿マルイアネックス",
-   "lat": 35.690266,
-   "lng": 139.705917,
-   "period": {
-    "start": "2026-09-02",
-    "end": "2026-09-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.sweets-paradise.jp/collaboration/magica-wr",
-    "https://www.sweets-paradise.jp/shop/collabo-paradise-shinjukumaruiannex/",
-    "https://news.denfaminicogamer.jp/news/251202w",
-    "https://collabo-cafe.com/events/collabo/puella-magi-madoka-magica-cafe-sweets-paradise2026/"
-   ],
-   "summary": "劇場版「魔法少女まどか☆マギカ〈ワルプルギスの廻天〉」とスイーツパラダイスのコラボカフェが新宿マルイアネックス店で開催。描き下ろしイラストのグッズ・メニューを展開。",
-   "collected_at": "2026-09-05",
-   "id": "f6679ac9b161",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "event",
    "genre": [
     "スイーツ"
@@ -3953,6 +4003,30 @@
    "summary": "国産さつま芋にこだわった芋スイーツ専門店「清明堂芋店」がエキュート品川に期間限定で出店。",
    "collected_at": "2026-09-07",
    "id": "636c3048fde2",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "キャラメルゴーストハウス（大丸東京店）",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1-9-1 大丸東京店1階MVPスイーツ",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-09-09",
+    "end": "2026-09-15"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000001763.000016051.html"
+   ],
+   "summary": "キャラメル菓子専門店「キャラメルゴーストハウス」が大丸東京店1階MVPスイーツに7日間限定で催事出店。",
+   "collected_at": "2026-09-08",
+   "id": "53fe5b4080fc",
    "is_new": false,
    "freshness": null
   }
