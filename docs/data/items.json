@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07",
+ "updated_at": "2026-09-08",
  "items": [
   {
    "type": "new_cafe",
@@ -1164,8 +1164,8 @@
    "summary": "渋谷で行列のできる「パン食べ放題」レストラン「BAKERY RESTAURANT C」がトリエ京王調布にオープン。多摩地区初出店で、全メニューに焼きたてパン食べ放題が付く新スタイルを採用。",
    "collected_at": "2026-08-22",
    "id": "cb82f50009e6",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
@@ -1516,30 +1516,6 @@
    "summary": "東京駅で行列のできるブリュレスイーツ専門店「ブリュレメリゼ」が羽田空港第1ターミナル「羽田スタースイーツ」に期間限定出店。代表作「ブリュレクリームタルト」のほか新作チーズケーキも登場。",
    "collected_at": "2026-08-22",
    "id": "1130b5d0e0d5",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "「ひんやりフルーツ。」フェア",
-   "area": "東京駅・丸の内",
-   "address": "東京都千代田区丸の内1-9-1 東京駅一番街 グランスタ東京・グランスタ丸の内",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-07-21",
-    "end": "2026-09-07"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000001144.000082978.html"
-   ],
-   "summary": "JR東日本クロスステーションが東京駅グランスタで初開催する夏の果実フェア。桃やマンゴー、ベリーなどを使ったアイスやスイーツ、パンなど限定含む全22商品が集結する。",
-   "collected_at": "2026-08-22",
-   "id": "81577ef1b5f0",
    "is_new": false,
    "freshness": null
   },
@@ -2985,7 +2961,7 @@
    "collected_at": "2026-08-31",
    "id": "3be2e27c6e70",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
