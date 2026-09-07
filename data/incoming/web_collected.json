@@ -1552,5 +1552,96 @@
   "summary": "国産さつま芋にこだわった芋スイーツ専門店「清明堂芋店」がエキュート品川に期間限定で出店。",
   "collected_at": "2026-09-07",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉×スイーツパラダイス コラボカフェ（COLLABO PARADISE 新宿マルイアネックス店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-1-26 新宿マルイアネックス8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-02",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sweets-paradise.jp/collaboration/magica-wr"
+  ],
+  "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェ。フード・デザート・ドリンク全14品を展開、注文特典でオリジナルコースターも配布。",
+  "collected_at": "2026-09-08",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "キャラメルゴーストハウス（大丸東京店）",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店1階MVPスイーツ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-09",
+   "end": "2026-09-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001763.000016051.html"
+  ],
+  "summary": "キャラメル菓子専門店「キャラメルゴーストハウス」が大丸東京店1階MVPスイーツに7日間限定で催事出店。",
+  "collected_at": "2026-09-08",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE（新宿）",
+  "area": "新宿三丁目",
+  "address": "東京都新宿区新宿3丁目36-1 パセラボタワー1F/2F/3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-12-02"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx"
+  ],
+  "summary": "『Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU』にて『FINAL FANTASY X』25周年記念コラボカフェを開催。前期・後期の2部制でキャラクターイメージのフード・ドリンクを提供。",
+  "collected_at": "2026-09-08",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "自由が丘 モンブラン 本店",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1 自由が丘ミューズスクエア1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.fashion-press.net/news/142683",
+   "https://prtimes.jp/main/html/rd/p/000001637.000003710.html"
+  ],
+  "summary": "日本のモンブラン発祥店「自由が丘 モンブラン」が新複合施設「自由が丘ミューズスクエア」1階に本店を移転・新規オープン。",
+  "collected_at": "2026-09-08",
+  "id": ""
  }
 ]

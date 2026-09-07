@@ -4048,5 +4048,97 @@
   "summary": "TVアニメ『SAKAMOTO DAYS』のコラボカフェ「SECRET BAR & CAFE」が池袋Collabo_Indexにて開催中。坂本太郎ら5キャラクターのバー衣装描き下ろしをテーマにしたフード・ドリンク・グッズを展開（終了日は情報源により差異があり未確定）。",
   "collected_at": "2026-09-07",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "パンとエスプレッソとMoflinとまちあわせ",
+  "area": "渋谷",
+  "address": "東京都渋谷区神宮前6-20-10 RAYARD MIYASHITA PARK South 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-05",
+   "end": "2026-09-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000069.000050336.html",
+   "https://robotstart.info/article/2026/08/19/382289.html"
+  ],
+  "summary": "カシオのAIペットロボット「Moflin」とパン・エスプレッソ専門店「まちあわせ」が初コラボ。MIYASHITA PARK内に期間限定カフェがオープンし、モフリンをイメージした限定メニューやふれあい体験を提供。",
+  "collected_at": "2026-09-08",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "Garden Café（東京国立博物館）",
+  "area": "上野",
+  "address": "東京都台東区上野公園13-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000189124.html",
+   "https://www.tnm.jp/uploads/r_press/346.pdf"
+  ],
+  "summary": "東京国立博物館の館内レストラン3店舗リニューアルの一環として、東洋館別棟前に「Garden Café」がオープン。ソフトクリームやフレッシュジュースなど軽食を提供。",
+  "collected_at": "2026-09-08",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "EXILE × TSUTAYAコラボレーションカフェ",
+  "area": "渋谷",
+  "address": "東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA 7階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-25",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://shibuyatsutaya.tsite.jp/article/2565.html"
+  ],
+  "summary": "EXILEデビュー25周年記念コンセプトアルバムのリリースを記念し、SHIBUYA TSUTAYA 7階にコラボレーションカフェが期間限定オープン。",
+  "collected_at": "2026-09-08",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "&EARL GREY ポップアップ（松坂屋上野店 秋のうまいもの物産展）",
+  "area": "上野",
+  "address": "東京都台東区上野3-29-5",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-10",
+   "end": "2026-09-16"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000434.000069708.html"
+  ],
+  "summary": "松坂屋上野店6階催事場で開催の「秋のうまいもの物産展」内に、アールグレイ専門店&EARL GREYが出店。バタフライピーアールグレイ等のソフトクリームと新感覚スイーツ「バター餅」を期間限定販売。",
+  "collected_at": "2026-09-08",
+  "id": ""
  }
 ]
