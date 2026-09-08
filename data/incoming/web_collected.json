@@ -1643,5 +1643,118 @@
   "summary": "日本のモンブラン発祥店「自由が丘 モンブラン」が新複合施設「自由が丘ミューズスクエア」1階に本店を移転・新規オープン。",
   "collected_at": "2026-09-08",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「くまのプーさん」OH MY CAFE",
+  "area": "押上・とうきょうスカイツリー",
+  "address": "東京都墨田区押上1丁目1-2 東京スカイツリータウン・ソラマチ タワーヤード1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": "2026-10-25"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000176.000086964.html"
+  ],
+  "summary": "ディズニー「くまのプーさん」のテーマカフェがBOX cafe&space東京ソラマチ店で開催。プーさんとその仲間たちをイメージしたメニュー・グッズを展開。",
+  "collected_at": "2026-09-09",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE",
+  "area": "新宿三丁目",
+  "address": "東京都新宿区新宿3丁目36-1 パセラボタワー（SQUARE ENIX Cafe & Shop SHINJUKU）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-12-02"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://jp.finalfantasy.com/ffx25th_news/6121"
+  ],
+  "summary": "『ファイナルファンタジーX』25周年記念カフェがSQUARE ENIX Cafe & Shop SHINJUKUで開催。前期・後期に分けてキャラクターイメージのメニューを提供、要予約・チャージ制。",
+  "collected_at": "2026-09-09",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉×スイーツパラダイス COLLABO PARADISE",
+  "area": "新宿三丁目",
+  "address": "東京都新宿区新宿3-1-26 新宿マルイアネックス",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-02",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sweets-paradise.jp/collaboration/magica-wr"
+  ],
+  "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェ。新宿マルイアネックスのCOLLABO PARADISEでキャラクターイメージのフード・ドリンクを提供。",
+  "collected_at": "2026-09-09",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "自由が丘モンブラン 自由が丘ミューズスクエア店",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1 自由が丘ミューズスクエア1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://shutten-watch.com/kantou/23151"
+  ],
+  "summary": "日本のモンブラン発祥店「自由が丘モンブラン」が、自由が丘駅前の新複合施設「自由が丘ミューズスクエア」1階に新店舗をオープン。",
+  "collected_at": "2026-09-09",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "キャラメルゴーストハウス（大丸東京店 催事）",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-09",
+   "end": "2026-09-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001763.000016051.html"
+  ],
+  "summary": "キャラメル菓子専門店「キャラメルゴーストハウス」が大丸東京店1階MVPスイーツに7日間限定で催事出店。",
+  "collected_at": "2026-09-09",
+  "id": ""
  }
 ]

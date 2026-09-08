@@ -4140,5 +4140,167 @@
   "summary": "松坂屋上野店6階催事場で開催の「秋のうまいもの物産展」内に、アールグレイ専門店&EARL GREYが出店。バタフライピーアールグレイ等のソフトクリームと新感覚スイーツ「バター餅」を期間限定販売。",
   "collected_at": "2026-09-08",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "『SHOW-WA』× 日本直販 × ORBcafeコラボカフェ",
+  "area": "渋谷",
+  "address": "東京都渋谷区桜丘町1-4 渋谷サクラステージ SHIBUYA SIDE 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-10-12"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000015.000172777.html"
+  ],
+  "summary": "アイドルグループ「SHOW-WA」と日本直販、ORBcafeによる期間限定コラボカフェ。ORBcafe渋谷サクラステージ店で限定フード・ドリンクを提供。1stアルバム発売と日本武道館公演を記念した企画。",
+  "collected_at": "2026-09-09",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "チェンソーマン喫茶",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://chainsawman.dog/news/231207_01/",
+   "https://csm.theme-cafe.jp/"
+  ],
+  "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
+  "collected_at": "2026-09-09",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "ベーカリー",
+   "コラボカフェ"
+  ],
+  "name": "「可愛い嘘のカワウソ」コラボカフェ（ぬんぬんベーカリーカフェ）",
+  "area": "お台場",
+  "address": "東京都港区台場1-7-1 アクアシティお台場5F R.O.STAR Seaside Terrace",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-09"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000458.000036259.html"
+  ],
+  "summary": "キャラクター「可愛い嘘のカワウソ」とR.O.STAR Seaside Terraceのコラボカフェ。ワカメを入れすぎたうどんなどキャラクターをイメージしたフードを期間限定で提供。",
+  "collected_at": "2026-09-09",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ",
+   "カフェ"
+  ],
+  "name": "東京ばな奈カフェスタンド",
+  "area": "羽田空港",
+  "address": "東京都大田区羽田空港3-3-2 羽田空港第1旅客ターミナル 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
+  ],
+  "summary": "「東京ばな奈」ブランド史上初のカフェスタンドが羽田空港第1ターミナル保安検査後エリアにオープン。世界初提供の「東京ばな奈バー」や限定ソフトクリームを販売。",
+  "collected_at": "2026-09-09",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "お魚のべおカフェ",
+  "area": "渋谷",
+  "address": "東京都渋谷区渋谷2-8-11",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-10-31"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.favy.jp/topics/38525",
+   "https://straightpress.jp/20260907/1703722"
+  ],
+  "summary": "宮崎県延岡市の海の幸を使った期間限定ポップアップカフェが渋谷に今年も出店。フィッシュバーガーや海老のビャンビャン麺などを提供。",
+  "collected_at": "2026-09-09",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "そういう時期の進撃の巨人カフェ～思春期の晩餐～",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-03",
+   "end": "2026-10-12"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://aot-portal.com/news/%E3%83%86%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%95%E3%82%A7%E3%80%8C%E3%81%9D%E3%81%86%E3%81%84%E3%81%86%E6%99%82%E6%9C%9F%E3%81%AE%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%E3%82%AB%E3%83%95%E3%82%A7%E3%80%8D"
+  ],
+  "summary": "『進撃の巨人』のテーマカフェがBOX cafe&space ルミネエスト新宿2号店で開催。決戦前夜の“最後の晩餐”をテーマに、各キャラクターをイメージしたメニューとオリジナルグッズを展開。",
+  "collected_at": "2026-09-09",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "たぶん…世界一小さいチョコレート工場 町田マルイ店",
+  "area": "町田",
+  "address": "東京都町田市原町田6-1-6 町田マルイ2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-15",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000004208.000003860.html"
+  ],
+  "summary": "SNSで話題のチョコレート専門店が東京初出店。マシュマロやドライフルーツを使った手づくりチョコレートや、グループ会社のおかきなどを販売。",
+  "collected_at": "2026-09-09",
+  "id": ""
  }
 ]
