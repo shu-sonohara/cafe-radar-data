@@ -933,13 +933,14 @@
     "https://prtimes.jp/main/html/rd/p/000000315.000086964.html",
     "https://www.walkerplus.com/event/ar0313e609289/",
     "https://hunny2026-ohmycafe.ltr-online.com/lp/hunny2026-ohmycafe-s005/",
+    "https://www.oricon.co.jp/news/2472171/full/",
     "https://www.cinemacafe.net/article/2026/08/09/111619.html",
     "https://www.disney.co.jp/shopping/cafenews/20250924_01",
     "https://hunny2026-ohmycafe.ltr-online.com/",
     "https://prtimes.jp/main/html/rd/p/000000176.000086964.html"
    ],
    "summary": "「くまのプーさん」原作デビュー100周年を記念したテーマカフェが東京スカイツリータウン・ソラマチにて2026年8月20日〜10月25日開催中（大阪でも同時開催）。",
-   "collected_at": "2026-09-09",
+   "collected_at": "2026-09-10",
    "id": "51e7b398d705",
    "is_new": false,
    "freshness": null
@@ -2672,9 +2673,11 @@
     "start": "2026-09-18",
     "end": null
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
-    "https://media.kawa-colle.jp/_ct/17860292"
+    "https://media.kawa-colle.jp/_ct/17860292",
+    "https://lifte.jp/20260902-2/",
+    "https://straightpress.jp/20260828/1697154"
    ],
    "summary": "スウェーデン・ストックホルム発のスペシャルティコーヒーブランド「Drop Coffee Roasters」が日本初出店となる旗艦店を中野マルイ2階に2026年9月18日オープン予定。51席で北欧の「フィーカ」文化を提案する。",
    "collected_at": "2026-08-27",
@@ -3784,6 +3787,58 @@
    "freshness": 30
   },
   {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "JM Coffee Ginza Lounge",
+   "area": "有楽町",
+   "address": "東京都千代田区有楽町2-7-1 有楽町イトシア1階",
+   "lat": 35.674213,
+   "lng": 139.763657,
+   "period": {
+    "start": "2026-08-14",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000008.000188003.html",
+    "https://www.cinemacafe.net/article/2026/09/09/112454.html"
+   ],
+   "summary": "釜山発のスペシャルティコーヒーブランドJM COFFEEが海外初の旗艦店を有楽町イトシアにオープン。2種類のコーヒー体験が楽しめる。",
+   "collected_at": "2026-09-10",
+   "id": "c46979d7e49d",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "『SHOW-WA』× 日本直販 コラボカフェ（ORBcafe渋谷公園通り店）",
+   "area": "渋谷",
+   "address": "東京都渋谷区神南1-20-7 川原ビル3階",
+   "lat": 35.661728,
+   "lng": 139.699997,
+   "period": {
+    "start": "2026-09-11",
+    "end": "2026-09-27"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://corporate.666-666.jp/news/20260908_notice/",
+    "https://prtimes.jp/main/html/rd/p/000000015.000172777.html"
+   ],
+   "summary": "アイドルグループSHOW-WAの1stアルバム発売と日本武道館公演を記念し、日本直販とORBcafeがコラボカフェを開催。渋谷公園通り店と大阪北堀江店で実施。",
+   "collected_at": "2026-09-10",
+   "id": "fc45fa51b52b",
+   "is_new": false,
+   "freshness": null
+  },
+  {
    "type": "popup",
    "genre": [
     "カフェ",
@@ -3876,7 +3931,8 @@
    "confidence": "official",
    "sources": [
     "https://gourmetpress.net/1473098/",
-    "https://tetsudo-ch.com/13036326.html"
+    "https://tetsudo-ch.com/13036326.html",
+    "https://www.fashion-press.net/news/150272"
    ],
    "summary": "エキュート品川で開催されるモンブランフェア。王道から進化系まで全16種、おはぎ・羊羹など和素材を使ったものやパン・カヌレとのコラボモンブランも登場。",
    "collected_at": "2026-09-06",
@@ -3934,7 +3990,7 @@
     "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx"
    ],
    "summary": "『ファイナルファンタジーX』25周年を記念したコラボメニュー・グッズ展開が、新宿の常設カフェ「Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU」で開催。前期9/11〜10/22、後期10/23〜12/2。",
-   "collected_at": "2026-09-09",
+   "collected_at": "2026-09-10",
    "id": "132b0697a195",
    "is_new": false,
    "freshness": null
@@ -4156,6 +4212,31 @@
    "summary": "キャラメル菓子専門店「キャラメルゴーストハウス」が大丸東京店1階MVPスイーツに7日間限定で催事出店。",
    "collected_at": "2026-09-09",
    "id": "53fe5b4080fc",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "西武池袋本店 デパチカイベントスペース 2026年9月ラインナップ（マーロウ・kazunori ikeda individuel・BELTZ・バターのいとこ 週替わり出店）",
+   "area": "池袋",
+   "address": "東京都豊島区南池袋1-28-1 西武池袋本店 地下1階",
+   "lat": 35.727081,
+   "lng": 139.710495,
+   "period": {
+    "start": "2026-09-01",
+    "end": "2026-09-30"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000002483.000031382.html",
+    "https://ikebukuro-times.com/archives/ikesei-depachika-sweetsevent202609.html"
+   ],
+   "summary": "西武池袋本店地下1階のデパチカイベントスペースに、話題のスイーツブランドが週替わりで出店。焼きプリンの「マーロウ」やチーズケーキ専門店「BELTZ」など。",
+   "collected_at": "2026-09-10",
+   "id": "5c2613395f35",
    "is_new": false,
    "freshness": null
   }
