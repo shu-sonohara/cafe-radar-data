@@ -4302,5 +4302,101 @@
   "summary": "SNSで話題のチョコレート専門店が東京初出店。マシュマロやドライフルーツを使った手づくりチョコレートや、グループ会社のおかきなどを販売。",
   "collected_at": "2026-09-09",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "JM Coffee Ginza Lounge",
+  "area": "有楽町",
+  "address": "東京都千代田区有楽町2-7-1 有楽町イトシア1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-14",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000008.000188003.html",
+   "https://www.cinemacafe.net/article/2026/09/09/112454.html"
+  ],
+  "summary": "釜山発のスペシャルティコーヒーブランドJM COFFEEが海外初の旗艦店を有楽町イトシアにオープン。2種類のコーヒー体験が楽しめる。",
+  "collected_at": "2026-09-10",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "『SHOW-WA』× 日本直販 コラボカフェ（ORBcafe渋谷公園通り店）",
+  "area": "渋谷",
+  "address": "東京都渋谷区神南1-20-7 川原ビル3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-09-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://corporate.666-666.jp/news/20260908_notice/",
+   "https://prtimes.jp/main/html/rd/p/000000015.000172777.html"
+  ],
+  "summary": "アイドルグループSHOW-WAの1stアルバム発売と日本武道館公演を記念し、日本直販とORBcafeがコラボカフェを開催。渋谷公園通り店と大阪北堀江店で実施。",
+  "collected_at": "2026-09-10",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "Drop Coffee Roasters 中野店",
+  "area": "中野",
+  "address": "東京都中野区中野3-34-28 中野マルイ2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-18",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://lifte.jp/20260902-2/",
+   "https://straightpress.jp/20260828/1697154"
+  ],
+  "summary": "スウェーデン発のスペシャルティコーヒーブランドDrop Coffee Roastersが日本初上陸。中野マルイ2階に日本1号店をオープンし、シングルオリジンコーヒーを均一価格で提供。",
+  "collected_at": "2026-09-10",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「くまのプーさん」OH MY CAFE（BOX cafe&space 東京ソラマチ店）",
+  "area": "押上・東京スカイツリータウン",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ1F タワーヤード6番地",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": "2026-10-25"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000315.000086964.html",
+   "https://www.oricon.co.jp/news/2472171/full/"
+  ],
+  "summary": "くまのプーさん原作デビュー100周年を記念したスペシャルカフェ。100周年お祝いパフェなどの限定メニューとオリジナルグッズを展開。",
+  "collected_at": "2026-09-10",
+  "id": ""
  }
 ]

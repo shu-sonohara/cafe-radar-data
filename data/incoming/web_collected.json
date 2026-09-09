@@ -1756,5 +1756,99 @@
   "summary": "キャラメル菓子専門店「キャラメルゴーストハウス」が大丸東京店1階MVPスイーツに7日間限定で催事出店。",
   "collected_at": "2026-09-09",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE（SQUARE ENIX Cafe & Shop SHINJUKU）",
+  "area": "新宿三丁目",
+  "address": "東京都新宿区新宿3丁目36-1 パセラボタワー",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-12-02"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://jp.finalfantasy.com/ffx25th_news/6121",
+   "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx"
+  ],
+  "summary": "『ファイナルファンタジーX』25周年を記念したコラボカフェ。前期(9/11-10/22)・後期(10/23-12/2)で内容が切り替わる。",
+  "collected_at": "2026-09-10",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』×スイーツパラダイス コラボカフェ（COLLABO PARADISE 新宿マルイアネックス店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-1-26 新宿マルイ アネックス 8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-02",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sweets-paradise.jp/collaboration/magica-wr",
+   "https://www.sweets-paradise.jp/shop/collabo-paradise-shinjukumaruiannex/"
+  ],
+  "summary": "劇場版まどか☆マギカ〈ワルプルギスの廻天〉とスイーツパラダイスのコラボカフェ。フード・デザート・ドリンク全14品を展開、注文ごとにオリジナルコースターをプレゼント。",
+  "collected_at": "2026-09-10",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "西武池袋本店 デパチカイベントスペース 2026年9月ラインナップ（マーロウ・kazunori ikeda individuel・BELTZ・バターのいとこ 週替わり出店）",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1-28-1 西武池袋本店 地下1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002483.000031382.html",
+   "https://ikebukuro-times.com/archives/ikesei-depachika-sweetsevent202609.html"
+  ],
+  "summary": "西武池袋本店地下1階のデパチカイベントスペースに、話題のスイーツブランドが週替わりで出店。焼きプリンの「マーロウ」やチーズケーキ専門店「BELTZ」など。",
+  "collected_at": "2026-09-10",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "エキュート品川「Mont Blanc is ART 2026」",
+  "area": "品川",
+  "address": "東京都港区高輪3-26-27 JR東日本品川駅構内 エキュート品川",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-07",
+   "end": "2026-09-27"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/150272",
+   "https://gourmetpress.net/1473098/"
+  ],
+  "summary": "エキュート品川で王道から進化系まで全16種のモンブランが集結するフェア。和栗クリーム大福やカヌレとの組み合わせなど個性派メニューも登場。",
+  "collected_at": "2026-09-10",
+  "id": ""
  }
 ]
