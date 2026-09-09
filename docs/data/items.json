@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09",
+ "updated_at": "2026-09-10",
  "items": [
   {
    "type": "new_cafe",
@@ -727,8 +727,8 @@
    "summary": "モロッコ発「バシャコーヒー（Bacha Coffee）」の日本2号店が新丸の内ビルディング1階に2026年6月11日オープン。200種以上の豆やドリップバッグを扱う物販専門の手土産ブティック。",
    "collected_at": "2026-08-22",
    "id": "06f9ab71c364",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
@@ -966,8 +966,8 @@
    "summary": "モロッコ発のコーヒーブランド「Bacha Coffee」の日本2号店となる物販専門店が丸の内・新丸ビルにオープン。35カ国から厳選した200種類以上のコーヒーを取り扱う。",
    "collected_at": "2026-08-22",
    "id": "994758521d18",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
@@ -1492,8 +1492,8 @@
    "summary": "玄米×オーガニックグラスフェッド牧場の恵みをテーマにしたグルテンフリー玄米スイーツ＆ベーカリーブランド「玄点＋」が二子玉川「東急フードショー」内にオープン。玄米スコーンや焼き菓子をイートイン・テイクアウトで提供する。",
    "collected_at": "2026-08-22",
    "id": "f8c75e23519a",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "popup",
@@ -2141,8 +2141,8 @@
    "summary": "谷中銀座商店街に築80年の古民家をリノベーションした和カフェ「八三六」がオープン。京都産宇治抹茶や北海道産小豆など厳選素材を使い、氷を育てる体験型かき氷「氷あそび」を看板メニューとする。",
    "collected_at": "2026-08-24",
    "id": "e4cce494ee85",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
