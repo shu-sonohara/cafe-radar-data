@@ -2936,11 +2936,12 @@
    "sources": [
     "https://www.sweets-paradise.jp/collaboration/magica-wr",
     "https://www.sweets-paradise.jp/shop/collabo-paradise-shinjukumaruiannex/",
+    "https://collabo-cafe.com/events/collabo/madoka-magica-walpurgis-sweets-paradise-2026/",
     "https://news.denfaminicogamer.jp/news/251202w",
     "https://collabo-cafe.com/events/collabo/puella-magi-madoka-magica-cafe-sweets-paradise2026/"
    ],
    "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェがCOLLABO PARADISE新宿マルイアネックス店で2026年9月2日より開催。オリジナルメニューやコースターを展開。",
-   "collected_at": "2026-09-08",
+   "collected_at": "2026-09-11",
    "id": "cb27cc977af4",
    "is_new": false,
    "freshness": null
@@ -3677,7 +3678,8 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000015.000172777.html"
+    "https://prtimes.jp/main/html/rd/p/000000015.000172777.html",
+    "https://corporate.666-666.jp/news/20260908_notice/"
    ],
    "summary": "アイドルグループ「SHOW-WA」と日本直販、ORBcafeによる期間限定コラボカフェ。ORBcafe渋谷サクラステージ店で限定フード・ドリンクを提供。1stアルバム発売と日本武道館公演を記念した企画。",
    "collected_at": "2026-09-09",
@@ -3703,10 +3705,12 @@
    "confidence": "official",
    "sources": [
     "https://chainsawman.dog/news/231207_01/",
-    "https://csm.theme-cafe.jp/"
+    "https://csm.theme-cafe.jp/",
+    "https://chainsawman.dog/news/220926_02/",
+    "https://animeanime.jp/article/2026/09/08/102773.html"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-09-09",
+   "collected_at": "2026-09-11",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -3807,7 +3811,7 @@
     "https://www.cinemacafe.net/article/2026/09/09/112454.html"
    ],
    "summary": "釜山発のスペシャルティコーヒーブランドJM COFFEEが海外初の旗艦店を有楽町イトシアにオープン。2種類のコーヒー体験が楽しめる。",
-   "collected_at": "2026-09-10",
+   "collected_at": "2026-09-11",
    "id": "c46979d7e49d",
    "is_new": true,
    "freshness": 30
@@ -3835,6 +3839,57 @@
    "summary": "アイドルグループSHOW-WAの1stアルバム発売と日本武道館公演を記念し、日本直販とORBcafeがコラボカフェを開催。渋谷公園通り店と大阪北堀江店で実施。",
    "collected_at": "2026-09-10",
    "id": "fc45fa51b52b",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "ベーカリー",
+    "コーヒー"
+   ],
+   "name": "Bread&Coffee IKEDAYAMA 自由が丘店",
+   "area": "自由が丘",
+   "address": "東京都目黒区自由が丘1-29-1 自由が丘ミューズスクエア1F",
+   "lat": 35.608524,
+   "lng": 139.669067,
+   "period": {
+    "start": "2026-09-17",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000125.000177867.html"
+   ],
+   "summary": "パン百名店として知られるベーカリーカフェの自由が丘初出店。自家製パンと自家焙煎コーヒーを同時に楽しめる店舗。",
+   "collected_at": "2026-09-11",
+   "id": "baed51babb92",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "CEMEN TALK CAFE（レストランNEW LIGHT／MIYASHITA PARK）",
+   "area": "渋谷",
+   "address": "東京都渋谷区神宮前6-20-10 MIYASHITA PARK",
+   "lat": 35.662376,
+   "lng": 139.702011,
+   "period": {
+    "start": "2026-09-26",
+    "end": "2026-09-27"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000003.000190439.html"
+   ],
+   "summary": "太平洋セメントのコラボカフェ。CMキャラクター上白石萌音のビジュアル装飾やCM映像放映、オリジナルコラボメニューを提供。",
+   "collected_at": "2026-09-11",
+   "id": "a003dc91401f",
    "is_new": false,
    "freshness": null
   },
@@ -3959,7 +4014,8 @@
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000262.000044858.html",
     "https://www.the-miyanichi.co.jp/pressrelease/prtimes/1058147.html",
-    "https://thecitybakery.jp/shop/granstatokyo"
+    "https://thecitybakery.jp/shop/granstatokyo",
+    "https://panyasan-navi.net/?p=13641"
    ],
    "summary": "NY発のベーカリー「THE CITY BAKERY」がJR東京駅丸の内改札内・グランスタ東京にオープン。パンやペイストリー、限定サンドイッチのほか、17時からはアルコールとタパス・バーガー・パスタも提供。",
    "collected_at": "2026-09-02",
