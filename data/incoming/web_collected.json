@@ -1850,5 +1850,76 @@
   "summary": "エキュート品川で王道から進化系まで全16種のモンブランが集結するフェア。和栗クリーム大福やカヌレとの組み合わせなど個性派メニューも登場。",
   "collected_at": "2026-09-10",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "THE CITY BAKERY + Bar & Grill グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000262.000044858.html",
+   "https://thecitybakery.jp/shop/granstatokyo"
+  ],
+  "summary": "NY発祥のベーカリー「THE CITY BAKERY」がグランスタ東京の改札内にオープン。定番パン・ペイストリーに加え、17時以降はタパスやバーガーなどのバー&グリルメニューも提供。",
+  "collected_at": "2026-09-11",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "The Little BAKERY Tokyo グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://panyasan-navi.net/?p=13641"
+  ],
+  "summary": "原宿の人気パン屋「The Little BAKERY Tokyo」がグランスタ東京の改札内にオープン。グランスタ東京店限定の焼菓子・ドーナツを提供。",
+  "collected_at": "2026-09-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉×スイーツパラダイス コラボカフェ（COLLABO PARADISE 新宿マルイアネックス店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-1-26 新宿マルイアネックス",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-02",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sweets-paradise.jp/collaboration/magica-wr",
+   "https://collabo-cafe.com/events/collabo/madoka-magica-walpurgis-sweets-paradise-2026/"
+  ],
+  "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェ。キャラクターをイメージしたコラボメニュー全14品とノベルティを展開。",
+  "collected_at": "2026-09-11",
+  "id": ""
  }
 ]

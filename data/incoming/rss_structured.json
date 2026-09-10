@@ -4398,5 +4398,123 @@
   "summary": "くまのプーさん原作デビュー100周年を記念したスペシャルカフェ。100周年お祝いパフェなどの限定メニューとオリジナルグッズを展開。",
   "collected_at": "2026-09-10",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "チェンソーマン喫茶（BOX cafe&space ルミネエスト新宿1号店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://chainsawman.dog/news/220926_02/",
+   "https://animeanime.jp/article/2026/09/08/102773.html"
+  ],
+  "summary": "劇場版『チェンソーマン レゼ篇』の“喫茶二道”をイメージしたテーマカフェ。作中モチーフのフード・デザートとオリジナルグッズを展開。",
+  "collected_at": "2026-09-11",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "ベーカリー",
+   "コーヒー"
+  ],
+  "name": "Bread&Coffee IKEDAYAMA 自由が丘店",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1 自由が丘ミューズスクエア1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000125.000177867.html"
+  ],
+  "summary": "パン百名店として知られるベーカリーカフェの自由が丘初出店。自家製パンと自家焙煎コーヒーを同時に楽しめる店舗。",
+  "collected_at": "2026-09-11",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "JM COFFEE Ginza Lounge",
+  "area": "有楽町",
+  "address": "東京都千代田区有楽町2-7-1 有楽町イトシア1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-14",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000008.000188003.html"
+  ],
+  "summary": "釜山発スペシャルティコーヒーブランドJM COFFEEの海外初旗艦店。2種類のコーヒー体験を提供する。",
+  "collected_at": "2026-09-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "SHOW-WA×日本直販コラボカフェ（ORBcafe 渋谷サクラステージ店）",
+  "area": "渋谷",
+  "address": "東京都渋谷区桜丘町1-4 渋谷サクラステージ SHIBUYA SIDE 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-10-12"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000015.000172777.html",
+   "https://corporate.666-666.jp/news/20260908_notice/"
+  ],
+  "summary": "日本直販の公式アンバサダー「SHOW-WA」の期間限定コラボカフェ。メンバー考案の限定フード・ドリンクや生収録動画放映などを実施。",
+  "collected_at": "2026-09-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "CEMEN TALK CAFE（レストランNEW LIGHT／MIYASHITA PARK）",
+  "area": "渋谷",
+  "address": "東京都渋谷区神宮前6-20-10 MIYASHITA PARK",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-26",
+   "end": "2026-09-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000003.000190439.html"
+  ],
+  "summary": "太平洋セメントのコラボカフェ。CMキャラクター上白石萌音のビジュアル装飾やCM映像放映、オリジナルコラボメニューを提供。",
+  "collected_at": "2026-09-11",
+  "id": ""
  }
 ]
