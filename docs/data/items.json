@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10",
+ "updated_at": "2026-09-11",
  "items": [
   {
    "type": "new_cafe",
@@ -806,8 +806,8 @@
    "summary": "スペシャルティコーヒーの堀口珈琲による新業態、フレンチスタイルのカフェ「HORIGUCHI COFFEE à la table」が有明の東京ドリームパーク2階に2026年6月12日オープン。ディナー営業も行う本格ビストロ料理も展開。",
    "collected_at": "2026-08-22",
    "id": "34a5a191981c",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
