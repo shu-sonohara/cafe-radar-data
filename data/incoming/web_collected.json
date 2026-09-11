@@ -1921,5 +1921,99 @@
   "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェ。キャラクターをイメージしたコラボメニュー全14品とノベルティを展開。",
   "collected_at": "2026-09-11",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "The Little BAKERY Tokyo グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京(改札内)B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.gransta.jp/news/info/marunouchi_sakarn/",
+   "https://thecitybakery.jp/news/granstatokyo"
+  ],
+  "summary": "原宿発の人気パン屋「The Little BAKERY Tokyo」がグランスタ東京(改札内B1F)に9月16日オープン。限定ドーナツや新作スイーツを展開。",
+  "collected_at": "2026-09-12",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "THE CITY BAKERY + Bar & Grill グランスタ東京",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京(丸の内改札内)B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://thecitybakery.jp/shop/granstatokyo",
+   "https://prtimes.jp/main/html/rd/p/000000262.000044858.html"
+  ],
+  "summary": "NY発祥のベーカリー「THE CITY BAKERY」がグランスタ東京(丸の内改札内)に9月16日オープン。パンとバー&グリルを併設。",
+  "collected_at": "2026-09-12",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「くまのプーさん」OH MY CAFE (BOX cafe&space 東京ソラマチ店)",
+  "area": "押上・東京スカイツリータウン",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ タワーヤード1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-20",
+   "end": "2026-10-25"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://hunny2026-ohmycafe.ltr-online.com/",
+   "https://prtimes.jp/main/html/rd/p/000000246.000086964.html"
+  ],
+  "summary": "「くまのプーさん」原作デビュー100周年を記念したコラボカフェが東京スカイツリータウン・ソラマチのBOX cafe&spaceで8月20日〜10月25日開催。要事前予約。",
+  "collected_at": "2026-09-12",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "モンブラン 自由が丘本店",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1 自由が丘ミューズスクエア1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.mont-blanc.jp/",
+   "https://meguro-days.tokyo.jp/archives/981"
+  ],
+  "summary": "日本発祥とされるモンブラン専門店「自由が丘モンブラン」が、駅前再開発に伴い自由が丘ミューズスクエア1階へ移転し9月17日に新本店オープン。洋菓子店とカフェを新装。",
+  "collected_at": "2026-09-12",
+  "id": ""
  }
 ]

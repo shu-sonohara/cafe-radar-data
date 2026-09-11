@@ -4516,5 +4516,75 @@
   "summary": "太平洋セメントのコラボカフェ。CMキャラクター上白石萌音のビジュアル装飾やCM映像放映、オリジナルコラボメニューを提供。",
   "collected_at": "2026-09-11",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "Bread&Coffee IKEDAYAMA 自由が丘",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000125.000177867.html"
+  ],
+  "summary": "五反田発のベーカリーカフェ「Bread&Coffee IKEDAYAMA」が自由が丘ミューズスクエア1階に9月17日オープン。自家製パンと自家焙煎コーヒーが楽しめる。",
+  "collected_at": "2026-09-12",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ÅTER Tokyo × moz コラボカフェ",
+  "area": "大島(江東区)",
+  "address": "東京都江東区大島9-10-6",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-31"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://gourmetpress.net/1480650/"
+  ],
+  "summary": "スウェーデンの北欧カフェÅTER Tokyoで、雑貨ブランドmozとのコラボカフェを10月1日〜31日の期間限定開催。moz柄のクッキーや限定ドリンクを提供。",
+  "collected_at": "2026-09-12",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "カフェ"
+  ],
+  "name": "JM Coffee Ginza Lounge",
+  "area": "有楽町",
+  "address": "東京都千代田区有楽町2-7-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-14",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000008.000188003.html"
+  ],
+  "summary": "釜山発のスペシャルティコーヒーブランド「JM COFFEE」海外初旗艦店が有楽町イトシア1階に8月14日オープン。エクスプレスゾーンとエクスペリエンスゾーンを備える。",
+  "collected_at": "2026-09-12",
+  "id": ""
  }
 ]
