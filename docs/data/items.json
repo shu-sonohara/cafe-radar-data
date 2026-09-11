@@ -937,10 +937,11 @@
     "https://www.cinemacafe.net/article/2026/08/09/111619.html",
     "https://www.disney.co.jp/shopping/cafenews/20250924_01",
     "https://hunny2026-ohmycafe.ltr-online.com/",
-    "https://prtimes.jp/main/html/rd/p/000000176.000086964.html"
+    "https://prtimes.jp/main/html/rd/p/000000176.000086964.html",
+    "https://prtimes.jp/main/html/rd/p/000000246.000086964.html"
    ],
    "summary": "「くまのプーさん」原作デビュー100周年を記念したテーマカフェが東京スカイツリータウン・ソラマチにて2026年8月20日〜10月25日開催中（大阪でも同時開催）。",
-   "collected_at": "2026-09-10",
+   "collected_at": "2026-09-12",
    "id": "51e7b398d705",
    "is_new": false,
    "freshness": null
@@ -2991,7 +2992,9 @@
     "https://www.fashion-press.net/news/142683",
     "https://www.mont-blanc.jp/view/page/access",
     "https://prtimes.jp/main/html/rd/p/000001637.000003710.html",
-    "https://shutten-watch.com/kantou/23151"
+    "https://shutten-watch.com/kantou/23151",
+    "https://www.mont-blanc.jp/",
+    "https://meguro-days.tokyo.jp/archives/981"
    ],
    "summary": "モンブラン発祥の名店「自由が丘 モンブラン」本店が、駅前新商業施設「自由が丘ミューズスクエア」1階に移転オープン。2026年9月17日開業。",
    "collected_at": "2026-09-08",
@@ -3811,7 +3814,7 @@
     "https://www.cinemacafe.net/article/2026/09/09/112454.html"
    ],
    "summary": "釜山発のスペシャルティコーヒーブランドJM COFFEEが海外初の旗艦店を有楽町イトシアにオープン。2種類のコーヒー体験が楽しめる。",
-   "collected_at": "2026-09-11",
+   "collected_at": "2026-09-12",
    "id": "c46979d7e49d",
    "is_new": true,
    "freshness": 30
@@ -3890,6 +3893,31 @@
    "summary": "太平洋セメントのコラボカフェ。CMキャラクター上白石萌音のビジュアル装飾やCM映像放映、オリジナルコラボメニューを提供。",
    "collected_at": "2026-09-11",
    "id": "a003dc91401f",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "ÅTER Tokyo × moz コラボカフェ",
+   "area": "大島(江東区)",
+   "address": "東京都江東区大島9-10-6",
+   "lat": 35.687687,
+   "lng": 139.846786,
+   "period": {
+    "start": "2026-10-01",
+    "end": "2026-10-31"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://gourmetpress.net/1480650/"
+   ],
+   "summary": "スウェーデンの北欧カフェÅTER Tokyoで、雑貨ブランドmozとのコラボカフェを10月1日〜31日の期間限定開催。moz柄のクッキーや限定ドリンクを提供。",
+   "collected_at": "2026-09-12",
+   "id": "c19610561258",
    "is_new": false,
    "freshness": null
   },
@@ -4015,10 +4043,12 @@
     "https://prtimes.jp/main/html/rd/p/000000262.000044858.html",
     "https://www.the-miyanichi.co.jp/pressrelease/prtimes/1058147.html",
     "https://thecitybakery.jp/shop/granstatokyo",
-    "https://panyasan-navi.net/?p=13641"
+    "https://panyasan-navi.net/?p=13641",
+    "https://www.gransta.jp/news/info/marunouchi_sakarn/",
+    "https://thecitybakery.jp/news/granstatokyo"
    ],
    "summary": "NY発のベーカリー「THE CITY BAKERY」がJR東京駅丸の内改札内・グランスタ東京にオープン。パンやペイストリー、限定サンドイッチのほか、17時からはアルコールとタパス・バーガー・パスタも提供。",
-   "collected_at": "2026-09-02",
+   "collected_at": "2026-09-12",
    "id": "33347521a16a",
    "is_new": true,
    "freshness": 30
