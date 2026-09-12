@@ -4586,5 +4586,95 @@
   "summary": "釜山発のスペシャルティコーヒーブランド「JM COFFEE」海外初旗艦店が有楽町イトシア1階に8月14日オープン。エクスプレスゾーンとエクスペリエンスゾーンを備える。",
   "collected_at": "2026-09-12",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "セルフカフェ千歳烏山店",
+  "area": "千歳烏山",
+  "address": "東京都世田谷区南烏山6丁目3-14 池田ビル3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-12",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001140.000045400.html"
+  ],
+  "summary": "全国60店舗展開の無人カフェ「セルフカフェ」が世田谷区に初出店。ドリンク1杯で時間無制限、電源・Wi-Fi完備の自習・作業スペース。",
+  "collected_at": "2026-09-13",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "SNOW SALT",
+  "area": "上野/東上野",
+  "address": "東京都台東区東上野2丁目13-2",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-05",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://mrs.living.jp/tokyo/newopen/article/6941291",
+   "https://rocketnews24.com/2026/09/11/2800794/"
+  ],
+  "summary": "札幌の焼肉店「だるま」運営元が手がける新業態、塩ソフトクリーム専門のカフェ&バー。ウイスキーやエスプレッソを合わせるアフォガートを提供。",
+  "collected_at": "2026-09-13",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "JM COFFEE",
+  "area": "有楽町",
+  "address": "東京都千代田区有楽町2丁目7-1 有楽町イトシア1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-14",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000008.000188003.html"
+  ],
+  "summary": "釜山発のスペシャルティコーヒーブランド「JM COFFEE」が海外初の旗艦店を有楽町イトシアにオープン。2種類のコーヒー体験を提供。",
+  "collected_at": "2026-09-13",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "芋栗スイーツまつり",
+  "area": "東京駅グランスタ東京・グランスタ丸の内",
+  "address": "東京都千代田区丸の内1丁目9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001226.000082978.html"
+  ],
+  "summary": "JR東日本クロスステーションが「グランスタ東京」「グランスタ丸の内」にて栗とさつまいもの秋スイーツを集めたフェアを初開催。スイートポテト×芋羊羹パフェや新規出店ショップの栗ケーキなど展開。",
+  "collected_at": "2026-09-13",
+  "id": ""
  }
 ]
