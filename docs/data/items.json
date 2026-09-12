@@ -3872,6 +3872,104 @@
    "freshness": null
   },
   {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "セルフカフェ千歳烏山店",
+   "area": "千歳烏山",
+   "address": "東京都世田谷区南烏山6丁目3-14 池田ビル3階",
+   "lat": 35.669674,
+   "lng": 139.600525,
+   "period": {
+    "start": "2026-09-12",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000001140.000045400.html"
+   ],
+   "summary": "全国60店舗展開の無人カフェ「セルフカフェ」が世田谷区に初出店。ドリンク1杯で時間無制限、電源・Wi-Fi完備の自習・作業スペース。",
+   "collected_at": "2026-09-13",
+   "id": "2b3341404c71",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "スイーツ"
+   ],
+   "name": "SNOW SALT",
+   "area": "上野/東上野",
+   "address": "東京都台東区東上野2丁目13-2",
+   "lat": 35.709297,
+   "lng": 139.778,
+   "period": {
+    "start": "2026-09-05",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://mrs.living.jp/tokyo/newopen/article/6941291",
+    "https://rocketnews24.com/2026/09/11/2800794/"
+   ],
+   "summary": "札幌の焼肉店「だるま」運営元が手がける新業態、塩ソフトクリーム専門のカフェ&バー。ウイスキーやエスプレッソを合わせるアフォガートを提供。",
+   "collected_at": "2026-09-13",
+   "id": "f612c22e264a",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "コーヒー"
+   ],
+   "name": "JM COFFEE",
+   "area": "有楽町",
+   "address": "東京都千代田区有楽町2丁目7-1 有楽町イトシア1階",
+   "lat": 35.674213,
+   "lng": 139.763657,
+   "period": {
+    "start": "2026-08-14",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000008.000188003.html"
+   ],
+   "summary": "釜山発のスペシャルティコーヒーブランド「JM COFFEE」が海外初の旗艦店を有楽町イトシアにオープン。2種類のコーヒー体験を提供。",
+   "collected_at": "2026-09-13",
+   "id": "7e34688a831f",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "芋栗スイーツまつり",
+   "area": "東京駅グランスタ東京・グランスタ丸の内",
+   "address": "東京都千代田区丸の内1丁目9-1",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-10-01",
+    "end": "2026-10-30"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000001226.000082978.html"
+   ],
+   "summary": "JR東日本クロスステーションが「グランスタ東京」「グランスタ丸の内」にて栗とさつまいもの秋スイーツを集めたフェアを初開催。スイートポテト×芋羊羹パフェや新規出店ショップの栗ケーキなど展開。",
+   "collected_at": "2026-09-13",
+   "id": "2a9b73ae9f27",
+   "is_new": false,
+   "freshness": null
+  },
+  {
    "type": "popup",
    "genre": [
     "カフェ",
@@ -3993,12 +4091,12 @@
     "https://prtimes.jp/main/html/rd/p/000000262.000044858.html",
     "https://www.the-miyanichi.co.jp/pressrelease/prtimes/1058147.html",
     "https://thecitybakery.jp/shop/granstatokyo",
+    "https://thecitybakery.jp/news/granstatokyo",
     "https://panyasan-navi.net/?p=13641",
-    "https://www.gransta.jp/news/info/marunouchi_sakarn/",
-    "https://thecitybakery.jp/news/granstatokyo"
+    "https://www.gransta.jp/news/info/marunouchi_sakarn/"
    ],
    "summary": "NY発のベーカリー「THE CITY BAKERY」がJR東京駅丸の内改札内・グランスタ東京にオープン。パンやペイストリー、限定サンドイッチのほか、17時からはアルコールとタパス・バーガー・パスタも提供。",
-   "collected_at": "2026-09-12",
+   "collected_at": "2026-09-13",
    "id": "33347521a16a",
    "is_new": true,
    "freshness": 30
@@ -4026,7 +4124,7 @@
     "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx"
    ],
    "summary": "『ファイナルファンタジーX』25周年を記念したコラボメニュー・グッズ展開が、新宿の常設カフェ「Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU」で開催。前期9/11〜10/22、後期10/23〜12/2。",
-   "collected_at": "2026-09-10",
+   "collected_at": "2026-09-13",
    "id": "132b0697a195",
    "is_new": false,
    "freshness": null
@@ -4147,7 +4245,8 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000002483.000031382.html",
-    "https://ikebukuro-times.com/archives/ikesei-depachika-sweetsevent202609.html"
+    "https://ikebukuro-times.com/archives/ikesei-depachika-sweetsevent202609.html",
+    "https://sogo-seibu.jp/ikebukuro/topics/depachika-1st-anniversary"
    ],
    "summary": "西武池袋本店地下1階「デパチカ イベントスペース」で、マーロウ、パティスリーkazunori ikeda individuel、チーズケーキ専門店BELTZ、栃木銘菓「バターのいとこ」など人気スイーツブランドが週替わりで登場。",
    "collected_at": "2026-09-06",
@@ -4273,6 +4372,54 @@
    "summary": "西武池袋本店地下1階のデパチカイベントスペースに、話題のスイーツブランドが週替わりで出店。焼きプリンの「マーロウ」やチーズケーキ専門店「BELTZ」など。",
    "collected_at": "2026-09-10",
    "id": "5c2613395f35",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "秋のほっぺタウン祭",
+   "area": "東京駅/丸の内",
+   "address": "東京都千代田区丸の内1丁目9-1",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-10-04",
+    "end": "2026-10-24"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.daimaru.co.jp/tokyo/tanjosai/foods_sweets.html"
+   ],
+   "summary": "大丸東京店の誕生祭企画。約70の菓子ブランドが集結し、限定品・新作など希少スイーツ約60種を販売。",
+   "collected_at": "2026-09-13",
+   "id": "9f97cea4a93e",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "もちえぼりゅーしょん",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3丁目14-1 伊勢丹新宿店",
+   "lat": 35.691074,
+   "lng": 139.704651,
+   "period": {
+    "start": "2026-09-23",
+    "end": null
+   },
+   "confidence": "unverified",
+   "sources": [
+    "https://tamayose.jp/news/%E4%BC%8A%E5%8B%A2%E4%B8%B9%E6%96%B0%E5%AE%BF%E5%82%AC%E4%BA%8B%E5%87%BA%E5%BA%97%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-6/"
+   ],
+   "summary": "伊勢丹新宿店にて9月23日より開催のお餅スイーツ催事。「あいと電氣餅店」など複数のお餅関連出店者が参加。",
+   "collected_at": "2026-09-13",
+   "id": "1790c02aca14",
    "is_new": false,
    "freshness": null
   }
