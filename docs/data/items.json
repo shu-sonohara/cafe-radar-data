@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12",
+ "updated_at": "2026-09-13",
  "items": [
   {
    "type": "new_cafe",
@@ -1654,30 +1654,6 @@
   {
    "type": "new_cafe",
    "genre": [
-    "スイーツ"
-   ],
-   "name": "バーミキュラ フラッグシップショップ・レストラン・ベーカリー（NEWoMan高輪）",
-   "area": "高輪",
-   "address": "東京都港区高輪2-21-1 NEWoMan高輪 North 2F",
-   "lat": 35.635559,
-   "lng": 139.739594,
-   "period": {
-    "start": "2025-09-12",
-    "end": null
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000103.000028491.html"
-   ],
-   "summary": "ホーロー鍋ブランド「バーミキュラ」のショップ・レストラン・ベーカリーが東京・ニュウマン高輪に2025年9月12日グランドオープン。代官山にあった「バーミキュラ ハウス」の移転版。",
-   "collected_at": "2026-08-22",
-   "id": "ff79b3e81e16",
-   "is_new": false,
-   "freshness": 365
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
     "カフェ"
    ],
    "name": "喫茶⼆⼗世紀",
@@ -2296,7 +2272,7 @@
    "collected_at": "2026-08-22",
    "id": "d3e97ced9e37",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -3416,32 +3392,6 @@
    "id": "fb07f6021250",
    "is_new": true,
    "freshness": 90
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "JIMMY CHOO ストリートカフェ銀座",
-   "area": "銀座",
-   "address": "東京都中央区銀座2-6-3",
-   "lat": 35.673809,
-   "lng": 139.767563,
-   "period": {
-    "start": "2025-09-12",
-    "end": null
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.jimmychoo.jp/ja/stories-street-cafe-ginza.html",
-    "https://www.fashion-press.net/news/137633"
-   ],
-   "summary": "ジミー チュウ銀座コンセプトストア内にオープンしたロンドン風カフェ。フィッシュ&チップスやスコーンなど英国メニューを提供。2025年9月12日オープン。",
-   "collected_at": "2026-09-04",
-   "id": "262238365ab4",
-   "is_new": false,
-   "freshness": 365
   },
   {
    "type": "new_cafe",
