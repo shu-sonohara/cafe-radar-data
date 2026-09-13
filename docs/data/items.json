@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13",
+ "updated_at": "2026-09-14",
  "items": [
   {
    "type": "new_cafe",
@@ -404,32 +404,6 @@
    "id": "b44fdd0e7c6e",
    "is_new": false,
    "freshness": 365
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "「トイ・ストーリー5」OH MY CAFE（表参道）",
-   "area": "表参道",
-   "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館地下3階",
-   "lat": 35.667229,
-   "lng": 139.708557,
-   "period": {
-    "start": "2026-07-03",
-    "end": "2026-09-13"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.disney.co.jp/shopping/cafenews/20250924_01",
-    "https://www.walkerplus.com/event/ar0313e557441/"
-   ],
-   "summary": "ディズニー&ピクサー映画『トイ・ストーリー5』とのコラボカフェが表参道ヒルズ本館地下3階にて2026年7月3日〜9月13日開催中。ウッディ＆バズをイメージした限定フード・グッズを展開。",
-   "collected_at": "2026-08-22",
-   "id": "41d5f6c48d6e",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -1527,33 +1501,6 @@
    "type": "popup",
    "genre": [
     "カフェ",
-    "コーヒー",
-    "コラボカフェ"
-   ],
-   "name": "パンとエスプレッソとMoflinとまちあわせ",
-   "area": "渋谷・MIYASHITA PARK",
-   "address": "東京都渋谷区神宮前6-20-10 MIYASHITA PARK South 2F",
-   "lat": 35.662376,
-   "lng": 139.702011,
-   "period": {
-    "start": "2026-09-05",
-    "end": "2026-09-13"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000069.000050336.html",
-    "https://robotstart.info/article/2026/08/19/382289.html"
-   ],
-   "summary": "カシオのAIペットロボット「Moflin」と人気ベーカリーカフェ「パンとエスプレッソとまちあわせ」が初コラボ。MIYASHITA PARK South 2Fに2026年9月5日〜13日の期間限定でオープンし、コラボメニューやノベルティを提供。",
-   "collected_at": "2026-09-08",
-   "id": "16c069fcc195",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
     "スイーツ",
     "コラボカフェ"
    ],
@@ -2433,61 +2380,6 @@
     "カフェ",
     "コラボカフェ"
    ],
-   "name": "アニメ「リラックマ」×「SASUKEワールドカップ2026」コラボカフェ",
-   "area": "赤坂",
-   "address": "東京都港区赤坂5-4-7 THE HEXAGON 1F ブランチパーク",
-   "lat": 35.671631,
-   "lng": 139.735382,
-   "period": {
-    "start": "2026-08-27",
-    "end": "2026-09-13"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://brunchpark.jp/blogs/topics/rilakkuma-anime-com",
-    "https://www.san-x.co.jp/ja/blog/2026-08-post-0146180/",
-    "https://news.yahoo.co.jp/articles/dd8a7bd5a732c8138bfc9316f004387ffe27f449",
-    "https://www.oricon.co.jp/news/2472423/full/",
-    "https://animeanime.jp/article/2026/08/06/101793.html"
-   ],
-   "summary": "「SASUKEワールドカップ2026」開催記念として、アニメ「リラックマ」とのコラボカフェが赤坂「ブランチパーク」にて2026年8月27日〜9月13日開催。第2弾「てくてく世界旅行」をイメージしたメニューを展開。",
-   "collected_at": "2026-08-23",
-   "id": "2e3fac0fb19e",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "TVアニメ「Dr.STONE」×Space Travelium TeNQ 企画展『ROAD TO THE MOON』(コラボカフェ)",
-   "area": "後楽園・水道橋",
-   "address": "東京都文京区後楽1丁目3番61号 東京ドームシティ Space Travelium TeNQ",
-   "lat": 35.703152,
-   "lng": 139.752151,
-   "period": {
-    "start": "2026-08-27",
-    "end": "2026-09-13"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000475.000077656.html",
-    "https://www.tokyo-dome.co.jp/en/tenq/event/exhibition-stt-7.html"
-   ],
-   "summary": "TVアニメ「Dr.STONE」とSpace Travelium TeNQ（東京ドームシティ）のコラボ企画展『ROAD TO THE MOON』が2026年8月27日〜9月13日開催。館内カフェ「TeNQ CAFE 138」でコラボメニューやオリジナルグッズを展開。",
-   "collected_at": "2026-08-24",
-   "id": "263a2864ef7e",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
    "name": "とっとこハムちゃんずCAFE（THEキャラCAFE 東急プラザ渋谷店）",
    "area": "渋谷",
    "address": "東京都渋谷区道玄坂1丁目2番3号 東急プラザ渋谷5階",
@@ -2609,31 +2501,6 @@
    "id": "1ec133891dda",
    "is_new": false,
    "freshness": 365
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "BLEACH GRAFFITI コラボカフェ at 洒落CAFE（新宿マルイ本館店）",
-   "area": "新宿",
-   "address": "東京都新宿区新宿3-30-13 新宿マルイ本館8階",
-   "lat": 35.691158,
-   "lng": 139.703949,
-   "period": {
-    "start": "2026-08-26",
-    "end": "2026-09-13"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.tv-tokyo.co.jp/plus/external-pr/entry/188740.html"
-   ],
-   "summary": "TVアニメ『BLEACH 千年血戦篇-禍進譚-』放送記念コラボカフェが洒落CAFE新宿マルイ本館店にて2026年8月26日〜9月13日開催。オリジナルグッズとコラボメニューを展開。",
-   "collected_at": "2026-08-27",
-   "id": "50e14cb41650",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -2837,32 +2704,6 @@
    "id": "72c5e27bddb0",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "『妹はシスコン兄がめんどくさい』コラボカフェ in Patio de METRO",
-   "area": "池袋",
-   "address": "東京都豊島区西池袋3丁目28-14 東京芸術劇場地下1階直結 Patio de METRO",
-   "lat": 35.731293,
-   "lng": 139.708008,
-   "period": {
-    "start": "2026-08-25",
-    "end": "2026-09-13"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.anemo.co.jp/pressrelease/435216-20260814/",
-    "https://newscast.jp/news/5205967"
-   ],
-   "summary": "コミック『妹はシスコン兄がめんどくさい』6巻発売記念コラボカフェが、池袋・東京芸術劇場地下1階直結のPatio de METROにて2026年8月25日〜9月13日開催。コラボフード・ドリンクや購入特典コースター、キャラクターグッズを展開。",
-   "collected_at": "2026-08-27",
-   "id": "f17d197019a9",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "popup",
@@ -3767,7 +3608,7 @@
    "collected_at": "2026-09-12",
    "id": "c46979d7e49d",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "popup",
@@ -3943,7 +3784,7 @@
    "collected_at": "2026-09-13",
    "id": "7e34688a831f",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "event",
