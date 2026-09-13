@@ -2175,5 +2175,99 @@
   "summary": "伊勢丹新宿店にて9月23日より開催のお餅スイーツ催事。「あいと電氣餅店」など複数のお餅関連出店者が参加。",
   "collected_at": "2026-09-13",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "THE CITY BAKERY + Bar & Grill グランスタ東京",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1丁目9-1 東京駅 地下1階（改札内） グランスタ東京",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000262.000044858.html",
+   "https://thecitybakery.jp/news/granstatokyo"
+  ],
+  "summary": "NY発祥のベーカリー「THE CITY BAKERY」が東京駅丸の内改札内のグランスタ東京に9月16日グランドオープン。定番のパン・ペイストリーに加え、グランスタ限定サンドイッチなどを提供。",
+  "collected_at": "2026-09-14",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "The Little BAKERY Tokyo グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1丁目9-1 東京駅 地下1階（改札内） グランスタ東京",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://panyasan-navi.net/?p=13641",
+   "https://www.hotpepper.jp/strJ001285325/"
+  ],
+  "summary": "原宿の人気パン屋「The Little BAKERY Tokyo」が東京駅改札内グランスタ東京（B1F）に9月16日オープン。東京駅限定ドーナツや限定クッキー・マカロンを販売。",
+  "collected_at": "2026-09-14",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "カービィカフェ Summer 2026（Kirby Café TOKYO）",
+  "area": "押上・東京スカイツリータウン",
+  "address": "東京都墨田区押上1丁目1-2 東京スカイツリータウン・ソラマチ イーストヤード 4F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-07-08",
+   "end": "2026-09-23"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002104.000022901.html"
+  ],
+  "summary": "星のカービィの常設カフェ「Kirby Café TOKYO」にて、\"かいふくアイテム\"をテーマにした夏季限定メニュー・新作グッズを展開する「カービィカフェ Summer 2026」を開催中（9月23日まで）。",
+  "collected_at": "2026-09-14",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE（SQUARE ENIX Cafe & Shop SHINJUKU）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3丁目36-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-12-02"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000199.000119643.html",
+   "https://jp.finalfantasy.com/ffx25th_news/6121"
+  ],
+  "summary": "新宿の常設「SQUARE ENIX Cafe & Shop SHINJUKU」にて『ファイナルファンタジーX』25周年記念コラボカフェを開催。前期9月11日〜10月22日・後期10月23日〜12月2日の2期制で限定メニュー・グッズを展開。",
+  "collected_at": "2026-09-14",
+  "id": ""
  }
 ]
