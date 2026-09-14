@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-14",
+ "updated_at": "2026-09-15",
  "items": [
   {
    "type": "new_cafe",
@@ -1649,30 +1649,6 @@
    "freshness": null
   },
   {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "田辺のお茶会（ぼる塾・田辺智加 スイーツPOP UP SHOP）",
-   "area": "渋谷",
-   "address": "東京都渋谷区宇田川町21-1 西武渋谷店A館1階プロモーションスペース",
-   "lat": 35.660252,
-   "lng": 139.700607,
-   "period": {
-    "start": "2026-09-08",
-    "end": "2026-09-14"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000005260.000029501.html"
-   ],
-   "summary": "ぼる塾・田辺智加によるスイーツPOP UP SHOP「田辺のお茶会」が西武渋谷店A館1階プロモーションスペースで2026年9月8日〜14日開催。田辺セレクトのお菓子セットやオリジナルグッズを販売。",
-   "collected_at": "2026-08-23",
-   "id": "0e6fd15f05f9",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ",
@@ -2703,36 +2679,7 @@
    "collected_at": "2026-08-26",
    "id": "72c5e27bddb0",
    "is_new": true,
-   "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "映画ちいかわ 人魚の島のひみつ Collaboration CAFE（渋谷PARCO店）",
-   "area": "渋谷",
-   "address": "東京都渋谷区宇田川町15-1 渋谷PARCO 6F",
-   "lat": 35.662212,
-   "lng": 139.699203,
-   "period": {
-    "start": "2026-07-10",
-    "end": "2026-09-14"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://cafe.parco.jp/event/chiikawamovie_cafe_shibuya?area=029438",
-    "https://chiikawa-info.jp/p26/mck_cafe/shibuya/index.html",
-    "https://cafe.parco.jp/event/information/chiikawamovie_cafe_shibuya?area=029438",
-    "https://shibuya.parco.jp/event/detail/?id=8808"
-   ],
-   "summary": "『映画ちいかわ 人魚の島のひみつ』のコラボカフェが渋谷PARCO6階のTHE GUEST CAFE BY PARCOで開催。島編着想のメニューやオリジナルグッズを展開。",
-   "collected_at": "2026-09-04",
-   "id": "adeb9a3c3b70",
-   "is_new": false,
-   "freshness": null
+   "freshness": 90
   },
   {
    "type": "popup",
