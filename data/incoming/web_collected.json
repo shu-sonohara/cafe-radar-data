@@ -2269,5 +2269,138 @@
   "summary": "新宿の常設「SQUARE ENIX Cafe & Shop SHINJUKU」にて『ファイナルファンタジーX』25周年記念コラボカフェを開催。前期9月11日〜10月22日・後期10月23日〜12月2日の2期制で限定メニュー・グッズを展開。",
   "collected_at": "2026-09-14",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee",
+  "area": "東京駅/丸の内",
+  "address": "東京都千代田区丸の内1-9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000308.000014043.html"
+  ],
+  "summary": "BAKE INC.が展開する「コーヒーを食べる」新提案のコーヒー菓子専門ブランド「A Bite Coffee」が、東京駅「グランスタ東京」地下・丸の内改札内エリアのリニューアルオープンに合わせて2026年9月16日に出店。",
+  "collected_at": "2026-09-15",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉×スイーツパラダイス コラボカフェ",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-1-26 新宿マルイ アネックス 8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-02",
+   "end": "2026-09-30"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.sweets-paradise.jp/collaboration/magica-wr"
+  ],
+  "summary": "COLLABO PARADISE 新宿マルイアネックス店にて『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とのコラボカフェを2026年9月2日〜9月30日開催。キャラクターをイメージしたパスタ・パフェ・ドーナツなど全14品を提供、注文ごとにノベルティ配布。",
+  "collected_at": "2026-09-15",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "デパチカ リニューアル 1st Anniversary Fair",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1-28-1 西武池袋本店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-09-30"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.sogo-seibu.jp/ikebukuro/topics/depachika-1st-anniversary"
+  ],
+  "summary": "西武池袋本店地下1階デパチカにて、リニューアル1周年を記念した限定スイーツフェアを2026年9月1日〜30日開催。同店限定のケーキ・手土産など秋限定商品が並ぶ。",
+  "collected_at": "2026-09-15",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "秋のオンリー・エムアイ（信州ナッツ）",
+  "area": "日本橋",
+  "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": "2026-09-29"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://mi-journey.jp/foodie/113784/"
+  ],
+  "summary": "日本橋三越本店の本館地下食品フロアにて、日本橋三越限定商品を集めた「秋のオンリー・エムアイ」を2026年9月16日〜29日開催。今年は「信州ナッツ」がテーマで、長野県産くるみ・ヘーゼルナッツを使ったスイーツなどが登場。",
+  "collected_at": "2026-09-15",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "秋の味覚スイーツ（栗・芋・ぶどう）",
+  "area": "東京駅/丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": "2026-09-23"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.daimaru.co.jp/tokyo/topics/akigashi.html"
+  ],
+  "summary": "大丸東京店にて、栗・さつまいも・ぶどうなど秋の味覚を使ったスイーツや秋モチーフの菓子を集めたフェアを2026年9月17日〜23日開催。",
+  "collected_at": "2026-09-15",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "栗とぶどう スイーツフェア 2026",
+  "area": "紀尾井町",
+  "address": "東京都千代田区紀尾井町4-1 ホテルニューオータニ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-11-30"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.newotani.co.jp/group/marron-grape/tokyo/"
+  ],
+  "summary": "ホテルニューオータニ（東京）にて、秋の味覚「栗」と「ぶどう」を使ったスーパーモンブランなどのスイーツフェアを2026年9月1日〜11月30日開催。",
+  "collected_at": "2026-09-15",
+  "id": ""
  }
 ]
