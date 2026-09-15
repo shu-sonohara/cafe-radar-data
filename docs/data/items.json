@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-15",
+ "updated_at": "2026-09-16",
  "items": [
   {
    "type": "new_cafe",
@@ -1697,8 +1697,8 @@
    "summary": "「ポケモンカフェ TOKYO」が初のフルリニューアルを行い2026年6月17日オープン。5つ星レストラン風の店内に一新し、ピカチュウと一緒にパフェを作る新ショーも登場。完全予約制に移行。",
    "collected_at": "2026-08-23",
    "id": "3f474a847da8",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
@@ -1870,7 +1870,7 @@
    "collected_at": "2026-08-23",
    "id": "516c2c29d951",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -2893,31 +2893,6 @@
    "id": "529426bf78fa",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "SHIBUYA109 × JO1 AUTUMN CAMPAIGN コラボカフェ",
-   "area": "渋谷",
-   "address": "東京都渋谷区道玄坂2-29-1 SHIBUYA109渋谷店 B1階 DISP!!!",
-   "lat": 35.659466,
-   "lng": 139.698898,
-   "period": {
-    "start": "2026-09-01",
-    "end": "2026-09-15"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000427.000033586.html"
-   ],
-   "summary": "JO1とSHIBUYA109のコラボキャンペーン「SHIBUYA109 × JO1 AUTUMN CAMPAIGN」。渋谷店限定でオリジナルコラボメニューを提供するコラボカフェが登場、ポップアップストアも同時開催。",
-   "collected_at": "2026-09-03",
-   "id": "ee2b6a70b703",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -3997,30 +3972,6 @@
    "freshness": null
   },
   {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "パティスリーSATSUKI 出張販売 in 銀座三越",
-   "area": "銀座",
-   "address": "東京都中央区銀座4-6-16 銀座三越 地下2階 GINZAステージ",
-   "lat": 35.671577,
-   "lng": 139.765594,
-   "period": {
-    "start": "2026-09-09",
-    "end": "2026-09-15"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.mistore.jp/store/ginza/shops/foods/foodgarden/shopnews_list/shopnews0045.html"
-   ],
-   "summary": "ホテルニューオータニ東京のパティスリーSATSUKIが銀座三越地下2階GINZAステージに出張販売。「スーパーモンブラン」などのマロンスイーツを提供。",
-   "collected_at": "2026-09-03",
-   "id": "98f3d02e933c",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "ベーカリー",
@@ -4166,30 +4117,6 @@
    "summary": "国産さつま芋にこだわった芋スイーツ専門店「清明堂芋店」がエキュート品川に期間限定で出店。",
    "collected_at": "2026-09-07",
    "id": "636c3048fde2",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "キャラメルゴーストハウス（大丸東京店）",
-   "area": "東京駅",
-   "address": "東京都千代田区丸の内1-9-1 大丸東京店1階MVPスイーツ",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-09-09",
-    "end": "2026-09-15"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000001763.000016051.html"
-   ],
-   "summary": "キャラメル菓子専門店「キャラメルゴーストハウス」が大丸東京店1階MVPスイーツに7日間限定で催事出店。",
-   "collected_at": "2026-09-09",
-   "id": "53fe5b4080fc",
    "is_new": false,
    "freshness": null
   },
