@@ -4723,5 +4723,96 @@
   "summary": "オフィスビル「X-BASE SHIBUYA(クロスベース渋谷)」1階に、中目黒発のベーカリー「トラスパレンテ」の新店舗が2026年9月14日オープン。パンやタルトに加え、御殿場産生ハムのフォカッチャサンドやイートイン限定アヒージョなどカフェメニューも提供。",
   "collected_at": "2026-09-15",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "東京ばな奈カフェスタンド",
+  "area": "羽田空港",
+  "address": "東京都大田区羽田空港3-3-2",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
+  ],
+  "summary": "東京ばな奈ブランド史上初のカフェスタンドが羽田空港第1ターミナル2F出発ゲートラウンジ(北)16番ゲート前(保安エリア内)にオープン。注文を受けてその場で作る「東京ばな奈バー」や空港限定ソフトクリームを販売。",
+  "collected_at": "2026-09-16",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Bar ukoku-烏黒- 囀る鳥は羽ばたかない ポップアップストア＆カフェ at マンガ展",
+  "area": "渋谷",
+  "address": "東京都渋谷区神南1-23-10",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-01"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001260.000005279.html"
+  ],
+  "summary": "ヨネダコウ『囀る鳥は羽ばたかない』10巻発売記念のコラボポップアップストア＆カフェ。MAGNET by SHIBUYA109内で開催、ポップアップストアは10/1〜10/18(5F)、コラボカフェS-CUBEは10/1〜11/1(7F)。大阪会場は対象外。",
+  "collected_at": "2026-09-16",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "Ichigo Tokyo",
+  "area": "石神井公園",
+  "address": "東京都練馬区三原台3-7-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-14",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000002.000190472.html"
+  ],
+  "summary": "練馬区の加藤農園が直営する東京産いちご専門のバウムクーヘン&ジェラート工場カフェ。いちごソルベやTokyoフロマージュ・ルージュなどオリジナルジェラート、グルテンフリーのバウムクーヘンを提供。",
+  "collected_at": "2026-09-16",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "アトリエうかい Cafe & Factory HACHIOJI",
+  "area": "八王子",
+  "address": "東京都八王子市滝山町1-884 イオン八王子滝山 サウスA棟2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-07",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000105.000013588.html"
+  ],
+  "summary": "洋菓子店「アトリエうかい」による工房併設の体験型カフェ。イオン八王子滝山にグランドオープン。菓子づくりの工房見学、できたてスイーツ・軽食を提供。",
+  "collected_at": "2026-09-16",
+  "id": ""
  }
 ]

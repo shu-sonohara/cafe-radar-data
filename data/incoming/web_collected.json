@@ -2402,5 +2402,208 @@
   "summary": "ホテルニューオータニ（東京）にて、秋の味覚「栗」と「ぶどう」を使ったスーパーモンブランなどのスイーツフェアを2026年9月1日〜11月30日開催。",
   "collected_at": "2026-09-15",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京(地下 丸の内改札内エリア)",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000308.000014043.html"
+  ],
+  "summary": "BAKE INC.による新業態「食べるコーヒー」専門ブランド1号店。コーヒーの香り・コク・余韻を楽しめるひとくちサイズのコーヒー菓子を展開。",
+  "collected_at": "2026-09-16",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "The Little BAKERY Tokyo",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京(B1F改札内)",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://panyasan-navi.net/?p=13641"
+  ],
+  "summary": "原宿発の人気ベーカリー「The Little BAKERY Tokyo」がグランスタ東京にオープン。東京駅限定ドーナツ(姉妹店GOOD TOWN DOUGHNUTS)や限定クッキー缶・マカロンを販売。",
+  "collected_at": "2026-09-16",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "THE CITY BAKERY + Bar & Grill グランスタ東京",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京(改札内)",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000262.000044858.html"
+  ],
+  "summary": "NY発祥のベーカリー「THE CITY BAKERY」がグランスタ東京にオープン。定番パン・限定サンドイッチに加え、17時以降はBar & Grillでタパスやバーガーなど「パン飲み」メニューも提供。",
+  "collected_at": "2026-09-16",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "「ちいかわ」×「東京ばな奈」ポップアップストア",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1丁目",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": "2026-10-14"
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002111.000025606.html"
+  ],
+  "summary": "池袋駅 イベントステーション池袋南通路で開催。新作「ちいかわクッキーサンド バナナミルク味」、エリア初登場のトートバッグ・エコバッグセット、定番「ちいかわバナナプリンケーキ」を販売。",
+  "collected_at": "2026-09-16",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "秋のオンリー・エムアイ（信州ナッツ）",
+  "area": "日本橋",
+  "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店 本館地下食品フロア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": "2026-09-29"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://mi-journey.jp/foodie/113784/"
+  ],
+  "summary": "日本橋三越本店限定の秋の食品催事。テーマ「信州ナッツ」で長野県産くるみ・ヘーゼルナッツを使ったスイーツ・惣菜・パンなど限定商品多数。",
+  "collected_at": "2026-09-16",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "デパチカ リニューアル1周年フェア",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1-28-1 西武池袋本店 地下1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sogo-seibu.jp/ikebukuro/topics/depachika-1st-anniversary"
+  ],
+  "summary": "西武池袋本店デパ地下リニューアル1周年を記念した限定スイーツ特集。ケーキ・パン・和菓子など西武池袋本店限定商品が揃う。",
+  "collected_at": "2026-09-16",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "自由が丘 モンブラン",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1 自由が丘ミューズスクエア1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.mont-blanc.jp/",
+   "https://www.fashion-press.net/news/151047"
+  ],
+  "summary": "1933年創業、日本発祥とされるモンブラン発祥の老舗洋菓子店が「自由が丘ミューズスクエア」1Fへ移転オープン。東郷青児のアート入り焼き菓子ボックスなどを展開。",
+  "collected_at": "2026-09-16",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-36-1 パセラボタワー(Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU内)",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-12-02"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://jp.finalfantasy.com/ffx25th_news/6121",
+   "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx"
+  ],
+  "summary": "『FINAL FANTASY X』25周年記念コラボカフェ。新宿のスクウェア・エニックス公式カフェ&ショップで前期(9/11〜10/22)・後期(10/23〜12/2)の2部制で限定メニュー・グッズを展開。",
+  "collected_at": "2026-09-16",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ボーカロイド楽曲×オバケンコラボ 第3弾 feat.KAITO at 呪物cafe ジュジュ",
+  "area": "方南町",
+  "address": "東京都杉並区方南2-4-27",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-10",
+   "end": "2026-11-03"
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://posfie.com/@hisayoshi1999/p/2Qe33Iu"
+  ],
+  "summary": "お化け屋敷オバケン運営の呪物テーマカフェ「呪物cafe ジュジュ」で、ボーカロイド楽曲コラボ第3弾(KAITOフィーチャー)を開催。カフェ予約は9/18 18時より受付開始、メニュー詳細は同時公開予定。",
+  "collected_at": "2026-09-16",
+  "id": ""
  }
 ]
