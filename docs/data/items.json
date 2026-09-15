@@ -3794,8 +3794,8 @@
    "name": "トラスパレンテ キアラ",
    "area": "松濤/神泉",
    "address": "東京都渋谷区松濤2-15-13",
-   "lat": null,
-   "lng": null,
+   "lat": 35.658207,
+   "lng": 139.690826,
    "period": {
     "start": "2026-09-14",
     "end": null
@@ -4088,7 +4088,8 @@
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000002483.000031382.html",
     "https://ikebukuro-times.com/archives/ikesei-depachika-sweetsevent202609.html",
-    "https://sogo-seibu.jp/ikebukuro/topics/depachika-1st-anniversary"
+    "https://sogo-seibu.jp/ikebukuro/topics/depachika-1st-anniversary",
+    "https://www.sogo-seibu.jp/ikebukuro/topics/depachika-1st-anniversary"
    ],
    "summary": "西武池袋本店地下1階「デパチカ イベントスペース」で、マーロウ、パティスリーkazunori ikeda individuel、チーズケーキ専門店BELTZ、栃木銘菓「バターのいとこ」など人気スイーツブランドが週替わりで登場。",
    "collected_at": "2026-09-06",
@@ -4293,38 +4294,13 @@
   {
    "type": "event",
    "genre": [
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "デパチカ リニューアル 1st Anniversary Fair",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1-28-1 西武池袋本店",
-   "lat": null,
-   "lng": null,
-   "period": {
-    "start": "2026-09-01",
-    "end": "2026-09-30"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.sogo-seibu.jp/ikebukuro/topics/depachika-1st-anniversary"
-   ],
-   "summary": "西武池袋本店地下1階デパチカにて、リニューアル1周年を記念した限定スイーツフェアを2026年9月1日〜30日開催。同店限定のケーキ・手土産など秋限定商品が並ぶ。",
-   "collected_at": "2026-09-15",
-   "id": "e7b36cb541bd",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "event",
-   "genre": [
     "スイーツ"
    ],
    "name": "秋のオンリー・エムアイ（信州ナッツ）",
    "area": "日本橋",
    "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店",
-   "lat": null,
-   "lng": null,
+   "lat": 35.685177,
+   "lng": 139.77298,
    "period": {
     "start": "2026-09-16",
     "end": "2026-09-29"
