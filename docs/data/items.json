@@ -2759,7 +2759,8 @@
     "https://prtimes.jp/main/html/rd/p/000001637.000003710.html",
     "https://shutten-watch.com/kantou/23151",
     "https://www.mont-blanc.jp/",
-    "https://meguro-days.tokyo.jp/archives/981"
+    "https://meguro-days.tokyo.jp/archives/981",
+    "https://www.fashion-press.net/news/151047"
    ],
    "summary": "モンブラン発祥の名店「自由が丘 モンブラン」本店が、駅前新商業施設「自由が丘ミューズスクエア」1階に移転オープン。2026年9月17日開業。",
    "collected_at": "2026-09-08",
@@ -2986,10 +2987,11 @@
    "confidence": "official",
    "sources": [
     "https://gourmetpress.net/1476836/",
-    "https://tamapon.com/2026/07/11/atelierukai-cafe-factory/"
+    "https://tamapon.com/2026/07/11/atelierukai-cafe-factory/",
+    "https://prtimes.jp/main/html/rd/p/000000105.000013588.html"
    ],
    "summary": "菓子製造工程を見学できる体験型複合施設。イオン八王子滝山内に2026年9月7日グランドオープン。ペット同伴可のテラス席を備えたカフェを併設。",
-   "collected_at": "2026-09-04",
+   "collected_at": "2026-09-16",
    "id": "d9178326e07a",
    "is_new": true,
    "freshness": 30
@@ -3128,7 +3130,7 @@
     "https://airline.ikaros.jp/news/60001/"
    ],
    "summary": "東京ばな奈ブランド史上初のカフェスタンド。羽田空港第1ターミナル2F出発ゲートラウンジ(北)16番ゲート前に2026年9月17日オープン。注文ごとに作る「東京ばな奈バー」を提供。",
-   "collected_at": "2026-09-09",
+   "collected_at": "2026-09-16",
    "id": "ebff69bf9a94",
    "is_new": true,
    "freshness": 30
@@ -3791,6 +3793,56 @@
     "カフェ",
     "コラボカフェ"
    ],
+   "name": "Bar ukoku-烏黒- 囀る鳥は羽ばたかない ポップアップストア＆カフェ at マンガ展",
+   "area": "渋谷",
+   "address": "東京都渋谷区神南1-23-10",
+   "lat": 35.659771,
+   "lng": 139.700775,
+   "period": {
+    "start": "2026-10-01",
+    "end": "2026-11-01"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000001260.000005279.html"
+   ],
+   "summary": "ヨネダコウ『囀る鳥は羽ばたかない』10巻発売記念のコラボポップアップストア＆カフェ。MAGNET by SHIBUYA109内で開催、ポップアップストアは10/1〜10/18(5F)、コラボカフェS-CUBEは10/1〜11/1(7F)。大阪会場は対象外。",
+   "collected_at": "2026-09-16",
+   "id": "fe7e9f6d8392",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "スイーツ"
+   ],
+   "name": "Ichigo Tokyo",
+   "area": "石神井公園",
+   "address": "東京都練馬区三原台3-7-9",
+   "lat": 35.750607,
+   "lng": 139.598846,
+   "period": {
+    "start": "2026-09-14",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000002.000190472.html"
+   ],
+   "summary": "練馬区の加藤農園が直営する東京産いちご専門のバウムクーヘン&ジェラート工場カフェ。いちごソルベやTokyoフロマージュ・ルージュなどオリジナルジェラート、グルテンフリーのバウムクーヘンを提供。",
+   "collected_at": "2026-09-16",
+   "id": "362ae31366b0",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
    "name": "学園アイドルマスター×Chugai Grace Café（渋谷MODI店・リバイバル）",
    "area": "渋谷",
    "address": "東京都渋谷区神南1-21-3 渋谷MODI 7F",
@@ -3913,7 +3965,7 @@
     "https://www.hotpepper.jp/strJ001285325/"
    ],
    "summary": "NY発のベーカリー「THE CITY BAKERY」がJR東京駅丸の内改札内・グランスタ東京にオープン。パンやペイストリー、限定サンドイッチのほか、17時からはアルコールとタパス・バーガー・パスタも提供。",
-   "collected_at": "2026-09-14",
+   "collected_at": "2026-09-16",
    "id": "33347521a16a",
    "is_new": true,
    "freshness": 30
@@ -3941,7 +3993,7 @@
     "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx"
    ],
    "summary": "『ファイナルファンタジーX』25周年を記念したコラボメニュー・グッズ展開が、新宿の常設カフェ「Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU」で開催。前期9/11〜10/22、後期10/23〜12/2。",
-   "collected_at": "2026-09-14",
+   "collected_at": "2026-09-16",
    "id": "132b0697a195",
    "is_new": false,
    "freshness": null
@@ -4232,13 +4284,87 @@
     "start": "2026-09-16",
     "end": "2026-09-29"
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
     "https://mi-journey.jp/foodie/113784/"
    ],
    "summary": "日本橋三越本店の本館地下食品フロアにて、日本橋三越限定商品を集めた「秋のオンリー・エムアイ」を2026年9月16日〜29日開催。今年は「信州ナッツ」がテーマで、長野県産くるみ・ヘーゼルナッツを使ったスイーツなどが登場。",
-   "collected_at": "2026-09-15",
+   "collected_at": "2026-09-16",
    "id": "56cfbdc506bd",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "ベーカリー"
+   ],
+   "name": "The Little BAKERY Tokyo",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1-9-1 グランスタ東京(B1F改札内)",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-09-16",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://panyasan-navi.net/?p=13641"
+   ],
+   "summary": "原宿発の人気ベーカリー「The Little BAKERY Tokyo」がグランスタ東京にオープン。東京駅限定ドーナツ(姉妹店GOOD TOWN DOUGHNUTS)や限定クッキー缶・マカロンを販売。",
+   "collected_at": "2026-09-16",
+   "id": "cbaae22cf6e4",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ",
+    "コラボカフェ"
+   ],
+   "name": "「ちいかわ」×「東京ばな奈」ポップアップストア",
+   "area": "池袋",
+   "address": "東京都豊島区南池袋1丁目",
+   "lat": 35.727299,
+   "lng": 139.711044,
+   "period": {
+    "start": "2026-09-17",
+    "end": "2026-10-14"
+   },
+   "confidence": "unverified",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000002111.000025606.html"
+   ],
+   "summary": "池袋駅 イベントステーション池袋南通路で開催。新作「ちいかわクッキーサンド バナナミルク味」、エリア初登場のトートバッグ・エコバッグセット、定番「ちいかわバナナプリンケーキ」を販売。",
+   "collected_at": "2026-09-16",
+   "id": "8156f1de5298",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "ボーカロイド楽曲×オバケンコラボ 第3弾 feat.KAITO at 呪物cafe ジュジュ",
+   "area": "方南町",
+   "address": "東京都杉並区方南2-4-27",
+   "lat": 35.68145,
+   "lng": 139.657791,
+   "period": {
+    "start": "2026-10-10",
+    "end": "2026-11-03"
+   },
+   "confidence": "unverified",
+   "sources": [
+    "https://posfie.com/@hisayoshi1999/p/2Qe33Iu"
+   ],
+   "summary": "お化け屋敷オバケン運営の呪物テーマカフェ「呪物cafe ジュジュ」で、ボーカロイド楽曲コラボ第3弾(KAITOフィーチャー)を開催。カフェ予約は9/18 18時より受付開始、メニュー詳細は同時公開予定。",
+   "collected_at": "2026-09-16",
+   "id": "c77f1c5f163e",
    "is_new": false,
    "freshness": null
   }
