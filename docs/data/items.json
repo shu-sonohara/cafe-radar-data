@@ -989,7 +989,8 @@
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000300.000014043.html",
     "https://www.ryutsuu.biz/store/s061111.html",
-    "https://prtimes.jp/main/html/rd/p/000000308.000014043.html"
+    "https://prtimes.jp/main/html/rd/p/000000308.000014043.html",
+    "https://gourmetpress.net/1480765/"
    ],
    "summary": "BAKE INC.がコーヒーを「食べる」新業態のコーヒー菓子専門ブランド「A Bite Coffee」を東京駅グランスタ東京地下1階にオープン予定。丸の内改札内エリアのリニューアルに伴い出店する。",
    "collected_at": "2026-08-22",
@@ -2117,7 +2118,7 @@
     "https://chofu.keizai.biz/headline/4957"
    ],
    "summary": "京王線府中駅北口の「183 FUCHU FAN ZONE with PRONTO」でFC東京×府中市のコラボカフェを開催。期間限定オリジナルドリンクの提供や2026/27シーズンユニフォームの展示を実施。",
-   "collected_at": "2026-09-05",
+   "collected_at": "2026-09-17",
    "id": "e0b37b46cc9e",
    "is_new": false,
    "freshness": null
@@ -2498,7 +2499,8 @@
    "sources": [
     "https://media.kawa-colle.jp/_ct/17860292",
     "https://lifte.jp/20260902-2/",
-    "https://straightpress.jp/20260828/1697154"
+    "https://straightpress.jp/20260828/1697154",
+    "https://www.timeout.jp/tokyo/ja/news/drop-coffee-roasters-082626"
    ],
    "summary": "スウェーデン・ストックホルム発のスペシャルティコーヒーブランド「Drop Coffee Roasters」が日本初出店となる旗艦店を中野マルイ2階に2026年9月18日オープン予定。51席で北欧の「フィーカ」文化を提案する。",
    "collected_at": "2026-08-27",
@@ -2782,10 +2784,12 @@
     "start": "2026-09-04",
     "end": "2026-09-27"
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
     "https://collabo-cafe.com/events/collabo/tokyo-revengers-toman-pripricafe-cafe-2026/",
-    "https://www.pripricafe.com/event/cafe/revengers_college.html"
+    "https://www.pripricafe.com/event/cafe/revengers_college.html",
+    "https://www.pripricafe.com/event/cafe/bluelock_cafe_202601.html",
+    "https://www.pripricafe.com/shop/cafe/ikebukuro.html"
    ],
    "summary": "TVアニメ『東京リベンジャーズ』×プリンセスカフェ池袋館のコラボカフェが2026年9月4日〜9月27日開催。前半・後半でメニューやグッズが切り替わる。",
    "collected_at": "2026-08-29",
@@ -3176,7 +3180,9 @@
    "confidence": "official",
    "sources": [
     "https://www.gransta.jp/news/info/marys/",
-    "https://www.oricon.co.jp/news/2252550/"
+    "https://www.oricon.co.jp/news/2252550/",
+    "https://prtimes.jp/main/html/rd/p/000000083.000166726.html",
+    "https://www.fashion-press.net/news/150691"
    ],
    "summary": "メリーチョコレートの新ブランド「東京喫茶メリー」がJR東京駅グランスタ東京にオープン。夢の中の喫茶店をイメージしたチョコレート菓子や東京駅限定商品を販売。",
    "collected_at": "2026-09-05",
@@ -3814,6 +3820,56 @@
    "freshness": 30
   },
   {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "MOO",
+   "area": "三軒茶屋",
+   "address": "東京都世田谷区三軒茶屋2丁目45-7 グリーンキャピタル三軒茶屋 1F",
+   "lat": 35.640015,
+   "lng": 139.662033,
+   "period": {
+    "start": "2026-04-25",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.ufu-sweets.jp/cafe/260828_moo/",
+    "https://sancha.keizai.biz/headline/1427/"
+   ],
+   "summary": "原宿から移転した人気カフェ「MOO」が三軒茶屋にオープン。にんじんを多く使ったキャロットケーキが看板メニュー。",
+   "collected_at": "2026-09-17",
+   "id": "b8b63f34eae9",
+   "is_new": false,
+   "freshness": 180
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "ベーカリー"
+   ],
+   "name": "Bande à part（バンダパール）",
+   "area": "神保町",
+   "address": "東京都千代田区神田小川町3-14-3 ilusa 1F",
+   "lat": 35.696548,
+   "lng": 139.760818,
+   "period": {
+    "start": "2026-08-07",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://tabelog.com/tokyo/A1310/A131003/13325590/"
+   ],
+   "summary": "神保町のミニシアター「シネマリス」と同じビル1階にベーカリーカフェ「Bande à part」がオープン。フィナンシェやカヌレなどフランス風焼き菓子とパンを提供。",
+   "collected_at": "2026-09-17",
+   "id": "556f29247541",
+   "is_new": true,
+   "freshness": 90
+  },
+  {
    "type": "popup",
    "genre": [
     "カフェ",
@@ -3938,7 +3994,8 @@
     "https://thecitybakery.jp/news/granstatokyo",
     "https://panyasan-navi.net/?p=13641",
     "https://www.gransta.jp/news/info/marunouchi_sakarn/",
-    "https://www.hotpepper.jp/strJ001285325/"
+    "https://www.hotpepper.jp/strJ001285325/",
+    "https://news.yahoo.co.jp/articles/788d146e6383b48db62449247a652c0735be9457"
    ],
    "summary": "NY発のベーカリー「THE CITY BAKERY」がJR東京駅丸の内改札内・グランスタ東京にオープン。パンやペイストリー、限定サンドイッチのほか、17時からはアルコールとタパス・バーガー・パスタも提供。",
    "collected_at": "2026-09-16",
@@ -3969,7 +4026,7 @@
     "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx"
    ],
    "summary": "『ファイナルファンタジーX』25周年を記念したコラボメニュー・グッズ展開が、新宿の常設カフェ「Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU」で開催。前期9/11〜10/22、後期10/23〜12/2。",
-   "collected_at": "2026-09-16",
+   "collected_at": "2026-09-17",
    "id": "132b0697a195",
    "is_new": false,
    "freshness": null
@@ -4262,7 +4319,8 @@
    },
    "confidence": "official",
    "sources": [
-    "https://mi-journey.jp/foodie/113784/"
+    "https://mi-journey.jp/foodie/113784/",
+    "https://www.mistore.jp/shopping/feature/foods_f2/event_dummy_f.html"
    ],
    "summary": "日本橋三越本店の本館地下食品フロアにて、日本橋三越限定商品を集めた「秋のオンリー・エムアイ」を2026年9月16日〜29日開催。今年は「信州ナッツ」がテーマで、長野県産くるみ・ヘーゼルナッツを使ったスイーツなどが登場。",
    "collected_at": "2026-09-16",
@@ -4341,6 +4399,83 @@
    "summary": "お化け屋敷オバケン運営の呪物テーマカフェ「呪物cafe ジュジュ」で、ボーカロイド楽曲コラボ第3弾(KAITOフィーチャー)を開催。カフェ予約は9/18 18時より受付開始、メニュー詳細は同時公開予定。",
    "collected_at": "2026-09-16",
    "id": "c77f1c5f163e",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ",
+    "コラボカフェ"
+   ],
+   "name": "ちいかわ×東京ばな奈 ポップアップストア",
+   "area": "池袋",
+   "address": "東京都豊島区南池袋1丁目28-1 池袋駅 イベントステーション池袋南通路",
+   "lat": 35.727081,
+   "lng": 139.710495,
+   "period": {
+    "start": "2026-09-17",
+    "end": "2026-10-14"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.fashion-press.net/news/150887",
+    "https://ikebukuro.keizai.biz/headline/3534/",
+    "https://prtimes.jp/main/html/rd/p/000002111.000025606.html"
+   ],
+   "summary": "「ちいかわ」と「東京ばな奈」のコラボポップアップストアが池袋駅に期間限定オープン。ちいかわクッキーサンドやバナナプリンケーキ、限定エコバッグを販売。",
+   "collected_at": "2026-09-17",
+   "id": "03e8ea88c8d5",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "伊勢名物 赤福 特別販売会（羽田空港）",
+   "area": "羽田空港",
+   "address": "東京都大田区羽田空港1丁目6-5 羽田空港第1ターミナル（2階出発ロビー保安検査場C前）／東京都大田区羽田空港2丁目6-5 第2ターミナル（2階出発ロビー マーケットプレイス）",
+   "lat": 35.553783,
+   "lng": 139.754578,
+   "period": {
+    "start": "2026-09-16",
+    "end": "2026-09-28"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000109.000153142.html",
+    "https://www.traicy.com/posts/20260910381483/"
+   ],
+   "summary": "三重県の「伊勢名物 赤福」が羽田空港第1・第2ターミナルに期間限定出店。夏季限定「赤福水ようかん」や五十鈴茶屋の秋の栗菓子を販売。",
+   "collected_at": "2026-09-17",
+   "id": "f2103ab31159",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "麻布台ヒルズ HARVEST WEEKS（モンブランセレクション2026）",
+   "area": "麻布台",
+   "address": "東京都港区麻布台1丁目3-1 麻布台ヒルズ",
+   "lat": 35.661549,
+   "lng": 139.740921,
+   "period": {
+    "start": "2026-09-18",
+    "end": "2026-11-03"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.mori.co.jp/press/release/260821_1/",
+    "https://prtimes.jp/main/html/rd/p/000000412.000048109.html"
+   ],
+   "summary": "麻布台ヒルズで秋の味覚フェア「HARVEST WEEKS」開催。9月18日〜10月12日は26店舗33種のモンブランが集結する「モンブランセレクション2026」を展開。",
+   "collected_at": "2026-09-17",
+   "id": "9f8606a90c40",
    "is_new": false,
    "freshness": null
   }
