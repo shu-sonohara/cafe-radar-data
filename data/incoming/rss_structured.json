@@ -4814,5 +4814,145 @@
   "summary": "洋菓子店「アトリエうかい」による工房併設の体験型カフェ。イオン八王子滝山にグランドオープン。菓子づくりの工房見学、できたてスイーツ・軽食を提供。",
   "collected_at": "2026-09-16",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "東京喫茶メリー",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 地下1階（丸の内改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000083.000166726.html",
+   "https://www.fashion-press.net/news/150691"
+  ],
+  "summary": "メリーチョコレートカムパニーの新ブランド「東京喫茶メリー」がグランスタ東京にオープン。クリームソーダ風チョコ菓子や東京駅限定スイーツを扱う菓子販売店（イートインなし）。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "FC東京×府中市コラボカフェ",
+  "area": "府中",
+  "address": "東京都府中市宮町1丁目1-10 京王府中ショッピングセンター内2階（183 FUCHU FAN ZONE）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-01",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.fctokyo.co.jp/news/details/338253/",
+   "https://chofu.keizai.biz/headline/4957"
+  ],
+  "summary": "京王線府中駅構内「183 FUCHU FAN ZONE」でFC東京と府中市のコラボカフェを開催。限定クリームソーダ等のドリンクを注文すると選手カードを進呈。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "MOO",
+  "area": "三軒茶屋",
+  "address": "東京都世田谷区三軒茶屋2丁目45-7 グリーンキャピタル三軒茶屋 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-25",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.ufu-sweets.jp/cafe/260828_moo/",
+   "https://sancha.keizai.biz/headline/1427/"
+  ],
+  "summary": "原宿から移転した人気カフェ「MOO」が三軒茶屋にオープン。にんじんを多く使ったキャロットケーキが看板メニュー。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "Drop Coffee Roasters",
+  "area": "中野",
+  "address": "東京都中野区中野3-34-28 中野マルイ 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-18",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://straightpress.jp/20260828/1697154",
+   "https://www.timeout.jp/tokyo/ja/news/drop-coffee-roasters-082626"
+  ],
+  "summary": "スウェーデン発のスペシャルティコーヒーブランド「Drop Coffee Roasters」が日本初上陸、中野マルイに1号店をオープン。単一農園コーヒーや北欧菓子を提供。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ガーデンカフェ（東京国立博物館）",
+  "area": "上野",
+  "address": "東京都台東区上野公園13-9 東京国立博物館 東洋館別棟前",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000189124.html",
+   "https://www.fashion-press.net/news/150018"
+  ],
+  "summary": "東京国立博物館の東洋館別棟にレストラン「THE RESTAURANT 東京国立博物館」とカフェスタンド「ガーデンカフェ」がオープン。旬の食材を使った御膳などを提供。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "ベーカリー"
+  ],
+  "name": "Bande à part（バンダパール）",
+  "area": "神保町",
+  "address": "東京都千代田区神田小川町3-14-3 ilusa 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-07",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://tabelog.com/tokyo/A1310/A131003/13325590/"
+  ],
+  "summary": "神保町のミニシアター「シネマリス」と同じビル1階にベーカリーカフェ「Bande à part」がオープン。フィナンシェやカヌレなどフランス風焼き菓子とパンを提供。",
+  "collected_at": "2026-09-17",
+  "id": ""
  }
 ]

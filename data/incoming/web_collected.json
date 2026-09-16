@@ -2605,5 +2605,241 @@
   "summary": "お化け屋敷オバケン運営の呪物テーマカフェ「呪物cafe ジュジュ」で、ボーカロイド楽曲コラボ第3弾(KAITOフィーチャー)を開催。カフェ予約は9/18 18時より受付開始、メニュー詳細は同時公開予定。",
   "collected_at": "2026-09-16",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 地下1階（丸の内改札内エリア）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000308.000014043.html",
+   "https://gourmetpress.net/1480765/"
+  ],
+  "summary": "BAKE Inc.が手がけるコーヒー菓子の専門ブランド「A Bite Coffee」がグランスタ東京にオープン。ひとくちで楽しむ“食べるコーヒー”を提案。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "THE CITY BAKERY グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京（改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000262.000044858.html",
+   "https://thecitybakery.jp/news/granstatokyo"
+  ],
+  "summary": "NY発のベーカリー「THE CITY BAKERY」がグランスタ東京の改札内にオープン。定番パン・ペイストリーやグランスタ限定サンドイッチを提供。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "The Little BAKERY Tokyo グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東日本東京駅構内 B1F グランスタ東京（改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://panyasan-navi.net/?p=13641",
+   "https://news.yahoo.co.jp/articles/788d146e6383b48db62449247a652c0735be9457"
+  ],
+  "summary": "原宿発のベーカリー「The Little BAKERY Tokyo」がグランスタ東京の改札内にオープン。限定ドーナツなどを販売。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "ちいかわ×東京ばな奈 ポップアップストア",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1丁目28-1 池袋駅 イベントステーション池袋南通路",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": "2026-10-14"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/150887",
+   "https://ikebukuro.keizai.biz/headline/3534/",
+   "https://prtimes.jp/main/html/rd/p/000002111.000025606.html"
+  ],
+  "summary": "「ちいかわ」と「東京ばな奈」のコラボポップアップストアが池袋駅に期間限定オープン。ちいかわクッキーサンドやバナナプリンケーキ、限定エコバッグを販売。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE（新宿）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3丁目36-1 パセラボタワー（SQUARE ENIX Cafe & Shop SHINJUKU）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-10-22"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://jp.finalfantasy.com/ffx25th_news/6121",
+   "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx"
+  ],
+  "summary": "『FINAL FANTASY X』25周年を記念したコラボカフェが新宿のSQUARE ENIX Cafe & Shop SHINJUKUで開催（前期）。キャラクターや世界観をイメージしたフード・ドリンクを提供。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "TVアニメ『ブルーロック』×プリンセスカフェ（池袋館）",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1丁目32-4 藤原ビル B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-22"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.pripricafe.com/event/cafe/bluelock_cafe_202601.html",
+   "https://www.pripricafe.com/shop/cafe/ikebukuro.html"
+  ],
+  "summary": "TVアニメ『ブルーロック』とプリンセスカフェのコラボカフェが池袋館で期間限定開催。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "伊勢名物 赤福 特別販売会（羽田空港）",
+  "area": "羽田空港",
+  "address": "東京都大田区羽田空港1丁目6-5 羽田空港第1ターミナル（2階出発ロビー保安検査場C前）／東京都大田区羽田空港2丁目6-5 第2ターミナル（2階出発ロビー マーケットプレイス）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": "2026-09-28"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000109.000153142.html",
+   "https://www.traicy.com/posts/20260910381483/"
+  ],
+  "summary": "三重県の「伊勢名物 赤福」が羽田空港第1・第2ターミナルに期間限定出店。夏季限定「赤福水ようかん」や五十鈴茶屋の秋の栗菓子を販売。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "麻布台ヒルズ HARVEST WEEKS（モンブランセレクション2026）",
+  "area": "麻布台",
+  "address": "東京都港区麻布台1丁目3-1 麻布台ヒルズ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-18",
+   "end": "2026-11-03"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.mori.co.jp/press/release/260821_1/",
+   "https://prtimes.jp/main/html/rd/p/000000412.000048109.html"
+  ],
+  "summary": "麻布台ヒルズで秋の味覚フェア「HARVEST WEEKS」開催。9月18日〜10月12日は26店舗33種のモンブランが集結する「モンブランセレクション2026」を展開。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "西武池袋本店 デパチカ「1st Anniversary Fair」",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1丁目28-1 西武池袋本店 地下1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sogo-seibu.jp/ikebukuro/topics/depachika-1st-anniversary",
+   "https://prtimes.jp/main/html/rd/p/000002483.000031382.html"
+  ],
+  "summary": "西武池袋本店の地下食品フロアリニューアル1周年を記念した限定スイーツフェアを開催。",
+  "collected_at": "2026-09-17",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "日本橋三越本店「秋のオンリー・エムアイ」",
+  "area": "日本橋",
+  "address": "東京都中央区日本橋室町1丁目4-1 日本橋三越本店 本館地下1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": "2026-09-29"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://mi-journey.jp/foodie/113784/",
+   "https://www.mistore.jp/shopping/feature/foods_f2/event_dummy_f.html"
+  ],
+  "summary": "日本橋三越本店限定の秋催事「秋のオンリー・エムアイ」を開催。今年のテーマは「信州ナッツ」で、長野県産くるみ・ヘーゼルナッツを使ったスイーツなどが登場。",
+  "collected_at": "2026-09-17",
+  "id": ""
  }
 ]
