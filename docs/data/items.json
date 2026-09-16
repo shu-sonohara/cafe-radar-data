@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16",
+ "updated_at": "2026-09-17",
  "items": [
   {
    "type": "new_cafe",
@@ -1192,7 +1192,7 @@
    "collected_at": "2026-08-22",
    "id": "db5f33bc07fe",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -1369,8 +1369,8 @@
    "summary": "生ドーナツ専門店「I'm donut？」とベーカリーカフェ「dacō」、「Neo Nice Burger」の3ブランド複合店が自由が丘すずかけ通りに同時開業。1FとB1Fの2フロア構成。",
    "collected_at": "2026-08-22",
    "id": "6c0da5654c92",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
@@ -3354,30 +3354,6 @@
    "summary": "EXILEデビュー25周年記念コンセプトアルバムのリリースを記念し、SHIBUYA TSUTAYA 7階にコラボレーションカフェが期間限定オープン。",
    "collected_at": "2026-09-08",
    "id": "ef11839bccb2",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "&EARL GREY ポップアップ（松坂屋上野店 秋のうまいもの物産展）",
-   "area": "上野",
-   "address": "東京都台東区上野3-29-5",
-   "lat": 35.707516,
-   "lng": 139.773193,
-   "period": {
-    "start": "2026-09-10",
-    "end": "2026-09-16"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000434.000069708.html"
-   ],
-   "summary": "松坂屋上野店6階催事場で開催の「秋のうまいもの物産展」内に、アールグレイ専門店&EARL GREYが出店。バタフライピーアールグレイ等のソフトクリームと新感覚スイーツ「バター餅」を期間限定販売。",
-   "collected_at": "2026-09-08",
-   "id": "88c8d95c55f7",
    "is_new": false,
    "freshness": null
   },
