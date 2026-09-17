@@ -2841,5 +2841,146 @@
   "summary": "日本橋三越本店限定の秋催事「秋のオンリー・エムアイ」を開催。今年のテーマは「信州ナッツ」で、長野県産くるみ・ヘーゼルナッツを使ったスイーツなどが登場。",
   "collected_at": "2026-09-17",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 地下丸の内改札内エリア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000300.000014043.html",
+   "https://www.fashion-press.net/news/151028"
+  ],
+  "summary": "BAKE INC.が新提案する“コーヒー菓子”専門ブランド「A Bite Coffee」がグランスタ東京の刷新エリアに9月16日オープン。エスプレッソ香るクッキーやシュー菓子など“食べるコーヒー体験”を提供。",
+  "collected_at": "2026-09-18",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "THE CITY BAKERY + Bar & Grill グランスタ東京",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅B1F 丸の内改札内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000262.000044858.html",
+   "https://thecitybakery.jp/shop/granstatokyo"
+  ],
+  "summary": "NY発祥のベーカリー「THE CITY BAKERY」が東京駅改札内グランスタ東京に9月16日オープン。焼きたてパンに加え、17時以降はタパスやバーガー、アルコールも楽しめる。",
+  "collected_at": "2026-09-18",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "The Little BAKERY Tokyo グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅構内B1F グランスタ東京（改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://panyasan-navi.net/?p=13641",
+   "https://news.yahoo.co.jp/articles/788d146e6383b48db62449247a652c0735be9457"
+  ],
+  "summary": "原宿発の人気ベーカリー「The Little BAKERY Tokyo」がグランスタ東京改札内に9月16日オープン。グランスタ限定のドーナツやマカロンを含む焼きたてパン・スイーツを販売。",
+  "collected_at": "2026-09-18",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "BAKERS gonna BAKE ルミネ新宿店",
+  "area": "新宿",
+  "address": "東京都新宿区西新宿1-1-5 新宿ルミネ1 B2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-15",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001085.000005743.html",
+   "https://www.enjoytokyo.jp/news/205149/"
+  ],
+  "summary": "スコーン＆ミルクティー専門店「BAKERS gonna BAKE」が新宿エリア初出店としてルミネ新宿1 B2Fに9月15日オープン。店舗限定「ハニカムトフィーミルクティー」や舟和とのコラボスコーンを販売。",
+  "collected_at": "2026-09-18",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE（新宿）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-36-1 SQUARE ENIX Cafe & Shop SHINJUKU",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-12-02"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/collaboration_ffx",
+   "https://www.enjoytokyo.jp/event/2081675/"
+  ],
+  "summary": "『ファイナルファンタジーX』25周年記念コラボカフェがSQUARE ENIX Cafe & Shop SHINJUKUで開催。前期（9/11〜10/22）・後期（10/23〜12/2）の2期制で、ティーダとジェクトをテーマにした限定メニューを提供。",
+  "collected_at": "2026-09-18",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "TVアニメ『ブルーロック』×プリンセスカフェ池袋館",
+  "area": "東池袋",
+  "address": "東京都豊島区東池袋1-31-1 バロックコート池袋 2階・5階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-22"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://collabo-cafe.com/events/collabo/blue-lock-princesscafe2021-add-info-lineup/",
+   "https://www.pripricafe.com/event/cafe/bluelock_cafe_202601.html"
+  ],
+  "summary": "TVアニメ『ブルーロック』とプリンセスカフェのコラボカフェが東池袋のプリンセスカフェ池袋館で10月1日〜22日開催。レトロ衣装風のキャラクターイラストを使用した限定メニュー・グッズを展開。",
+  "collected_at": "2026-09-18",
+  "id": ""
  }
 ]

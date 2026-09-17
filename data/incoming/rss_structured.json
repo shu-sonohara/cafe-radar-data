@@ -4954,5 +4954,170 @@
   "summary": "神保町のミニシアター「シネマリス」と同じビル1階にベーカリーカフェ「Bande à part」がオープン。フィナンシェやカヌレなどフランス風焼き菓子とパンを提供。",
   "collected_at": "2026-09-17",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "アトリエうかい Cafe & Factory HACHIOJI",
+  "area": "八王子・滝山",
+  "address": "東京都八王子市滝山町一丁目885-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-07",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/150618",
+   "https://prtimes.jp/main/html/rd/p/000000106.000013588.html"
+  ],
+  "summary": "洋菓子ブランド「うかい」の新工房併設カフェ＆ショップがイオン八王子滝山内に9月7日グランドオープン。工房見学とできたてスイーツが楽しめる複合店舗、店内33席・テラス12席。",
+  "collected_at": "2026-09-18",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "NODERIUM/SØHOLM CAFE 自由が丘",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘一丁目29番1号",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000153.000071744.html",
+   "https://www.ryutsuu.biz/store/s091777.html"
+  ],
+  "summary": "アクタスによるインテリアグリーンとカフェの複合新業態店舗が、自由が丘駅前「JIYUGAOKA MUSE SQUARE」3階に9月17日オープン。植物ショップ約55坪とカフェ約59坪の計114坪。",
+  "collected_at": "2026-09-18",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "NO.6- THE SCENE TABLE GINZA-",
+  "area": "銀座",
+  "address": "東京都中央区銀座2-3-6 松屋銀座 並木通り館",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": "2026-10-26"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000325.000086964.html",
+   "https://www.enjoytokyo.jp/news/205137/"
+  ],
+  "summary": "小説『NO.6』の名言をテーマにしたコラボカフェが「ギンザミライミュージアム」（松屋銀座 並木通り館3階）に10月2日〜26日の期間限定オープン。",
+  "collected_at": "2026-09-18",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "SuicaのペンギンフェアFINAL",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-23",
+   "end": "2026-10-21"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001223.000082978.html",
+   "https://raillab.jp/news/article/35401"
+  ],
+  "summary": "グランスタ東京で開催される「Suicaのペンギン」最後のフェア。新作10商品を含む限定スイーツ・グッズ計24商品が9月23日〜10月21日に登場。",
+  "collected_at": "2026-09-18",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "ペンギンベーカリー戸越銀座店",
+  "area": "戸越銀座",
+  "address": "東京都品川区戸越2-6-2",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-23",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://gourmetpress.net/1481706/",
+   "https://shinagawa.goguynet.jp/2026/09/05/penguinbakery/"
+  ],
+  "summary": "北海道発の焼きたてベーカリーが品川区に初出店。戸越銀座商店街の「八百久」跡地に9月23日オープン、北海道産小麦100%のパンを約80種類販売。",
+  "collected_at": "2026-09-18",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "SAKAMOTO DAYS SECRET BAR & CAFE",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1丁目28-2 池袋PARCO 本館8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": "2026-10-05"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000613.000023331.html",
+   "https://collabo.sld-inc.com/sakamotodays_2608"
+  ],
+  "summary": "TVアニメ『SAKAMOTO DAYS』のコラボカフェが池袋PARCO本館8階で開催中（8月28日〜10月5日）。バーをテーマにした限定メニューとオリジナルグッズを展開（アルコール提供なし）。",
+  "collected_at": "2026-09-18",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "Jmcoffee Ginza Lounge",
+  "area": "有楽町",
+  "address": "東京都千代田区有楽町2-7-1 有楽町イトシア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-14",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.itocia.jp/news/detail/shopnews/581",
+   "https://www.enjoytokyo.jp/news/205134/"
+  ],
+  "summary": "韓国発の人気コーヒーチェーン「ジェイエムコーヒー」日本1号店が有楽町イトシア1階に8月14日オープン。話題のラテメニューを提供。",
+  "collected_at": "2026-09-18",
+  "id": ""
  }
 ]
