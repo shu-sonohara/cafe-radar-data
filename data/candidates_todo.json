@@ -1,5 +1,15 @@
 [
  {
+  "source": "gnews:東京 カフェ オープン",
+  "title": "【羽田空港】「東京ばな奈」初のカフェスタンドがオープン！ 限定『東京ばな奈バー』や濃厚ソフトクリームに注目 - シティリビングWeb",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXMHBvcEFrbXdOcERoRnRNTjVfeTRUZW5ZVkVIaWp5aWZ1WHEtelJBQWJhT2ZKQW9RM1duV1VaS1AxNTY0V2pvSzFULWtjVVR0RGhhOFR3?oc=5",
+  "published": "Thu, 17 Sep 2026 00:30:40 GMT",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXMHBvcEFrbXdOcERoRnRNTjVfeTRUZW5ZVkVIaWp5aWZ1WHEtelJBQWJhT2ZKQW9RM1duV1VaS1AxNTY0V2pvSzFULWtjVVR0RGhhOFR3?oc=5\" target=\"_blank\">【羽田空港】「東京ばな奈」初のカフェスタンドがオープン！ 限定『東京ばな奈バー』や濃厚ソフトクリームに注目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">シティリビングWeb</font>",
+  "seen_at": "2026-09-17",
+  "published_date": "2026-09-17",
+  "also_urls": []
+ },
+ {
   "source": "gnews:東京 スイーツフェス 催事",
   "title": "【東京駅】ついにファイナル…！最後の「Suicaのペンギンフェア」グランスタで開催決定、新作限定スイーツ＆グッズが登場 - ウレぴあ総研",
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41NFFCd0FfMGotQUlwcEhVVWJWTmFlOTU3MTJfLUZFanEyVmlMa3haTnF1VVZVYmZUV0g0WC1qZEkzSXhUTWJNeDhfU2p2SF9YRWc?oc=5",
@@ -8,5 +18,27 @@
   "seen_at": "2026-09-17",
   "published_date": "2026-09-16",
   "also_urls": []
+ },
+ {
+  "source": "gnews:東京 期間限定 カフェ",
+  "title": "TVアニメ『SAKAMOTO DAYS』のコラボレーションカフェ「SAKAMOTO DAYS SECRET BAR & CAFE」東京・大阪・名古屋に期間限定でオープン！ - Infoseek",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fSkF5THVNa25sSnYyMXlxRXNTRXhmT1BiVTZIbEZCYmxHTzE0QlZYQ1U4SDFXYXJlRFVkRTlMTUdlVWFkN3hZR1BORy13dWZvMkFNekdDdUZRdkk5U2dkYktrLUFCcFpjRDB6SG1rQTlWZw?oc=5",
+  "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5fSkF5THVNa25sSnYyMXlxRXNTRXhmT1BiVTZIbEZCYmxHTzE0QlZYQ1U4SDFXYXJlRFVkRTlMTUdlVWFkN3hZR1BORy13dWZvMkFNekdDdUZRdkk5U2dkYktrLUFCcFpjRDB6SG1rQTlWZw?oc=5\" target=\"_blank\">TVアニメ『SAKAMOTO DAYS』のコラボレーションカフェ「SAKAMOTO DAYS SECRET BAR & CAFE」東京・大阪・名古屋に期間限定でオープン！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+  "seen_at": "2026-09-17",
+  "published_date": "2026-08-27",
+  "also_urls": []
+ },
+ {
+  "source": "prtimes_all",
+  "title": "『ダイドーブレンドコーヒー』コラボあんぱんなど2品 10月1日（木）より期間限定で新発売",
+  "url": "https://prtimes.jp/main/html/rd/p/000000391.000021555.html",
+  "published": "",
+  "summary": "[ダイドードリンコ株式会社]\n第一屋製パン株式会社（本社：東京都小平市、代表取締役社長：細貝 正統、以下：第一パン）とダイドードリンコ株式会社（本社：大阪府大阪市、代表取締役社長：中島 孝徳、以下：ダイドードリンコ）は、共同開発...",
+  "seen_at": "2026-09-17",
+  "published_date": null,
+  "also_urls": [
+   "https://prtimes.jp/main/html/rd/p/000000096.000125956.html"
+  ]
  }
 ]
