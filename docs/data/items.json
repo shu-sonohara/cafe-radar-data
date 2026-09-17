@@ -990,7 +990,8 @@
     "https://prtimes.jp/main/html/rd/p/000000300.000014043.html",
     "https://www.ryutsuu.biz/store/s061111.html",
     "https://prtimes.jp/main/html/rd/p/000000308.000014043.html",
-    "https://gourmetpress.net/1480765/"
+    "https://gourmetpress.net/1480765/",
+    "https://www.fashion-press.net/news/151028"
    ],
    "summary": "BAKE INC.がコーヒーを「食べる」新業態のコーヒー菓子専門ブランド「A Bite Coffee」を東京駅グランスタ東京地下1階にオープン予定。丸の内改札内エリアのリニューアルに伴い出店する。",
    "collected_at": "2026-08-22",
@@ -2448,7 +2449,9 @@
    "sources": [
     "https://dtimes.jp/post-1343546/",
     "https://premium.gamepedia.jp/hobby/archives/235245",
-    "https://www.ryutsuu.biz/store/s072972.html"
+    "https://www.ryutsuu.biz/store/s072972.html",
+    "https://prtimes.jp/main/html/rd/p/000000325.000086964.html",
+    "https://www.enjoytokyo.jp/news/205137/"
    ],
    "summary": "松屋銀座の新館「並木通り館」に誕生した展示施設「ギンザミライミュージアム」内のテーマカフェ「THE SCENE TABLE GINZA」で、「アニメ天官賜福展 -天地流光-」とのコラボメニューを2026年9月5日〜29日の期間限定で提供。",
    "collected_at": "2026-09-02",
@@ -2551,10 +2554,11 @@
    "confidence": "official",
    "sources": [
     "https://collabo.sld-inc.com/sakamotodays_2608",
-    "https://nijimen.kusuguru.co.jp/topics/632686"
+    "https://nijimen.kusuguru.co.jp/topics/632686",
+    "https://prtimes.jp/main/html/rd/p/000000613.000023331.html"
    ],
    "summary": "TVアニメ『SAKAMOTO DAYS』のコラボカフェ「SAKAMOTO DAYS SECRET BAR & CAFE」がCollabo_Index池袋（池袋パルコ8F）にて2026年8月28日オープン。秘密の隠れ家バーをコンセプトに、坂本たちをイメージしたフード・スイーツ・ドリンクを提供。",
-   "collected_at": "2026-09-07",
+   "collected_at": "2026-09-18",
    "id": "f283e087c19a",
    "is_new": false,
    "freshness": null
@@ -2941,7 +2945,8 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000153.000071744.html",
-    "https://www.fashion-press.net/news/142683"
+    "https://www.fashion-press.net/news/142683",
+    "https://www.ryutsuu.biz/store/s091777.html"
    ],
    "summary": "グリーンショップ「NODERIUM」とカフェ「SØHOLM CAFE」が一体化した新店。自由が丘ミューズスクエア3階に2026年9月17日オープン予定。地元焙煎所JIYUGAOKA ROASTERYの豆を使ったコーヒーを提供。",
    "collected_at": "2026-09-04",
@@ -2992,7 +2997,9 @@
    "sources": [
     "https://gourmetpress.net/1476836/",
     "https://tamapon.com/2026/07/11/atelierukai-cafe-factory/",
-    "https://prtimes.jp/main/html/rd/p/000000105.000013588.html"
+    "https://prtimes.jp/main/html/rd/p/000000105.000013588.html",
+    "https://www.fashion-press.net/news/150618",
+    "https://prtimes.jp/main/html/rd/p/000000106.000013588.html"
    ],
    "summary": "菓子製造工程を見学できる体験型複合施設。イオン八王子滝山内に2026年9月7日グランドオープン。ペット同伴可のテラス席を備えたカフェを併設。",
    "collected_at": "2026-09-16",
@@ -3510,10 +3517,12 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000008.000188003.html",
-    "https://www.cinemacafe.net/article/2026/09/09/112454.html"
+    "https://www.cinemacafe.net/article/2026/09/09/112454.html",
+    "https://www.itocia.jp/news/detail/shopnews/581",
+    "https://www.enjoytokyo.jp/news/205134/"
    ],
    "summary": "釜山発のスペシャルティコーヒーブランドJM COFFEEが海外初の旗艦店を有楽町イトシアにオープン。2種類のコーヒー体験が楽しめる。",
-   "collected_at": "2026-09-12",
+   "collected_at": "2026-09-18",
    "id": "c46979d7e49d",
    "is_new": true,
    "freshness": 90
@@ -3870,6 +3879,56 @@
    "freshness": 90
   },
   {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "SuicaのペンギンフェアFINAL",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1-9-1 グランスタ東京",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-09-23",
+    "end": "2026-10-21"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000001223.000082978.html",
+    "https://raillab.jp/news/article/35401"
+   ],
+   "summary": "グランスタ東京で開催される「Suicaのペンギン」最後のフェア。新作10商品を含む限定スイーツ・グッズ計24商品が9月23日〜10月21日に登場。",
+   "collected_at": "2026-09-18",
+   "id": "165f620d068a",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "ベーカリー"
+   ],
+   "name": "ペンギンベーカリー戸越銀座店",
+   "area": "戸越銀座",
+   "address": "東京都品川区戸越2-6-2",
+   "lat": 35.614635,
+   "lng": 139.719986,
+   "period": {
+    "start": "2026-09-23",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://gourmetpress.net/1481706/",
+    "https://shinagawa.goguynet.jp/2026/09/05/penguinbakery/"
+   ],
+   "summary": "北海道発の焼きたてベーカリーが品川区に初出店。戸越銀座商店街の「八百久」跡地に9月23日オープン、北海道産小麦100%のパンを約80種類販売。",
+   "collected_at": "2026-09-18",
+   "id": "0f1a0d13b903",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
    "type": "popup",
    "genre": [
     "カフェ",
@@ -3998,7 +4057,7 @@
     "https://news.yahoo.co.jp/articles/788d146e6383b48db62449247a652c0735be9457"
    ],
    "summary": "NY発のベーカリー「THE CITY BAKERY」がJR東京駅丸の内改札内・グランスタ東京にオープン。パンやペイストリー、限定サンドイッチのほか、17時からはアルコールとタパス・バーガー・パスタも提供。",
-   "collected_at": "2026-09-16",
+   "collected_at": "2026-09-18",
    "id": "33347521a16a",
    "is_new": true,
    "freshness": 30
@@ -4023,10 +4082,12 @@
     "https://jp.finalfantasy.com/ffx25th_news/6121",
     "https://www.appbank.net/2026/08/29/iphone-news/3090856.php",
     "https://prtimes.jp/main/html/rd/p/000000199.000119643.html",
-    "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx"
+    "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/ppc_collaboration_ffx",
+    "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/collaboration_ffx",
+    "https://www.enjoytokyo.jp/event/2081675/"
    ],
    "summary": "『ファイナルファンタジーX』25周年を記念したコラボメニュー・グッズ展開が、新宿の常設カフェ「Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU」で開催。前期9/11〜10/22、後期10/23〜12/2。",
-   "collected_at": "2026-09-17",
+   "collected_at": "2026-09-18",
    "id": "132b0697a195",
    "is_new": false,
    "freshness": null
@@ -4476,6 +4537,57 @@
    "summary": "麻布台ヒルズで秋の味覚フェア「HARVEST WEEKS」開催。9月18日〜10月12日は26店舗33種のモンブランが集結する「モンブランセレクション2026」を展開。",
    "collected_at": "2026-09-17",
    "id": "9f8606a90c40",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "BAKERS gonna BAKE ルミネ新宿店",
+   "area": "新宿",
+   "address": "東京都新宿区西新宿1-1-5 新宿ルミネ1 B2F",
+   "lat": 35.68858,
+   "lng": 139.699432,
+   "period": {
+    "start": "2026-09-15",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000001085.000005743.html",
+    "https://www.enjoytokyo.jp/news/205149/"
+   ],
+   "summary": "スコーン＆ミルクティー専門店「BAKERS gonna BAKE」が新宿エリア初出店としてルミネ新宿1 B2Fに9月15日オープン。店舗限定「ハニカムトフィーミルクティー」や舟和とのコラボスコーンを販売。",
+   "collected_at": "2026-09-18",
+   "id": "6e10e66f4e51",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "TVアニメ『ブルーロック』×プリンセスカフェ池袋館",
+   "area": "東池袋",
+   "address": "東京都豊島区東池袋1-31-1 バロックコート池袋 2階・5階",
+   "lat": 35.731689,
+   "lng": 139.716492,
+   "period": {
+    "start": "2026-10-01",
+    "end": "2026-10-22"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://collabo-cafe.com/events/collabo/blue-lock-princesscafe2021-add-info-lineup/",
+    "https://www.pripricafe.com/event/cafe/bluelock_cafe_202601.html"
+   ],
+   "summary": "TVアニメ『ブルーロック』とプリンセスカフェのコラボカフェが東池袋のプリンセスカフェ池袋館で10月1日〜22日開催。レトロ衣装風のキャラクターイラストを使用した限定メニュー・グッズを展開。",
+   "collected_at": "2026-09-18",
+   "id": "81179667a948",
    "is_new": false,
    "freshness": null
   }
