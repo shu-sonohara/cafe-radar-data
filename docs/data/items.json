@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18",
+ "updated_at": "2026-09-19",
  "items": [
   {
    "type": "new_cafe",
@@ -1294,7 +1294,7 @@
    "collected_at": "2026-08-22",
    "id": "e586a7a6d33a",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -3952,31 +3952,6 @@
    "summary": "「学園アイドルマスター」とChugai Grace Caféのコラボカフェをリバイバル開催。限定メニュー・グッズ・特典を展開。",
    "collected_at": "2026-08-30",
    "id": "d2b17a23f330",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "コラボカフェ"
-   ],
-   "name": "超かぐや姫！ in TreeVillage Cafe",
-   "area": "押上",
-   "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ ウエストヤード4F",
-   "lat": 35.710083,
-   "lng": 139.808609,
-   "period": {
-    "start": "2026-09-01",
-    "end": "2026-09-18"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://tree-village.jp/news/014472.html",
-    "https://collabo-cafe.com/events/collabo/cho-kaguyahime-tree-village-cafe-2026/"
-   ],
-   "summary": "『超かぐや姫！』とTreeVillage Cafeのコラボカフェ。新規描き下ろし「デフォっと」シリーズのグッズ・メニューを展開。",
-   "collected_at": "2026-08-31",
-   "id": "9011f0a80055",
    "is_new": false,
    "freshness": null
   },
