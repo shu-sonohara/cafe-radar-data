@@ -5119,5 +5119,124 @@
   "summary": "韓国発の人気コーヒーチェーン「ジェイエムコーヒー」日本1号店が有楽町イトシア1階に8月14日オープン。話題のラテメニューを提供。",
   "collected_at": "2026-09-18",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "にゃんにゃんにゃんこ飯店（スイーツパラダイス SPIC CAFE+）",
+  "area": "神宮前・原宿",
+  "address": "東京都渋谷区神宮前1-15-2 神宮前115ビル3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000935.000018631.html",
+   "https://www.sweets-paradise.jp/collaboration/nyan-nyan-nyanko"
+  ],
+  "summary": "サンエックス「にゃんにゃんにゃんこ」とスイーツパラダイスのコラボカフェ「にゃんにゃんにゃんこ飯店」が10月2日より神宮前のSPIC CAFE+で開催。中華メニューやオリジナルグッズを展開。",
+  "collected_at": "2026-09-19",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "MOKABLE COFFEE CRAFT",
+  "area": "蔵前",
+  "address": "東京都台東区蔵前4-32-7",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-05",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://gourmetpress.net/1483000/",
+   "https://www.enjoytokyo.jp/news/205184/"
+  ],
+  "summary": "コーヒー豆を丸ごと食べる新体験「モカブル」初の実店舗となる旗艦店「MOKABLE COFFEE CRAFT」が蔵前に10月5日オープン。販売とカフェスペースを兼ねる。",
+  "collected_at": "2026-09-19",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Zu々コラボカフェ",
+  "area": "神保町",
+  "address": "東京都千代田区神田小川町3-10 駿台中根ビル3F（ギャラリー月面ひみつ基地）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-06",
+   "end": "2026-12-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000003900.000013972.html"
+  ],
+  "summary": "舞台ユニット「Zu々」の過去公演を振り返るコラボカフェ「Zu々コラボカフェ」が神保町のギャラリー月面ひみつ基地で10月6日〜12月27日開催。",
+  "collected_at": "2026-09-19",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "東京ばな奈カフェスタンド",
+  "area": "羽田空港第1ターミナル",
+  "address": "東京都大田区羽田空港3-3-2 羽田空港第1ターミナル 2F出発ゲートラウンジ(北)16番ゲート前",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
+  ],
+  "summary": "東京ばな奈ブランド史上初のカフェスタンドが羽田空港第1ターミナル（手荷物検査後エリア）にオープン。注文後に作る「東京ばな奈バー」など空港限定メニューを提供。",
+  "collected_at": "2026-09-19",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "猿田彦珈琲 皇居東御苑店",
+  "area": "大手町・皇居東御苑",
+  "address": "東京都千代田区千代田1-9（皇居東御苑 大手休憩所内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-03",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000212.000027005.html",
+   "https://www.tokyo-np.co.jp/article/513421"
+  ],
+  "summary": "皇居に初めてとなるカフェ「猿田彦珈琲 皇居東御苑店」が、新設される大手休憩所内に11月3日オープン。公募により猿田彦珈琲が運営を担当。",
+  "collected_at": "2026-09-19",
+  "id": ""
  }
 ]
