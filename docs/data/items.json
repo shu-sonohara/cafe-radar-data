@@ -915,7 +915,7 @@
     "https://prtimes.jp/main/html/rd/p/000000246.000086964.html"
    ],
    "summary": "「くまのプーさん」原作デビュー100周年を記念したテーマカフェが東京スカイツリータウン・ソラマチにて2026年8月20日〜10月25日開催中（大阪でも同時開催）。",
-   "collected_at": "2026-09-12",
+   "collected_at": "2026-09-19",
    "id": "51e7b398d705",
    "is_new": false,
    "freshness": null
@@ -3141,7 +3141,7 @@
     "https://airline.ikaros.jp/news/60001/"
    ],
    "summary": "東京ばな奈ブランド史上初のカフェスタンド。羽田空港第1ターミナル2F出発ゲートラウンジ(北)16番ゲート前に2026年9月17日オープン。注文ごとに作る「東京ばな奈バー」を提供。",
-   "collected_at": "2026-09-16",
+   "collected_at": "2026-09-19",
    "id": "ebff69bf9a94",
    "is_new": true,
    "freshness": 30
@@ -3213,10 +3213,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000212.000027005.html"
+    "https://prtimes.jp/main/html/rd/p/000000212.000027005.html",
+    "https://www.tokyo-np.co.jp/article/513421"
    ],
    "summary": "皇居東御苑内に新設される「大手休憩所」に猿田彦珈琲が出店。三の丸尚蔵館の全面公開に合わせ11月3日オープン予定。",
-   "collected_at": "2026-09-05",
+   "collected_at": "2026-09-19",
    "id": "9a5d2efd9e23",
    "is_new": true,
    "freshness": 30
@@ -3932,6 +3933,84 @@
    "type": "popup",
    "genre": [
     "カフェ",
+    "スイーツ",
+    "コラボカフェ"
+   ],
+   "name": "にゃんにゃんにゃんこ飯店（スイーツパラダイス SPIC CAFE+）",
+   "area": "神宮前・原宿",
+   "address": "東京都渋谷区神宮前1-15-2 神宮前115ビル3階",
+   "lat": 35.670631,
+   "lng": 139.704697,
+   "period": {
+    "start": "2026-10-02",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000935.000018631.html",
+    "https://www.sweets-paradise.jp/collaboration/nyan-nyan-nyanko"
+   ],
+   "summary": "サンエックス「にゃんにゃんにゃんこ」とスイーツパラダイスのコラボカフェ「にゃんにゃんにゃんこ飯店」が10月2日より神宮前のSPIC CAFE+で開催。中華メニューやオリジナルグッズを展開。",
+   "collected_at": "2026-09-19",
+   "id": "fdd281600e64",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "MOKABLE COFFEE CRAFT",
+   "area": "蔵前",
+   "address": "東京都台東区蔵前4-32-7",
+   "lat": 35.706074,
+   "lng": 139.790253,
+   "period": {
+    "start": "2026-10-05",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://gourmetpress.net/1483000/",
+    "https://www.enjoytokyo.jp/news/205184/"
+   ],
+   "summary": "コーヒー豆を丸ごと食べる新体験「モカブル」初の実店舗となる旗艦店「MOKABLE COFFEE CRAFT」が蔵前に10月5日オープン。販売とカフェスペースを兼ねる。",
+   "collected_at": "2026-09-19",
+   "id": "3766ddc53098",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "Zu々コラボカフェ",
+   "area": "神保町",
+   "address": "東京都千代田区神田小川町3-10 駿台中根ビル3F（ギャラリー月面ひみつ基地）",
+   "lat": 35.696098,
+   "lng": 139.761169,
+   "period": {
+    "start": "2026-10-06",
+    "end": "2026-12-27"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000003900.000013972.html"
+   ],
+   "summary": "舞台ユニット「Zu々」の過去公演を振り返るコラボカフェ「Zu々コラボカフェ」が神保町のギャラリー月面ひみつ基地で10月6日〜12月27日開催。",
+   "collected_at": "2026-09-19",
+   "id": "b7df7c90cba2",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
     "コラボカフェ"
    ],
    "name": "学園アイドルマスター×Chugai Grace Café（渋谷MODI店・リバイバル）",
@@ -3997,10 +4076,11 @@
    "sources": [
     "https://gourmetpress.net/1473098/",
     "https://tetsudo-ch.com/13036326.html",
-    "https://www.fashion-press.net/news/150272"
+    "https://www.fashion-press.net/news/150272",
+    "https://japan.storm.mg/articles/1159313"
    ],
    "summary": "エキュート品川で開催されるモンブランフェア。王道から進化系まで全16種、おはぎ・羊羹など和素材を使ったものやパン・カヌレとのコラボモンブランも登場。",
-   "collected_at": "2026-09-06",
+   "collected_at": "2026-09-19",
    "id": "c3ad2faeffbb",
    "is_new": false,
    "freshness": null
@@ -4029,10 +4109,11 @@
     "https://panyasan-navi.net/?p=13641",
     "https://www.gransta.jp/news/info/marunouchi_sakarn/",
     "https://www.hotpepper.jp/strJ001285325/",
-    "https://news.yahoo.co.jp/articles/788d146e6383b48db62449247a652c0735be9457"
+    "https://news.yahoo.co.jp/articles/788d146e6383b48db62449247a652c0735be9457",
+    "https://ima-trend.com/gransta-tokyo-marunouchi-renewal-september-2026-26shops-limited-sweets-guide/"
    ],
    "summary": "NY発のベーカリー「THE CITY BAKERY」がJR東京駅丸の内改札内・グランスタ東京にオープン。パンやペイストリー、限定サンドイッチのほか、17時からはアルコールとタパス・バーガー・パスタも提供。",
-   "collected_at": "2026-09-18",
+   "collected_at": "2026-09-19",
    "id": "33347521a16a",
    "is_new": true,
    "freshness": 30
@@ -4062,7 +4143,7 @@
     "https://www.enjoytokyo.jp/event/2081675/"
    ],
    "summary": "『ファイナルファンタジーX』25周年を記念したコラボメニュー・グッズ展開が、新宿の常設カフェ「Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU」で開催。前期9/11〜10/22、後期10/23〜12/2。",
-   "collected_at": "2026-09-18",
+   "collected_at": "2026-09-19",
    "id": "132b0697a195",
    "is_new": false,
    "freshness": null
@@ -4428,9 +4509,10 @@
     "start": "2026-10-10",
     "end": "2026-11-03"
    },
-   "confidence": "unverified",
+   "confidence": "media",
    "sources": [
-    "https://posfie.com/@hisayoshi1999/p/2Qe33Iu"
+    "https://posfie.com/@hisayoshi1999/p/2Qe33Iu",
+    "https://blog.piapro.net/2026/09/ni26091801.html"
    ],
    "summary": "お化け屋敷オバケン運営の呪物テーマカフェ「呪物cafe ジュジュ」で、ボーカロイド楽曲コラボ第3弾(KAITOフィーチャー)を開催。カフェ予約は9/18 18時より受付開始、メニュー詳細は同時公開予定。",
    "collected_at": "2026-09-16",
@@ -4532,10 +4614,11 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000001085.000005743.html",
-    "https://www.enjoytokyo.jp/news/205149/"
+    "https://www.enjoytokyo.jp/news/205149/",
+    "https://gourmetpress.net/1475897/"
    ],
    "summary": "スコーン＆ミルクティー専門店「BAKERS gonna BAKE」が新宿エリア初出店としてルミネ新宿1 B2Fに9月15日オープン。店舗限定「ハニカムトフィーミルクティー」や舟和とのコラボスコーンを販売。",
-   "collected_at": "2026-09-18",
+   "collected_at": "2026-09-19",
    "id": "6e10e66f4e51",
    "is_new": true,
    "freshness": 30
@@ -4563,6 +4646,56 @@
    "summary": "TVアニメ『ブルーロック』とプリンセスカフェのコラボカフェが東池袋のプリンセスカフェ池袋館で10月1日〜22日開催。レトロ衣装風のキャラクターイラストを使用した限定メニュー・グッズを展開。",
    "collected_at": "2026-09-18",
    "id": "81179667a948",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "モンブランセレクション2026（麻布台ヒルズ HARVEST WEEKS）",
+   "area": "麻布台",
+   "address": "東京都港区麻布台1-3-1 麻布台ヒルズ",
+   "lat": 35.661549,
+   "lng": 139.740921,
+   "period": {
+    "start": "2026-09-18",
+    "end": "2026-10-12"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000412.000048109.html",
+    "https://www.mori.co.jp/press/release/harvest_weeks/"
+   ],
+   "summary": "麻布台ヒルズの秋の味覚フェア「HARVEST WEEKS」内の「モンブランセレクション2026」。館内26店舗33種のモンブラン・おいもスイーツが集結。",
+   "collected_at": "2026-09-19",
+   "id": "0b3aec549580",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "みるくぼーやPOP UP STORE",
+   "area": "上野",
+   "address": "東京都台東区上野4-8-13 上野しんきん館",
+   "lat": 35.709648,
+   "lng": 139.774307,
+   "period": {
+    "start": "2026-07-30",
+    "end": "2026-09-30"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000007.000154714.html",
+    "https://shop.yudamilk.com/apps/note/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/2656/"
+   ],
+   "summary": "岩手県の乳業メーカー「YUDAミルク」の期間限定ストア「みるくぼーやPOP UP STORE」が上野しんきん館に7月30日〜9月30日出店。ソフトクリームなどを販売。",
+   "collected_at": "2026-09-19",
+   "id": "ab8f2adba2af",
    "is_new": false,
    "freshness": null
   }
