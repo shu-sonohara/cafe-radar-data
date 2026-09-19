@@ -3215,5 +3215,94 @@
   "summary": "ピアプロキャラクターズ×お化け屋敷「オバケン」のコラボ第3弾feat.KAITOにあわせ、方南町「呪物cafe ジュジュ」でコラボカフェが10月10日〜11月3日開催。",
   "collected_at": "2026-09-19",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "BAKERS gonna BAKE ルミネ新宿",
+  "area": "新宿",
+  "address": "東京都新宿区西新宿1-1-5 新宿ルミネ1 B2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-15",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/205149/"
+  ],
+  "summary": "スコーン＆ミルクティー専門店「BAKERS gonna BAKE」が新宿エリア初出店として新宿ルミネ1 B2Fに2026年9月15日オープン。老舗和菓子店「舟和」とのコラボスコーンなど秋限定メニューも展開。",
+  "collected_at": "2026-09-20",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "THE CITY BAKERY + Bar & Grill グランスタ東京",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅構内 地下1階（改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000262.000044858.html"
+  ],
+  "summary": "NY発祥のベーカリー「THE CITY BAKERY」がグランスタ東京の改札内に2026年9月16日オープン。パンとバー・グリル要素を組み合わせた新業態。",
+  "collected_at": "2026-09-20",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "The Little BAKERY Tokyo グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅構内 グランスタ東京 B1F（改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://panyasan-navi.net/?p=13641"
+  ],
+  "summary": "原宿発の人気ベーカリー「The Little BAKERY Tokyo」がグランスタ東京の改札内B1Fに2026年9月16日オープン。限定ドーナツなどグランスタ東京店限定商品を展開。",
+  "collected_at": "2026-09-20",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅 グランスタ東京 丸の内改札内 B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000308.000014043.html"
+  ],
+  "summary": "BAKE INC.が手がける“食べるコーヒー”専門ブランド「A Bite Coffee」がグランスタ東京の丸の内改札内エリアに2026年9月16日オープン。エスプレッソ香るクッキーやシュー菓子を展開。",
+  "collected_at": "2026-09-20",
+  "id": ""
  }
 ]

@@ -5238,5 +5238,94 @@
   "summary": "皇居に初めてとなるカフェ「猿田彦珈琲 皇居東御苑店」が、新設される大手休憩所内に11月3日オープン。公募により猿田彦珈琲が運営を担当。",
   "collected_at": "2026-09-19",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "07-MODULE Starship Cafe",
+  "area": "中野",
+  "address": "東京都中野区中野3-40-31 スカイテル21 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-25",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000001.000191053.html"
+  ],
+  "summary": "レトロフューチャーな宇宙船をイメージしたカルチャーカフェ「07-MODULE」が中野駅南改札より徒歩5分の場所に2026年9月25日グランドオープン。カフェ・バー利用のほか推し活やコラボカフェ、ポップアップ利用にも対応する。",
+  "collected_at": "2026-09-20",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "Drop Coffee Roasters",
+  "area": "中野",
+  "address": "東京都中野区中野3-34-28 中野マルイ2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-18",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000003.000189607.html"
+  ],
+  "summary": "スウェーデン・ストックホルム発のスペシャルティコーヒーブランド「Drop Coffee Roasters」が日本初上陸、中野マルイ2階に2026年9月18日オープン。常時約12種類のシングルオリジンを提供、51席。",
+  "collected_at": "2026-09-20",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "ハラペコラボ「9月のこうぶつヲカシ -誕生石Sapphire-」出店（うまみのスクランブル交差点-スイーツ&デリカフェスティバル）",
+  "area": "渋谷",
+  "address": "東京都渋谷区宇田川町21-1 西武渋谷店A館7階催事場",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-15",
+   "end": "2026-09-21"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002487.000031382.html"
+  ],
+  "summary": "西武渋谷店A館7階催事場で開催の「スイーツ&デリカフェスティバル」に福岡発「ハラペコラボ」が出店。誕生石をモチーフにしたこはく糖「9月のこうぶつヲカシ -誕生石Sapphire-」等を販売。",
+  "collected_at": "2026-09-20",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "チェンソーマン喫茶",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿 BOX cafe&space ルミネエスト新宿1号店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000322.000086964.html"
+  ],
+  "summary": "劇場版『チェンソーマン レゼ篇』でレゼがアルバイトする「喫茶二道」をイメージした期間限定喫茶店。デンジとレゼの名シーンを再現したメニューを提供。東京会場はBOX cafe&space ルミネエスト新宿1号店で10月1日〜11月8日開催。",
+  "collected_at": "2026-09-20",
+  "id": ""
  }
 ]
