@@ -2503,7 +2503,8 @@
     "https://media.kawa-colle.jp/_ct/17860292",
     "https://lifte.jp/20260902-2/",
     "https://straightpress.jp/20260828/1697154",
-    "https://www.timeout.jp/tokyo/ja/news/drop-coffee-roasters-082626"
+    "https://www.timeout.jp/tokyo/ja/news/drop-coffee-roasters-082626",
+    "https://prtimes.jp/main/html/rd/p/000000003.000189607.html"
    ],
    "summary": "スウェーデン・ストックホルム発のスペシャルティコーヒーブランド「Drop Coffee Roasters」が日本初出店となる旗艦店を中野マルイ2階に2026年9月18日オープン予定。51席で北欧の「フィーカ」文化を提案する。",
    "collected_at": "2026-08-27",
@@ -3417,10 +3418,11 @@
     "https://chainsawman.dog/news/231207_01/",
     "https://csm.theme-cafe.jp/",
     "https://chainsawman.dog/news/220926_02/",
-    "https://animeanime.jp/article/2026/09/08/102773.html"
+    "https://animeanime.jp/article/2026/09/08/102773.html",
+    "https://prtimes.jp/main/html/rd/p/000000322.000086964.html"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-09-11",
+   "collected_at": "2026-09-20",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -4008,6 +4010,55 @@
    "freshness": null
   },
   {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "07-MODULE Starship Cafe",
+   "area": "中野",
+   "address": "東京都中野区中野3-40-31 スカイテル21 1F",
+   "lat": 35.704521,
+   "lng": 139.663834,
+   "period": {
+    "start": "2026-09-25",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000191053.html"
+   ],
+   "summary": "レトロフューチャーな宇宙船をイメージしたカルチャーカフェ「07-MODULE」が中野駅南改札より徒歩5分の場所に2026年9月25日グランドオープン。カフェ・バー利用のほか推し活やコラボカフェ、ポップアップ利用にも対応する。",
+   "collected_at": "2026-09-20",
+   "id": "e987631f146f",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ",
+    "コラボカフェ"
+   ],
+   "name": "ハラペコラボ「9月のこうぶつヲカシ -誕生石Sapphire-」出店（うまみのスクランブル交差点-スイーツ&デリカフェスティバル）",
+   "area": "渋谷",
+   "address": "東京都渋谷区宇田川町21-1 西武渋谷店A館7階催事場",
+   "lat": 35.660252,
+   "lng": 139.700607,
+   "period": {
+    "start": "2026-09-15",
+    "end": "2026-09-21"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000002487.000031382.html"
+   ],
+   "summary": "西武渋谷店A館7階催事場で開催の「スイーツ&デリカフェスティバル」に福岡発「ハラペコラボ」が出店。誕生石をモチーフにしたこはく糖「9月のこうぶつヲカシ -誕生石Sapphire-」等を販売。",
+   "collected_at": "2026-09-20",
+   "id": "f76077aee4c1",
+   "is_new": false,
+   "freshness": null
+  },
+  {
    "type": "popup",
    "genre": [
     "カフェ",
@@ -4113,7 +4164,7 @@
     "https://ima-trend.com/gransta-tokyo-marunouchi-renewal-september-2026-26shops-limited-sweets-guide/"
    ],
    "summary": "NY発のベーカリー「THE CITY BAKERY」がJR東京駅丸の内改札内・グランスタ東京にオープン。パンやペイストリー、限定サンドイッチのほか、17時からはアルコールとタパス・バーガー・パスタも提供。",
-   "collected_at": "2026-09-19",
+   "collected_at": "2026-09-20",
    "id": "33347521a16a",
    "is_new": true,
    "freshness": 30
