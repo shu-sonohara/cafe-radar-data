@@ -3304,5 +3304,98 @@
   "summary": "BAKE INC.が手がける“食べるコーヒー”専門ブランド「A Bite Coffee」がグランスタ東京の丸の内改札内エリアに2026年9月16日オープン。エスプレッソ香るクッキーやシュー菓子を展開。",
   "collected_at": "2026-09-20",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 地下1階 丸の内改札内エリア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000308.000014043.html",
+   "https://www.fashion-press.net/news/151028"
+  ],
+  "summary": "BAKE INC.が手がけるコーヒー菓子専門ブランド「A Bite Coffee」がグランスタ東京にオープン。エスプレッソの香るクッキーやシュー菓子など“食べるコーヒー”を提案。",
+  "collected_at": "2026-09-21",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "THE CITY BAKERY + Bar & Grill グランスタ東京",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000262.000044858.html",
+   "https://thecitybakery.jp/shop/granstatokyo"
+  ],
+  "summary": "NY発祥のベーカリー「THE CITY BAKERY」がグランスタ東京の改札内エリアにオープン。プレッツェルクロワッサンなど看板商品を展開。",
+  "collected_at": "2026-09-21",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "香椎モイミ『ゴーストサモン』feat.KAITO×オバケン（呪物cafe ジュジュ）",
+  "area": "方南町",
+  "address": "東京都杉並区方南2-4-27",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-10",
+   "end": "2026-11-03"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://blog.piapro.net/2026/09/ni26091801.html"
+  ],
+  "summary": "ピアプロキャラクターズ（初音ミク公式関連）とお化け屋敷「オバケン」のコラボによるリアル体験型ホラーカフェイベント。方南町の「呪物cafe ジュジュ」にて開催。",
+  "collected_at": "2026-09-21",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "やきいもフェス TOKYO 2026",
+  "area": "中野",
+  "address": "東京都中野区中野4-12 中野四季の森公園 イベントエリア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": "2026-11-08"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000107.000084442.html",
+   "https://yakiimofes.jp/tokyo2026/"
+  ],
+  "summary": "焼き芋・さつまいもスイーツの専門イベント「やきいもフェス TOKYO 2026」が中野四季の森公園で開催。14店舗が出店し約30種類のやきいもメニューが揃う。",
+  "collected_at": "2026-09-21",
+  "id": ""
  }
 ]
