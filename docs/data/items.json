@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20",
+ "updated_at": "2026-09-21",
  "items": [
   {
    "type": "new_cafe",
@@ -131,31 +131,6 @@
    "id": "3c3c30267fbb",
    "is_new": false,
    "freshness": 180
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "ブルーロックカフェ -青い監獄-",
-   "area": "渋谷",
-   "address": "東京都渋谷区渋谷3-27-11 GEMS渋谷3階",
-   "lat": 35.655605,
-   "lng": 139.704498,
-   "period": {
-    "start": "2026-08-20",
-    "end": "2026-09-20"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000313.000086964.html"
-   ],
-   "summary": "TVアニメ『ブルーロック』第1期をテーマにしたコラボカフェがBOX cafe&space GEMS渋谷で2026年8月20日〜9月20日開催中。キャラクターをイメージしたフード・ドリンクとオリジナルグッズを展開。",
-   "collected_at": "2026-08-22",
-   "id": "914d9d9e855f",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -1994,32 +1969,6 @@
    "summary": "ディオールの新コンセプトストア「ディオール バンブー パビリオン」代官山に併設で「カフェ ディオール by アンヌ＝ソフィー・ピック」が2026年2月12日オープン。ミシュラン獲得シェフ監修のフランス料理を提供。",
    "collected_at": "2026-08-23",
    "id": "4aa6df2f8fc2",
-   "is_new": false,
-   "freshness": 365
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
-    "カフェ",
-    "コーヒー"
-   ],
-   "name": "Vivienne Westwood CAFÉ 青山店",
-   "area": "南青山",
-   "address": "東京都港区南青山3-17-1",
-   "lat": 35.664551,
-   "lng": 139.714172,
-   "period": {
-    "start": "2025-09-20",
-    "end": null
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.fashion-press.net/news/137998",
-    "https://spur.hpplus.jp/lifestyle/news/2025-09-20-bg1vaQ/"
-   ],
-   "summary": "「ヴィヴィアン・ウエストウッド」新旗艦店に日本初上陸のカフェが併設で青山に2025年9月20日オープン。ロンドン本店「ワールズ・エンド」着想のインテリアで、コーヒーや英国風スコーンを提供。",
-   "collected_at": "2026-08-23",
-   "id": "a04dd7d0ac69",
    "is_new": false,
    "freshness": 365
   },
@@ -4348,30 +4297,6 @@
    "id": "e6fb6cb0de71",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "清明堂芋店",
-   "area": "品川",
-   "address": "東京都港区高輪3-26-27 エキュート品川",
-   "lat": 35.629002,
-   "lng": 139.737823,
-   "period": {
-    "start": "2026-08-31",
-    "end": "2026-09-20"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.ecute.jp/shinagawa/limitedshop"
-   ],
-   "summary": "国産さつま芋にこだわった芋スイーツ専門店「清明堂芋店」がエキュート品川に期間限定で出店。",
-   "collected_at": "2026-09-07",
-   "id": "636c3048fde2",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "popup",
