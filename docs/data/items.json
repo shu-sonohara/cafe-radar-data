@@ -4113,7 +4113,7 @@
     "https://ima-trend.com/gransta-tokyo-marunouchi-renewal-september-2026-26shops-limited-sweets-guide/"
    ],
    "summary": "NY発のベーカリー「THE CITY BAKERY」がJR東京駅丸の内改札内・グランスタ東京にオープン。パンやペイストリー、限定サンドイッチのほか、17時からはアルコールとタパス・バーガー・パスタも提供。",
-   "collected_at": "2026-09-20",
+   "collected_at": "2026-09-21",
    "id": "33347521a16a",
    "is_new": true,
    "freshness": 30
@@ -4485,7 +4485,7 @@
     "start": "2026-10-10",
     "end": "2026-11-03"
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
     "https://posfie.com/@hisayoshi1999/p/2Qe33Iu",
     "https://blog.piapro.net/2026/09/ni26091801.html"
@@ -4672,6 +4672,31 @@
    "summary": "岩手県の乳業メーカー「YUDAミルク」の期間限定ストア「みるくぼーやPOP UP STORE」が上野しんきん館に7月30日〜9月30日出店。ソフトクリームなどを販売。",
    "collected_at": "2026-09-19",
    "id": "ab8f2adba2af",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "やきいもフェス TOKYO 2026",
+   "area": "中野",
+   "address": "東京都中野区中野4-12 中野四季の森公園 イベントエリア",
+   "lat": 35.709072,
+   "lng": 139.661041,
+   "period": {
+    "start": "2026-10-30",
+    "end": "2026-11-08"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000107.000084442.html",
+    "https://yakiimofes.jp/tokyo2026/"
+   ],
+   "summary": "焼き芋・さつまいもスイーツの専門イベント「やきいもフェス TOKYO 2026」が中野四季の森公園で開催。14店舗が出店し約30種類のやきいもメニューが揃う。",
+   "collected_at": "2026-09-21",
+   "id": "816255f5e436",
    "is_new": false,
    "freshness": null
   }
