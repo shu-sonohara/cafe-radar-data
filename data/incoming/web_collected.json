@@ -3397,5 +3397,75 @@
   "summary": "焼き芋・さつまいもスイーツの専門イベント「やきいもフェス TOKYO 2026」が中野四季の森公園で開催。14店舗が出店し約30種類のやきいもメニューが揃う。",
   "collected_at": "2026-09-21",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "SHARE LOUNGE 自由が丘ミューズスクエア",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘一丁目29番1号 自由が丘ミューズスクエア4階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sharelounge.jp/store/2144",
+   "https://www.ccc.co.jp/news/press/20260917_009702.html",
+   "https://www.ryutsuu.biz/store/s091776.html"
+  ],
+  "summary": "CCCとスターバックスによる複合型「LOUNGE&CAFE」が自由が丘ミューズスクエア4階に9月17日オープン。SHARE LOUNGE150席・スターバックス50席の計200席を備える新業態。",
+  "collected_at": "2026-09-22",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE（後期）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3丁目36-1 パセラボタワー SQUARE ENIX Cafe & Shop SHINJUKU 2F/3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-23",
+   "end": "2026-12-02"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://jp.finalfantasy.com/ffx25th_news/6121",
+   "https://paselabo.pasela.co.jp/sqex_cafe_shop/topics/collaboration_ffx"
+  ],
+  "summary": "『ファイナルファンタジーX』25周年記念コラボカフェの後期が、SQUARE ENIX Cafe & Shop SHINJUKUにて10月23日〜12月2日開催。ザナルカンドの親子丼などゲームモチーフのフードメニューを提供。",
+  "collected_at": "2026-09-22",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "バターのいとこ POP-UP（西武池袋本店デパチカ イベントスペース）",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1-28-1 西武池袋本店 地下1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": "2026-09-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://ikebukuro-times.com/archives/ikesei-depachika-sweetsevent202609.html"
+  ],
+  "summary": "栃木発の新食感スイーツ「バターのいとこ」が西武池袋本店 地下1階デパチカ イベントスペースに9月16日〜25日出店。バター香る生地にシャリシャリ食感のバタークリームと濃厚ミルクジャムを重ねた商品を販売。",
+  "collected_at": "2026-09-22",
+  "id": ""
  }
 ]

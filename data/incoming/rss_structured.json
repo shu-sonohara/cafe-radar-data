@@ -5350,5 +5350,79 @@
   "summary": "メリーチョコレートの新ブランド「東京喫茶メリー」がグランスタ東京にオープン。レトロな喫茶店をテーマに、クリームソーダ風チョコレートやプリンミルフィーユなどのスイーツを展開。",
   "collected_at": "2026-09-21",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ",
+   "コーヒー"
+  ],
+  "name": "A Bite Coffee",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 地下 丸の内改札内エリア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/151028",
+   "https://www.enjoytokyo.jp/news/205126/",
+   "https://www.ryutsuu.biz/store/s061111.html"
+  ],
+  "summary": "BAKE INC.の新ブランド「A Bite Coffee」がグランスタ東京・丸の内改札内エリアに9月16日オープン。エスプレッソクッキーやティラミスシューなど“食べるコーヒー”をコンセプトにした菓子を展開。",
+  "collected_at": "2026-09-22",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "ちいかわ×東京ばな奈 ポップアップストア",
+  "area": "池袋駅",
+  "address": "東京都豊島区南池袋1丁目",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": "2026-10-14"
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://news.yahoo.co.jp/articles/c61c5559b18e87bef2b57c6aff8641bfb245420d",
+   "https://news.yahoo.co.jp/articles/6d0a15a4988b3004c42eb7217181f6f031ae1200"
+  ],
+  "summary": "「ちいかわ」×「東京ばな奈」のコラボポップアップストアが池袋駅南通路イベントスペースで9月17日〜10月14日開催。ちいかわバナナプリンケーキやクッキーサンドバナナミルク味、限定トート・エコバッグを販売。",
+  "collected_at": "2026-09-22",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "東京ばな奈カフェスタンド",
+  "area": "羽田空港第1ターミナル",
+  "address": "東京都大田区羽田空港3-3-2 羽田空港第1旅客ターミナル 2階出発ゲートラウンジ（北）16番ゲート前",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.traicy.com/posts/20260917381029/",
+   "https://airline.ikaros.jp/news/60001/",
+   "https://travel.mdpr.jp/travel/detail/4839302"
+  ],
+  "summary": "東京ばな奈ブランド史上初のカフェスタンドが羽田空港第1ターミナル保安検査後エリアに9月17日オープン。限定「東京ばな奈ソフトクリーム」や、注文後に仕上げる「東京ばな奈バー チョコバナナ風」を販売。",
+  "collected_at": "2026-09-22",
+  "id": ""
  }
 ]
