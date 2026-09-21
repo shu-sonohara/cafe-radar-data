@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-21",
+ "updated_at": "2026-09-22",
  "items": [
   {
    "type": "new_cafe",
@@ -859,7 +859,7 @@
    "collected_at": "2026-08-22",
    "id": "5f1f0560b739",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "popup",
@@ -1526,31 +1526,6 @@
    "id": "72bdbfef54c2",
    "is_new": false,
    "freshness": 365
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "ことのは文庫 創刊7周年記念コラボカフェ（Cafe＆Dining Take）",
-   "area": "新富町",
-   "address": "東京都中央区新富1-3-7 ヨドコウビル地下1F",
-   "lat": 35.673378,
-   "lng": 139.774109,
-   "period": {
-    "start": "2026-09-01",
-    "end": null
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000002809.000048095.html"
-   ],
-   "summary": "マイクロマガジン社のライトノベルレーベル「ことのは文庫」創刊7周年を記念したコラボカフェが、東京都中央区新富の「Cafe＆Dining Take」にて2026年9月1日より開催。6作品のコラボメニューを展開する。",
-   "collected_at": "2026-08-22",
-   "id": "8c3585f056d5",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -3981,31 +3956,6 @@
    "id": "e987631f146f",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "ハラペコラボ「9月のこうぶつヲカシ -誕生石Sapphire-」出店（うまみのスクランブル交差点-スイーツ&デリカフェスティバル）",
-   "area": "渋谷",
-   "address": "東京都渋谷区宇田川町21-1 西武渋谷店A館7階催事場",
-   "lat": 35.660252,
-   "lng": 139.700607,
-   "period": {
-    "start": "2026-09-15",
-    "end": "2026-09-21"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000002487.000031382.html"
-   ],
-   "summary": "西武渋谷店A館7階催事場で開催の「スイーツ&デリカフェスティバル」に福岡発「ハラペコラボ」が出店。誕生石をモチーフにしたこはく糖「9月のこうぶつヲカシ -誕生石Sapphire-」等を販売。",
-   "collected_at": "2026-09-20",
-   "id": "f76077aee4c1",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "popup",
