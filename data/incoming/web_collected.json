@@ -3467,5 +3467,120 @@
   "summary": "栃木発の新食感スイーツ「バターのいとこ」が西武池袋本店 地下1階デパチカ イベントスペースに9月16日〜25日出店。バター香る生地にシャリシャリ食感のバタークリームと濃厚ミルクジャムを重ねた商品を販売。",
   "collected_at": "2026-09-22",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "SHARE LOUNGE 自由が丘ミューズスクエア",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1丁目29番1号 自由が丘ミューズスクエア4階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.ccc.co.jp/news/press/20260917_009702.html",
+   "https://www.ryutsuu.biz/store/s091776.html"
+  ],
+  "summary": "CCCとスターバックスが融合した新業態「LOUNGE & CAFE」の4号店。自由が丘ミューズスクエア4階に全200席（SHARE LOUNGE 150席、スターバックス50席）でオープン。",
+  "collected_at": "2026-09-23",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "BAKERS gonna BAKE ルミネ新宿",
+  "area": "新宿",
+  "address": "東京都新宿区西新宿1-1-5 ルミネ新宿1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-15",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/205149/",
+   "https://www.fashion-press.net/news/150676"
+  ],
+  "summary": "スコーン＆ミルクティー専門店「BAKERS gonna BAKE」が新宿エリア初出店。老舗和菓子店「舟和」とのコラボスコーンなど秋限定メニューを販売。",
+  "collected_at": "2026-09-23",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "The Little BAKERY Tokyo グランスタ東京",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅構内B1F グランスタ東京（改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.gransta.jp/mall/gransta_tokyo/the_little_bakery_tokyo/",
+   "https://panyasan-navi.net/?p=13641"
+  ],
+  "summary": "原宿で人気のアメリカンベーカリー「The Little BAKERY Tokyo」がグランスタ東京に新店舗をオープン。東京駅限定ドーナツやマカロンを販売。",
+  "collected_at": "2026-09-23",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "麻布台ヒルズ HARVEST WEEKS",
+  "area": "麻布台",
+  "address": "東京都港区麻布台1-3-1 麻布台ヒルズ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-18",
+   "end": "2026-11-03"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.roppongievents.com/harvest-weeks-azabudai-hills-2026/",
+   "https://www.food-festival.info/2026-azabudai-hills-harvest-weeks/"
+  ],
+  "summary": "麻布台ヒルズで開催の秋スイーツフェア「HARVEST WEEKS」。前半はモンブランセレクション2026として26店舗33種のモンブランなど秋スイーツが集結。",
+  "collected_at": "2026-09-23",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "フランス展 2026",
+  "area": "日本橋",
+  "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店 本館7階催物会場",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-18",
+   "end": "2026-09-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.mistore.jp/shopping/event/nihombashi_e/france_50",
+   "https://www.fashion-press.net/news/150626"
+  ],
+  "summary": "日本橋三越本店で開催のフランス菓子・食文化の催事。星付き名店の特別コースや焼きたてクイニーアマンなど、PART1（9/18-23）・PART2（9/26-30）の2会期制で展開。",
+  "collected_at": "2026-09-23",
+  "id": ""
  }
 ]
