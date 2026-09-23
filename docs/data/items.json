@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23",
+ "updated_at": "2026-09-24",
  "items": [
   {
    "type": "new_cafe",
@@ -1757,30 +1757,6 @@
    "genre": [
     "コーヒー"
    ],
-   "name": "ウッドベリーコーヒー 玉川高島屋S.C.店",
-   "area": "二子玉川",
-   "address": "東京都世田谷区玉川3-17-1 玉川高島屋S.C.南館1階",
-   "lat": 35.613522,
-   "lng": 139.626984,
-   "period": {
-    "start": "2025-09-23",
-    "end": null
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000013.000075034.html"
-   ],
-   "summary": "スペシャルティコーヒー専門店「ウッドベリーコーヒー」の直営9店舗目「玉川高島屋S.C.店」が2025年9月23日オープン。全40席でランチやスイーツも提供。",
-   "collected_at": "2026-08-23",
-   "id": "2acb366ad28c",
-   "is_new": false,
-   "freshness": 365
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
-    "コーヒー"
-   ],
    "name": "Bacha Coffee 銀座",
    "area": "銀座",
    "address": "東京都中央区銀座5-6-6",
@@ -2564,32 +2540,6 @@
    "freshness": 365
   },
   {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "CORTIS COLLABORATION CAFE in SHIBUYA TSUTAYA",
-   "area": "渋谷",
-   "address": "東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA 7階",
-   "lat": 35.659824,
-   "lng": 139.700226,
-   "period": {
-    "start": "2026-08-27",
-    "end": "2026-09-23"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://shibuyatsutaya.tsite.jp/article/2563.html",
-    "https://korepo.com/archives/1703769"
-   ],
-   "summary": "5人組グループCORTISの初の日本単独公演を記念したコラボカフェがSHIBUYA TSUTAYA 7階に2026年8月27日〜9月23日開催。限定フード・ドリンクと大型ビジュアル展示、ポップアップストアを併設。",
-   "collected_at": "2026-08-31",
-   "id": "c8dc710ffa9f",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ"
@@ -3246,8 +3196,8 @@
    "summary": "都内5店舗目となるKIELO COFFEE ROASTERYが浅草にオープン。北欧文化と日本建築美を融合した4階建て店舗で自家焙煎コーヒーを提供する。",
    "collected_at": "2026-09-06",
    "id": "490044f3a2c9",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
@@ -4068,30 +4018,6 @@
    "genre": [
     "スイーツ"
    ],
-   "name": "秋菓子に恋する3週間",
-   "area": "東京駅/丸の内",
-   "address": "東京都千代田区丸の内1-9-1 大丸東京店",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-09-17",
-    "end": "2026-09-23"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.daimaru.co.jp/tokyo/topics/akigashi.html"
-   ],
-   "summary": "大丸東京店で開催される秋の味覚（栗・芋・ぶどうなど）を使ったスイーツ催事。バイヤー厳選の秋菓子約40種を販売、期間限定ポップアップショップも登場。",
-   "collected_at": "2026-09-01",
-   "id": "85415b2c25ea",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
    "name": "Mont Blanc is ART 2026",
    "area": "品川",
    "address": "東京都港区高輪3-26-27 エキュート品川",
@@ -4228,30 +4154,6 @@
    "id": "61a6dc80814d",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "ぐるめぐり 秋の大北海道展",
-   "area": "池袋",
-   "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋店",
-   "lat": 35.729939,
-   "lng": 139.71051,
-   "period": {
-    "start": "2026-09-10",
-    "end": "2026-09-23"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.fashion-press.net/news/149870"
-   ],
-   "summary": "小樽洋菓子舗ルタオやイシヤなど北海道の名店約100店舗が集結する物産展。東武百貨店池袋店8階催事場ほかで2026年9月10日〜23日開催。",
-   "collected_at": "2026-09-04",
-   "id": "1bfdeaa4adad",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "event",
@@ -4398,31 +4300,6 @@
    "summary": "伊勢丹新宿店にて9月23日より開催のお餅スイーツ催事。「あいと電氣餅店」など複数のお餅関連出店者が参加。",
    "collected_at": "2026-09-13",
    "id": "1790c02aca14",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "カービィカフェ Summer 2026（Kirby Café TOKYO）",
-   "area": "押上・東京スカイツリータウン",
-   "address": "東京都墨田区押上1丁目1-2 東京スカイツリータウン・ソラマチ イーストヤード 4F",
-   "lat": 35.710083,
-   "lng": 139.808609,
-   "period": {
-    "start": "2026-07-08",
-    "end": "2026-09-23"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000002104.000022901.html"
-   ],
-   "summary": "星のカービィの常設カフェ「Kirby Café TOKYO」にて、\"かいふくアイテム\"をテーマにした夏季限定メニュー・新作グッズを展開する「カービィカフェ Summer 2026」を開催中（9月23日まで）。",
-   "collected_at": "2026-09-14",
-   "id": "ac4c8e8c24a6",
    "is_new": false,
    "freshness": null
   },
