@@ -5493,5 +5493,72 @@
   "summary": "博多発の黒糖とバターのスイーツブランド「KOKUNEKO」が関東初出店として東京駅スクエア ゼロに催事出店。黒糖とバターのクッキーやフィナンシェなどを販売。",
   "collected_at": "2026-09-23",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "チェンソーマン喫茶",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階（BOX cafe&space ルミネエスト新宿1号店）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/150832"
+  ],
+  "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店「喫茶二道」をイメージしたコラボカフェ。デンジ・早川アキ・マキマなどをテーマにしたフード・ドリンクを提供。",
+  "collected_at": "2026-09-24",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "バブアー カフェ",
+  "area": "代官山",
+  "address": "東京都渋谷区恵比寿西1-33-18 コート代官山101（ダクト コーヒー ラボ内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-26",
+   "end": "2026-10-26"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/151287"
+  ],
+  "summary": "アウトドアブランド「Barbour」が代官山店3周年を記念し、期間限定カフェをダクト コーヒー ラボ内にオープン。抹茶あずきラテなど限定スイーツ・ドリンクを提供。",
+  "collected_at": "2026-09-24",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ガーデンカフェ",
+  "area": "上野",
+  "address": "東京都台東区上野公園13-9 東京国立博物館 東洋館別棟1階前",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/150018"
+  ],
+  "summary": "東京国立博物館の館内レストランリニューアルに伴い、東洋館別棟前に開業したカフェ。旬の食材を使ったカフェメニューを提供。",
+  "collected_at": "2026-09-24",
+  "id": ""
  }
 ]

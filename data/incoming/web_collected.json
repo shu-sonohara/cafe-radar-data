@@ -3582,5 +3582,117 @@
   "summary": "日本橋三越本店で開催のフランス菓子・食文化の催事。星付き名店の特別コースや焼きたてクイニーアマンなど、PART1（9/18-23）・PART2（9/26-30）の2会期制で展開。",
   "collected_at": "2026-09-23",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "スイーツ"
+  ],
+  "name": "BAKERS gonna BAKE ルミネ新宿店",
+  "area": "新宿",
+  "address": "東京都新宿区西新宿1-1-5 ルミネ新宿1 B2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-15",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/205149/"
+  ],
+  "summary": "スコーン＆ミルクティー専門店「BAKERS gonna BAKE」が新宿エリアに初出店。ルミネ新宿1 B2Fにオープンし、フローズンミルクティーや老舗和菓子店とのコラボスコーンなど秋限定メニューを提供。",
+  "collected_at": "2026-09-24",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "THE CITY BAKERY + Bar & Grill グランスタ東京",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅 グランスタ東京 丸の内改札内エリア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://gourmetpress.net/1476520/"
+  ],
+  "summary": "NY発祥のベーカリー「THE CITY BAKERY」が東京駅グランスタ東京の丸の内改札内にオープン。看板商品のプレッツェルクロワッサンやグランスタ限定サンドイッチを提供。",
+  "collected_at": "2026-09-24",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "The Little BAKERY Tokyo グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅 グランスタ東京 改札内B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://panyasan-navi.net/?p=13641"
+  ],
+  "summary": "原宿発の人気ベーカリー「The Little BAKERY Tokyo」がグランスタ東京に新店舗をオープン。グランスタ限定のドーナツやスイーツを提供。",
+  "collected_at": "2026-09-24",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "もちえぼりゅーしょん",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-14-1 伊勢丹新宿店 本館地下1階 フードコレクション",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-23",
+   "end": "2026-09-29"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.mistore.jp/store/shinjuku/feature/foods/event_calendar.html"
+  ],
+  "summary": "伊勢丹新宿店フードコレクションで、あいと電氣餅店・RUNNY CHEESEなど全国の餅・大福専門店が集結する催事「もちえぼりゅーしょん」を開催。",
+  "collected_at": "2026-09-24",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "秋のオンリー・エムアイ「信州ナッツ」",
+  "area": "日本橋",
+  "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店 本館地下1階・新館地下2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": "2026-09-29"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000003103.000008372.html"
+  ],
+  "summary": "日本橋三越本店で、長野県産のヘーゼルナッツ・くるみを使った「信州ナッツ」をテーマに約60ブランドのスイーツ・パン・惣菜が集まる催事を開催。",
+  "collected_at": "2026-09-24",
+  "id": ""
  }
 ]
