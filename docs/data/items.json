@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24",
+ "updated_at": "2026-09-25",
  "items": [
   {
    "type": "new_cafe",
@@ -304,7 +304,7 @@
    "collected_at": "2026-08-22",
    "id": "060b80772672",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -552,7 +552,7 @@
    "collected_at": "2026-08-22",
    "id": "dfcf120c3df5",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -1847,7 +1847,7 @@
    "collected_at": "2026-08-23",
    "id": "318d38c584ca",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
