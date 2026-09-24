@@ -5560,5 +5560,71 @@
   "summary": "東京国立博物館の館内レストランリニューアルに伴い、東洋館別棟前に開業したカフェ。旬の食材を使ったカフェメニューを提供。",
   "collected_at": "2026-09-24",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ゴンチャ 南砂町SUNAMO店",
+  "area": "南砂町",
+  "address": "東京都江東区新砂3-4-31",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000433.000048503.html"
+  ],
+  "summary": "台湾発ティーカフェブランド「ゴンチャ」が南砂町ショッピングセンターSUNAMO 1Fに10月1日オープン。12席、営業時間10:00〜21:00。",
+  "collected_at": "2026-09-25",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "SASHIMA FESTIVAL",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内2-7-2 KITTE丸の内 B1F 東京シティアイ パフォーマンスゾーン",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": "2026-10-03"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.zaikei.co.jp/releases/3628676/"
+  ],
+  "summary": "茨城県猿島地区（古河市・坂東市・五霞町・境町）の物産ポップアップイベント第5弾。八芳園パティシエ監修のイベント限定スイーツ4品を含む地域名産品を販売・試食提供。",
+  "collected_at": "2026-09-25",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "知るカフェ電気通信大学店",
+  "area": "調布",
+  "address": "東京都調布市調布ケ丘1丁目5番地1 電気通信大学C棟1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-09",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.uec.ac.jp/news/newsrelease/2026/20260924_7949.html"
+  ],
+  "summary": "電気通信大学キャンパス内に学生限定のキャリア支援カフェ「知るカフェ」がオープン。C棟1階に約60席の交流スペースを整備し、学生は無料でドリンクを飲みながら社会人と交流できる。10月9日にオープニングセレモニー。",
+  "collected_at": "2026-09-25",
+  "id": ""
  }
 ]

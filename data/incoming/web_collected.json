@@ -3694,5 +3694,163 @@
   "summary": "日本橋三越本店で、長野県産のヘーゼルナッツ・くるみを使った「信州ナッツ」をテーマに約60ブランドのスイーツ・パン・惣菜が集まる催事を開催。",
   "collected_at": "2026-09-24",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "The Little BAKERY Tokyo グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅構内 B1F グランスタ東京",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://panyasan-navi.net/?p=13641"
+  ],
+  "summary": "原宿発の人気ベーカリー「The Little BAKERY Tokyo」がグランスタ東京にオープン。限定ドーナツやブランドロゴ入りマカロンなどを販売。",
+  "collected_at": "2026-09-25",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ",
+   "コーヒー"
+  ],
+  "name": "A Bite Coffee グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅構内 B1F グランスタ東京 地下丸の内改札内エリア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000308.000014043.html"
+  ],
+  "summary": "BAKE INC.による新ブランド「A Bite Coffee」がグランスタ東京にオープン。コーヒー豆を練り込んだクッキーやシュー菓子など“食べるコーヒー”を提案するコーヒー菓子専門店。",
+  "collected_at": "2026-09-25",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "BAKERS gonna BAKE ルミネ新宿店",
+  "area": "新宿",
+  "address": "東京都新宿区西新宿1-1-5 ルミネ新宿",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-15",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001085.000005743.html"
+  ],
+  "summary": "スコーン＆ミルクティーショップ「BAKERS gonna BAKE」の新宿エリア初出店がルミネ新宿にオープン。老舗和菓子店「舟和」とのコラボスコーンなど秋限定メニューも販売。",
+  "collected_at": "2026-09-25",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "SHARE LOUNGE 自由が丘ミューズスクエア（スターバックス併設）",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘一丁目29番1号 自由が丘ミューズスクエア 4階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001700.000018760.html"
+  ],
+  "summary": "自由が丘駅前の新複合施設「自由が丘ミューズスクエア」4階に、スターバックス併設の時間制カフェラウンジ＆コワーキングスペース「SHARE LOUNGE」がオープン。全200席（SHARE LOUNGE 150席、スターバックス50席）。",
+  "collected_at": "2026-09-25",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "自由が丘モンブラン 新本店",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘一丁目29番1号 自由が丘ミューズスクエア 1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/142683"
+  ],
+  "summary": "モンブラン発祥の老舗洋菓子店「自由が丘モンブラン」が新複合施設「自由が丘ミューズスクエア」1階に新本店をグランドオープン。約50席の喫茶スペースで焼き菓子・デセール・本格コーヒーを提供。",
+  "collected_at": "2026-09-25",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "そういう時期の進撃の巨人カフェ〜思春期の晩餐〜",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階 BOX cafe&space ルミネエスト新宿2号店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-03",
+   "end": "2026-10-12"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000317.000086964.html"
+  ],
+  "summary": "TVアニメ『進撃の巨人』のテーマカフェが新宿ルミネエストに期間限定オープン。「決戦前夜の最後の晩餐」をコンセプトにしたメニューとグッズを展開。",
+  "collected_at": "2026-09-25",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ボーカロイド×オバケン feat.KAITO コラボカフェ（呪物cafe ジュジュ）",
+  "area": "方南町",
+  "address": "東京都杉並区方南2-4-27",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-10",
+   "end": "2026-11-03"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://blog.piapro.net/2026/09/ni26091801.html"
+  ],
+  "summary": "お化け屋敷「オバケン」とボーカロイド楽曲のコラボ第3弾feat.KAITOに合わせ、方南町「呪物cafe ジュジュ」でコラボカフェを開催。予約受付は9月18日18時開始。",
+  "collected_at": "2026-09-25",
+  "id": ""
  }
 ]
