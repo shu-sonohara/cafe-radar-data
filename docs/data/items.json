@@ -54,7 +54,7 @@
     "https://aot-portal.com/news/%E3%83%86%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%95%E3%82%A7%E3%80%8C%E3%81%9D%E3%81%86%E3%81%84%E3%81%86%E6%99%82%E6%9C%9F%E3%81%AE%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%E3%82%AB%E3%83%95%E3%82%A7%E3%80%8D"
    ],
    "summary": "TVアニメ『進撃の巨人』のテーマカフェがルミネエスト新宿8階のBOX cafe&space ルミネエスト新宿2号店で2026年9月3日〜10月12日開催。WIT STUDIOが企画協力し「決戦前夜の晩餐」をコンセプトにした限定メニューと描き下ろしグッズを展開。",
-   "collected_at": "2026-08-31",
+   "collected_at": "2026-09-25",
    "id": "372a7e6fed2c",
    "is_new": false,
    "freshness": null
@@ -4012,6 +4012,78 @@
    "freshness": null
   },
   {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "ゴンチャ 南砂町SUNAMO店",
+   "area": "南砂町",
+   "address": "東京都江東区新砂3-4-31",
+   "lat": 35.665485,
+   "lng": 139.834488,
+   "period": {
+    "start": "2026-10-01",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000433.000048503.html"
+   ],
+   "summary": "台湾発ティーカフェブランド「ゴンチャ」が南砂町ショッピングセンターSUNAMO 1Fに10月1日オープン。12席、営業時間10:00〜21:00。",
+   "collected_at": "2026-09-25",
+   "id": "f28796973bba",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "SASHIMA FESTIVAL",
+   "area": "東京駅・丸の内",
+   "address": "東京都千代田区丸の内2-7-2 KITTE丸の内 B1F 東京シティアイ パフォーマンスゾーン",
+   "lat": 35.679085,
+   "lng": 139.764679,
+   "period": {
+    "start": "2026-10-02",
+    "end": "2026-10-03"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.zaikei.co.jp/releases/3628676/"
+   ],
+   "summary": "茨城県猿島地区（古河市・坂東市・五霞町・境町）の物産ポップアップイベント第5弾。八芳園パティシエ監修のイベント限定スイーツ4品を含む地域名産品を販売・試食提供。",
+   "collected_at": "2026-09-25",
+   "id": "ebdd585e46a7",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "知るカフェ電気通信大学店",
+   "area": "調布",
+   "address": "東京都調布市調布ケ丘1丁目5番地1 電気通信大学C棟1階",
+   "lat": 35.657433,
+   "lng": 139.544327,
+   "period": {
+    "start": "2026-10-09",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.uec.ac.jp/news/newsrelease/2026/20260924_7949.html"
+   ],
+   "summary": "電気通信大学キャンパス内に学生限定のキャリア支援カフェ「知るカフェ」がオープン。C棟1階に約60席の交流スペースを整備し、学生は無料でドリンクを飲みながら社会人と交流できる。10月9日にオープニングセレモニー。",
+   "collected_at": "2026-09-25",
+   "id": "bab5a79edbdf",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
    "type": "popup",
    "genre": [
     "カフェ",
@@ -4507,7 +4579,7 @@
     "https://www.fashion-press.net/news/150676"
    ],
    "summary": "スコーン＆ミルクティー専門店「BAKERS gonna BAKE」が新宿エリア初出店としてルミネ新宿1 B2Fに9月15日オープン。店舗限定「ハニカムトフィーミルクティー」や舟和とのコラボスコーンを販売。",
-   "collected_at": "2026-09-24",
+   "collected_at": "2026-09-25",
    "id": "6e10e66f4e51",
    "is_new": true,
    "freshness": 30
@@ -4632,10 +4704,11 @@
    "sources": [
     "https://www.sharelounge.jp/store/2144",
     "https://www.ccc.co.jp/news/press/20260917_009702.html",
-    "https://www.ryutsuu.biz/store/s091776.html"
+    "https://www.ryutsuu.biz/store/s091776.html",
+    "https://prtimes.jp/main/html/rd/p/000001700.000018760.html"
    ],
    "summary": "CCCとスターバックスによる複合型「LOUNGE&CAFE」が自由が丘ミューズスクエア4階に9月17日オープン。SHARE LOUNGE150席・スターバックス50席の計200席を備える新業態。",
-   "collected_at": "2026-09-22",
+   "collected_at": "2026-09-25",
    "id": "505337e9f2b6",
    "is_new": true,
    "freshness": 30
