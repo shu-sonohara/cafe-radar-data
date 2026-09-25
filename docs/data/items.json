@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25",
+ "updated_at": "2026-09-26",
  "items": [
   {
    "type": "new_cafe",
@@ -4712,30 +4712,6 @@
    "id": "505337e9f2b6",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "バターのいとこ POP-UP（西武池袋本店デパチカ イベントスペース）",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1-28-1 西武池袋本店 地下1階",
-   "lat": 35.727081,
-   "lng": 139.710495,
-   "period": {
-    "start": "2026-09-16",
-    "end": "2026-09-25"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://ikebukuro-times.com/archives/ikesei-depachika-sweetsevent202609.html"
-   ],
-   "summary": "栃木発の新食感スイーツ「バターのいとこ」が西武池袋本店 地下1階デパチカ イベントスペースに9月16日〜25日出店。バター香る生地にシャリシャリ食感のバタークリームと濃厚ミルクジャムを重ねた商品を販売。",
-   "collected_at": "2026-09-22",
-   "id": "feb66326b931",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "event",
