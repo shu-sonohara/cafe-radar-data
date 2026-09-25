@@ -5626,5 +5626,53 @@
   "summary": "電気通信大学キャンパス内に学生限定のキャリア支援カフェ「知るカフェ」がオープン。C棟1階に約60席の交流スペースを整備し、学生は無料でドリンクを飲みながら社会人と交流できる。10月9日にオープニングセレモニー。",
   "collected_at": "2026-09-25",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "OH MY CAFE（ディズニー ツイステッドワンダーランド ザ アニメーション）",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館地下3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-24",
+   "end": "2026-11-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.disney.co.jp/shopping/cafenews/20251113_01",
+   "https://report.iko-yo.net/articles/33831"
+  ],
+  "summary": "『ディズニー ツイステッドワンダーランド ザ アニメーション』のコラボカフェが表参道ヒルズ本館地下3階のOH MY CAFEで期間限定開催。ゲーム内イベント「マスターシェフ」をイメージし、各寮カラーのオープンサンドやタコス、ドリンクなどを提供。来店特典でオリジナルグッズが当たる。",
+  "collected_at": "2026-09-26",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "洒落CAFE théâtre（テアトル）有楽町マルイ店",
+  "area": "有楽町",
+  "address": "東京都千代田区有楽町2-7-1 有楽町マルイ8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.zaikei.co.jp/releases/3630031/",
+   "https://dtimes.jp/post-1389066/"
+  ],
+  "summary": "「晴れ姿」が似合う劇場コンセプトのコラボカフェ新店舗「洒落CAFE théâtre」が10月30日、有楽町マルイ8階にグランドオープン。看板メニューはオープンサンド（Open SANDO）約13種。11月3日からはTVアニメ『MAO』とのコラボカフェイベントを開催予定。",
+  "collected_at": "2026-09-26",
+  "id": ""
  }
 ]

@@ -3852,5 +3852,118 @@
   "summary": "お化け屋敷「オバケン」とボーカロイド楽曲のコラボ第3弾feat.KAITOに合わせ、方南町「呪物cafe ジュジュ」でコラボカフェを開催。予約受付は9月18日18時開始。",
   "collected_at": "2026-09-25",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "BAKERS gonna BAKE ルミネ新宿店",
+  "area": "新宿",
+  "address": "東京都新宿区西新宿1-1-5 ルミネ新宿1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-15",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/150676",
+   "https://www.enjoytokyo.jp/news/205149/"
+  ],
+  "summary": "スコーン＆ミルクティー専門店「ベイカーズ ゴナ ベイク」の新宿エリア初出店がルミネ新宿にオープン。ひんやりフローズンミルクティーや老舗和菓子店「舟和」とのコラボスコーンなど秋限定メニューを展開。",
+  "collected_at": "2026-09-26",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "小麦作ベーカリー",
+  "area": "八王子",
+  "address": "東京都八王子市明神町4-25-7",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": null
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://8dabe.com/2026/09/25/komugisaku-bakery/"
+  ],
+  "summary": "甲州街道沿い・明神町五差路近くに新しいパン屋「小麦作ベーカリー」が誕生。9月28日〜30日プレオープン、10月1日グランドオープン。営業時間7:30〜18:00（完売次第終了）。",
+  "collected_at": "2026-09-26",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café（Mrs. GREEN APPLE テーマカフェ）",
+  "area": "渋谷",
+  "address": "東京都渋谷区渋谷3-27-11 GEMS渋谷3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-25",
+   "end": "2026-12-06"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://natalie.mu/music/news/687935",
+   "https://collabo-cafe.com/events/collabo/mrs-green-apple-ringo-jam-cafe-2026/"
+  ],
+  "summary": "Mrs. GREEN APPLEオフィシャルファンクラブ「Ringo Jam」10周年記念テーマカフェがBOX cafe&space GEMS渋谷店で期間限定オープン。バンド・キャラクター「メメル」モチーフのメニューとオリジナルグッズを展開。",
+  "collected_at": "2026-09-26",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "HARVEST WEEKS モンブランセレクション2026",
+  "area": "麻布台",
+  "address": "東京都港区麻布台1-3-1 麻布台ヒルズ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-18",
+   "end": "2026-10-12"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.azabudai-hills.com/whats_on/2026/09/0412.html"
+  ],
+  "summary": "麻布台ヒルズ内26店舗が参加し、モンブランなど秋スイーツ33種を集めた「HARVEST WEEKS モンブランセレクション2026」を開催。ヒサヤ キョウトの丹波栗モンブランやピエール・エルメ・パリの限定モンブランなどが登場。",
+  "collected_at": "2026-09-26",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "玉子サンドのエスワイケイ",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店 お肉の細道沿い催事場",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-23",
+   "end": "2026-10-06"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.daimaru.co.jp/tokyo/tanjosai/foods_sweets.html"
+  ],
+  "summary": "奈良の食遊館が手がける玉子サンド専門店「玉子サンドのエスワイケイ」が大丸東京店に期間限定出店。",
+  "collected_at": "2026-09-26",
+  "id": ""
  }
 ]
