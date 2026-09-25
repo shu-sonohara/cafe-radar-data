@@ -2931,10 +2931,11 @@
     "https://news.yahoo.co.jp/articles/29685e2ca69792c05efddddb681039340b446c9b",
     "https://mrsgreenapple.com/feature/ringojamshow2026",
     "https://natalie.mu/music/news/687935",
-    "https://prtimes.jp/main/html/rd/p/000000321.000086964.html"
+    "https://prtimes.jp/main/html/rd/p/000000321.000086964.html",
+    "https://collabo-cafe.com/events/collabo/mrs-green-apple-ringo-jam-cafe-2026/"
    ],
    "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。BOX cafe&space GEMS渋谷店にて2026年9月25日〜12月6日開催。メンバーモチーフのソーダやオリジナルグッズを展開。",
-   "collected_at": "2026-09-06",
+   "collected_at": "2026-09-26",
    "id": "bfc3fa6a253d",
    "is_new": false,
    "freshness": null
@@ -4089,6 +4090,58 @@
     "カフェ",
     "コラボカフェ"
    ],
+   "name": "OH MY CAFE（ディズニー ツイステッドワンダーランド ザ アニメーション）",
+   "area": "表参道",
+   "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館地下3階",
+   "lat": 35.667229,
+   "lng": 139.708557,
+   "period": {
+    "start": "2026-10-24",
+    "end": "2026-11-15"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.disney.co.jp/shopping/cafenews/20251113_01",
+    "https://report.iko-yo.net/articles/33831"
+   ],
+   "summary": "『ディズニー ツイステッドワンダーランド ザ アニメーション』のコラボカフェが表参道ヒルズ本館地下3階のOH MY CAFEで期間限定開催。ゲーム内イベント「マスターシェフ」をイメージし、各寮カラーのオープンサンドやタコス、ドリンクなどを提供。来店特典でオリジナルグッズが当たる。",
+   "collected_at": "2026-09-26",
+   "id": "c313d808d6d0",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "洒落CAFE théâtre（テアトル）有楽町マルイ店",
+   "area": "有楽町",
+   "address": "東京都千代田区有楽町2-7-1 有楽町マルイ8F",
+   "lat": 35.674213,
+   "lng": 139.763657,
+   "period": {
+    "start": "2026-10-30",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.zaikei.co.jp/releases/3630031/",
+    "https://dtimes.jp/post-1389066/"
+   ],
+   "summary": "「晴れ姿」が似合う劇場コンセプトのコラボカフェ新店舗「洒落CAFE théâtre」が10月30日、有楽町マルイ8階にグランドオープン。看板メニューはオープンサンド（Open SANDO）約13種。11月3日からはTVアニメ『MAO』とのコラボカフェイベントを開催予定。",
+   "collected_at": "2026-09-26",
+   "id": "83ca787d24bd",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
    "name": "学園アイドルマスター×Chugai Grace Café（渋谷MODI店・リバイバル）",
    "area": "渋谷",
    "address": "東京都渋谷区神南1-21-3 渋谷MODI 7F",
@@ -4549,7 +4602,8 @@
     "https://www.mori.co.jp/press/release/260821_1/",
     "https://prtimes.jp/main/html/rd/p/000000412.000048109.html",
     "https://www.roppongievents.com/harvest-weeks-azabudai-hills-2026/",
-    "https://www.food-festival.info/2026-azabudai-hills-harvest-weeks/"
+    "https://www.food-festival.info/2026-azabudai-hills-harvest-weeks/",
+    "https://www.azabudai-hills.com/whats_on/2026/09/0412.html"
    ],
    "summary": "麻布台ヒルズで秋の味覚フェア「HARVEST WEEKS」開催。9月18日〜10月12日は26店舗33種のモンブランが集結する「モンブランセレクション2026」を展開。",
    "collected_at": "2026-09-23",
@@ -4579,7 +4633,7 @@
     "https://www.fashion-press.net/news/150676"
    ],
    "summary": "スコーン＆ミルクティー専門店「BAKERS gonna BAKE」が新宿エリア初出店としてルミネ新宿1 B2Fに9月15日オープン。店舗限定「ハニカムトフィーミルクティー」や舟和とのコラボスコーンを販売。",
-   "collected_at": "2026-09-25",
+   "collected_at": "2026-09-26",
    "id": "6e10e66f4e51",
    "is_new": true,
    "freshness": 30
@@ -4735,6 +4789,54 @@
    "summary": "日本橋三越本店で開催のフランス菓子・食文化の催事。星付き名店の特別コースや焼きたてクイニーアマンなど、PART1（9/18-23）・PART2（9/26-30）の2会期制で展開。",
    "collected_at": "2026-09-23",
    "id": "46dd5e59cd07",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "ベーカリー"
+   ],
+   "name": "小麦作ベーカリー",
+   "area": "八王子",
+   "address": "東京都八王子市明神町4-25-7",
+   "lat": 35.660374,
+   "lng": 139.346649,
+   "period": {
+    "start": "2026-10-01",
+    "end": null
+   },
+   "confidence": "unverified",
+   "sources": [
+    "https://8dabe.com/2026/09/25/komugisaku-bakery/"
+   ],
+   "summary": "甲州街道沿い・明神町五差路近くに新しいパン屋「小麦作ベーカリー」が誕生。9月28日〜30日プレオープン、10月1日グランドオープン。営業時間7:30〜18:00（完売次第終了）。",
+   "collected_at": "2026-09-26",
+   "id": "65d71163335b",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "玉子サンドのエスワイケイ",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1-9-1 大丸東京店 お肉の細道沿い催事場",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-09-23",
+    "end": "2026-10-06"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.daimaru.co.jp/tokyo/tanjosai/foods_sweets.html"
+   ],
+   "summary": "奈良の食遊館が手がける玉子サンド専門店「玉子サンドのエスワイケイ」が大丸東京店に期間限定出店。",
+   "collected_at": "2026-09-26",
+   "id": "0bdea3cc022c",
    "is_new": false,
    "freshness": null
   }
