@@ -3965,5 +3965,97 @@
   "summary": "奈良の食遊館が手がける玉子サンド専門店「玉子サンドのエスワイケイ」が大丸東京店に期間限定出店。",
   "collected_at": "2026-09-26",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee グランスタ東京店",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000308.000014043.html",
+   "https://www.gransta.jp/news/info/marunouchi_kaisatsunairn/"
+  ],
+  "summary": "BAKE INC.が手がける“食べるコーヒー”専門ブランド。グランスタ東京「地下 丸の内改札内エリア」リニューアルで新規オープン。",
+  "collected_at": "2026-09-27",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "PEANUTS × シュガーバターの木",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店 1階MVPスイーツ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-23",
+   "end": "2026-09-29"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.daimaru.co.jp/tokyo/topics/hoppetown_sweets_yokoku.html"
+  ],
+  "summary": "大丸東京店1階MVPスイーツにて、PEANUTSとシュガーバターの木のコラボ催事。花の形の「ルフル」など催事限定パッケージを販売。",
+  "collected_at": "2026-09-27",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "秋のほっぺタウン祭",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店 地階 食品ほっぺタウン",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-04",
+   "end": "2026-10-24"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.daimaru.co.jp/tokyo/tanjosai/foods_sweets.html"
+  ],
+  "summary": "大丸東京店地階「ほっぺタウン」に約70の菓子ブランドが集結し、限定品・新作・特別アソートなど約60種を販売。",
+  "collected_at": "2026-09-27",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café（BOX cafe&space GEMS渋谷店）",
+  "area": "渋谷",
+  "address": "東京都渋谷区渋谷3-27-11 GEMS渋谷 3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-25",
+   "end": "2026-12-06"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000321.000086964.html",
+   "https://www.enjoytokyo.jp/event/2082881/"
+  ],
+  "summary": "Mrs. GREEN APPLE公式ファンクラブ「Ringo Jam」10周年記念のテーマカフェ。マスコット「メメル」やアプリを絡めたフード・グッズを展開。",
+  "collected_at": "2026-09-27",
+  "id": ""
  }
 ]

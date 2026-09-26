@@ -5674,5 +5674,75 @@
   "summary": "「晴れ姿」が似合う劇場コンセプトのコラボカフェ新店舗「洒落CAFE théâtre」が10月30日、有楽町マルイ8階にグランドオープン。看板メニューはオープンサンド（Open SANDO）約13種。11月3日からはTVアニメ『MAO』とのコラボカフェイベントを開催予定。",
   "collected_at": "2026-09-26",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "カフェ ココノハ ソラマチ店",
+  "area": "押上・東京スカイツリータウン",
+  "address": "東京都墨田区押上1-1-2 東京ソラマチ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-26",
+   "end": "2026-10-12"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002337.000024488.html"
+  ],
+  "summary": "カフェ ココノハ ソラマチ店で、シルバニアファミリーとのコラボメニュー（カルボナーラ・ワッフル・フロート）を期間限定販売。対象メニュー注文でオリジナルポストカードをプレゼント。",
+  "collected_at": "2026-09-27",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "チェンソーマン喫茶（ルミネエスト新宿店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿 8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/150832",
+   "https://travel.mdpr.jp/travel/detail/4841153"
+  ],
+  "summary": "劇場版「チェンソーマン レゼ篇」の喫茶二道をイメージした期間限定コラボカフェ。デンジ・レゼをイメージしたフード・パフェ・グッズを展開。",
+  "collected_at": "2026-09-27",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "西洋菓匠KIKUJIROU",
+  "area": "銀座",
+  "address": "東京都中央区銀座4-6-16 銀座三越 本館地下2階 スイーツパークⅠ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-30",
+   "end": "2026-10-06"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.zaikei.co.jp/releases/3629934/",
+   "https://dtimes.jp/post-1396279/"
+  ],
+  "summary": "銀座三越にフランスAOPバターを使った「KIKUJIROU・モンテギューAOPバターコレクション」を銀座三越催事限定で7日間販売。",
+  "collected_at": "2026-09-27",
+  "id": ""
  }
 ]
