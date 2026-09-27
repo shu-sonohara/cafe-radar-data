@@ -967,7 +967,8 @@
     "https://www.fashion-press.net/news/151028",
     "https://www.enjoytokyo.jp/news/205126/",
     "https://prtimes.jp/main/html/rd/p/000000308.000014043.html",
-    "https://gourmetpress.net/1480765/"
+    "https://gourmetpress.net/1480765/",
+    "https://www.gransta.jp/news/info/marunouchi_kaisatsunairn/"
    ],
    "summary": "BAKE INC.がコーヒーを「食べる」新業態のコーヒー菓子専門ブランド「A Bite Coffee」を東京駅グランスタ東京地下1階にオープン予定。丸の内改札内エリアのリニューアルに伴い出店する。",
    "collected_at": "2026-08-22",
@@ -2932,10 +2933,11 @@
     "https://mrsgreenapple.com/feature/ringojamshow2026",
     "https://natalie.mu/music/news/687935",
     "https://prtimes.jp/main/html/rd/p/000000321.000086964.html",
-    "https://collabo-cafe.com/events/collabo/mrs-green-apple-ringo-jam-cafe-2026/"
+    "https://collabo-cafe.com/events/collabo/mrs-green-apple-ringo-jam-cafe-2026/",
+    "https://www.enjoytokyo.jp/event/2082881/"
    ],
    "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。BOX cafe&space GEMS渋谷店にて2026年9月25日〜12月6日開催。メンバーモチーフのソーダやオリジナルグッズを展開。",
-   "collected_at": "2026-09-26",
+   "collected_at": "2026-09-27",
    "id": "bfc3fa6a253d",
    "is_new": false,
    "freshness": null
@@ -3298,10 +3300,11 @@
     "https://chainsawman.dog/news/220926_02/",
     "https://animeanime.jp/article/2026/09/08/102773.html",
     "https://prtimes.jp/main/html/rd/p/000000322.000086964.html",
-    "https://www.fashion-press.net/news/150832"
+    "https://www.fashion-press.net/news/150832",
+    "https://travel.mdpr.jp/travel/detail/4841153"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-09-24",
+   "collected_at": "2026-09-27",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -4142,6 +4145,56 @@
     "カフェ",
     "コラボカフェ"
    ],
+   "name": "カフェ ココノハ ソラマチ店",
+   "area": "押上・東京スカイツリータウン",
+   "address": "東京都墨田区押上1-1-2 東京ソラマチ",
+   "lat": 35.710083,
+   "lng": 139.808609,
+   "period": {
+    "start": "2026-09-26",
+    "end": "2026-10-12"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000002337.000024488.html"
+   ],
+   "summary": "カフェ ココノハ ソラマチ店で、シルバニアファミリーとのコラボメニュー（カルボナーラ・ワッフル・フロート）を期間限定販売。対象メニュー注文でオリジナルポストカードをプレゼント。",
+   "collected_at": "2026-09-27",
+   "id": "91d40398422c",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "西洋菓匠KIKUJIROU",
+   "area": "銀座",
+   "address": "東京都中央区銀座4-6-16 銀座三越 本館地下2階 スイーツパークⅠ",
+   "lat": 35.671577,
+   "lng": 139.765594,
+   "period": {
+    "start": "2026-09-30",
+    "end": "2026-10-06"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.zaikei.co.jp/releases/3629934/",
+    "https://dtimes.jp/post-1396279/"
+   ],
+   "summary": "銀座三越にフランスAOPバターを使った「KIKUJIROU・モンテギューAOPバターコレクション」を銀座三越催事限定で7日間販売。",
+   "collected_at": "2026-09-27",
+   "id": "bbd637b5a6e5",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
    "name": "学園アイドルマスター×Chugai Grace Café（渋谷MODI店・リバイバル）",
    "area": "渋谷",
    "address": "東京都渋谷区神南1-21-3 渋谷MODI 7F",
@@ -4425,7 +4478,7 @@
     "https://www.daimaru.co.jp/tokyo/tanjosai/foods_sweets.html"
    ],
    "summary": "大丸東京店の誕生祭企画。約70の菓子ブランドが集結し、限定品・新作など希少スイーツ約60種を販売。",
-   "collected_at": "2026-09-13",
+   "collected_at": "2026-09-27",
    "id": "9f97cea4a93e",
    "is_new": false,
    "freshness": null
@@ -4837,6 +4890,31 @@
    "summary": "奈良の食遊館が手がける玉子サンド専門店「玉子サンドのエスワイケイ」が大丸東京店に期間限定出店。",
    "collected_at": "2026-09-26",
    "id": "0bdea3cc022c",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ",
+    "コラボカフェ"
+   ],
+   "name": "PEANUTS × シュガーバターの木",
+   "area": "東京駅・丸の内",
+   "address": "東京都千代田区丸の内1-9-1 大丸東京店 1階MVPスイーツ",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-09-23",
+    "end": "2026-09-29"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.daimaru.co.jp/tokyo/topics/hoppetown_sweets_yokoku.html"
+   ],
+   "summary": "大丸東京店1階MVPスイーツにて、PEANUTSとシュガーバターの木のコラボ催事。花の形の「ルフル」など催事限定パッケージを販売。",
+   "collected_at": "2026-09-27",
+   "id": "7e7239ad328b",
    "is_new": false,
    "freshness": null
   }
