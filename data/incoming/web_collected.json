@@ -4057,5 +4057,77 @@
   "summary": "Mrs. GREEN APPLE公式ファンクラブ「Ringo Jam」10周年記念のテーマカフェ。マスコット「メメル」やアプリを絡めたフード・グッズを展開。",
   "collected_at": "2026-09-27",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE（表参道店）",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前6-3-9 井門原宿ビル2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-22",
+   "end": "2026-11-08"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://tower.jp/article/news/2026/09/24/c101",
+   "https://prtimes.jp/main/html/rd/p/000000343.000092133.html"
+  ],
+  "summary": "RPG『Fallout』とTOWER RECORDS CAFEのコラボカフェが表参道店で開催。作中フード・スイーツ・ドリンクをアレンジしたコラボメニューやカフェ先行発売グッズを展開。前期10/22〜10/30、後期10/31〜11/8。",
+  "collected_at": "2026-09-28",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "『逆転裁判』シリーズ25周年コラボ（カプコンカフェ池袋店）",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1丁目30番3号 グランドスケープ池袋3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-09",
+   "end": "2026-11-26"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/topics/3080/",
+   "https://prtimes.jp/main/html/rd/p/000006033.000013450.html"
+  ],
+  "summary": "『逆転裁判』シリーズ25周年を記念したコラボがカプコンカフェ池袋店で開催。オリジナルグッズとコラボメニューを展開。",
+  "collected_at": "2026-09-28",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "『マスク男子は恋したくないのに』コラボカフェ（eeo Cafe池袋）",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1丁目9番21号 JK7 1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-10",
+   "end": "2026-10-22"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://x.com/bboy_goods/status/2093247462714556645",
+   "https://www.b-boy.jp/special/maskdanshi/oad.html"
+  ],
+  "summary": "BLコミック『マスク男子は恋したくないのに』のコラボカフェがeeo Cafe池袋で開催。新規描き下ろしグッズやキャラクターイメージのコラボメニューを展開。",
+  "collected_at": "2026-09-28",
+  "id": ""
  }
 ]
