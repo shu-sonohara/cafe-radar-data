@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28",
+ "updated_at": "2026-09-29",
  "items": [
   {
    "type": "new_cafe",
@@ -403,7 +403,7 @@
    "collected_at": "2026-08-22",
    "id": "292ab53b2bff",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -4428,31 +4428,6 @@
    "summary": "TVアニメ『ブルーロック』とプリンセスカフェのコラボカフェが池袋館で期間限定開催。",
    "collected_at": "2026-09-17",
    "id": "9f221864343d",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "伊勢名物 赤福 特別販売会（羽田空港）",
-   "area": "羽田空港",
-   "address": "東京都大田区羽田空港1丁目6-5 羽田空港第1ターミナル（2階出発ロビー保安検査場C前）／東京都大田区羽田空港2丁目6-5 第2ターミナル（2階出発ロビー マーケットプレイス）",
-   "lat": 35.553783,
-   "lng": 139.754578,
-   "period": {
-    "start": "2026-09-16",
-    "end": "2026-09-28"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000109.000153142.html",
-    "https://www.traicy.com/posts/20260910381483/"
-   ],
-   "summary": "三重県の「伊勢名物 赤福」が羽田空港第1・第2ターミナルに期間限定出店。夏季限定「赤福水ようかん」や五十鈴茶屋の秋の栗菓子を販売。",
-   "collected_at": "2026-09-17",
-   "id": "f2103ab31159",
    "is_new": false,
    "freshness": null
   },
