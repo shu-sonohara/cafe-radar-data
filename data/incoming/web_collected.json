@@ -4129,5 +4129,120 @@
   "summary": "BLコミック『マスク男子は恋したくないのに』のコラボカフェがeeo Cafe池袋で開催。新規描き下ろしグッズやキャラクターイメージのコラボメニューを展開。",
   "collected_at": "2026-09-28",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café",
+  "area": "渋谷",
+  "address": "東京都渋谷区渋谷3-27-11 GEMS渋谷3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-25",
+   "end": "2026-12-06"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://natalie.mu/music/news/687935",
+   "https://collabo-cafe.com/events/collabo/mrs-green-apple-ringo-jam-cafe-2026/"
+  ],
+  "summary": "Mrs. GREEN APPLE公式ファンクラブ「Ringo Jam」10周年記念のテーマカフェ。公式マスコットキャラクター「メメル」やアプリ「MGAアプリ」をモチーフにしたメニュー・グッズを展開。全国6都市8会場で開催のうち渋谷会場。",
+  "collected_at": "2026-09-29",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "The Little BAKERY Tokyo グランスタ東京店",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京（改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.gransta.jp/mall/gransta_tokyo/the_little_bakery_tokyo/",
+   "https://panyasan-navi.net/?p=13641"
+  ],
+  "summary": "原宿の裏路地で人気のベーカリー「The Little BAKERY Tokyo」が、グランスタ東京の改札内リニューアルエリアに出店。店舗限定のドーナツ「クッキー&クリームチョコレートドーナツ」「東京ブラック抹茶ドーナツ」を販売。",
+  "collected_at": "2026-09-29",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "A Bite Coffee グランスタ東京",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京（改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/205126/",
+   "https://prtimes.jp/main/html/rd/p/000000308.000014043.html"
+  ],
+  "summary": "BAKE INC.が手掛けるコーヒー菓子専門ブランド「A Bite Coffee」がグランスタ東京にオープン。“ひとくちのコーヒー体験”をコンセプトに、コーヒーの香りやコクを表現した菓子を展開。",
+  "collected_at": "2026-09-29",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "やきいもフェス TOKYO 2026",
+  "area": "中野",
+  "address": "東京都中野区中野4-12 中野四季の森公園",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": "2026-11-08"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://yakiimofes.jp/tokyo2026/",
+   "https://prtimes.jp/main/html/rd/p/000000107.000084442.html"
+  ],
+  "summary": "全国のやきいも・さつまいもスイーツ約30種類が集まる屋外フェス。今年は東京・大阪の2都市開催で、入場無料（飲食代別途）。",
+  "collected_at": "2026-09-29",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "フレデリック・カッセル POP UP SHOP",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-14-1 伊勢丹新宿店本館地下1階 カフェ エ シュクレ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-05-27",
+   "end": "2026-10-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000011.000146664.html",
+   "https://www.enjoytokyo.jp/event/2067238/"
+  ],
+  "summary": "フランス・フォンテーヌブロー発の老舗パティスリー「フレデリック・カッセル」のポップアップショップ。伊勢丹新宿店本館地下1階で「ミルフイユ・ヴァニーユ」等の焼き菓子・スイーツを販売。",
+  "collected_at": "2026-09-29",
+  "id": ""
  }
 ]

@@ -5792,5 +5792,73 @@
   "summary": "表参道ヒルズ本館地下3階のOH MY CAFEで、ゲーム内イベント「マスターシェフ」をテーマにしたツイステッドワンダーランドの期間限定コラボカフェを開催。寮ごとのカラーを取り入れたオープンサンドやタコス、ドリンクなどを提供。",
   "collected_at": "2026-09-28",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "「ちいかわ」×「東京ばな奈」ポップアップショップ",
+  "area": "押上・とうきょうスカイツリー",
+  "address": "東京都墨田区押上1-1-2 東京ソラマチ イーストヤード1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-14"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002148.000025606.html",
+   "https://www.inside-games.jp/article/2026/09/28/188379.html"
+  ],
+  "summary": "東京ソラマチ イーストヤード1階「空の小町」で「ちいかわ」×「東京ばな奈」のポップアップショップが開催。初登場のエコバッグやコラボスイーツ（バナナプリンケーキ等）を販売。",
+  "collected_at": "2026-09-29",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "MATCHA TIMES 豊洲店",
+  "area": "豊洲",
+  "address": "東京都江東区豊洲6-1-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-19",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://toyosu.tokyo/cafe/matcha-times-toyosu-report/"
+  ],
+  "summary": "ドッグラン施設「THE DOG PARK TOYOSU」内に、約26,000通りにカスタマイズできる抹茶ドリンク専門カフェがオープン。犬同伴での店内利用が可能。",
+  "collected_at": "2026-09-29",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "SuicaのペンギンフェアFINAL",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-23",
+   "end": "2026-10-21"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001223.000082978.html",
+   "https://www.gransta.jp/news/info/suicafair_final/"
+  ],
+  "summary": "JR東京駅「グランスタ東京」で「Suicaのペンギン」の最後のフェアを開催。新作10商品を含む24商品のグッズ・限定スイーツが登場。2026年度末でのキャラクター卒業に伴う最終開催。",
+  "collected_at": "2026-09-29",
+  "id": ""
  }
 ]
