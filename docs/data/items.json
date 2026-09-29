@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-29",
+ "updated_at": "2026-09-30",
  "items": [
   {
    "type": "new_cafe",
@@ -2185,32 +2185,6 @@
     "カフェ",
     "コラボカフェ"
    ],
-   "name": "とっとこハムちゃんずCAFE（THEキャラCAFE 東急プラザ渋谷店）",
-   "area": "渋谷",
-   "address": "東京都渋谷区道玄坂1丁目2番3号 東急プラザ渋谷5階",
-   "lat": 35.657677,
-   "lng": 139.700531,
-   "period": {
-    "start": "2026-08-28",
-    "end": "2026-09-29"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000001059.000069812.html",
-    "https://www.inside-games.jp/release/prtimes/20260810/301335.html"
-   ],
-   "summary": "「とっとこハムちゃんず」の期間限定コラボカフェが東急プラザ渋谷5階「THEキャラCAFE」にて2026年8月28日〜9月29日開催。キャラクターをモチーフにしたフード・ドリンクや限定グッズを展開。",
-   "collected_at": "2026-08-24",
-   "id": "b79304eb3ae6",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
    "name": "Nissy Birthday Entertainment 2026 Cafe（BOX cafe&space SHIBUYA109渋谷店）",
    "area": "渋谷",
    "address": "東京都渋谷区道玄坂2丁目29番1号 SHIBUYA109 地下2階",
@@ -2255,35 +2229,6 @@
    "id": "1597d9989874",
    "is_new": false,
    "freshness": 180
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "THE SCENE TABLE GINZA（アニメ「天官賜福」展カフェ）",
-   "area": "銀座",
-   "address": "東京都中央区銀座2-3-6 松屋銀座 並木通り館3F",
-   "lat": 35.674278,
-   "lng": 139.766144,
-   "period": {
-    "start": "2026-09-05",
-    "end": "2026-09-29"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://dtimes.jp/post-1343546/",
-    "https://premium.gamepedia.jp/hobby/archives/235245",
-    "https://www.ryutsuu.biz/store/s072972.html",
-    "https://prtimes.jp/main/html/rd/p/000000325.000086964.html",
-    "https://www.enjoytokyo.jp/news/205137/"
-   ],
-   "summary": "松屋銀座の新館「並木通り館」に誕生した展示施設「ギンザミライミュージアム」内のテーマカフェ「THE SCENE TABLE GINZA」で、「アニメ天官賜福展 -天地流光-」とのコラボメニューを2026年9月5日〜29日の期間限定で提供。",
-   "collected_at": "2026-09-02",
-   "id": "5a5a4647e1c4",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -3610,6 +3555,32 @@
    "freshness": 90
   },
   {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "NO.6- THE SCENE TABLE GINZA-",
+   "area": "銀座",
+   "address": "東京都中央区銀座2-3-6 松屋銀座 並木通り館",
+   "lat": 35.674278,
+   "lng": 139.766144,
+   "period": {
+    "start": "2026-10-02",
+    "end": "2026-10-26"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000325.000086964.html",
+    "https://www.enjoytokyo.jp/news/205137/"
+   ],
+   "summary": "小説『NO.6』の名言をテーマにしたコラボカフェが「ギンザミライミュージアム」（松屋銀座 並木通り館3階）に10月2日〜26日の期間限定オープン。",
+   "collected_at": "2026-09-18",
+   "id": "8163845ad564",
+   "is_new": false,
+   "freshness": null
+  },
+  {
    "type": "event",
    "genre": [
     "スイーツ"
@@ -4329,57 +4300,6 @@
    "freshness": null
   },
   {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "もちえぼりゅーしょん",
-   "area": "新宿",
-   "address": "東京都新宿区新宿3丁目14-1 伊勢丹新宿店",
-   "lat": 35.691074,
-   "lng": 139.704651,
-   "period": {
-    "start": "2026-09-23",
-    "end": "2026-09-29"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://tamayose.jp/news/%E4%BC%8A%E5%8B%A2%E4%B8%B9%E6%96%B0%E5%AE%BF%E5%82%AC%E4%BA%8B%E5%87%BA%E5%BA%97%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-6/",
-    "https://www.mistore.jp/store/shinjuku/feature/foods/event_calendar.html"
-   ],
-   "summary": "伊勢丹新宿店にて9月23日より開催のお餅スイーツ催事。「あいと電氣餅店」など複数のお餅関連出店者が参加。",
-   "collected_at": "2026-09-24",
-   "id": "1790c02aca14",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "秋のオンリー・エムアイ（信州ナッツ）",
-   "area": "日本橋",
-   "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店",
-   "lat": 35.685177,
-   "lng": 139.77298,
-   "period": {
-    "start": "2026-09-16",
-    "end": "2026-09-29"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://mi-journey.jp/foodie/113784/",
-    "https://www.mistore.jp/shopping/feature/foods_f2/event_dummy_f.html",
-    "https://prtimes.jp/main/html/rd/p/000003103.000008372.html"
-   ],
-   "summary": "日本橋三越本店の本館地下食品フロアにて、日本橋三越限定商品を集めた「秋のオンリー・エムアイ」を2026年9月16日〜29日開催。今年は「信州ナッツ」がテーマで、長野県産くるみ・ヘーゼルナッツを使ったスイーツなどが登場。",
-   "collected_at": "2026-09-16",
-   "id": "56cfbdc506bd",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "ベーカリー"
@@ -4736,31 +4656,6 @@
    "summary": "奈良の食遊館が手がける玉子サンド専門店「玉子サンドのエスワイケイ」が大丸東京店に期間限定出店。",
    "collected_at": "2026-09-26",
    "id": "0bdea3cc022c",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "PEANUTS × シュガーバターの木",
-   "area": "東京駅・丸の内",
-   "address": "東京都千代田区丸の内1-9-1 大丸東京店 1階MVPスイーツ",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-09-23",
-    "end": "2026-09-29"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.daimaru.co.jp/tokyo/topics/hoppetown_sweets_yokoku.html"
-   ],
-   "summary": "大丸東京店1階MVPスイーツにて、PEANUTSとシュガーバターの木のコラボ催事。花の形の「ルフル」など催事限定パッケージを販売。",
-   "collected_at": "2026-09-27",
-   "id": "7e7239ad328b",
    "is_new": false,
    "freshness": null
   },
