@@ -2834,7 +2834,7 @@
     "https://www.enjoytokyo.jp/event/2082881/"
    ],
    "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。BOX cafe&space GEMS渋谷店にて2026年9月25日〜12月6日開催。メンバーモチーフのソーダやオリジナルグッズを展開。",
-   "collected_at": "2026-09-27",
+   "collected_at": "2026-09-29",
    "id": "bfc3fa6a253d",
    "is_new": false,
    "freshness": null
@@ -3623,13 +3623,14 @@
     "start": "2026-09-23",
     "end": "2026-10-21"
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000001223.000082978.html",
-    "https://raillab.jp/news/article/35401"
+    "https://raillab.jp/news/article/35401",
+    "https://www.gransta.jp/news/info/suicafair_final/"
    ],
    "summary": "グランスタ東京で開催される「Suicaのペンギン」最後のフェア。新作10商品を含む限定スイーツ・グッズ計24商品が9月23日〜10月21日に登場。",
-   "collected_at": "2026-09-18",
+   "collected_at": "2026-09-29",
    "id": "165f620d068a",
    "is_new": false,
    "freshness": null
@@ -4036,6 +4037,56 @@
    "id": "bbd637b5a6e5",
    "is_new": false,
    "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ",
+    "コラボカフェ"
+   ],
+   "name": "「ちいかわ」×「東京ばな奈」ポップアップショップ",
+   "area": "押上・とうきょうスカイツリー",
+   "address": "東京都墨田区押上1-1-2 東京ソラマチ イーストヤード1階",
+   "lat": 35.710083,
+   "lng": 139.808609,
+   "period": {
+    "start": "2026-10-01",
+    "end": "2026-10-14"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000002148.000025606.html",
+    "https://www.inside-games.jp/article/2026/09/28/188379.html"
+   ],
+   "summary": "東京ソラマチ イーストヤード1階「空の小町」で「ちいかわ」×「東京ばな奈」のポップアップショップが開催。初登場のエコバッグやコラボスイーツ（バナナプリンケーキ等）を販売。",
+   "collected_at": "2026-09-29",
+   "id": "a1356e7d9091",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "MATCHA TIMES 豊洲店",
+   "area": "豊洲",
+   "address": "東京都江東区豊洲6-1-9",
+   "lat": 35.65023,
+   "lng": 139.791595,
+   "period": {
+    "start": "2026-09-19",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://toyosu.tokyo/cafe/matcha-times-toyosu-report/"
+   ],
+   "summary": "ドッグラン施設「THE DOG PARK TOYOSU」内に、約26,000通りにカスタマイズできる抹茶ドリンク専門カフェがオープン。犬同伴での店内利用が可能。",
+   "collected_at": "2026-09-29",
+   "id": "2e355e36c6e6",
+   "is_new": true,
+   "freshness": 30
   },
   {
    "type": "new_cafe",
@@ -4582,7 +4633,7 @@
     "https://yakiimofes.jp/tokyo2026/"
    ],
    "summary": "焼き芋・さつまいもスイーツの専門イベント「やきいもフェス TOKYO 2026」が中野四季の森公園で開催。14店舗が出店し約30種類のやきいもメニューが揃う。",
-   "collected_at": "2026-09-21",
+   "collected_at": "2026-09-29",
    "id": "816255f5e436",
    "is_new": false,
    "freshness": null
@@ -4788,6 +4839,31 @@
    "summary": "BLコミック『マスク男子は恋したくないのに』のコラボカフェがeeo Cafe池袋で開催。新規描き下ろしグッズやキャラクターイメージのコラボメニューを展開。",
    "collected_at": "2026-09-28",
    "id": "e9aeb27ad469",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "フレデリック・カッセル POP UP SHOP",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3-14-1 伊勢丹新宿店本館地下1階 カフェ エ シュクレ",
+   "lat": 35.691074,
+   "lng": 139.704651,
+   "period": {
+    "start": "2026-05-27",
+    "end": "2026-10-27"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000011.000146664.html",
+    "https://www.enjoytokyo.jp/event/2067238/"
+   ],
+   "summary": "フランス・フォンテーヌブロー発の老舗パティスリー「フレデリック・カッセル」のポップアップショップ。伊勢丹新宿店本館地下1階で「ミルフイユ・ヴァニーユ」等の焼き菓子・スイーツを販売。",
+   "collected_at": "2026-09-29",
+   "id": "feb586fb3dd2",
    "is_new": false,
    "freshness": null
   }
