@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30",
+ "updated_at": "2026-10-01",
  "items": [
   {
    "type": "new_cafe",
@@ -1975,32 +1975,6 @@
    "freshness": 90
   },
   {
-   "type": "event",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "FC東京×府中市 コラボカフェ",
-   "area": "府中",
-   "address": "東京都府中市宮町1-1-10 京王府中ショッピングセンター内2F",
-   "lat": 35.671974,
-   "lng": 139.479385,
-   "period": {
-    "start": "2026-08-01",
-    "end": "2026-09-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.fctokyo.co.jp/news/details/338253/",
-    "https://chofu.keizai.biz/headline/4957"
-   ],
-   "summary": "京王線府中駅北口の「183 FUCHU FAN ZONE with PRONTO」でFC東京×府中市のコラボカフェを開催。期間限定オリジナルドリンクの提供や2026/27シーズンユニフォームの展示を実施。",
-   "collected_at": "2026-09-17",
-   "id": "e0b37b46cc9e",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ",
@@ -2433,36 +2407,6 @@
    "id": "72c5e27bddb0",
    "is_new": true,
    "freshness": 90
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉×スイーツパラダイス コラボカフェ（COLLABO PARADISE 新宿マルイアネックス店）",
-   "area": "新宿",
-   "address": "東京都新宿区新宿3-1-26 新宿マルイ アネックス 8F",
-   "lat": 35.690266,
-   "lng": 139.705917,
-   "period": {
-    "start": "2026-09-02",
-    "end": "2026-09-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.sweets-paradise.jp/collaboration/magica-wr",
-    "https://www.sweets-paradise.jp/shop/collabo-paradise-shinjukumaruiannex/",
-    "https://collabo-cafe.com/events/collabo/madoka-magica-walpurgis-sweets-paradise-2026/",
-    "https://news.denfaminicogamer.jp/news/251202w",
-    "https://collabo-cafe.com/events/collabo/puella-magi-madoka-magica-cafe-sweets-paradise2026/"
-   ],
-   "summary": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』とスイーツパラダイスのコラボカフェがCOLLABO PARADISE新宿マルイアネックス店で2026年9月2日より開催。オリジナルメニューやコースターを展開。",
-   "collected_at": "2026-09-15",
-   "id": "cb27cc977af4",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -3788,30 +3732,6 @@
   {
    "type": "popup",
    "genre": [
-    "スイーツ"
-   ],
-   "name": "KOKUNEKO",
-   "area": "東京駅",
-   "address": "東京都千代田区丸の内1-9-1 JR東京駅改札内 グランスタ東京 スクエア ゼロ",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-09-24",
-    "end": "2026-09-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.zaikei.co.jp/releases/3626219/"
-   ],
-   "summary": "博多発の黒糖とバターのスイーツブランド「KOKUNEKO」が関東初出店として東京駅スクエア ゼロに催事出店。黒糖とバターのクッキーやフィナンシェなどを販売。",
-   "collected_at": "2026-09-23",
-   "id": "9c1c910a2585",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
     "カフェ"
    ],
    "name": "バブアー カフェ",
@@ -4176,33 +4096,6 @@
    "freshness": 30
   },
   {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "デパチカ イベントスペース（西武池袋本店）9月ラインナップ",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1-28-1 西武池袋本店 地下1階",
-   "lat": 35.727081,
-   "lng": 139.710495,
-   "period": {
-    "start": "2026-09-01",
-    "end": "2026-09-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000002483.000031382.html",
-    "https://ikebukuro-times.com/archives/ikesei-depachika-sweetsevent202609.html",
-    "https://sogo-seibu.jp/ikebukuro/topics/depachika-1st-anniversary",
-    "https://www.sogo-seibu.jp/ikebukuro/topics/depachika-1st-anniversary"
-   ],
-   "summary": "西武池袋本店地下1階「デパチカ イベントスペース」で、マーロウ、パティスリーkazunori ikeda individuel、チーズケーキ専門店BELTZ、栃木銘菓「バターのいとこ」など人気スイーツブランドが週替わりで登場。",
-   "collected_at": "2026-09-06",
-   "id": "b1f68f049c19",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ"
@@ -4249,31 +4142,6 @@
    "id": "e6fb6cb0de71",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "西武池袋本店 デパチカイベントスペース 2026年9月ラインナップ（マーロウ・kazunori ikeda individuel・BELTZ・バターのいとこ 週替わり出店）",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1-28-1 西武池袋本店 地下1階",
-   "lat": 35.727081,
-   "lng": 139.710495,
-   "period": {
-    "start": "2026-09-01",
-    "end": "2026-09-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000002483.000031382.html",
-    "https://ikebukuro-times.com/archives/ikesei-depachika-sweetsevent202609.html"
-   ],
-   "summary": "西武池袋本店地下1階のデパチカイベントスペースに、話題のスイーツブランドが週替わりで出店。焼きプリンの「マーロウ」やチーズケーキ専門店「BELTZ」など。",
-   "collected_at": "2026-09-10",
-   "id": "5c2613395f35",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "event",
@@ -4509,31 +4377,6 @@
    "freshness": null
   },
   {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "みるくぼーやPOP UP STORE",
-   "area": "上野",
-   "address": "東京都台東区上野4-8-13 上野しんきん館",
-   "lat": 35.709648,
-   "lng": 139.774307,
-   "period": {
-    "start": "2026-07-30",
-    "end": "2026-09-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000007.000154714.html",
-    "https://shop.yudamilk.com/apps/note/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/2656/"
-   ],
-   "summary": "岩手県の乳業メーカー「YUDAミルク」の期間限定ストア「みるくぼーやPOP UP STORE」が上野しんきん館に7月30日〜9月30日出店。ソフトクリームなどを販売。",
-   "collected_at": "2026-09-19",
-   "id": "ab8f2adba2af",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "event",
    "genre": [
     "スイーツ"
@@ -4585,31 +4428,6 @@
    "id": "505337e9f2b6",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "フランス展 2026",
-   "area": "日本橋",
-   "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店 本館7階催物会場",
-   "lat": 35.685177,
-   "lng": 139.77298,
-   "period": {
-    "start": "2026-09-18",
-    "end": "2026-09-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.mistore.jp/shopping/event/nihombashi_e/france_50",
-    "https://www.fashion-press.net/news/150626"
-   ],
-   "summary": "日本橋三越本店で開催のフランス菓子・食文化の催事。星付き名店の特別コースや焼きたてクイニーアマンなど、PART1（9/18-23）・PART2（9/26-30）の2会期制で展開。",
-   "collected_at": "2026-09-23",
-   "id": "46dd5e59cd07",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
