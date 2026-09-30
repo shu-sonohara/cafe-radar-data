@@ -5860,5 +5860,186 @@
   "summary": "JR東京駅「グランスタ東京」で「Suicaのペンギン」の最後のフェアを開催。新作10商品を含む24商品のグッズ・限定スイーツが登場。2026年度末でのキャラクター卒業に伴う最終開催。",
   "collected_at": "2026-09-29",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ナイキスキムス カフェ（NikeSKIMS CAFE）",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前5-11-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-12"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashionsnap.com/article/2026-09-30/nikeskims-popup/"
+  ],
+  "summary": "ナイキとSKIMSのコラボレーションを記念し、原宿のStandbyに期間限定カフェがオープン。和菓子と日本茶をベースにしたドリンクを提供する。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "僕のヒーローアカデミアカフェ WE ARE HERO HOLICS（東京会場）",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6丁目28番6号",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-12-20"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.zaikei.co.jp/releases/3635493/"
+  ],
+  "summary": "アニメ『僕のヒーローアカデミア』のコラボカフェが原宿のBOX cafe&spaceキュープラザ原宿3Fで開催。デクや爆豪をイメージしたメニューやオリジナルグッズを展開。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "UCCカプセル珈琲店",
+  "area": "六本木",
+  "address": "東京都港区赤坂9-7-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-10",
+   "end": "2026-10-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.ucc.co.jp/company/news/2026/rel260929.html"
+  ],
+  "summary": "UCCとタカラトミーアーツのコラボで、巨大ガチャでコーヒーとお菓子のマリアージュが選べる無料イベント。東京ミッドタウン キャノピー・スクエアにて開催。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "ホノルル・クッキー・カンパニー ポップアップストア（大丸東京店）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-30",
+   "end": "2026-10-13"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://news.yahoo.co.jp/articles/c43d986f513768b241cd09adc7b415c3a77f0197"
+  ],
+  "summary": "ハワイ発のパイナップル型クッキーブランドが大丸東京店1階でポップアップストアを開催。パンプキンなど秋限定商品を展開。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "「ちいかわ」×「東京ばな奈」ポップアップショップ（空の小町 東京ソラマチ店）",
+  "area": "押上・東京スカイツリータウン",
+  "address": "東京都墨田区押上1-1-2",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-14"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://animeanime.jp/release/prtimes/20260928/315537.html"
+  ],
+  "summary": "「ちいかわ」と「東京ばな奈」のコラボポップアップショップが東京ソラマチにオープン。初登場のエコバッグやバナナプリンケーキなど限定商品を展開。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "チェンソーマン喫茶（劇場版『チェンソーマン レゼ篇』公開記念）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿 8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000101.000086964.html"
+  ],
+  "summary": "劇場版『チェンソーマン レゼ篇』公開を記念したテーマカフェ。作中の喫茶店「喫茶二道」をイメージしたメニューやグッズを展開。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「ディズニー ツイステッドワンダーランド」OH MY CAFE",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ 本館 地下3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-24",
+   "end": "2026-11-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000327.000086964.html"
+  ],
+  "summary": "ゲーム『ディズニー ツイステッドワンダーランド』のイベント「マスターシェフ」をテーマにしたコラボカフェが表参道ヒルズで開催。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "東京喫茶メリー（グランスタ東京店）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.fashion-press.net/news/150691"
+  ],
+  "summary": "メリーチョコレートの新ブランド「東京喫茶メリー」がグランスタ東京地下1階にオープン。レトロ喫茶をイメージしたクリームソーダチョコやプリンミルフィーユなどを展開。",
+  "collected_at": "2026-10-01",
+  "id": ""
  }
 ]

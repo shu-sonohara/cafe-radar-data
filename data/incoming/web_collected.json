@@ -4244,5 +4244,211 @@
   "summary": "フランス・フォンテーヌブロー発の老舗パティスリー「フレデリック・カッセル」のポップアップショップ。伊勢丹新宿店本館地下1階で「ミルフイユ・ヴァニーユ」等の焼き菓子・スイーツを販売。",
   "collected_at": "2026-09-29",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "HIMEHINA Bubblin' Memories POP DINER",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂2丁目29-1 SHIBUYA109渋谷店8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-19"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://panora.tokyo/archives/158258"
+  ],
+  "summary": "バーチャルユニット「HIMEHINA」のワールドツアーをテーマにしたコラボカフェ。ツアーで巡った都市にちなんだご当地メニューやオリジナルグッズを展開。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ぬんぬんベーカリーカフェ（「可愛い嘘のカワウソ」コラボ）",
+  "area": "お台場",
+  "address": "東京都港区台場1-7-1 アクアシティお台場5F R.O.STAR Seaside Terrace",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-09"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://collabo-cafe.com/events/collabo/kawa-ii-uso-cafe-ro-star-odaiba-2026/"
+  ],
+  "summary": "キャラクター「可愛い嘘のカワウソ」とのコラボカフェ。カワウソモチーフの限定フード・デザート・ドリンクとノベルティを展開。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "カプコンカフェ池袋店「逆転裁判」シリーズ25周年コラボ",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1丁目30番3号 グランドスケープ池袋 3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-09",
+   "end": "2026-11-27"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.appbank.net/2026/09/20/casual-food/3109555.php"
+  ],
+  "summary": "ゲーム『逆転裁判』シリーズ25周年を記念したコラボが常設のカプコンカフェ池袋店で開催。限定グッズ・コラボメニューを展開。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Fallout Collaboration Cafe in TOWER RECORDS CAFE 表参道店",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前6-3-9 井門原宿ビル2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-22",
+   "end": "2026-11-08"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://game.watch.impress.co.jp/docs/news/2142727.html"
+  ],
+  "summary": "ゲーム『Fallout』とTOWER RECORDS CAFEのコラボカフェ。作中に登場するフードをアレンジしたメニューやポスタービジュアルを使った特典を展開。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "刀猫Cafe 第六弾（コラボカフェ本舗 秋葉原店）",
+  "area": "秋葉原",
+  "address": "東京都千代田区外神田4-3-10 シャトンビル2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-23",
+   "end": "2026-11-15"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://collabo-cafe.com/events/collabo/toukenranbu-tounyan-cafe-collabo-cafe-honpo-vol6-2026/"
+  ],
+  "summary": "『刀剣乱舞ONLINE』の「刀猫男士」とコラボカフェ本舗のコラボカフェ第六弾。秋葉原店にて開催。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "BanG Dream! Our Notes × SWEETS PARADISE 新宿東口店",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-26-6 新宿FFビルB1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-02",
+   "end": "2026-11-29"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sweets-paradise.jp/collaboration/ournotes"
+  ],
+  "summary": "リズムゲーム『BanG Dream! Our Notes』とスイーツパラダイスのコラボカフェ。新宿東口店ほか全国店舗で開催。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Choko Yaba Café Stand in MZYB FAIR 2026（アニメイトカフェスタンド池袋4号店）",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1丁目23-5 オトメイトビル1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-12",
+   "end": "2026-12-06"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://collabo-cafe.com/en/events/category/cafe/"
+  ],
+  "summary": "「Chokotto Yabasity」とアニメイトカフェのコラボスタンド。アニメイトカフェスタンド池袋4号店にて開催。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "THE CITY BAKERY Ave.Takanawa",
+  "area": "高輪・品川",
+  "address": "東京都港区高輪3丁目25-29 Ave.Takanawa 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000265.000044858.html"
+  ],
+  "summary": "NY発祥のベーカリー「THE CITY BAKERY」が品川駅高輪口の新複合施設Ave.Takanawa 1Fにオープン。約100席、奥にはレンタルスペース「THE LOFT at CB」を併設。",
+  "collected_at": "2026-10-01",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Tokyo Chocolate Salon 2026",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内2-7-3 丸の内東京ビルTOKIA",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-03",
+   "end": "2026-10-04"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000190607.html"
+  ],
+  "summary": "国内外約44のチョコレートブランドが集まる有料入場制のチョコレート・カカオ体験イベント。試食・限定商品販売・ワークショップなどを展開。",
+  "collected_at": "2026-10-01",
+  "id": ""
  }
 ]
