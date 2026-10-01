@@ -2690,7 +2690,8 @@
     "https://news.denfaminicogamer.jp/news/2609033h",
     "https://gourmetpress.net/1477448/",
     "https://www.cinemacafe.net/article/2026/09/06/112363.html",
-    "https://animeanime.jp/article/2026/09/06/102724.html"
+    "https://animeanime.jp/article/2026/09/06/102724.html",
+    "https://prtimes.jp/main/html/rd/p/000000327.000086964.html"
    ],
    "summary": "ディズニーヴィランズをテーマにしたハロウィン期テーマカフェ。表参道ヒルズ本館地下3階で2026年9月17日〜10月22日開催。",
    "collected_at": "2026-09-04",
@@ -3087,10 +3088,11 @@
     "https://animeanime.jp/article/2026/09/08/102773.html",
     "https://prtimes.jp/main/html/rd/p/000000322.000086964.html",
     "https://www.fashion-press.net/news/150832",
-    "https://travel.mdpr.jp/travel/detail/4841153"
+    "https://travel.mdpr.jp/travel/detail/4841153",
+    "https://prtimes.jp/main/html/rd/p/000000101.000086964.html"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-09-27",
+   "collected_at": "2026-10-01",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -3113,7 +3115,8 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000458.000036259.html"
+    "https://prtimes.jp/main/html/rd/p/000000458.000036259.html",
+    "https://collabo-cafe.com/events/collabo/kawa-ii-uso-cafe-ro-star-odaiba-2026/"
    ],
    "summary": "キャラクター「可愛い嘘のカワウソ」とR.O.STAR Seaside Terraceのコラボカフェ。ワカメを入れすぎたうどんなどキャラクターをイメージしたフードを期間限定で提供。",
    "collected_at": "2026-09-09",
@@ -3947,10 +3950,11 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000002148.000025606.html",
-    "https://www.inside-games.jp/article/2026/09/28/188379.html"
+    "https://www.inside-games.jp/article/2026/09/28/188379.html",
+    "https://animeanime.jp/release/prtimes/20260928/315537.html"
    ],
    "summary": "東京ソラマチ イーストヤード1階「空の小町」で「ちいかわ」×「東京ばな奈」のポップアップショップが開催。初登場のエコバッグやコラボスイーツ（バナナプリンケーキ等）を販売。",
-   "collected_at": "2026-09-29",
+   "collected_at": "2026-10-01",
    "id": "a1356e7d9091",
    "is_new": false,
    "freshness": null
@@ -3978,6 +3982,105 @@
    "id": "2e355e36c6e6",
    "is_new": true,
    "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "ナイキスキムス カフェ（NikeSKIMS CAFE）",
+   "area": "原宿",
+   "address": "東京都渋谷区神宮前5-11-1",
+   "lat": 35.667152,
+   "lng": 139.706543,
+   "period": {
+    "start": "2026-10-01",
+    "end": "2026-10-12"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.fashionsnap.com/article/2026-09-30/nikeskims-popup/"
+   ],
+   "summary": "ナイキとSKIMSのコラボレーションを記念し、原宿のStandbyに期間限定カフェがオープン。和菓子と日本茶をベースにしたドリンクを提供する。",
+   "collected_at": "2026-10-01",
+   "id": "8bbde94db166",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "僕のヒーローアカデミアカフェ WE ARE HERO HOLICS（東京会場）",
+   "area": "原宿",
+   "address": "東京都渋谷区神宮前6丁目28番6号",
+   "lat": 35.666981,
+   "lng": 139.704132,
+   "period": {
+    "start": "2026-10-16",
+    "end": "2026-12-20"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.zaikei.co.jp/releases/3635493/"
+   ],
+   "summary": "アニメ『僕のヒーローアカデミア』のコラボカフェが原宿のBOX cafe&spaceキュープラザ原宿3Fで開催。デクや爆豪をイメージしたメニューやオリジナルグッズを展開。",
+   "collected_at": "2026-10-01",
+   "id": "0789473f4de5",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "UCCカプセル珈琲店",
+   "area": "六本木",
+   "address": "東京都港区赤坂9-7-1",
+   "lat": 35.666023,
+   "lng": 139.732208,
+   "period": {
+    "start": "2026-10-10",
+    "end": "2026-10-13"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.ucc.co.jp/company/news/2026/rel260929.html"
+   ],
+   "summary": "UCCとタカラトミーアーツのコラボで、巨大ガチャでコーヒーとお菓子のマリアージュが選べる無料イベント。東京ミッドタウン キャノピー・スクエアにて開催。",
+   "collected_at": "2026-10-01",
+   "id": "cc62563207d6",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "ホノルル・クッキー・カンパニー ポップアップストア（大丸東京店）",
+   "area": "東京駅・丸の内",
+   "address": "東京都千代田区丸の内1-9-1",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-09-30",
+    "end": "2026-10-13"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://news.yahoo.co.jp/articles/c43d986f513768b241cd09adc7b415c3a77f0197"
+   ],
+   "summary": "ハワイ発のパイナップル型クッキーブランドが大丸東京店1階でポップアップストアを開催。パンプキンなど秋限定商品を展開。",
+   "collected_at": "2026-10-01",
+   "id": "b8db10bd7f3b",
+   "is_new": false,
+   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -4495,7 +4598,8 @@
    "confidence": "official",
    "sources": [
     "https://tower.jp/article/news/2026/09/24/c101",
-    "https://prtimes.jp/main/html/rd/p/000000343.000092133.html"
+    "https://prtimes.jp/main/html/rd/p/000000343.000092133.html",
+    "https://game.watch.impress.co.jp/docs/news/2142727.html"
    ],
    "summary": "RPG『Fallout』とTOWER RECORDS CAFEのコラボカフェが表参道店で開催。作中フード・スイーツ・ドリンクをアレンジしたコラボメニューやカフェ先行発売グッズを展開。前期10/22〜10/30、後期10/31〜11/8。",
    "collected_at": "2026-09-28",
@@ -4577,6 +4681,180 @@
    "summary": "フランス・フォンテーヌブロー発の老舗パティスリー「フレデリック・カッセル」のポップアップショップ。伊勢丹新宿店本館地下1階で「ミルフイユ・ヴァニーユ」等の焼き菓子・スイーツを販売。",
    "collected_at": "2026-09-29",
    "id": "feb586fb3dd2",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "HIMEHINA Bubblin' Memories POP DINER",
+   "area": "渋谷",
+   "address": "東京都渋谷区道玄坂2丁目29-1 SHIBUYA109渋谷店8F",
+   "lat": 35.659466,
+   "lng": 139.698898,
+   "period": {
+    "start": "2026-10-01",
+    "end": "2026-10-19"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://panora.tokyo/archives/158258"
+   ],
+   "summary": "バーチャルユニット「HIMEHINA」のワールドツアーをテーマにしたコラボカフェ。ツアーで巡った都市にちなんだご当地メニューやオリジナルグッズを展開。",
+   "collected_at": "2026-10-01",
+   "id": "e6e28f30454a",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "カプコンカフェ池袋店「逆転裁判」シリーズ25周年コラボ",
+   "area": "池袋",
+   "address": "東京都豊島区東池袋1丁目30番3号 グランドスケープ池袋 3F",
+   "lat": 35.730762,
+   "lng": 139.716202,
+   "period": {
+    "start": "2026-10-09",
+    "end": "2026-11-27"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.appbank.net/2026/09/20/casual-food/3109555.php"
+   ],
+   "summary": "ゲーム『逆転裁判』シリーズ25周年を記念したコラボが常設のカプコンカフェ池袋店で開催。限定グッズ・コラボメニューを展開。",
+   "collected_at": "2026-10-01",
+   "id": "8d7bd7b83d25",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "刀猫Cafe 第六弾（コラボカフェ本舗 秋葉原店）",
+   "area": "秋葉原",
+   "address": "東京都千代田区外神田4-3-10 シャトンビル2F",
+   "lat": 35.700531,
+   "lng": 139.772095,
+   "period": {
+    "start": "2026-10-23",
+    "end": "2026-11-15"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://collabo-cafe.com/events/collabo/toukenranbu-tounyan-cafe-collabo-cafe-honpo-vol6-2026/"
+   ],
+   "summary": "『刀剣乱舞ONLINE』の「刀猫男士」とコラボカフェ本舗のコラボカフェ第六弾。秋葉原店にて開催。",
+   "collected_at": "2026-10-01",
+   "id": "4fd97d50d403",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "BanG Dream! Our Notes × SWEETS PARADISE 新宿東口店",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3-26-6 新宿FFビルB1F",
+   "lat": 35.691593,
+   "lng": 139.701706,
+   "period": {
+    "start": "2026-11-02",
+    "end": "2026-11-29"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.sweets-paradise.jp/collaboration/ournotes"
+   ],
+   "summary": "リズムゲーム『BanG Dream! Our Notes』とスイーツパラダイスのコラボカフェ。新宿東口店ほか全国店舗で開催。",
+   "collected_at": "2026-10-01",
+   "id": "582cf48a397a",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "Choko Yaba Café Stand in MZYB FAIR 2026（アニメイトカフェスタンド池袋4号店）",
+   "area": "池袋",
+   "address": "東京都豊島区東池袋1丁目23-5 オトメイトビル1F",
+   "lat": 35.729126,
+   "lng": 139.715439,
+   "period": {
+    "start": "2026-11-12",
+    "end": "2026-12-06"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://collabo-cafe.com/en/events/category/cafe/"
+   ],
+   "summary": "「Chokotto Yabasity」とアニメイトカフェのコラボスタンド。アニメイトカフェスタンド池袋4号店にて開催。",
+   "collected_at": "2026-10-01",
+   "id": "dec0fcfa2de4",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "ベーカリー",
+    "カフェ"
+   ],
+   "name": "THE CITY BAKERY Ave.Takanawa",
+   "area": "高輪・品川",
+   "address": "東京都港区高輪3丁目25-29 Ave.Takanawa 1F",
+   "lat": 35.631149,
+   "lng": 139.7379,
+   "period": {
+    "start": "2026-10-01",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000265.000044858.html"
+   ],
+   "summary": "NY発祥のベーカリー「THE CITY BAKERY」が品川駅高輪口の新複合施設Ave.Takanawa 1Fにオープン。約100席、奥にはレンタルスペース「THE LOFT at CB」を併設。",
+   "collected_at": "2026-10-01",
+   "id": "701dd3ceb143",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "Tokyo Chocolate Salon 2026",
+   "area": "丸の内",
+   "address": "東京都千代田区丸の内2-7-3 丸の内東京ビルTOKIA",
+   "lat": 35.679085,
+   "lng": 139.764679,
+   "period": {
+    "start": "2026-10-03",
+    "end": "2026-10-04"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000005.000190607.html"
+   ],
+   "summary": "国内外約44のチョコレートブランドが集まる有料入場制のチョコレート・カカオ体験イベント。試食・限定商品販売・ワークショップなどを展開。",
+   "collected_at": "2026-10-01",
+   "id": "c701421acc30",
    "is_new": false,
    "freshness": null
   }
