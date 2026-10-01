@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01",
+ "updated_at": "2026-10-02",
  "items": [
   {
    "type": "new_cafe",
@@ -526,7 +526,7 @@
    "collected_at": "2026-08-22",
    "id": "22984c43c640",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -1219,31 +1219,6 @@
    "summary": "NY発祥のベーカリー「THE CITY BAKERY」がエリア最大規模となる145坪の店舗を銀座インズ2にオープンし、東京初となるバー＆グリルを併設した。",
    "collected_at": "2026-08-22",
    "id": "42eea6c82b22",
-   "is_new": false,
-   "freshness": 365
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "チガヤベーカリー（chigaya）蔵前店",
-   "area": "蔵前",
-   "address": "東京都台東区蔵前4丁目29-3",
-   "lat": 35.705116,
-   "lng": 139.789459,
-   "period": {
-    "start": "2025-10-01",
-    "end": null
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.chiba-tv.com/plus/detail/202511922390",
-    "https://city.living.jp/citymate/citymate353/mate_going_out/1629577/"
-   ],
-   "summary": "蔵前の人気パン屋「チガヤベーカリー」が2025年10月に移転オープン。新商品のリボンドーナツが登場し、従来の看板商品クリームドーナツも引き続き販売する。",
-   "collected_at": "2026-08-22",
-   "id": "625a338683e9",
    "is_new": false,
    "freshness": 365
   },
@@ -1971,8 +1946,8 @@
    "summary": "Fender Cafeの路面独立型2号店が下北沢にオープン。1940年代の伝説的スタジオモニター「RCA LC-1」などヴィンテージスピーカーとLINNの最新オーディオシステムを組み合わせた、音楽をテーマにしたカフェ。",
    "collected_at": "2026-08-24",
    "id": "55a9ac475638",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
@@ -2073,7 +2048,7 @@
    "collected_at": "2026-08-22",
    "id": "8801b4281c80",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "popup",
