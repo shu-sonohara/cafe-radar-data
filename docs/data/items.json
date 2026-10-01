@@ -3795,10 +3795,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://www.uec.ac.jp/news/newsrelease/2026/20260924_7949.html"
+    "https://www.uec.ac.jp/news/newsrelease/2026/20260924_7949.html",
+    "https://www.uec.ac.jp/news/newsrelease/2026/20260804_7860.html"
    ],
    "summary": "電気通信大学キャンパス内に学生限定のキャリア支援カフェ「知るカフェ」がオープン。C棟1階に約60席の交流スペースを整備し、学生は無料でドリンクを飲みながら社会人と交流できる。10月9日にオープニングセレモニー。",
-   "collected_at": "2026-09-25",
+   "collected_at": "2026-10-02",
    "id": "bab5a79edbdf",
    "is_new": true,
    "freshness": 30
@@ -3926,7 +3927,8 @@
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000002148.000025606.html",
     "https://www.inside-games.jp/article/2026/09/28/188379.html",
-    "https://animeanime.jp/release/prtimes/20260928/315537.html"
+    "https://animeanime.jp/release/prtimes/20260928/315537.html",
+    "https://news.livedoor.com/article/detail/32457102/"
    ],
    "summary": "東京ソラマチ イーストヤード1階「空の小町」で「ちいかわ」×「東京ばな奈」のポップアップショップが開催。初登場のエコバッグやコラボスイーツ（バナナプリンケーキ等）を販売。",
    "collected_at": "2026-10-01",
@@ -4000,7 +4002,9 @@
    },
    "confidence": "official",
    "sources": [
-    "https://www.zaikei.co.jp/releases/3635493/"
+    "https://www.zaikei.co.jp/releases/3635493/",
+    "https://dengekionline.com/article/202609/89487",
+    "https://collabo-cafe.com/events/collabo/heroaca-cafe-we-are-hero-holics-box-cafe-2026/"
    ],
    "summary": "アニメ『僕のヒーローアカデミア』のコラボカフェが原宿のBOX cafe&spaceキュープラザ原宿3Fで開催。デクや爆豪をイメージしたメニューやオリジナルグッズを展開。",
    "collected_at": "2026-10-01",
@@ -4056,6 +4060,56 @@
    "id": "b8db10bd7f3b",
    "is_new": false,
    "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "平成ファンシーカフェ",
+   "area": "渋谷",
+   "address": "東京都渋谷区道玄坂2-29-1 SHIBUYA109渋谷 地下2階（BOX cafe&space SHIBUYA109渋谷店）",
+   "lat": 35.659466,
+   "lng": 139.698898,
+   "period": {
+    "start": "2026-10-22",
+    "end": "2026-12-06"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.zaikei.co.jp/releases/3641783/",
+    "https://koubo.jp/press-release/prtimes/c78611_r276"
+   ],
+   "summary": "カミオジャパンの「ぷくぷくあわわちゃん」「ハッピーマーチ」「ハムハムカフェ」「ぷわぷわパンちゃん」とクラックスの「フワフワらびちゃん」が集結する平成キャラクターコラボカフェ。SHIBUYA109渋谷のBOX cafe&spaceで期間限定開催。予約受付は10月1日18時開始。",
+   "collected_at": "2026-10-02",
+   "id": "714e128eb578",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "しろふわランドリー 洗足池店",
+   "area": "洗足池",
+   "address": "東京都大田区南千束1丁目34-6 ARK21洗足池reserve 1階",
+   "lat": 35.60046,
+   "lng": 139.692184,
+   "period": {
+    "start": "2026-10-02",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000026.000175348.html"
+   ],
+   "summary": "コインランドリー併設のセルフ式カフェ「しろふわランドリー」の7号店、大田区初出店となる洗足池店が10月2日オープン。洗足池駅徒歩1分。洗濯利用なしでカフェだけの利用も可能で、洗足池公園近くを活かしたテイクアウトメニューも展開。",
+   "collected_at": "2026-10-02",
+   "id": "204c467ee4dd",
+   "is_new": true,
+   "freshness": 30
   },
   {
    "type": "new_cafe",
@@ -4674,12 +4728,13 @@
     "start": "2026-10-01",
     "end": "2026-10-19"
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
-    "https://panora.tokyo/archives/158258"
+    "https://panora.tokyo/archives/158258",
+    "https://prtimes.jp/main/html/rd/p/000000696.000044525.html"
    ],
    "summary": "バーチャルユニット「HIMEHINA」のワールドツアーをテーマにしたコラボカフェ。ツアーで巡った都市にちなんだご当地メニューやオリジナルグッズを展開。",
-   "collected_at": "2026-10-01",
+   "collected_at": "2026-10-02",
    "id": "e6e28f30454a",
    "is_new": false,
    "freshness": null
@@ -4828,7 +4883,7 @@
     "https://prtimes.jp/main/html/rd/p/000000005.000190607.html"
    ],
    "summary": "国内外約44のチョコレートブランドが集まる有料入場制のチョコレート・カカオ体験イベント。試食・限定商品販売・ワークショップなどを展開。",
-   "collected_at": "2026-10-01",
+   "collected_at": "2026-10-02",
    "id": "c701421acc30",
    "is_new": false,
    "freshness": null
