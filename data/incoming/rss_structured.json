@@ -6041,5 +6041,98 @@
   "summary": "メリーチョコレートの新ブランド「東京喫茶メリー」がグランスタ東京地下1階にオープン。レトロ喫茶をイメージしたクリームソーダチョコやプリンミルフィーユなどを展開。",
   "collected_at": "2026-10-01",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "平成ファンシーカフェ",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂2-29-1 SHIBUYA109渋谷 地下2階（BOX cafe&space SHIBUYA109渋谷店）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-22",
+   "end": "2026-12-06"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.zaikei.co.jp/releases/3641783/",
+   "https://koubo.jp/press-release/prtimes/c78611_r276"
+  ],
+  "summary": "カミオジャパンの「ぷくぷくあわわちゃん」「ハッピーマーチ」「ハムハムカフェ」「ぷわぷわパンちゃん」とクラックスの「フワフワらびちゃん」が集結する平成キャラクターコラボカフェ。SHIBUYA109渋谷のBOX cafe&spaceで期間限定開催。予約受付は10月1日18時開始。",
+  "collected_at": "2026-10-02",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "しろふわランドリー 洗足池店",
+  "area": "洗足池",
+  "address": "東京都大田区南千束1丁目34-6 ARK21洗足池reserve 1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000026.000175348.html"
+  ],
+  "summary": "コインランドリー併設のセルフ式カフェ「しろふわランドリー」の7号店、大田区初出店となる洗足池店が10月2日オープン。洗足池駅徒歩1分。洗濯利用なしでカフェだけの利用も可能で、洗足池公園近くを活かしたテイクアウトメニューも展開。",
+  "collected_at": "2026-10-02",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "東京ばな奈×ちいかわ ポップアップショップ",
+  "area": "押上",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ イーストヤード1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-14"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.inside-games.jp/article/2026/09/28/188379.html",
+   "https://news.livedoor.com/article/detail/32457102/"
+  ],
+  "summary": "「ちいかわ」と「東京ばな奈」のコラボポップアップショップが東京ソラマチ イーストヤードで10月1日〜14日開催。初登場のエコバッグに加え、クッキーサンドやバナナプリンケーキなどスイーツ商品を販売。",
+  "collected_at": "2026-10-02",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "知るカフェ電気通信大学店",
+  "area": "調布",
+  "address": "東京都調布市調布ケ丘1丁目5番地1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-09",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.uec.ac.jp/news/newsrelease/2026/20260924_7949.html",
+   "https://www.uec.ac.jp/news/newsrelease/2026/20260804_7860.html"
+  ],
+  "summary": "電気通信大学キャンパス内C棟1階に学生向け交流カフェ「知るカフェ電気通信大学店」が10月9日オープン。約60席の交流スペースで学生が企業人と無料ドリンクを飲みながら交流できる、学生限定のキャリア支援カフェ。",
+  "collected_at": "2026-10-02",
+  "id": ""
  }
 ]

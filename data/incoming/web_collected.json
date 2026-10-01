@@ -4450,5 +4450,97 @@
   "summary": "国内外約44のチョコレートブランドが集まる有料入場制のチョコレート・カカオ体験イベント。試食・限定商品販売・ワークショップなどを展開。",
   "collected_at": "2026-10-01",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "HIMEHINA Bubblin' Memories POP DINER",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂2-29-1 SHIBUYA109渋谷 8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-19"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000696.000044525.html"
+  ],
+  "summary": "VTuberユニット「HIMEHINA」のコラボカフェがSHIBUYA109渋谷8階で期間限定開催。各都市モチーフのバーガーやソース焼きそば、パイナップルパンケーキなどの食事メニューとドリンクを提供。",
+  "collected_at": "2026-10-02",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "僕のヒーローアカデミアカフェ ―WE ARE HERO HOLICS―",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6丁目28番6号 キュープラザ原宿3F（BOX cafe&space キュープラザ原宿店）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-12-20"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://dengekionline.com/article/202609/89487",
+   "https://collabo-cafe.com/events/collabo/heroaca-cafe-we-are-hero-holics-box-cafe-2026/"
+  ],
+  "summary": "「僕のヒーローアカデミア」のコラボカフェが東京・原宿のBOX cafe&spaceキュープラザ原宿店で10月16日〜12月20日開催。デクや爆豪らをイメージしたピザやドリンク、オリジナルグッズを展開。大阪・愛知・北海道でも同時開催。",
+  "collected_at": "2026-10-02",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "BanG Dream! Our Notes × SWEETS PARADISE",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-26-6 新宿FFビルB1F（スイーツパラダイス新宿東口店）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-02",
+   "end": "2026-11-29"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sweets-paradise.jp/collaboration/ournotes"
+  ],
+  "summary": "「BanG Dream! Our Notes（バンドリ！アワーノーツ）」とスイーツパラダイスのコラボが新宿東口店で11月2日〜29日開催。スイーツテーマの描き下ろしイラストや限定メニュー・ノベルティを展開する食べ放題バイキング形式。",
+  "collected_at": "2026-10-02",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Tokyo Chocolate Salon 2026",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内2-7-3 丸の内東京ビル（TOKIA）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-03",
+   "end": "2026-10-04"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000005.000190607.html"
+  ],
+  "summary": "国内外のチョコレートブランド44社が集まるチョコレート専門イベントが丸の内TOKIAで10月3〜4日開催。試食・購入が可能で、10ブランドが新規出店。入場券は事前1,320円・当日1,650円。",
+  "collected_at": "2026-10-02",
+  "id": ""
  }
 ]
