@@ -7,7 +7,9 @@
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9ic2tid3B1ektTRmRUYjgxWUUyQ1YyMEJVWGJPekhGbnpSUEp5MXFOcGdQdWFjRGt1Yk4tLWZRVGlLNWZ3UmdJRjJtUmVfeHVHeDFVd1FzSmdkaVRtWWpZTXVzdl9MdVNCZEFv?oc=5\" target=\"_blank\">かわいいピンクの世界につつまれて特別なカフェタイムを☆「メルちゃん コラボレーションカフェ」東京（吉祥寺）・神奈川（川崎）で期間限定オープン！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
   "seen_at": "2026-10-02",
   "published_date": "2026-10-02",
-  "also_urls": []
+  "also_urls": [
+   "https://news.google.com/rss/articles/CBMiakFVX3lxTE54YVhIMWE0MmNIZ2tRLW4yaUEzWVQ3M0hlQjByNXRkZUswTTFCQVVycnZUNGdDTU96UC1QYlNyU0FMMThYMDlMdVJ5aURCQWlOMW5EZElLQm03SV9VZnRtQl91dk05QjBuWnc?oc=5"
+  ]
  },
  {
   "source": "gnews:東京 期間限定 カフェ",
@@ -17,7 +19,10 @@
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9HSFdlYnRWTGxvSko0ekwxdUtrem9iWi1LWWkxX2Vual84OGk5eXh2S3RKLXRGQWhwVko1T2dhWloxejBMRElneEpHSURKVEcyRHgwb0FIUHNEOUh0UWpwOHZMTDRZX1B0V0E?oc=5\" target=\"_blank\">NARUMIYA HAPPY PARKの1周年を記念して最強にラブリーなテーマカフェの開催が決定♪「NARUMIYA CHARACTERS Lovely Stand」東京・大阪で期間限定オープン！！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
   "seen_at": "2026-10-02",
   "published_date": "2026-10-02",
-  "also_urls": []
+  "also_urls": [
+   "https://news.google.com/rss/articles/CBMiakFVX3lxTE01SjE4aUdqY2VUdVlBdUNmd0FLMXZYNlFpYURkUWFjNlI3UVZzdFRqRFZsQ3E1cElMYTNHSTJkcmR5UWhDQm1Ubm9WbXA1SFFYUmxPekxYcFdDNU1ONW5lR3Z6UXJDTWkyeWc?oc=5",
+   "https://news.google.com/rss/articles/CBMia0FVX3lxTE91dFRwblcyOThXTk55Z04wWldRNk9UMU1rYjdBekxrNFlTT1pfS045MUh5N01Ga2M4VnlUUjVVdEZFR0tHRW9XN283c2hWMVNDQzVsR2ttQ1ZBdWFoaThiVi16YVZxNmxuR3N3?oc=5"
+  ]
  },
  {
   "source": "gnews:東京 カフェ オープン",
@@ -78,5 +83,17 @@
   "seen_at": "2026-10-02",
   "published_date": null,
   "also_urls": []
+ },
+ {
+  "source": "prtimes_all",
+  "title": "【中央林間駅 徒歩1分】女性専門パーソナルピラティス COCOLANCE（ココランス）中央林間店が２０２６年１０月２８日にオープン",
+  "url": "https://prtimes.jp/main/html/rd/p/000000072.000127687.html",
+  "published": "",
+  "summary": "[株式会社EMILUS]\n[画像1: https://prcdn.freetls.fastly.net/release_image/127687/72/127687-72-c1459b6be938b22423ce955a73ebf89f-2048x1365.jpg?width=536&amp;quality=85%2C75&amp;format=jpeg&amp;auto=webp&amp;fit=bounds&...",
+  "seen_at": "2026-10-02",
+  "published_date": null,
+  "also_urls": [
+   "https://prtimes.jp/main/html/rd/p/000000071.000127687.html"
+  ]
  }
 ]
