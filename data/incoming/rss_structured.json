@@ -6134,5 +6134,188 @@
   "summary": "電気通信大学キャンパス内C棟1階に学生向け交流カフェ「知るカフェ電気通信大学店」が10月9日オープン。約60席の交流スペースで学生が企業人と無料ドリンクを飲みながら交流できる、学生限定のキャリア支援カフェ。",
   "collected_at": "2026-10-02",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "メルちゃん コラボレーションカフェ（kawara CAFE&KITCHEN 吉祥寺PARCO店）",
+  "area": "吉祥寺",
+  "address": "東京都武蔵野市吉祥寺本町1-5-1 吉祥寺PARCO 本館7F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-03",
+   "end": "2026-10-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000616.000023331.html"
+  ],
+  "summary": "人形「メルちゃん」とのコラボカフェが吉祥寺PARCO内kawara CAFE&KITCHENで期間限定オープン。ピンクを基調とした内装とコラボメニューを提供。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "NARUMIYA CHARACTERS Lovely Stand（BOX cafe&space ルミネエスト新宿）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-11-22"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000501.000066361.html"
+  ],
+  "summary": "ナルミヤキャラクターズのテーマカフェ。NARUMIYA HAPPY PARK 1周年記念で、キャラクターモチーフのフード・デザート・テイクアウトメニューを展開。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "キル フェ ボン新宿",
+  "area": "新宿",
+  "address": "東京都新宿区西新宿一丁目9番1号 明治安田新宿ビル1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+  ],
+  "summary": "タルト専門店キル フェ ボンのカフェ併設大型店が新宿駅西口にオープン。銀座旗艦店に並ぶ広さで店舗限定タルトも販売。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "東京喫茶メリー（グランスタ東京店）",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅 地下1階 グランスタ東京（改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000083.000166726.html"
+  ],
+  "summary": "メリーチョコレートカムパニーの新ブランド。レトロな純喫茶をイメージしたクリームソーダ・プリン等のスイーツを東京駅グランスタ内で販売。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "Holland Village Cafe&Bar Asakusa",
+  "area": "浅草",
+  "address": "東京都台東区雷門2-1-8 雷門信興ビル3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000083.000108253.html"
+  ],
+  "summary": "オーガニック・無添加食材中心のカフェ「Holland Village Private Cafe」が浅草に出店。尾道・福岡・京都に続く展開で、17時〜23時営業。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "ちいかわ×東京ばな奈 ポップアップショップ（東京ソラマチ）",
+  "area": "押上",
+  "address": "東京都墨田区押上1丁目1-2 東京スカイツリータウン・ソラマチ イーストヤード1F 10番地「空の小町」",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-14"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://animeanime.jp/release/prtimes/20260928/315537.html"
+  ],
+  "summary": "「ちいかわ」と「東京ばな奈」のコラボポップアップ。初登場のエコバッグやクッキーサンド・バナナプリンケーキなどのスイーツを販売。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「ディズニー ツイステッドワンダーランド」OH MY CAFE 表参道",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ 本館地下3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-24",
+   "end": "2026-11-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.disney.co.jp/shopping/cafenews/20251113_01"
+  ],
+  "summary": "アニメ『ディズニー ツイステッドワンダーランド』のコラボカフェ。各寮イメージのメニューや限定グッズを展開する期間限定カフェ。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "SAKImoto bakery and more 葛西店",
+  "area": "葛西",
+  "address": "東京都江戸川区南葛西3丁目23-1 ファミリースポーツ広場201棟",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://edogawa.keizai.biz/headline/417",
+   "https://foods-ch.infomart.co.jp/news/333780"
+  ],
+  "summary": "大阪発ベーカリーカフェ「SAKImoto bakery and more」が関東・東京初出店。総合レクリエーション公園（南葛西公園）内にオープンし、ランチ・カフェメニューも提供。",
+  "collected_at": "2026-10-03",
+  "id": ""
  }
 ]

@@ -4542,5 +4542,209 @@
   "summary": "国内外のチョコレートブランド44社が集まるチョコレート専門イベントが丸の内TOKIAで10月3〜4日開催。試食・購入が可能で、10ブランドが新規出店。入場券は事前1,320円・当日1,650円。",
   "collected_at": "2026-10-02",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "僕のヒーローアカデミアカフェ -WE ARE HERO HOLICS-（BOX cafe&space キュープラザ原宿店）",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6丁目28番6号 キュープラザ原宿3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-12-20"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000329.000086964.html"
+  ],
+  "summary": "アニメ『僕のヒーローアカデミア』のテーマカフェが原宿で期間限定開催。デクや爆豪ら各キャラクターをイメージしたフード・ドリンク・グッズを展開。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "HIMEHINA Bubblin' Memories POP DINER（SHIBUYA109渋谷店）",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂2丁目29-1 SHIBUYA109渋谷店8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-19"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.zaikei.co.jp/releases/3635477/"
+  ],
+  "summary": "VTuberユニット「HIMEHINA」のコラボカフェ。ワールドツアーで巡った各都市にちなんだご当地メニューやオリジナルグッズを展開。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "刀剣乱舞 刀猫Cafe 第六弾（コラボカフェ本舗 秋葉原店）",
+  "area": "秋葉原",
+  "address": "東京都千代田区外神田4丁目3-10 シャトンビル2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-23",
+   "end": "2026-11-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://collabocafe-honpo.co.jp/event/tounyancafe2610/"
+  ],
+  "summary": "「刀剣乱舞ONLINE」の猫になった刀剣男士たちとのコラボカフェ第六弾。秋葉原店にて前半・後半でメニュー入れ替えあり。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "秋のほっぺタウン祭（大丸東京店）",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1丁目9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-04",
+   "end": "2026-10-24"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.daimaru.co.jp/tokyo/tanjosai/foods_sweets.html"
+  ],
+  "summary": "大丸東京店の誕生祭に合わせ、地階「食品ほっぺタウン」で約70の菓子ブランドが集結。限定品・新作など希少スイーツ約60種を販売。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "秋の収穫祭 栗と芋スイーツ（西武池袋本店）",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1丁目28-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000002514.000031382.html"
+  ],
+  "summary": "西武池袋本店 地下1階デパチカ スイーツ&ギフトで、栗のモンブランや新栗の栗あんを使った水栗羊羹など秋の和洋スイーツを紹介。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "栗に溺れる7日間（伊勢丹新宿店 フードコレクション）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3丁目14-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-07",
+   "end": "2026-10-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000016.000090457.html"
+  ],
+  "summary": "伊勢丹新宿店本館地下1階フードコレコレクションで複数ブランドが参加する栗スイーツ催事。和栗生産者の課題に光を当てる企画で、菓匠風月が初出店。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "『TVアニメMAO』コラボカフェ at 洒落CAFE théâtre 有楽町マルイ店",
+  "area": "有楽町",
+  "address": "東京都千代田区有楽町2丁目7-1 有楽町マルイ8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-03",
+   "end": "2026-11-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000352.000048489.html"
+  ],
+  "summary": "TVアニメ『MAO』のコラボカフェ。新規描き起こしイラストを使用したグッズとコラボメニューを展開。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "『Toxic-a-Holic』コラボカフェ in eeo Cafe 池袋",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1丁目9-21 JK7 1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-07",
+   "end": "2026-11-19"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001229.000012048.html"
+  ],
+  "summary": "『Toxic-a-Holic』のコラボカフェ。カフェ店員衣装の描き下ろしイラストやメイド・執事衣装のグッズとともに、全8種のフード＆ドリンクメニューを提供。",
+  "collected_at": "2026-10-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "BanG Dream! Our Notes（バンドリ！アワーノーツ）コラボカフェ（スイーツパラダイス新宿東口店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3丁目26-6 新宿FFビル B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-02",
+   "end": "2026-11-29"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.sweets-paradise.jp/collaboration/ournotes"
+  ],
+  "summary": "『BanG Dream! Our Notes』とスイーツパラダイスのコラボカフェ。新宿東口店を含む全国の対象店舗で開催。",
+  "collected_at": "2026-10-03",
+  "id": ""
  }
 ]
