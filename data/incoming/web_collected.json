@@ -4746,5 +4746,119 @@
   "summary": "『BanG Dream! Our Notes』とスイーツパラダイスのコラボカフェ。新宿東口店を含む全国の対象店舗で開催。",
   "collected_at": "2026-10-03",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "BAKERIES LAB. 京成高砂店",
+  "area": "高砂",
+  "address": "東京都葛飾区高砂5丁目27-17",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-03",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001068.000005340.html",
+   "https://www.zaikei.co.jp/releases/3643713/"
+  ],
+  "summary": "京成本線「京成高砂」駅徒歩1分に「BAKERIES LAB.」の累計32店舗目が10月3日グランドオープン。",
+  "collected_at": "2026-10-04",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "SAKImoto bakery and more 葛西店",
+  "area": "南葛西",
+  "address": "東京都江戸川区南葛西3丁目23-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000035.000125380.html"
+  ],
+  "summary": "大阪発「SAKImoto bakery and more」が関東・東京に初出店。総合レクリエーション公園内に10月2日オープン、ベーカリーに加えランチ・カフェメニューも提供。",
+  "collected_at": "2026-10-04",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "栗に溺れる7日間（伊勢丹新宿店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3丁目14-1 伊勢丹新宿店 本館地下1階 フードコレクション",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-07",
+   "end": "2026-10-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000016.000090457.html"
+  ],
+  "summary": "伊勢丹新宿店フードコレクションで和栗をテーマにした催事。和栗や・パティスリーSATSUKI・菓匠風月など全国の和栗スイーツ・パン・おこわが集結。",
+  "collected_at": "2026-10-04",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "芋栗スイーツまつり（グランスタ東京・グランスタ丸の内）",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1丁目9-1 JR東京駅 グランスタ東京・グランスタ丸の内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001226.000082978.html"
+  ],
+  "summary": "東京駅グランスタ東京・グランスタ丸の内で初開催の秋スイーツ催事。芋・栗を使ったケーキやパンなど全20品（うち19品が限定）が登場。",
+  "collected_at": "2026-10-04",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ラブライブ！シリーズ×GiGOコラボカフェ秋葉原3号館（10周年記念）",
+  "area": "秋葉原",
+  "address": "東京都千代田区外神田1丁目11-11 外神田1丁目ビルディング 7F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-21",
+   "end": "2027-04-11"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.lovelive-anime.jp/news/01_6659.html",
+   "https://cafe.gge-collabo.com/"
+  ],
+  "summary": "GiGOコラボカフェ秋葉原3号館の10周年記念として「ラブライブ！」シリーズとのコラボカフェを開催。限定フード・ドリンク・グッズを展開。",
+  "collected_at": "2026-10-04",
+  "id": ""
  }
 ]

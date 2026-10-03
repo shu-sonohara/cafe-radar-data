@@ -6317,5 +6317,53 @@
   "summary": "大阪発ベーカリーカフェ「SAKImoto bakery and more」が関東・東京初出店。総合レクリエーション公園（南葛西公園）内にオープンし、ランチ・カフェメニューも提供。",
   "collected_at": "2026-10-03",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "三代目J SOUL BROTHERS コラボレーションカフェ（SHIBUYA TSUTAYA）",
+  "area": "渋谷",
+  "address": "東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA 7階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-14",
+   "end": "2026-11-10"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.ldh.co.jp/news/detail.php?lang=jpn&site=TRIBE&newsid=0000055632",
+   "https://shibuyatsutaya.tsite.jp/article/2640.html"
+  ],
+  "summary": "三代目J SOUL BROTHERSの15周年キュレーションアルバム『24/7〜JSB FOREVER〜』リリースを記念したコラボカフェ。JSB3をイメージしたフード＆ドリンク、限定グッズを展開。",
+  "collected_at": "2026-10-04",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "Drop Coffee Roasters 中野マルイ店",
+  "area": "中野",
+  "address": "東京都中野区中野3-34-28 中野マルイ 2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-18",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000004215.000003860.html",
+   "https://dropcoffee.jp/"
+  ],
+  "summary": "スウェーデン・ストックホルム発のスペシャルティコーヒーブランド「Drop Coffee Roasters」が日本初出店。中野マルイ2階に9月18日オープン、約13種のシングルオリジンコーヒーを提供。",
+  "collected_at": "2026-10-04",
+  "id": ""
  }
 ]
