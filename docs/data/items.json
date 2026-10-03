@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03",
+ "updated_at": "2026-10-04",
  "items": [
   {
    "type": "new_cafe",
@@ -3755,30 +3755,6 @@
    "id": "f28796973bba",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "SASHIMA FESTIVAL",
-   "area": "東京駅・丸の内",
-   "address": "東京都千代田区丸の内2-7-2 KITTE丸の内 B1F 東京シティアイ パフォーマンスゾーン",
-   "lat": 35.679085,
-   "lng": 139.764679,
-   "period": {
-    "start": "2026-10-02",
-    "end": "2026-10-03"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.zaikei.co.jp/releases/3628676/"
-   ],
-   "summary": "茨城県猿島地区（古河市・坂東市・五霞町・境町）の物産ポップアップイベント第5弾。八芳園パティシエ監修のイベント限定スイーツ4品を含む地域名産品を販売・試食提供。",
-   "collected_at": "2026-09-25",
-   "id": "ebdd585e46a7",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
