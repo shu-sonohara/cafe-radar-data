@@ -2666,7 +2666,8 @@
     "https://gourmetpress.net/1477448/",
     "https://www.cinemacafe.net/article/2026/09/06/112363.html",
     "https://animeanime.jp/article/2026/09/06/102724.html",
-    "https://prtimes.jp/main/html/rd/p/000000327.000086964.html"
+    "https://prtimes.jp/main/html/rd/p/000000327.000086964.html",
+    "https://www.disney.co.jp/shopping/cafenews/20251113_01"
    ],
    "summary": "ディズニーヴィランズをテーマにしたハロウィン期テーマカフェ。表参道ヒルズ本館地下3階で2026年9月17日〜10月22日開催。",
    "collected_at": "2026-09-04",
@@ -3849,7 +3850,8 @@
    "confidence": "official",
    "sources": [
     "https://www.zaikei.co.jp/releases/3630031/",
-    "https://dtimes.jp/post-1389066/"
+    "https://dtimes.jp/post-1389066/",
+    "https://prtimes.jp/main/html/rd/p/000000352.000048489.html"
    ],
    "summary": "「晴れ姿」が似合う劇場コンセプトのコラボカフェ新店舗「洒落CAFE théâtre」が10月30日、有楽町マルイ8階にグランドオープン。看板メニューはオープンサンド（Open SANDO）約13種。11月3日からはTVアニメ『MAO』とのコラボカフェイベントを開催予定。",
    "collected_at": "2026-09-26",
@@ -4003,11 +4005,12 @@
    "confidence": "official",
    "sources": [
     "https://www.zaikei.co.jp/releases/3635493/",
+    "https://prtimes.jp/main/html/rd/p/000000329.000086964.html",
     "https://dengekionline.com/article/202609/89487",
     "https://collabo-cafe.com/events/collabo/heroaca-cafe-we-are-hero-holics-box-cafe-2026/"
    ],
    "summary": "アニメ『僕のヒーローアカデミア』のコラボカフェが原宿のBOX cafe&spaceキュープラザ原宿3Fで開催。デクや爆豪をイメージしたメニューやオリジナルグッズを展開。",
-   "collected_at": "2026-10-01",
+   "collected_at": "2026-10-03",
    "id": "0789473f4de5",
    "is_new": false,
    "freshness": null
@@ -4108,6 +4111,131 @@
    "summary": "コインランドリー併設のセルフ式カフェ「しろふわランドリー」の7号店、大田区初出店となる洗足池店が10月2日オープン。洗足池駅徒歩1分。洗濯利用なしでカフェだけの利用も可能で、洗足池公園近くを活かしたテイクアウトメニューも展開。",
    "collected_at": "2026-10-02",
    "id": "204c467ee4dd",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "メルちゃん コラボレーションカフェ（kawara CAFE&KITCHEN 吉祥寺PARCO店）",
+   "area": "吉祥寺",
+   "address": "東京都武蔵野市吉祥寺本町1-5-1 吉祥寺PARCO 本館7F",
+   "lat": 35.70348,
+   "lng": 139.578171,
+   "period": {
+    "start": "2026-10-03",
+    "end": "2026-10-31"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000616.000023331.html"
+   ],
+   "summary": "人形「メルちゃん」とのコラボカフェが吉祥寺PARCO内kawara CAFE&KITCHENで期間限定オープン。ピンクを基調とした内装とコラボメニューを提供。",
+   "collected_at": "2026-10-03",
+   "id": "169ff2621e72",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "NARUMIYA CHARACTERS Lovely Stand（BOX cafe&space ルミネエスト新宿）",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+   "lat": 35.691784,
+   "lng": 139.700775,
+   "period": {
+    "start": "2026-10-16",
+    "end": "2026-11-22"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000501.000066361.html"
+   ],
+   "summary": "ナルミヤキャラクターズのテーマカフェ。NARUMIYA HAPPY PARK 1周年記念で、キャラクターモチーフのフード・デザート・テイクアウトメニューを展開。",
+   "collected_at": "2026-10-03",
+   "id": "55e626bcea16",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "スイーツ"
+   ],
+   "name": "キル フェ ボン新宿",
+   "area": "新宿",
+   "address": "東京都新宿区西新宿一丁目9番1号 明治安田新宿ビル1F",
+   "lat": 35.690872,
+   "lng": 139.698105,
+   "period": {
+    "start": "2026-11-28",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+   ],
+   "summary": "タルト専門店キル フェ ボンのカフェ併設大型店が新宿駅西口にオープン。銀座旗艦店に並ぶ広さで店舗限定タルトも販売。",
+   "collected_at": "2026-10-03",
+   "id": "166d6fd2b75b",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "Holland Village Cafe&Bar Asakusa",
+   "area": "浅草",
+   "address": "東京都台東区雷門2-1-8 雷門信興ビル3F",
+   "lat": 35.709568,
+   "lng": 139.797333,
+   "period": {
+    "start": "2026-10-01",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000083.000108253.html"
+   ],
+   "summary": "オーガニック・無添加食材中心のカフェ「Holland Village Private Cafe」が浅草に出店。尾道・福岡・京都に続く展開で、17時〜23時営業。",
+   "collected_at": "2026-10-03",
+   "id": "1640b8ce3227",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "ベーカリー",
+    "カフェ"
+   ],
+   "name": "SAKImoto bakery and more 葛西店",
+   "area": "葛西",
+   "address": "東京都江戸川区南葛西3丁目23-1 ファミリースポーツ広場201棟",
+   "lat": 35.650539,
+   "lng": 139.871368,
+   "period": {
+    "start": "2026-10-02",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://edogawa.keizai.biz/headline/417",
+    "https://foods-ch.infomart.co.jp/news/333780"
+   ],
+   "summary": "大阪発ベーカリーカフェ「SAKImoto bakery and more」が関東・東京初出店。総合レクリエーション公園（南葛西公園）内にオープンし、ランチ・カフェメニューも提供。",
+   "collected_at": "2026-10-03",
+   "id": "7790abf614f7",
    "is_new": true,
    "freshness": 30
   },
@@ -4294,7 +4422,7 @@
     "https://www.daimaru.co.jp/tokyo/tanjosai/foods_sweets.html"
    ],
    "summary": "大丸東京店の誕生祭企画。約70の菓子ブランドが集結し、限定品・新作など希少スイーツ約60種を販売。",
-   "collected_at": "2026-09-27",
+   "collected_at": "2026-10-03",
    "id": "9f97cea4a93e",
    "is_new": false,
    "freshness": null
@@ -4731,10 +4859,11 @@
    "confidence": "official",
    "sources": [
     "https://panora.tokyo/archives/158258",
-    "https://prtimes.jp/main/html/rd/p/000000696.000044525.html"
+    "https://prtimes.jp/main/html/rd/p/000000696.000044525.html",
+    "https://www.zaikei.co.jp/releases/3635477/"
    ],
    "summary": "バーチャルユニット「HIMEHINA」のワールドツアーをテーマにしたコラボカフェ。ツアーで巡った都市にちなんだご当地メニューやオリジナルグッズを展開。",
-   "collected_at": "2026-10-02",
+   "collected_at": "2026-10-03",
    "id": "e6e28f30454a",
    "is_new": false,
    "freshness": null
@@ -4779,9 +4908,10 @@
     "start": "2026-10-23",
     "end": "2026-11-15"
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
-    "https://collabo-cafe.com/events/collabo/toukenranbu-tounyan-cafe-collabo-cafe-honpo-vol6-2026/"
+    "https://collabo-cafe.com/events/collabo/toukenranbu-tounyan-cafe-collabo-cafe-honpo-vol6-2026/",
+    "https://collabocafe-honpo.co.jp/event/tounyancafe2610/"
    ],
    "summary": "『刀剣乱舞ONLINE』の「刀猫男士」とコラボカフェ本舗のコラボカフェ第六弾。秋葉原店にて開催。",
    "collected_at": "2026-10-01",
@@ -4885,6 +5015,79 @@
    "summary": "国内外約44のチョコレートブランドが集まる有料入場制のチョコレート・カカオ体験イベント。試食・限定商品販売・ワークショップなどを展開。",
    "collected_at": "2026-10-02",
    "id": "c701421acc30",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "秋の収穫祭 栗と芋スイーツ（西武池袋本店）",
+   "area": "池袋",
+   "address": "東京都豊島区南池袋1丁目28-1",
+   "lat": 35.727081,
+   "lng": 139.710495,
+   "period": {
+    "start": "2026-10-01",
+    "end": "2026-10-31"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000002514.000031382.html"
+   ],
+   "summary": "西武池袋本店 地下1階デパチカ スイーツ&ギフトで、栗のモンブランや新栗の栗あんを使った水栗羊羹など秋の和洋スイーツを紹介。",
+   "collected_at": "2026-10-03",
+   "id": "531d32fb1e11",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "栗に溺れる7日間（伊勢丹新宿店 フードコレクション）",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3丁目14-1",
+   "lat": 35.691074,
+   "lng": 139.704651,
+   "period": {
+    "start": "2026-10-07",
+    "end": "2026-10-13"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000016.000090457.html"
+   ],
+   "summary": "伊勢丹新宿店本館地下1階フードコレコレクションで複数ブランドが参加する栗スイーツ催事。和栗生産者の課題に光を当てる企画で、菓匠風月が初出店。",
+   "collected_at": "2026-10-03",
+   "id": "c828f79d8b99",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "『Toxic-a-Holic』コラボカフェ in eeo Cafe 池袋",
+   "area": "池袋",
+   "address": "東京都豊島区南池袋1丁目9-21 JK7 1階",
+   "lat": 35.724644,
+   "lng": 139.710907,
+   "period": {
+    "start": "2026-11-07",
+    "end": "2026-11-19"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000001229.000012048.html"
+   ],
+   "summary": "『Toxic-a-Holic』のコラボカフェ。カフェ店員衣装の描き下ろしイラストやメイド・執事衣装のグッズとともに、全8種のフード＆ドリンクメニューを提供。",
+   "collected_at": "2026-10-03",
+   "id": "5c97a35af58d",
    "is_new": false,
    "freshness": null
   }
