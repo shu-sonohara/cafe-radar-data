@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04",
+ "updated_at": "2026-10-05",
  "items": [
   {
    "type": "new_cafe",
@@ -4358,7 +4358,7 @@
    "collected_at": "2026-09-04",
    "id": "61a6dc80814d",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -4406,7 +4406,7 @@
    "collected_at": "2026-09-07",
    "id": "e6fb6cb0de71",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "event",
@@ -4998,30 +4998,6 @@
    "id": "701dd3ceb143",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "Tokyo Chocolate Salon 2026",
-   "area": "丸の内",
-   "address": "東京都千代田区丸の内2-7-3 丸の内東京ビルTOKIA",
-   "lat": 35.679085,
-   "lng": 139.764679,
-   "period": {
-    "start": "2026-10-03",
-    "end": "2026-10-04"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000005.000190607.html"
-   ],
-   "summary": "国内外約44のチョコレートブランドが集まる有料入場制のチョコレート・カカオ体験イベント。試食・限定商品販売・ワークショップなどを展開。",
-   "collected_at": "2026-10-02",
-   "id": "c701421acc30",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "event",
