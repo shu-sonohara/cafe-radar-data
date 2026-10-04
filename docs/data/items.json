@@ -2224,7 +2224,9 @@
     "https://lifte.jp/20260902-2/",
     "https://straightpress.jp/20260828/1697154",
     "https://www.timeout.jp/tokyo/ja/news/drop-coffee-roasters-082626",
-    "https://prtimes.jp/main/html/rd/p/000000003.000189607.html"
+    "https://prtimes.jp/main/html/rd/p/000000003.000189607.html",
+    "https://prtimes.jp/main/html/rd/p/000004215.000003860.html",
+    "https://dropcoffee.jp/"
    ],
    "summary": "スウェーデン・ストックホルム発のスペシャルティコーヒーブランド「Drop Coffee Roasters」が日本初出店となる旗艦店を中野マルイ2階に2026年9月18日オープン予定。51席で北欧の「フィーカ」文化を提案する。",
    "collected_at": "2026-08-27",
@@ -3321,7 +3323,7 @@
     "https://prtimes.jp/main/html/rd/p/000001226.000082978.html"
    ],
    "summary": "JR東日本クロスステーションが「グランスタ東京」「グランスタ丸の内」にて栗とさつまいもの秋スイーツを集めたフェアを初開催。スイートポテト×芋羊羹パフェや新規出店ショップの栗ケーキなど展開。",
-   "collected_at": "2026-09-13",
+   "collected_at": "2026-10-04",
    "id": "2a9b73ae9f27",
    "is_new": false,
    "freshness": null
@@ -4204,16 +4206,43 @@
     "start": "2026-10-02",
     "end": null
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
     "https://edogawa.keizai.biz/headline/417",
-    "https://foods-ch.infomart.co.jp/news/333780"
+    "https://foods-ch.infomart.co.jp/news/333780",
+    "https://prtimes.jp/main/html/rd/p/000000035.000125380.html"
    ],
    "summary": "大阪発ベーカリーカフェ「SAKImoto bakery and more」が関東・東京初出店。総合レクリエーション公園（南葛西公園）内にオープンし、ランチ・カフェメニューも提供。",
-   "collected_at": "2026-10-03",
+   "collected_at": "2026-10-04",
    "id": "7790abf614f7",
    "is_new": true,
    "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "三代目J SOUL BROTHERS コラボレーションカフェ（SHIBUYA TSUTAYA）",
+   "area": "渋谷",
+   "address": "東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA 7階",
+   "lat": 35.659824,
+   "lng": 139.700226,
+   "period": {
+    "start": "2026-10-14",
+    "end": "2026-11-10"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.ldh.co.jp/news/detail.php?lang=jpn&site=TRIBE&newsid=0000055632",
+    "https://shibuyatsutaya.tsite.jp/article/2640.html"
+   ],
+   "summary": "三代目J SOUL BROTHERSの15周年キュレーションアルバム『24/7〜JSB FOREVER〜』リリースを記念したコラボカフェ。JSB3をイメージしたフード＆ドリンク、限定グッズを展開。",
+   "collected_at": "2026-10-04",
+   "id": "68cd23180f87",
+   "is_new": false,
+   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -5037,7 +5066,7 @@
     "https://prtimes.jp/main/html/rd/p/000000016.000090457.html"
    ],
    "summary": "伊勢丹新宿店本館地下1階フードコレコレクションで複数ブランドが参加する栗スイーツ催事。和栗生産者の課題に光を当てる企画で、菓匠風月が初出店。",
-   "collected_at": "2026-10-03",
+   "collected_at": "2026-10-04",
    "id": "c828f79d8b99",
    "is_new": false,
    "freshness": null
@@ -5064,6 +5093,57 @@
    "summary": "『Toxic-a-Holic』のコラボカフェ。カフェ店員衣装の描き下ろしイラストやメイド・執事衣装のグッズとともに、全8種のフード＆ドリンクメニューを提供。",
    "collected_at": "2026-10-03",
    "id": "5c97a35af58d",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "ベーカリー"
+   ],
+   "name": "BAKERIES LAB. 京成高砂店",
+   "area": "高砂",
+   "address": "東京都葛飾区高砂5丁目27-17",
+   "lat": 35.751129,
+   "lng": 139.867157,
+   "period": {
+    "start": "2026-10-03",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000001068.000005340.html",
+    "https://www.zaikei.co.jp/releases/3643713/"
+   ],
+   "summary": "京成本線「京成高砂」駅徒歩1分に「BAKERIES LAB.」の累計32店舗目が10月3日グランドオープン。",
+   "collected_at": "2026-10-04",
+   "id": "cc07ca0b199f",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "ラブライブ！シリーズ×GiGOコラボカフェ秋葉原3号館（10周年記念）",
+   "area": "秋葉原",
+   "address": "東京都千代田区外神田1丁目11-11 外神田1丁目ビルディング 7F",
+   "lat": 35.699192,
+   "lng": 139.770889,
+   "period": {
+    "start": "2026-11-21",
+    "end": "2027-04-11"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.lovelive-anime.jp/news/01_6659.html",
+    "https://cafe.gge-collabo.com/"
+   ],
+   "summary": "GiGOコラボカフェ秋葉原3号館の10周年記念として「ラブライブ！」シリーズとのコラボカフェを開催。限定フード・ドリンク・グッズを展開。",
+   "collected_at": "2026-10-04",
+   "id": "3c26a853d944",
    "is_new": false,
    "freshness": null
   }
