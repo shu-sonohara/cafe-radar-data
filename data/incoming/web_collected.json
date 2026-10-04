@@ -4860,5 +4860,99 @@
   "summary": "GiGOコラボカフェ秋葉原3号館の10周年記念として「ラブライブ！」シリーズとのコラボカフェを開催。限定フード・ドリンク・グッズを展開。",
   "collected_at": "2026-10-04",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "HELLO KITTY'S SWEETS MARKET -Chocolate lovers-（東武百貨店池袋本店）",
+  "area": "池袋",
+  "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋本店 8階催事場",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-22",
+   "end": "2026-11-03"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000335.000095831.html",
+   "https://nijimen.kusuguru.co.jp/topics/618850"
+  ],
+  "summary": "サンリオキャラクターズのチョコレートテーマ全国巡回ショッピングイベント。東武百貨店池袋本店8階催事場で開催し、ハローキティやポムポムプリンなどチョコ関連の限定グッズ・スイーツを展開。",
+  "collected_at": "2026-10-05",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ネスレ日本の係長ハイジのおしごと体験カフェ（ネスカフェ原宿）",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前1-22-8 ネスカフェ 原宿",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-07",
+   "end": "2026-10-21"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000462.000004158.html",
+   "https://dtimes.jp/post-1389940/"
+  ],
+  "summary": "ネスレ日本のキャラクター「係長ハイジ」がテーマの期間限定カフェ。ヤギのミルクと「ミロ」「キットカット」を使った限定メニューや干し草ソファを展開、土日はハイジ係長によるグリーティングも実施。",
+  "collected_at": "2026-10-05",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "RANDY'S DONUTS（東京ソラマチ）",
+  "area": "押上",
+  "address": "東京都墨田区押上1-1-2 東京ソラマチ タワーヤード2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-29",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.ryutsuu.biz/store/s081814.html",
+   "https://8and.jp/2026/10/01/%E6%9D%B1%E4%BA%AC%E3%82%BD%E3%83%A9%E3%83%9E%E3%83%81%E3%81%AB%E3%80%8Crandys-donuts%E3%80%8D%E3%81%A8%E3%82%B4%E3%83%B3%E3%83%81%E3%83%A3%E3%81%8C10%E6%9C%8829%E6%97%A5%E3%82%AA%E3%83%BC%E3%83%97/"
+  ],
+  "summary": "1952年ロサンゼルス創業の人気ドーナツ店「RANDY'S DONUTS」が東武沿線初出店。東京ソラマチ タワーヤード2階のフードマルシェ内に10月29日オープン、30種類以上のドーナツを手作り提供。",
+  "collected_at": "2026-10-05",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ゴンチャ（東京ソラマチ タワーヤード店）",
+  "area": "押上",
+  "address": "東京都墨田区押上1-1-2 東京ソラマチ タワーヤード2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-29",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.ryutsuu.biz/store/s081814.html",
+   "https://8and.jp/2026/10/01/%E6%9D%B1%E4%BA%AC%E3%82%BD%E3%83%A9%E3%83%9E%E3%83%81%E3%81%AB%E3%80%8Crandys-donuts%E3%80%8D%E3%81%A8%E3%82%B4%E3%83%B3%E3%83%81%E3%83%A3%E3%81%8C10%E6%9C%8829%E6%97%A5%E3%82%AA%E3%83%BC%E3%83%97/"
+  ],
+  "summary": "台湾発のグローバルティーカフェ「ゴンチャ」が東京ソラマチ初出店。タワーヤード2階のフードマルシェ内に10月29日オープン。",
+  "collected_at": "2026-10-05",
+  "id": ""
  }
 ]
