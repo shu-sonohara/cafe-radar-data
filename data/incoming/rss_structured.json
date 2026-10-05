@@ -6365,5 +6365,29 @@
   "summary": "スウェーデン・ストックホルム発のスペシャルティコーヒーブランド「Drop Coffee Roasters」が日本初出店。中野マルイ2階に9月18日オープン、約13種のシングルオリジンコーヒーを提供。",
   "collected_at": "2026-10-04",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "僕のヒーローアカデミアカフェ WE ARE HERO HOLICS",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6丁目28番6号 キュープラザ原宿3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-12-20"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://heroaca.com/news/28602/",
+   "https://collabo-cafe.com/events/collabo/heroaca-cafe-we-are-hero-holics-box-cafe-2026/"
+  ],
+  "summary": "アニメ『僕のヒーローアカデミア』のコラボカフェ『WE ARE HERO HOLICS』が東京・原宿のBOX cafe&space キュープラザ原宿店で2026年10月16日〜12月20日開催。デクや爆豪勝己らをイメージしたピザやドリンク、オリジナルグッズを展開する。",
+  "collected_at": "2026-10-06",
+  "id": ""
  }
 ]

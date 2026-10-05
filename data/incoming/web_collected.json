@@ -4954,5 +4954,29 @@
   "summary": "台湾発のグローバルティーカフェ「ゴンチャ」が東京ソラマチ初出店。タワーヤード2階のフードマルシェ内に10月29日オープン。",
   "collected_at": "2026-10-05",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ボーカロイド楽曲×オバケン 第3弾 feat.KAITO コラボカフェ（呪物cafe ジュジュ）",
+  "area": "方南町",
+  "address": "東京都杉並区方南2-4-27",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-10",
+   "end": "2026-11-03"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://blog.piapro.net/2026/09/ni26091801.html",
+   "https://collabo-cafe.com/en/events/collabo/hatsune-miku-obaken-vol3-kaito-cafe-2026/"
+  ],
+  "summary": "VOCALOID楽曲×お化け屋敷「オバケン」コラボ第3弾feat.KAITOの関連コラボカフェが「呪物cafe ジュジュ」（杉並区方南）で2026年10月10日〜11月3日開催。楽曲世界をイメージしたコラボメニューとオリジナルグッズを展開する。",
+  "collected_at": "2026-10-06",
+  "id": ""
  }
 ]
