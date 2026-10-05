@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05",
+ "updated_at": "2026-10-06",
  "items": [
   {
    "type": "new_cafe",
@@ -500,8 +500,8 @@
    "summary": "旧JUNO CAFE JIYUGAOKA跡地にサステナブル志向のカフェ&デリ「better is」が2026年7月7日オープン。エシカル認証農家の野菜を使ったサラダボウルや生ベーグルを提供し、店内菜園・コンポストも運営。",
    "collected_at": "2026-08-22",
    "id": "2d421d9295fc",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
@@ -2259,34 +2259,6 @@
    "freshness": null
   },
   {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "SAKAMOTO DAYS SECRET BAR & CAFE（池袋）",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1-28-2 池袋パルコ8F",
-   "lat": 35.727123,
-   "lng": 139.710342,
-   "period": {
-    "start": "2026-08-28",
-    "end": "2026-10-05"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://collabo.sld-inc.com/sakamotodays_2608",
-    "https://nijimen.kusuguru.co.jp/topics/632686",
-    "https://prtimes.jp/main/html/rd/p/000000613.000023331.html"
-   ],
-   "summary": "TVアニメ『SAKAMOTO DAYS』のコラボカフェ「SAKAMOTO DAYS SECRET BAR & CAFE」がCollabo_Index池袋（池袋パルコ8F）にて2026年8月28日オープン。秘密の隠れ家バーをコンセプトに、坂本たちをイメージしたフード・スイーツ・ドリンクを提供。",
-   "collected_at": "2026-09-18",
-   "id": "f283e087c19a",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "コーヒー",
@@ -3278,7 +3250,7 @@
    "collected_at": "2026-09-13",
    "id": "f612c22e264a",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
