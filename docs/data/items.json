@@ -3649,7 +3649,8 @@
    "sources": [
     "https://news.yahoo.co.jp/articles/c61c5559b18e87bef2b57c6aff8641bfb245420d",
     "https://news.yahoo.co.jp/articles/6d0a15a4988b3004c42eb7217181f6f031ae1200",
-    "https://prtimes.jp/main/html/rd/p/000002111.000025606.html"
+    "https://prtimes.jp/main/html/rd/p/000002111.000025606.html",
+    "https://www.inside-games.jp/release/prtimes/20260909/305900.html"
    ],
    "summary": "「ちいかわ」×「東京ばな奈」のコラボポップアップストアが池袋駅南通路イベントスペースで9月17日〜10月14日開催。ちいかわバナナプリンケーキやクッキーサンドバナナミルク味、限定トート・エコバッグを販売。",
    "collected_at": "2026-09-22",
@@ -3855,10 +3856,11 @@
     "https://prtimes.jp/main/html/rd/p/000002148.000025606.html",
     "https://www.inside-games.jp/article/2026/09/28/188379.html",
     "https://animeanime.jp/release/prtimes/20260928/315537.html",
+    "https://www.inside-games.jp/release/prtimes/20260909/305900.html",
     "https://news.livedoor.com/article/detail/32457102/"
    ],
    "summary": "東京ソラマチ イーストヤード1階「空の小町」で「ちいかわ」×「東京ばな奈」のポップアップショップが開催。初登場のエコバッグやコラボスイーツ（バナナプリンケーキ等）を販売。",
-   "collected_at": "2026-10-01",
+   "collected_at": "2026-10-07",
    "id": "a1356e7d9091",
    "is_new": false,
    "freshness": null
@@ -4191,6 +4193,104 @@
    "id": "68cd23180f87",
    "is_new": false,
    "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "SHOGUN BURGER×宇田川カフェ コラボPOP UP「ハチ公バーガー」",
+   "area": "渋谷",
+   "address": "東京都渋谷区宇田川町36-22 ノア渋谷パートII 1F（Café BOHEMIA）",
+   "lat": 35.662209,
+   "lng": 139.696991,
+   "period": {
+    "start": "2026-10-18",
+    "end": "2026-10-31"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000176.000011641.html"
+   ],
+   "summary": "SHOGUN BURGERと宇田川カフェがコラボし、渋谷・宇田川町のCafé BOHEMIAで期間限定POP UPを開催。渋谷のシンボル・ハチ公をイメージした「ハチ公バーガー」を提供する。",
+   "collected_at": "2026-10-07",
+   "id": "9ee3fa30edf6",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "コラボカフェ",
+    "スイーツ"
+   ],
+   "name": "かえるのピクルス 期間限定POP-UP SHOP メゾン・ド・ピクルス",
+   "area": "新宿",
+   "address": "東京都新宿区西新宿1-5-1 小田急百貨店新宿店7階イベントスペース",
+   "lat": 35.6926,
+   "lng": 139.699112,
+   "period": {
+    "start": "2026-10-08",
+    "end": "2026-10-20"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://animeanime.jp/release/prtimes/20261002/317235.html"
+   ],
+   "summary": "キャラクター「かえるのピクルス」のPOP-UPショップが小田急百貨店新宿店7階イベントスペースで開催。限定ビーンドールやピンズの販売、店内カフェ・パン屋でのコラボメニュー展開あり。",
+   "collected_at": "2026-10-07",
+   "id": "07f4f938f7f6",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "WAND（ワンド）",
+   "area": "秋葉原",
+   "address": "東京都千代田区東神田2-8-16 KiGi AKIHABARA 1F",
+   "lat": 35.69648,
+   "lng": 139.780243,
+   "period": {
+    "start": "2026-10-16",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000078.000028845.html"
+   ],
+   "summary": "神田川沿いのKiGi AKIHABARA 1Fにカフェ＆レンタルスペース「WAND」が10月16日グランドオープン。コーヒーや焼き菓子、ランチタイムはタコスも提供。",
+   "collected_at": "2026-10-07",
+   "id": "a551fd3a1d2f",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "O1C",
+   "area": "新大久保",
+   "address": "東京都新宿区大久保1-17-1",
+   "lat": 35.699085,
+   "lng": 139.702805,
+   "period": {
+    "start": "2026-10-16",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000029.000118492.html"
+   ],
+   "summary": "新大久保に韓国・聖水（ソンス）系ブランチカフェ「O1C」が10月16日グランドオープン。ベーグルサンド、キムチチャーハン、オリジナルドリンクなどを提供。",
+   "collected_at": "2026-10-07",
+   "id": "b1f7e926797c",
+   "is_new": true,
+   "freshness": 30
   },
   {
    "type": "new_cafe",
@@ -5149,6 +5249,30 @@
    "id": "92a2830925b1",
    "is_new": true,
    "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "コラボカフェ"
+   ],
+   "name": "TVアニメ『正反対な君と僕』コラボカフェ at 洒落CAFE「レトロポップver.」（新宿マルイ本館店）",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3-30-13 新宿マルイ本館8F",
+   "lat": 35.691158,
+   "lng": 139.703949,
+   "period": {
+    "start": "2026-10-16",
+    "end": "2026-11-03"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000355.000048489.html"
+   ],
+   "summary": "TVアニメ『正反対な君と僕』と洒落CAFEのコラボカフェ「レトロポップver.」が新宿マルイ本館8F・洒落CAFE FLEURで開催。描き起こしオリジナルグッズとコラボメニューを提供。",
+   "collected_at": "2026-10-07",
+   "id": "ac6219903906",
+   "is_new": false,
+   "freshness": null
   }
  ]
 }
