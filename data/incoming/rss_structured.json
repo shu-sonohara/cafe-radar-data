@@ -6389,5 +6389,117 @@
   "summary": "アニメ『僕のヒーローアカデミア』のコラボカフェ『WE ARE HERO HOLICS』が東京・原宿のBOX cafe&space キュープラザ原宿店で2026年10月16日〜12月20日開催。デクや爆豪勝己らをイメージしたピザやドリンク、オリジナルグッズを展開する。",
   "collected_at": "2026-10-06",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "SHOGUN BURGER×宇田川カフェ コラボPOP UP「ハチ公バーガー」",
+  "area": "渋谷",
+  "address": "東京都渋谷区宇田川町36-22 ノア渋谷パートII 1F（Café BOHEMIA）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-18",
+   "end": "2026-10-31"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000176.000011641.html"
+  ],
+  "summary": "SHOGUN BURGERと宇田川カフェがコラボし、渋谷・宇田川町のCafé BOHEMIAで期間限定POP UPを開催。渋谷のシンボル・ハチ公をイメージした「ハチ公バーガー」を提供する。",
+  "collected_at": "2026-10-07",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "スイーツ"
+  ],
+  "name": "かえるのピクルス 期間限定POP-UP SHOP メゾン・ド・ピクルス",
+  "area": "新宿",
+  "address": "東京都新宿区西新宿1-5-1 小田急百貨店新宿店7階イベントスペース",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-08",
+   "end": "2026-10-20"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://animeanime.jp/release/prtimes/20261002/317235.html"
+  ],
+  "summary": "キャラクター「かえるのピクルス」のPOP-UPショップが小田急百貨店新宿店7階イベントスペースで開催。限定ビーンドールやピンズの販売、店内カフェ・パン屋でのコラボメニュー展開あり。",
+  "collected_at": "2026-10-07",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "スイーツ"
+  ],
+  "name": "「ちいかわ」×「東京ばな奈」ポップアップショップ",
+  "area": "押上",
+  "address": "東京都墨田区押上1-1-2 東京ソラマチ イーストヤード1F 10番地「空の小町」",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-14"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.inside-games.jp/release/prtimes/20260909/305900.html"
+  ],
+  "summary": "「ちいかわ」と「東京ばな奈」のコラボポップアップショップ。限定デザインのエコバッグ・トートバッグに加え、クッキーサンドやバナナプリンケーキなどの食品も販売。",
+  "collected_at": "2026-10-07",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "WAND（ワンド）",
+  "area": "秋葉原",
+  "address": "東京都千代田区東神田2-8-16 KiGi AKIHABARA 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000078.000028845.html"
+  ],
+  "summary": "神田川沿いのKiGi AKIHABARA 1Fにカフェ＆レンタルスペース「WAND」が10月16日グランドオープン。コーヒーや焼き菓子、ランチタイムはタコスも提供。",
+  "collected_at": "2026-10-07",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "O1C",
+  "area": "新大久保",
+  "address": "東京都新宿区大久保1-17-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000029.000118492.html"
+  ],
+  "summary": "新大久保に韓国・聖水（ソンス）系ブランチカフェ「O1C」が10月16日グランドオープン。ベーグルサンド、キムチチャーハン、オリジナルドリンクなどを提供。",
+  "collected_at": "2026-10-07",
+  "id": ""
  }
 ]

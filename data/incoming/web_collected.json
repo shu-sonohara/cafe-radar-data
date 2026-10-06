@@ -4978,5 +4978,50 @@
   "summary": "VOCALOID楽曲×お化け屋敷「オバケン」コラボ第3弾feat.KAITOの関連コラボカフェが「呪物cafe ジュジュ」（杉並区方南）で2026年10月10日〜11月3日開催。楽曲世界をイメージしたコラボメニューとオリジナルグッズを展開する。",
   "collected_at": "2026-10-06",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "スイーツ"
+  ],
+  "name": "「ちいかわ」×「東京ばな奈」ポップアップストア（池袋駅）",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": "2026-10-14"
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://www.inside-games.jp/release/prtimes/20260909/305900.html"
+  ],
+  "summary": "池袋駅イベントステーション池袋南通路で開催中のちいかわ×東京ばな奈コラボポップアップ。ちいかわクッキーサンドやリニューアルしたバナナプリンケーキなどを販売。",
+  "collected_at": "2026-10-07",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "TVアニメ『正反対な君と僕』コラボカフェ at 洒落CAFE「レトロポップver.」（新宿マルイ本館店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-30-13 新宿マルイ本館8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-11-03"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000355.000048489.html"
+  ],
+  "summary": "TVアニメ『正反対な君と僕』と洒落CAFEのコラボカフェ「レトロポップver.」が新宿マルイ本館8F・洒落CAFE FLEURで開催。描き起こしオリジナルグッズとコラボメニューを提供。",
+  "collected_at": "2026-10-07",
+  "id": ""
  }
 ]
