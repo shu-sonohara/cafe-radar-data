@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06",
+ "updated_at": "2026-10-07",
  "items": [
   {
    "type": "new_cafe",
@@ -353,7 +353,7 @@
    "collected_at": "2026-08-22",
    "id": "e6d350e5b01a",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -3838,31 +3838,6 @@
   {
    "type": "popup",
    "genre": [
-    "スイーツ"
-   ],
-   "name": "西洋菓匠KIKUJIROU",
-   "area": "銀座",
-   "address": "東京都中央区銀座4-6-16 銀座三越 本館地下2階 スイーツパークⅠ",
-   "lat": 35.671577,
-   "lng": 139.765594,
-   "period": {
-    "start": "2026-09-30",
-    "end": "2026-10-06"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.zaikei.co.jp/releases/3629934/",
-    "https://dtimes.jp/post-1396279/"
-   ],
-   "summary": "銀座三越にフランスAOPバターを使った「KIKUJIROU・モンテギューAOPバターコレクション」を銀座三越催事限定で7日間販売。",
-   "collected_at": "2026-09-27",
-   "id": "bbd637b5a6e5",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
     "スイーツ",
     "コラボカフェ"
    ],
@@ -4691,30 +4666,6 @@
    "id": "65d71163335b",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "玉子サンドのエスワイケイ",
-   "area": "東京駅",
-   "address": "東京都千代田区丸の内1-9-1 大丸東京店 お肉の細道沿い催事場",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-09-23",
-    "end": "2026-10-06"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.daimaru.co.jp/tokyo/tanjosai/foods_sweets.html"
-   ],
-   "summary": "奈良の食遊館が手がける玉子サンド専門店「玉子サンドのエスワイケイ」が大丸東京店に期間限定出店。",
-   "collected_at": "2026-09-26",
-   "id": "0bdea3cc022c",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "popup",
