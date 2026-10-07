@@ -6501,5 +6501,75 @@
   "summary": "新大久保に韓国・聖水（ソンス）系ブランチカフェ「O1C」が10月16日グランドオープン。ベーグルサンド、キムチチャーハン、オリジナルドリンクなどを提供。",
   "collected_at": "2026-10-07",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "東京喫茶メリー",
+  "area": "東京駅・グランスタ東京",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://travel.watch.impress.co.jp/docs/news/2140855.html",
+   "https://resemom.jp/release/prtimes/20260903/209529.html"
+  ],
+  "summary": "メリーチョコレートカムパニーが2026年9月16日、グランスタ東京内に新ブランド「東京喫茶メリー」をオープン。はじけるキャンディ入りチョコレートやプリンをイメージした菓子など、東京駅限定の土産菓子を展開。",
+  "collected_at": "2026-10-08",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "カフェ ディオール by アンヌ＝ソフィー・ピック バンブー パビリオン",
+  "area": "代官山",
+  "address": "東京都渋谷区猿楽町8-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-02-12",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/142735",
+   "https://www.fashion-press.net/news/142045"
+  ],
+  "summary": "ディオールの新コンセプトストア「ディオール バンブー パビリオン」(代官山)に、2026年2月12日オープンのカフェ併設。ミシュラン獲得シェフ・アンヌ＝ソフィー・ピックが手掛けるフランス料理を提供し、日本では銀座・関西空港に続く3店舗目。",
+  "collected_at": "2026-10-08",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "「ちいかわ」×「東京ばな奈」ポップアップショップ",
+  "area": "東京ソラマチ（押上）",
+  "address": "東京都墨田区押上1-1-2 東京ソラマチ イーストヤード1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-14"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://premium.gamepedia.jp/hobby/archives/262337",
+   "https://report.iko-yo.net/articles/31159"
+  ],
+  "summary": "キャラクター「ちいかわ」と「東京ばな奈」のコラボポップアップが東京ソラマチ イーストヤード1Fで2026年10月1日〜14日開催。バナナミルク味クッキーサンドやバナナプリンケーキなどの限定スイーツ、エコバッグ等のグッズを販売。",
+  "collected_at": "2026-10-08",
+  "id": ""
  }
 ]
