@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07",
+ "updated_at": "2026-10-08",
  "items": [
   {
    "type": "new_cafe",
@@ -1427,59 +1427,6 @@
    "freshness": 180
   },
   {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "ブリュレメリゼ 羽田空港店",
-   "area": "羽田空港",
-   "address": "東京都大田区羽田空港3-3-2 羽田空港第1ターミナル2F マーケットプレイス「羽田スタースイーツ」",
-   "lat": 35.549461,
-   "lng": 139.78389,
-   "period": {
-    "start": "2026-07-08",
-    "end": "2026-10-07"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000001882.000025606.html",
-    "https://city.living.jp/common/news/1737577/",
-    "https://prtimes.jp/main/html/rd/p/000002047.000025606.html"
-   ],
-   "summary": "東京駅で行列のできるブリュレスイーツ専門店「ブリュレメリゼ」が羽田空港第1ターミナル「羽田スタースイーツ」に期間限定出店。代表作「ブリュレクリームタルト」のほか新作チーズケーキも登場。",
-   "collected_at": "2026-08-22",
-   "id": "1130b5d0e0d5",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "銀魂秋色茶房",
-   "area": "池袋",
-   "address": "東京都豊島区東池袋1丁目5-7 LABI1 LIFE SELECT池袋7F（and GALLERY 池袋店）",
-   "lat": 35.730808,
-   "lng": 139.713196,
-   "period": {
-    "start": "2026-09-09",
-    "end": "2026-10-07"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://news.denfaminicogamer.jp/news/2608102c",
-    "https://www.excite.co.jp/news/article/Nijimen_0000000000630241/"
-   ],
-   "summary": "TVアニメ『銀魂』とのコラボカフェ「銀魂秋色茶房」がand GALLERY池袋店にて2026年9月9日〜10月7日開催。秋の和装姿の銀時たちをテーマにした限定メニュー・グッズを展開。",
-   "collected_at": "2026-08-29",
-   "id": "f1c6058ea878",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ",
@@ -2617,7 +2564,7 @@
    "collected_at": "2026-09-16",
    "id": "d9178326e07a",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "popup",
