@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08",
+ "updated_at": "2026-10-09",
  "items": [
   {
    "type": "new_cafe",
@@ -2921,31 +2921,6 @@
     "カフェ",
     "コラボカフェ"
    ],
-   "name": "EXILE × TSUTAYAコラボレーションカフェ",
-   "area": "渋谷",
-   "address": "東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA 7階",
-   "lat": 35.659824,
-   "lng": 139.700226,
-   "period": {
-    "start": "2026-09-25",
-    "end": null
-   },
-   "confidence": "official",
-   "sources": [
-    "https://shibuyatsutaya.tsite.jp/article/2565.html"
-   ],
-   "summary": "EXILEデビュー25周年記念コンセプトアルバムのリリースを記念し、SHIBUYA TSUTAYA 7階にコラボレーションカフェが期間限定オープン。",
-   "collected_at": "2026-09-08",
-   "id": "ef11839bccb2",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
    "name": "『SHOW-WA』× 日本直販 × ORBcafeコラボカフェ",
    "area": "渋谷",
    "address": "東京都渋谷区桜丘町1-4 渋谷サクラステージ SHIBUYA SIDE 2F",
@@ -4383,7 +4358,7 @@
    "collected_at": "2026-09-07",
    "id": "ac4d5bff9dcb",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
