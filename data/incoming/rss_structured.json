@@ -6571,5 +6571,53 @@
   "summary": "キャラクター「ちいかわ」と「東京ばな奈」のコラボポップアップが東京ソラマチ イーストヤード1Fで2026年10月1日〜14日開催。バナナミルク味クッキーサンドやバナナプリンケーキなどの限定スイーツ、エコバッグ等のグッズを販売。",
   "collected_at": "2026-10-08",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ケロロ軍曹☆コラボカフェ「秋の味覚、侵略するであります！」（Collabo_Index PARCO池袋店）",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1丁目28-2 池袋PARCO本館8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-09",
+   "end": "2026-11-16"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://koubo.jp/press-release/prtimes/c120737_r97",
+   "https://dengekionline.com/article/202606/79910"
+  ],
+  "summary": "『ケロロ軍曹☆』のコラボカフェが池袋PARCO本館8階のCollabo_Index PARCO店で開催。秋の食材を使ったフード・スイーツ・ドリンク全10品を提供し、注文ごとにオリジナルコースターが貰える。",
+  "collected_at": "2026-10-09",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「そういう時期の進撃の巨人カフェ～思春期の晩餐～」（BOX cafe&space ルミネエスト新宿2号店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3丁目38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-03",
+   "end": "2026-10-12"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://san-tatsu.jp/pressrelease/541437/",
+   "https://www.inside-games.jp/release/prtimes/20260820/302503.html"
+  ],
+  "summary": "『進撃の巨人』のテーマカフェがJR新宿駅直結のルミネエスト新宿8階、BOX cafe&space 2号店で期間限定開催。「決戦前夜の最後の晩餐」をテーマにした描き下ろしメニューを提供。",
+  "collected_at": "2026-10-09",
+  "id": ""
  }
 ]
