@@ -6619,5 +6619,72 @@
   "summary": "『進撃の巨人』のテーマカフェがJR新宿駅直結のルミネエスト新宿8階、BOX cafe&space 2号店で期間限定開催。「決戦前夜の最後の晩餐」をテーマにした描き下ろしメニューを提供。",
   "collected_at": "2026-10-09",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "MOKABLE COFFEE CRAFT 東京蔵前店",
+  "area": "蔵前",
+  "address": "東京都台東区蔵前4丁目32-7",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-05",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/154916",
+   "https://bestcalendar.jp/press/153862"
+  ],
+  "summary": "コーヒー豆を微粉砕し固形で味わう「モカブル」の旗艦店。ガラス張りの厨房で製造工程が見られ、シングルオリジンの食べ比べやスイーツも提供。",
+  "collected_at": "2026-10-10",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ANELLA CAFE 新宿四ツ谷店",
+  "area": "四ツ谷",
+  "address": "東京都新宿区四谷坂町9-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-09",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000050.000049799.html"
+  ],
+  "summary": "保護犬・保護猫とふれあえるカフェ「ANELLA CAFE」新宿店が移転。犬と猫のスペースを完全に分離し、未就学児は入場無料。",
+  "collected_at": "2026-10-10",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "にゃんにゃんにゃんこ飯店",
+  "area": "神宮前/原宿",
+  "address": "東京都渋谷区神宮前1-15-2 神宮前115ビル3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": "2026-11-01"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.oricon.co.jp/pressrelease/2997248/"
+  ],
+  "summary": "キャラクター「にゃんにゃんにゃんこ」と中華メニューのコラボカフェ。S-PiCK CAFE(旧Animax Cafe+)にて開催、予約制・入店80分制。",
+  "collected_at": "2026-10-10",
+  "id": ""
  }
 ]
