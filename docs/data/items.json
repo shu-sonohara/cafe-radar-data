@@ -51,7 +51,9 @@
     "https://prtimes.jp/main/html/rd/p/000000317.000086964.html",
     "https://shingeki-cafe-2026.ltr-online.com/",
     "https://cho-animedia.jp/article/2026/08/22/62510.html",
-    "https://aot-portal.com/news/%E3%83%86%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%95%E3%82%A7%E3%80%8C%E3%81%9D%E3%81%86%E3%81%84%E3%81%86%E6%99%82%E6%9C%9F%E3%81%AE%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%E3%82%AB%E3%83%95%E3%82%A7%E3%80%8D"
+    "https://aot-portal.com/news/%E3%83%86%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%95%E3%82%A7%E3%80%8C%E3%81%9D%E3%81%86%E3%81%84%E3%81%86%E6%99%82%E6%9C%9F%E3%81%AE%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%E3%82%AB%E3%83%95%E3%82%A7%E3%80%8D",
+    "https://san-tatsu.jp/pressrelease/541437/",
+    "https://www.inside-games.jp/release/prtimes/20260820/302503.html"
    ],
    "summary": "TVアニメ『進撃の巨人』のテーマカフェがルミネエスト新宿8階のBOX cafe&space ルミネエスト新宿2号店で2026年9月3日〜10月12日開催。WIT STUDIOが企画協力し「決戦前夜の晩餐」をコンセプトにした限定メニューと描き下ろしグッズを展開。",
    "collected_at": "2026-09-25",
@@ -4219,6 +4221,32 @@
    "id": "b1f7e926797c",
    "is_new": true,
    "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "ケロロ軍曹☆コラボカフェ「秋の味覚、侵略するであります！」（Collabo_Index PARCO池袋店）",
+   "area": "池袋",
+   "address": "東京都豊島区南池袋1丁目28-2 池袋PARCO本館8階",
+   "lat": 35.727123,
+   "lng": 139.710342,
+   "period": {
+    "start": "2026-10-09",
+    "end": "2026-11-16"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://koubo.jp/press-release/prtimes/c120737_r97",
+    "https://dengekionline.com/article/202606/79910"
+   ],
+   "summary": "『ケロロ軍曹☆』のコラボカフェが池袋PARCO本館8階のCollabo_Index PARCO店で開催。秋の食材を使ったフード・スイーツ・ドリンク全10品を提供し、注文ごとにオリジナルコースターが貰える。",
+   "collected_at": "2026-10-09",
+   "id": "28e6734863fa",
+   "is_new": false,
+   "freshness": null
   },
   {
    "type": "new_cafe",
