@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09",
+ "updated_at": "2026-10-10",
  "items": [
   {
    "type": "new_cafe",
@@ -428,8 +428,8 @@
    "summary": "インドネシア文化発信拠点「SUKU SPACE」1階に、インドネシア料理を楽しめるカフェ「Antre Tokyo」が2026年7月11日渋谷にオープン。ルンダンパイなど現地の味を提供する約20㎡の小規模店舗。",
    "collected_at": "2026-08-22",
    "id": "94d915d5b6d3",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
