@@ -6686,5 +6686,99 @@
   "summary": "キャラクター「にゃんにゃんにゃんこ」と中華メニューのコラボカフェ。S-PiCK CAFE(旧Animax Cafe+)にて開催、予約制・入店80分制。",
   "collected_at": "2026-10-10",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "JYP FLAGSHIP TOKYO",
+  "area": "代官山",
+  "address": "東京都渋谷区代官山町20-23 フォレストゲート代官山 MAIN棟 B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-10",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://news.yahoo.co.jp/articles/3a4f016fc8176286bacc6ed2f1370ddd4ff9077e",
+   "https://kpop-concert.jp/news/topics/jyp-flagship-tokyo-daikanyama-2026-10"
+  ],
+  "summary": "JYPエンターテインメントの世界初の公式フラッグシップショップ。所属アーティストのグッズ販売に加え、カフェ・ワークショップスペース・フォトブースを備える。2026年10月10日に代官山にグランドオープン。",
+  "collected_at": "2026-10-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「だいぞう」カフェ ~はっぴーぽかぽかぱらだいす~",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1丁目23-5 オトメイトビル2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-22",
+   "end": "2026-11-10"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://premium.gamepedia.jp/hobby/?p=267823"
+  ],
+  "summary": "DAISO公式キャラクター「だいぞう」初のコラボカフェ。RAKU CAFE 池袋1号店にて開催。予約来店特典のオリジナルカードや、グッズ購入特典のシールあり。",
+  "collected_at": "2026-10-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ケロロ軍曹コラボカフェ「秋の味覚、侵略するであります!」",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1-28-2 池袋PARCO本館8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-09",
+   "end": "2026-11-16"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://animeanime.jp/release/prtimes/20261008/318321.html"
+  ],
+  "summary": "「ケロロ軍曹」の秋のコラボカフェ。Collabo_Index 池袋PARCO店にて予約優先・75分入れ替え制で開催。秋の味覚を使ったフードやスイーツ、キャラクタードリンクを提供。",
+  "collected_at": "2026-10-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "まめゴマ×MILK MILK MILK!",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前1-11-6 ラフォーレ原宿2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-11-12"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.inside-games.jp/release/prtimes/20261008/311482.html"
+  ],
+  "summary": "サンエックスのキャラクター「まめゴマ」初のコラボカフェ。ラフォーレ原宿2階の「MILK MILK MILK!」にて開催。ミルクボトルやソーダ等の限定メニュー、オリジナルグッズを提供。",
+  "collected_at": "2026-10-11",
+  "id": ""
  }
 ]

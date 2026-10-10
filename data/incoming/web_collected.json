@@ -5135,5 +5135,50 @@
   "summary": "「ちいかわ」と「東京ばな奈」のコラボポップアップ。クッキーサンド バナナミルク味、バナナプリンケーキなどの新作スイーツと限定エコバッグを販売。",
   "collected_at": "2026-10-10",
   "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "麻布台ヒルズ「モンブランセレクション2026」",
+  "area": "麻布台",
+  "address": "東京都港区麻布台1-3-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-18",
+   "end": "2026-10-12"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.walkerplus.com/article/1436681/"
+  ],
+  "summary": "麻布台ヒルズの秋恒例企画「HARVEST WEEKS」前半パート。26店舗33種のモンブラン・栗スイーツが集結し、パンケーキやマカロン、パフェ、アフタヌーンティーまで展開。",
+  "collected_at": "2026-10-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "「ちいかわ」×「東京ばな奈」ポップアップ（池袋）",
+  "area": "池袋",
+  "address": "東京都豊島区西池袋1丁目（JR池袋駅 イベントステーション池袋南通路）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": "2026-10-14"
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://www.crank-in.net/trend/events/173554/1",
+   "https://trafficnews.jp/post/585743"
+  ],
+  "summary": "JR池袋駅構内のイベントステーション池袋南通路で開催の「ちいかわ」×「東京ばな奈」ポップアップ。新絵柄のバナナプリンケーキやクッキーサンド、エコバッグを販売。東京ソラマチ会場とは別開催。",
+  "collected_at": "2026-10-11",
+  "id": ""
  }
 ]
