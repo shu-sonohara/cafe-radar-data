@@ -5180,5 +5180,49 @@
   "summary": "JR池袋駅構内のイベントステーション池袋南通路で開催の「ちいかわ」×「東京ばな奈」ポップアップ。新絵柄のバナナプリンケーキやクッキーサンド、エコバッグを販売。東京ソラマチ会場とは別開催。",
   "collected_at": "2026-10-11",
   "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "第77回 京名物 洛趣展",
+  "area": "日本橋",
+  "address": "東京都中央区日本橋室町1-4-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-14",
+   "end": "2026-10-19"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.mistore.jp/shopping/event/nihombashi_e/rakusyu_50"
+  ],
+  "summary": "日本橋三越本店本館7階で開催される京都物産展。出町ふたばの名代豆餅など京都の老舗の和菓子・料亭弁当が並ぶ（豆餅は三越伊勢丹オンラインストアでの事前予約制）。",
+  "collected_at": "2026-10-12",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "ホリミヤCAFE 片桐高校文化祭",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1丁目3-2 前島ビル",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-14",
+   "end": "2026-12-27"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.gamespark.jp/release/prtimes/20260916/314877.html"
+  ],
+  "summary": "アニメ『ホリミヤ』とのコラボカフェ。motto cafe池袋店で前半（10/14〜11/20）・後半（11/21〜12/27）の2部制で開催、限定メニュー・グッズを展開。",
+  "collected_at": "2026-10-12",
+  "id": ""
  }
 ]
