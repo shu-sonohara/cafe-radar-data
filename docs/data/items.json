@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11",
+ "updated_at": "2026-10-12",
  "items": [
   {
    "type": "new_cafe",
@@ -1770,31 +1770,6 @@
    "summary": "ティースタンド「ゴンチャ」218店舗目となる「有明ガーデン店」が2026年1月15日オープン。有明ガーデン モール2階、視認性の高いエスカレーター降り口付近に出店。",
    "collected_at": "2026-08-23",
    "id": "46a1567fbdcf",
-   "is_new": false,
-   "freshness": 365
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
-    "コーヒー"
-   ],
-   "name": "LIWEI TOKYO",
-   "area": "新富町",
-   "address": "東京都中央区新富2-14-6",
-   "lat": 35.670448,
-   "lng": 139.774948,
-   "period": {
-    "start": "2025-10-11",
-    "end": null
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.timeout.jp/tokyo/ja/news/liwei-tokyo-open-110425",
-    "https://news.yahoo.co.jp/expert/articles/7da9fd1aaa943d24ba1dcc156910efdaef62ffea"
-   ],
-   "summary": "台湾出身の世界大会優勝バリスタ・リウェイ氏による4店舗目「LIWEI TOKYO」が新富町に2025年10月11日オープン。台湾・阿里山産の希少なコーヒー豆を使ったブレンドなどを提供。",
-   "collected_at": "2026-08-23",
-   "id": "df87b5e845bf",
    "is_new": false,
    "freshness": 365
   },
