@@ -4245,7 +4245,8 @@
    "confidence": "media",
    "sources": [
     "https://koubo.jp/press-release/prtimes/c120737_r97",
-    "https://dengekionline.com/article/202606/79910"
+    "https://dengekionline.com/article/202606/79910",
+    "https://animeanime.jp/release/prtimes/20261008/318321.html"
    ],
    "summary": "『ケロロ軍曹☆』のコラボカフェが池袋PARCO本館8階のCollabo_Index PARCO店で開催。秋の食材を使ったフード・スイーツ・ドリンク全10品を提供し、注文ごとにオリジナルコースターが貰える。",
    "collected_at": "2026-10-09",
@@ -4276,6 +4277,83 @@
    "id": "632032fa254e",
    "is_new": true,
    "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "JYP FLAGSHIP TOKYO",
+   "area": "代官山",
+   "address": "東京都渋谷区代官山町20-23 フォレストゲート代官山 MAIN棟 B1F",
+   "lat": 35.648655,
+   "lng": 139.702042,
+   "period": {
+    "start": "2026-10-10",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://news.yahoo.co.jp/articles/3a4f016fc8176286bacc6ed2f1370ddd4ff9077e",
+    "https://kpop-concert.jp/news/topics/jyp-flagship-tokyo-daikanyama-2026-10"
+   ],
+   "summary": "JYPエンターテインメントの世界初の公式フラッグシップショップ。所属アーティストのグッズ販売に加え、カフェ・ワークショップスペース・フォトブースを備える。2026年10月10日に代官山にグランドオープン。",
+   "collected_at": "2026-10-11",
+   "id": "b34d545c6bf3",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "「だいぞう」カフェ ~はっぴーぽかぽかぱらだいす~",
+   "area": "池袋",
+   "address": "東京都豊島区東池袋1丁目23-5 オトメイトビル2F",
+   "lat": 35.729126,
+   "lng": 139.715439,
+   "period": {
+    "start": "2026-10-22",
+    "end": "2026-11-10"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://premium.gamepedia.jp/hobby/?p=267823"
+   ],
+   "summary": "DAISO公式キャラクター「だいぞう」初のコラボカフェ。RAKU CAFE 池袋1号店にて開催。予約来店特典のオリジナルカードや、グッズ購入特典のシールあり。",
+   "collected_at": "2026-10-11",
+   "id": "699d00b910c3",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "スイーツ",
+    "コラボカフェ"
+   ],
+   "name": "まめゴマ×MILK MILK MILK!",
+   "area": "原宿",
+   "address": "東京都渋谷区神宮前1-11-6 ラフォーレ原宿2F",
+   "lat": 35.668907,
+   "lng": 139.705551,
+   "period": {
+    "start": "2026-10-16",
+    "end": "2026-11-12"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.inside-games.jp/release/prtimes/20261008/311482.html"
+   ],
+   "summary": "サンエックスのキャラクター「まめゴマ」初のコラボカフェ。ラフォーレ原宿2階の「MILK MILK MILK!」にて開催。ミルクボトルやソーダ等の限定メニュー、オリジナルグッズを提供。",
+   "collected_at": "2026-10-11",
+   "id": "431b35cd7e9a",
+   "is_new": false,
+   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -4590,7 +4668,8 @@
     "https://prtimes.jp/main/html/rd/p/000000412.000048109.html",
     "https://www.roppongievents.com/harvest-weeks-azabudai-hills-2026/",
     "https://www.food-festival.info/2026-azabudai-hills-harvest-weeks/",
-    "https://www.azabudai-hills.com/whats_on/2026/09/0412.html"
+    "https://www.azabudai-hills.com/whats_on/2026/09/0412.html",
+    "https://www.walkerplus.com/article/1436681/"
    ],
    "summary": "麻布台ヒルズで秋の味覚フェア「HARVEST WEEKS」開催。9月18日〜10月12日は26店舗33種のモンブランが集結する「モンブランセレクション2026」を展開。",
    "collected_at": "2026-09-23",
@@ -5259,6 +5338,32 @@
    "summary": "TVアニメ『正反対な君と僕』と洒落CAFEのコラボカフェ「レトロポップver.」が新宿マルイ本館8F・洒落CAFE FLEURで開催。描き起こしオリジナルグッズとコラボメニューを提供。",
    "collected_at": "2026-10-07",
    "id": "ac6219903906",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ",
+    "コラボカフェ"
+   ],
+   "name": "「ちいかわ」×「東京ばな奈」ポップアップ（池袋）",
+   "area": "池袋",
+   "address": "東京都豊島区西池袋1丁目（JR池袋駅 イベントステーション池袋南通路）",
+   "lat": 35.730228,
+   "lng": 139.709351,
+   "period": {
+    "start": "2026-09-17",
+    "end": "2026-10-14"
+   },
+   "confidence": "unverified",
+   "sources": [
+    "https://www.crank-in.net/trend/events/173554/1",
+    "https://trafficnews.jp/post/585743"
+   ],
+   "summary": "JR池袋駅構内のイベントステーション池袋南通路で開催の「ちいかわ」×「東京ばな奈」ポップアップ。新絵柄のバナナプリンケーキやクッキーサンド、エコバッグを販売。東京ソラマチ会場とは別開催。",
+   "collected_at": "2026-10-11",
+   "id": "f523b52d9c4c",
    "is_new": false,
    "freshness": null
   }
