@@ -6780,5 +6780,29 @@
   "summary": "サンエックスのキャラクター「まめゴマ」初のコラボカフェ。ラフォーレ原宿2階の「MILK MILK MILK!」にて開催。ミルクボトルやソーダ等の限定メニュー、オリジナルグッズを提供。",
   "collected_at": "2026-10-11",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ケロロ軍曹☆コラボカフェ「秋の味覚、侵略するであります！」（Collabo_Index 池袋PARCO店）",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1-28-2（池袋PARCO 本館8階）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-09",
+   "end": "2026-11-16"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000619.000023331.html",
+   "https://collabo.sld-inc.com/keroro-anime"
+  ],
+  "summary": "アニメ『ケロロ軍曹☆』とのコラボカフェ。お月見・焼き芋・きのこ狩りなど秋がテーマのフード2品・スイーツ3品・ドリンク5品を提供。75分入れ替え制・予約制（大阪・心斎橋会場との同時開催）。",
+  "collected_at": "2026-10-13",
+  "id": ""
  }
 ]
