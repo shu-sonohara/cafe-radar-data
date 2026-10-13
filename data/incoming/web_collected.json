@@ -5291,5 +5291,29 @@
   "summary": "京都の名店の和菓子・名産品が集まる物産展。出町柳「出町ふたば」の名代豆餅（オンライン事前予約制、各日160点限り）や今西軒のおはぎ、鳴海餅本店の栗赤飯などが並ぶ。",
   "collected_at": "2026-10-13",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "PEANUTS × シュガーバターの木 ポップアップ（第4弾）",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-12",
+   "end": "2026-10-22"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/157216",
+   "https://www.walkerplus.com/article/1299243/"
+  ],
+  "summary": "JR東京駅改札内B1「グランスタ東京」スクエア ゼロにて、PEANUTS（スヌーピー）×シュガーバターの木のコラボポップアップを開催。季節限定の新作菓子やオリジナルグッズを販売。",
+  "collected_at": "2026-10-14",
+  "id": ""
  }
 ]

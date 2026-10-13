@@ -6804,5 +6804,77 @@
   "summary": "アニメ『ケロロ軍曹☆』とのコラボカフェ。お月見・焼き芋・きのこ狩りなど秋がテーマのフード2品・スイーツ3品・ドリンク5品を提供。75分入れ替え制・予約制（大阪・心斎橋会場との同時開催）。",
   "collected_at": "2026-10-13",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "BAKERY CAFE C 東京ソラマチ店",
+  "area": "押上・東京スカイツリータウン",
+  "address": "東京都墨田区押上1丁目1-2",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-04-28",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://news.mynavi.jp/article/20260427-4394165/",
+   "https://www.walkerplus.com/article/1395201/"
+  ],
+  "summary": "サンマルクホールディングスの新業態ベーカリーカフェが東京初出店。東京スカイツリータウン・ソラマチ ウエストヤード2Fにオープンし、パン約80種とスカイツリーを望むテラス席を展開。",
+  "collected_at": "2026-10-14",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "僕のヒーローアカデミアカフェ WE ARE HERO HOLICS",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6丁目",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-12-20"
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://premium.gamepedia.jp/hobby/archives/263549",
+   "https://www.enjoytokyo.jp/event/2087138/"
+  ],
+  "summary": "「僕のヒーローアカデミア」のコラボカフェが原宿のBOX cafe&space キュープラザ原宿店にて期間限定開催。番地は未確認のため丁目までの住所。",
+  "collected_at": "2026-10-14",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ネスレ日本の係長ハイジのおしごと体験カフェ",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前1-22-8",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-07",
+   "end": "2026-10-21"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.hokkaido-np.co.jp/article/1375615/",
+   "https://digitalpr.jp/r/144039"
+  ],
+  "summary": "ネスレ日本のキャラクター「ハイジ」を起用した体験型イベントカフェ。ネスカフェ 原宿にて、ヤギのミルクを使った限定メニュー等を提供。土日はハイジ役が来店者を出迎える。",
+  "collected_at": "2026-10-14",
+  "id": ""
  }
 ]
