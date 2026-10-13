@@ -3141,7 +3141,7 @@
     "https://tetsudo-ch.com/13038506.html"
    ],
    "summary": "JR東日本クロスステーションが「グランスタ東京」「グランスタ丸の内」にて栗とさつまいもの秋スイーツを集めたフェアを初開催。スイートポテト×芋羊羹パフェや新規出店ショップの栗ケーキなど展開。",
-   "collected_at": "2026-10-10",
+   "collected_at": "2026-10-13",
    "id": "2a9b73ae9f27",
    "is_new": false,
    "freshness": null
@@ -3686,7 +3686,7 @@
     "https://news.livedoor.com/article/detail/32457102/"
    ],
    "summary": "東京ソラマチ イーストヤード1階「空の小町」で「ちいかわ」×「東京ばな奈」のポップアップショップが開催。初登場のエコバッグやコラボスイーツ（バナナプリンケーキ等）を販売。",
-   "collected_at": "2026-10-10",
+   "collected_at": "2026-10-13",
    "id": "a1356e7d9091",
    "is_new": false,
    "freshness": null
@@ -4108,14 +4108,16 @@
     "start": "2026-10-09",
     "end": "2026-11-16"
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
     "https://koubo.jp/press-release/prtimes/c120737_r97",
     "https://dengekionline.com/article/202606/79910",
+    "https://prtimes.jp/main/html/rd/p/000000619.000023331.html",
+    "https://collabo.sld-inc.com/keroro-anime",
     "https://animeanime.jp/release/prtimes/20261008/318321.html"
    ],
    "summary": "『ケロロ軍曹☆』のコラボカフェが池袋PARCO本館8階のCollabo_Index PARCO店で開催。秋の食材を使ったフード・スイーツ・ドリンク全10品を提供し、注文ごとにオリジナルコースターが貰える。",
-   "collected_at": "2026-10-09",
+   "collected_at": "2026-10-13",
    "id": "28e6734863fa",
    "is_new": false,
    "freshness": null
@@ -5220,10 +5222,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://www.mistore.jp/shopping/event/nihombashi_e/rakusyu_50"
+    "https://www.mistore.jp/shopping/event/nihombashi_e/rakusyu_50",
+    "https://report.iko-yo.net/articles/34397/digest"
    ],
    "summary": "日本橋三越本店本館7階で開催される京都物産展。出町ふたばの名代豆餅など京都の老舗の和菓子・料亭弁当が並ぶ（豆餅は三越伊勢丹オンラインストアでの事前予約制）。",
-   "collected_at": "2026-10-12",
+   "collected_at": "2026-10-13",
    "id": "170f88827e5b",
    "is_new": false,
    "freshness": null
