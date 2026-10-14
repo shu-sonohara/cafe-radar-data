@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14",
+ "updated_at": "2026-10-15",
  "items": [
   {
    "type": "new_cafe",
@@ -3197,7 +3197,7 @@
    "collected_at": "2026-09-15",
    "id": "518f61ebd4f1",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "popup",
@@ -3247,7 +3247,7 @@
    "collected_at": "2026-09-16",
    "id": "362ae31366b0",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -3482,34 +3482,6 @@
    "freshness": 30
   },
   {
-   "type": "popup",
-   "genre": [
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "ちいかわ×東京ばな奈 ポップアップストア",
-   "area": "池袋駅",
-   "address": "東京都豊島区南池袋1丁目",
-   "lat": 35.727299,
-   "lng": 139.711044,
-   "period": {
-    "start": "2026-09-17",
-    "end": "2026-10-14"
-   },
-   "confidence": "unverified",
-   "sources": [
-    "https://news.yahoo.co.jp/articles/c61c5559b18e87bef2b57c6aff8641bfb245420d",
-    "https://news.yahoo.co.jp/articles/6d0a15a4988b3004c42eb7217181f6f031ae1200",
-    "https://prtimes.jp/main/html/rd/p/000002111.000025606.html",
-    "https://www.inside-games.jp/release/prtimes/20260909/305900.html"
-   ],
-   "summary": "「ちいかわ」×「東京ばな奈」のコラボポップアップストアが池袋駅南通路イベントスペースで9月17日〜10月14日開催。ちいかわバナナプリンケーキやクッキーサンドバナナミルク味、限定トート・エコバッグを販売。",
-   "collected_at": "2026-09-22",
-   "id": "238117480162",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ"
@@ -3660,38 +3632,6 @@
    "id": "83ca787d24bd",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "「ちいかわ」×「東京ばな奈」ポップアップショップ",
-   "area": "押上・とうきょうスカイツリー",
-   "address": "東京都墨田区押上1-1-2 東京ソラマチ イーストヤード1階",
-   "lat": 35.710083,
-   "lng": 139.808609,
-   "period": {
-    "start": "2026-10-01",
-    "end": "2026-10-14"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000002148.000025606.html",
-    "https://www.inside-games.jp/article/2026/09/28/188379.html",
-    "https://animeanime.jp/release/prtimes/20260928/315537.html",
-    "https://www.inside-games.jp/release/prtimes/20260909/305900.html",
-    "https://premium.gamepedia.jp/hobby/archives/262337",
-    "https://report.iko-yo.net/articles/31159",
-    "https://www.gamespark.jp/release/prtimes/20260928/316993.html",
-    "https://news.livedoor.com/article/detail/32457102/"
-   ],
-   "summary": "東京ソラマチ イーストヤード1階「空の小町」で「ちいかわ」×「東京ばな奈」のポップアップショップが開催。初登場のエコバッグやコラボスイーツ（バナナプリンケーキ等）を販売。",
-   "collected_at": "2026-10-13",
-   "id": "a1356e7d9091",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -4472,34 +4412,6 @@
   {
    "type": "popup",
    "genre": [
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "ちいかわ×東京ばな奈 ポップアップストア",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1丁目28-1 池袋駅 イベントステーション池袋南通路",
-   "lat": 35.727081,
-   "lng": 139.710495,
-   "period": {
-    "start": "2026-09-17",
-    "end": "2026-10-14"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.fashion-press.net/news/150887",
-    "https://ikebukuro.keizai.biz/headline/3534/",
-    "https://prtimes.jp/main/html/rd/p/000002111.000025606.html",
-    "https://premium.gamepedia.jp/hobby/archives/262337"
-   ],
-   "summary": "「ちいかわ」と「東京ばな奈」のコラボポップアップストアが池袋駅に期間限定オープン。ちいかわクッキーサンドやバナナプリンケーキ、限定エコバッグを販売。",
-   "collected_at": "2026-09-17",
-   "id": "03e8ea88c8d5",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
     "カフェ",
     "コラボカフェ"
    ],
@@ -5134,32 +5046,6 @@
    "summary": "TVアニメ『正反対な君と僕』と洒落CAFEのコラボカフェ「レトロポップver.」が新宿マルイ本館8F・洒落CAFE FLEURで開催。描き起こしオリジナルグッズとコラボメニューを提供。",
    "collected_at": "2026-10-07",
    "id": "ac6219903906",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "「ちいかわ」×「東京ばな奈」ポップアップ（池袋）",
-   "area": "池袋",
-   "address": "東京都豊島区西池袋1丁目（JR池袋駅 イベントステーション池袋南通路）",
-   "lat": 35.730228,
-   "lng": 139.709351,
-   "period": {
-    "start": "2026-09-17",
-    "end": "2026-10-14"
-   },
-   "confidence": "unverified",
-   "sources": [
-    "https://www.crank-in.net/trend/events/173554/1",
-    "https://trafficnews.jp/post/585743"
-   ],
-   "summary": "JR池袋駅構内のイベントステーション池袋南通路で開催の「ちいかわ」×「東京ばな奈」ポップアップ。新絵柄のバナナプリンケーキやクッキーサンド、エコバッグを販売。東京ソラマチ会場とは別開催。",
-   "collected_at": "2026-10-11",
-   "id": "f523b52d9c4c",
    "is_new": false,
    "freshness": null
   },
