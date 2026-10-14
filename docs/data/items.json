@@ -2595,10 +2595,12 @@
     "https://news.yahoo.co.jp/articles/29685e2ca69792c05efddddb681039340b446c9b",
     "https://mrsgreenapple.com/feature/ringojamshow2026",
     "https://prtimes.jp/main/html/rd/p/000000321.000086964.html",
-    "https://natalie.mu/music/news/687935"
+    "https://natalie.mu/music/news/687935",
+    "https://news.mynavi.jp/article/20260904-4914991/",
+    "https://www.enjoytokyo.jp/event/2082881/"
    ],
    "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。BOX cafe&space グランドスケープ池袋店にて2026年10月2日〜12月6日開催。",
-   "collected_at": "2026-09-06",
+   "collected_at": "2026-10-15",
    "id": "0a7e2e501e7e",
    "is_new": false,
    "freshness": null
@@ -2886,10 +2888,12 @@
     "https://prtimes.jp/main/html/rd/p/000000322.000086964.html",
     "https://www.fashion-press.net/news/150832",
     "https://travel.mdpr.jp/travel/detail/4841153",
-    "https://prtimes.jp/main/html/rd/p/000000101.000086964.html"
+    "https://prtimes.jp/main/html/rd/p/000000101.000086964.html",
+    "https://premium.gamepedia.jp/hobby/archives/248471",
+    "https://www.enjoytokyo.jp/event/2082884/"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-10-01",
+   "collected_at": "2026-10-15",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -3041,7 +3045,9 @@
    },
    "confidence": "media",
    "sources": [
-    "https://gourmetpress.net/1480650/"
+    "https://gourmetpress.net/1480650/",
+    "https://bestcalendar.jp/press/152517",
+    "https://koubo.jp/article/117819"
    ],
    "summary": "スウェーデンの北欧カフェÅTER Tokyoで、雑貨ブランドmozとのコラボカフェを10月1日〜31日の期間限定開催。moz柄のクッキーや限定ドリンクを提供。",
    "collected_at": "2026-09-12",
@@ -3778,10 +3784,12 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000501.000066361.html"
+    "https://prtimes.jp/main/html/rd/p/000000501.000066361.html",
+    "https://san-tatsu.jp/pressrelease/559629/",
+    "https://animeanime.jp/release/prtimes/20261002/317220.html"
    ],
    "summary": "ナルミヤキャラクターズのテーマカフェ。NARUMIYA HAPPY PARK 1周年記念で、キャラクターモチーフのフード・デザート・テイクアウトメニューを展開。",
-   "collected_at": "2026-10-03",
+   "collected_at": "2026-10-15",
    "id": "55e626bcea16",
    "is_new": false,
    "freshness": null
@@ -4169,6 +4177,31 @@
    "id": "334c30a05242",
    "is_new": false,
    "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "THE PATH COFFEE",
+   "area": "千駄ヶ谷",
+   "address": "東京都渋谷区千駄ヶ谷3丁目",
+   "lat": 35.675858,
+   "lng": 139.70607,
+   "period": {
+    "start": "2026-09-01",
+    "end": null
+   },
+   "confidence": "unverified",
+   "sources": [
+    "https://koubo.jp/press-release/prtimes/c23861_r116"
+   ],
+   "summary": "COOGEE株式会社の本社移転に合わせ、千駄ヶ谷にオープンしたコーヒースタンド。オフィス・ショールームと一体化した空間で「日常の途中にあるコーヒー」をコンセプトにする。",
+   "collected_at": "2026-10-15",
+   "id": "c427c961da92",
+   "is_new": true,
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -5116,7 +5149,9 @@
    "confidence": "media",
    "sources": [
     "https://bestcalendar.jp/press/157216",
-    "https://www.walkerplus.com/article/1299243/"
+    "https://www.walkerplus.com/article/1299243/",
+    "https://premium.gamepedia.jp/hobby/archives/269022",
+    "https://www.crank-in.net/trend/events/184642/1"
    ],
    "summary": "JR東京駅改札内B1「グランスタ東京」スクエア ゼロにて、PEANUTS（スヌーピー）×シュガーバターの木のコラボポップアップを開催。季節限定の新作菓子やオリジナルグッズを販売。",
    "collected_at": "2026-10-14",
