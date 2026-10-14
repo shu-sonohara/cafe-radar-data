@@ -5315,5 +5315,77 @@
   "summary": "JR東京駅改札内B1「グランスタ東京」スクエア ゼロにて、PEANUTS（スヌーピー）×シュガーバターの木のコラボポップアップを開催。季節限定の新作菓子やオリジナルグッズを販売。",
   "collected_at": "2026-10-14",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "チェンソーマン喫茶",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://premium.gamepedia.jp/hobby/archives/248471",
+   "https://www.enjoytokyo.jp/event/2082884/"
+  ],
+  "summary": "劇場版『チェンソーマン レゼ篇』イメージの期間限定喫茶。BOX cafe&spaceルミネエスト新宿1号店にて、「喫茶二道」をイメージしたオリジナルフードやドリンクを提供。",
+  "collected_at": "2026-10-15",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1丁目30-3",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": "2026-12-06"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://news.mynavi.jp/article/20260904-4914991/",
+   "https://www.enjoytokyo.jp/event/2082881/"
+  ],
+  "summary": "Mrs. GREEN APPLE OFFICIAL FAN CLUB「Ringo Jam」発足10周年記念のテーマカフェ。BOX cafe&spaceグランドスケープ池袋店にて、マスコット「メメル」モチーフのメニューを提供。",
+  "collected_at": "2026-10-15",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "PEANUTS × シュガーバターの木 ポップアップストア",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京B1 スクエアゼロ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-12",
+   "end": "2026-10-22"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://premium.gamepedia.jp/hobby/archives/269022",
+   "https://www.crank-in.net/trend/events/184642/1"
+  ],
+  "summary": "バターシリアルスイーツ専門店「シュガーバターの木」と「PEANUTS」のコラボ第4弾ポップアップ。季節限定「蜜いもキャラメル仕立て」などの限定スイーツを販売。",
+  "collected_at": "2026-10-15",
+  "id": ""
  }
 ]

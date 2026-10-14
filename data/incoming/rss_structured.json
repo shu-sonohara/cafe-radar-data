@@ -6876,5 +6876,76 @@
   "summary": "ネスレ日本のキャラクター「ハイジ」を起用した体験型イベントカフェ。ネスカフェ 原宿にて、ヤギのミルクを使った限定メニュー等を提供。土日はハイジ役が来店者を出迎える。",
   "collected_at": "2026-10-14",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "moz × ÅTER Tokyo コラボカフェ",
+  "area": "東大島",
+  "address": "東京都江東区大島9-10-6",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-31"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/152517",
+   "https://koubo.jp/article/117819"
+  ],
+  "summary": "スウェーデン発ライフスタイルブランドmozと、旧中川沿いの北欧カフェÅTER Tokyoが1か月限定でコラボ。ブラックベリーのラテやモックテル、moz型クッキーなどの限定メニューを提供。",
+  "collected_at": "2026-10-15",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "NARUMIYA CHARACTERS Lovely Stand",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-11-22"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://san-tatsu.jp/pressrelease/559629/",
+   "https://animeanime.jp/release/prtimes/20261002/317220.html"
+  ],
+  "summary": "ナルミヤキャラクターズとのコラボカフェ「Lovely Stand」がBOX cafe&spaceルミネエスト新宿2号店にオープン。ベリー系シェイクやキャラクターモチーフドリンクを提供。大阪でも同時期開催。",
+  "collected_at": "2026-10-15",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "THE PATH COFFEE",
+  "area": "千駄ヶ谷",
+  "address": "東京都渋谷区千駄ヶ谷3丁目",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": null
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://koubo.jp/press-release/prtimes/c23861_r116"
+  ],
+  "summary": "COOGEE株式会社の本社移転に合わせ、千駄ヶ谷にオープンしたコーヒースタンド。オフィス・ショールームと一体化した空間で「日常の途中にあるコーヒー」をコンセプトにする。",
+  "collected_at": "2026-10-15",
+  "id": ""
  }
 ]
