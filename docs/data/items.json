@@ -2893,7 +2893,7 @@
     "https://www.enjoytokyo.jp/event/2082884/"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-10-15",
+   "collected_at": "2026-10-16",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -3604,7 +3604,8 @@
    "sources": [
     "https://www.disney.co.jp/shopping/cafenews/20251113_01",
     "https://report.iko-yo.net/articles/33831",
-    "https://prtimes.jp/main/html/rd/p/000000327.000086964.html"
+    "https://prtimes.jp/main/html/rd/p/000000327.000086964.html",
+    "https://yomuno.jp/posts/142639"
    ],
    "summary": "『ディズニー ツイステッドワンダーランド ザ アニメーション』のコラボカフェが表参道ヒルズ本館地下3階のOH MY CAFEで期間限定開催。ゲーム内イベント「マスターシェフ」をイメージし、各寮カラーのオープンサンドやタコス、ドリンクなどを提供。来店特典でオリジナルグッズが当たる。",
    "collected_at": "2026-09-26",
@@ -3683,11 +3684,12 @@
     "https://www.zaikei.co.jp/releases/3635493/",
     "https://heroaca.com/news/28602/",
     "https://collabo-cafe.com/events/collabo/heroaca-cafe-we-are-hero-holics-box-cafe-2026/",
+    "https://www.enjoytokyo.jp/event/2087138/",
     "https://prtimes.jp/main/html/rd/p/000000329.000086964.html",
     "https://dengekionline.com/article/202609/89487"
    ],
    "summary": "アニメ『僕のヒーローアカデミア』のコラボカフェが原宿のBOX cafe&spaceキュープラザ原宿3Fで開催。デクや爆豪をイメージしたメニューやオリジナルグッズを展開。",
-   "collected_at": "2026-10-06",
+   "collected_at": "2026-10-16",
    "id": "0789473f4de5",
    "is_new": false,
    "freshness": null
@@ -4202,6 +4204,30 @@
    "id": "c427c961da92",
    "is_new": true,
    "freshness": 90
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "サンマルクカフェ&茶 両国東口店",
+   "area": "両国",
+   "address": "東京都墨田区両国3丁目25-8",
+   "lat": 35.695515,
+   "lng": 139.794647,
+   "period": {
+    "start": "2026-10-21",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000184.000085701.html"
+   ],
+   "summary": "サンマルクカフェが展開する\"お茶\"にフォーカスした新ブランド「サンマルクカフェ&茶」の全国7店舗目。JR両国駅東口から徒歩1分、禁煙71席。2026年10月21日オープン。",
+   "collected_at": "2026-10-16",
+   "id": "25b4b07d6da7",
+   "is_new": true,
+   "freshness": 30
   },
   {
    "type": "new_cafe",
@@ -5099,10 +5125,11 @@
    "confidence": "official",
    "sources": [
     "https://www.mistore.jp/shopping/event/nihombashi_e/rakusyu_50",
-    "https://report.iko-yo.net/articles/34397/digest"
+    "https://report.iko-yo.net/articles/34397/digest",
+    "https://report.iko-yo.net/articles/34397"
    ],
    "summary": "日本橋三越本店本館7階で開催される京都物産展。出町ふたばの名代豆餅など京都の老舗の和菓子・料亭弁当が並ぶ（豆餅は三越伊勢丹オンラインストアでの事前予約制）。",
-   "collected_at": "2026-10-13",
+   "collected_at": "2026-10-16",
    "id": "170f88827e5b",
    "is_new": false,
    "freshness": null
@@ -5156,6 +5183,55 @@
    "summary": "JR東京駅改札内B1「グランスタ東京」スクエア ゼロにて、PEANUTS（スヌーピー）×シュガーバターの木のコラボポップアップを開催。季節限定の新作菓子やオリジナルグッズを販売。",
    "collected_at": "2026-10-14",
    "id": "0f5fb4eb51c4",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "Ringo Jam Café",
+   "area": "池袋",
+   "address": "東京都豊島区東池袋1丁目（グランドスケープ池袋内）",
+   "lat": 35.731373,
+   "lng": 139.715302,
+   "period": {
+    "start": "2026-10-02",
+    "end": "2026-12-06"
+   },
+   "confidence": "unverified",
+   "sources": [
+    "https://www.enjoytokyo.jp/event/2082881/"
+   ],
+   "summary": "Mrs. GREEN APPLE公式ファンクラブ「Ringo Jam」10周年を記念したテーマカフェ。公式アプリ「MGA App」をイメージしたメニュー・内装。",
+   "collected_at": "2026-10-16",
+   "id": "786df5c87e9a",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "おいもスイーツセレクション2026",
+   "area": "麻布台",
+   "address": "東京都港区麻布台1-3-1 麻布台ヒルズ",
+   "lat": 35.661549,
+   "lng": 139.740921,
+   "period": {
+    "start": "2026-10-13",
+    "end": "2026-11-03"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.walkerplus.com/article/1436681/"
+   ],
+   "summary": "麻布台ヒルズ「HARVEST WEEKS」後半の企画。さつまいもを使ったスイーツを複数店舗で展開。",
+   "collected_at": "2026-10-16",
+   "id": "70810c03898b",
    "is_new": false,
    "freshness": null
   }
