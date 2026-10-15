@@ -6947,5 +6947,73 @@
   "summary": "COOGEE株式会社の本社移転に合わせ、千駄ヶ谷にオープンしたコーヒースタンド。オフィス・ショールームと一体化した空間で「日常の途中にあるコーヒー」をコンセプトにする。",
   "collected_at": "2026-10-15",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "サンマルクカフェ&茶 両国東口店",
+  "area": "両国",
+  "address": "東京都墨田区両国3丁目25-8",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-21",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000184.000085701.html"
+  ],
+  "summary": "サンマルクカフェが展開する\"お茶\"にフォーカスした新ブランド「サンマルクカフェ&茶」の全国7店舗目。JR両国駅東口から徒歩1分、禁煙71席。2026年10月21日オープン。",
+  "collected_at": "2026-10-16",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "OH MY CAFE ディズニー ツイステッドワンダーランド",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館 地下3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-24",
+   "end": "2026-11-15"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://yomuno.jp/posts/142639"
+  ],
+  "summary": "ゲーム「ディズニー ツイステッドワンダーランド」のコラボカフェ。ゲーム内イベント「マスターシェフ」をテーマに各寮カラーのフード・グッズを展開。",
+  "collected_at": "2026-10-16",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "僕のヒーローアカデミアカフェ -WE ARE HERO HOLICS-",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6-28-6 キュープラザ原宿 3F（BOX cafe&space キュープラザ原宿店）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-12-20"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2087138/"
+  ],
+  "summary": "アニメ「僕のヒーローアカデミア」のテーマカフェ。キャラクターの個性をイメージしたボックスピザやドリンクを提供、描き起こしグッズも販売。",
+  "collected_at": "2026-10-16",
+  "id": ""
  }
 ]

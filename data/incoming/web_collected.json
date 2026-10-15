@@ -5387,5 +5387,118 @@
   "summary": "バターシリアルスイーツ専門店「シュガーバターの木」と「PEANUTS」のコラボ第4弾ポップアップ。季節限定「蜜いもキャラメル仕立て」などの限定スイーツを販売。",
   "collected_at": "2026-10-15",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "チェンソーマン喫茶",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿 8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2082884/"
+  ],
+  "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶をイメージしたコラボカフェ。ルミネエスト新宿8階のBOX cafe&spaceで開催。",
+  "collected_at": "2026-10-16",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1丁目（グランドスケープ池袋内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": "2026-12-06"
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2082881/"
+  ],
+  "summary": "Mrs. GREEN APPLE公式ファンクラブ「Ringo Jam」10周年を記念したテーマカフェ。公式アプリ「MGA App」をイメージしたメニュー・内装。",
+  "collected_at": "2026-10-16",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "PEANUTS×シュガーバターの木 ポップアップストア",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 東京駅一番街 地下1階 グランスタ東京 スクエアゼロ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-12",
+   "end": "2026-10-22"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/157216"
+  ],
+  "summary": "スヌーピーでおなじみ「PEANUTS」とシュガーバターの木のコラボ第4弾。季節限定スイーツとオリジナルグッズを販売。",
+  "collected_at": "2026-10-16",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "第77回 京名物 洛趣展",
+  "area": "日本橋",
+  "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店 本館7階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-14",
+   "end": "2026-10-19"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://report.iko-yo.net/articles/34397"
+  ],
+  "summary": "京都の名店の和菓子が集まる催事。出町ふたばの名代豆餅はオンライン事前予約制・数量限定で販売。",
+  "collected_at": "2026-10-16",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "おいもスイーツセレクション2026",
+  "area": "麻布台",
+  "address": "東京都港区麻布台1-3-1 麻布台ヒルズ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-13",
+   "end": "2026-11-03"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.walkerplus.com/article/1436681/"
+  ],
+  "summary": "麻布台ヒルズ「HARVEST WEEKS」後半の企画。さつまいもを使ったスイーツを複数店舗で展開。",
+  "collected_at": "2026-10-16",
+  "id": ""
  }
 ]
