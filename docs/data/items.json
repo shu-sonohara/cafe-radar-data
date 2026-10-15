@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15",
+ "updated_at": "2026-10-16",
  "items": [
   {
    "type": "new_cafe",
@@ -914,8 +914,8 @@
    "summary": "ベイクルーズが手がける新業態カフェ「JOURNAL STANDARD CAFE」がサンシャインシティにオープン。カスタムティーバーとスフレベイクパンケーキなどを楽しめる複合型カフェ。",
    "collected_at": "2026-08-22",
    "id": "c6ea1be2ab8e",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
@@ -2972,7 +2972,7 @@
    "collected_at": "2026-09-09",
    "id": "7f8361be1752",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -4520,7 +4520,7 @@
    "collected_at": "2026-09-26",
    "id": "6e10e66f4e51",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "popup",
