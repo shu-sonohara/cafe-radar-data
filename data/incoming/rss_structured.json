@@ -7015,5 +7015,51 @@
   "summary": "アニメ「僕のヒーローアカデミア」のテーマカフェ。キャラクターの個性をイメージしたボックスピザやドリンクを提供、描き起こしグッズも販売。",
   "collected_at": "2026-10-16",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "TOKYO BANANA Cafe Stand",
+  "area": "羽田空港第1ターミナル",
+  "address": "東京都大田区羽田空港3-3-2 羽田空港第1旅客ターミナル2F 出発ゲートラウンジ(北) 16番ゲート前",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.aviationwire.jp/archives/350247",
+   "https://bestcalendar.jp/press/150450"
+  ],
+  "summary": "東京ばな奈ブランド初のカフェスタンドが羽田空港第1ターミナル出発ゲートラウンジ(北)16番ゲート前に2026年9月17日オープン。看板商品は注文後に仕上げる東京ばな奈バー3種。搭乗者専用エリア内。",
+  "collected_at": "2026-10-17",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "UNIVERSAL WORKS CANTEEN",
+  "area": "有楽町",
+  "address": "東京都千代田区有楽町2丁目5-1 阪急メンズ東京6F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-28",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashionsnap.com/article/2026-08-28/universal-works-hankyu-mens-tokyo/"
+  ],
+  "summary": "英国発アパレルブランドUniversal Worksの日本初直営店が阪急メンズ東京6階にオープン、ブランド初のカフェスペース「UNIVERSAL WORKS CANTEEN」を併設。",
+  "collected_at": "2026-10-17",
+  "id": ""
  }
 ]

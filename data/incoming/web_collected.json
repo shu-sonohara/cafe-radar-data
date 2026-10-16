@@ -5500,5 +5500,75 @@
   "summary": "麻布台ヒルズ「HARVEST WEEKS」後半の企画。さつまいもを使ったスイーツを複数店舗で展開。",
   "collected_at": "2026-10-16",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "PEANUTS×シュガーバターの木 ポップアップストア",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1丁目9-1 グランスタ東京 スクエアゼロ",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-12",
+   "end": "2026-10-22"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://premium.gamepedia.jp/hobby/archives/269022",
+   "https://www.crank-in.net/trend/events/184642/1"
+  ],
+  "summary": "「シュガーバターの木」と「PEANUTS」のコラボ第4弾ポップアップがグランスタ東京スクエアゼロで開催。限定スイーツ・グッズを販売。",
+  "collected_at": "2026-10-17",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "やきいもフェス2026(東京会場)",
+  "area": "中野",
+  "address": "東京都中野区中野4-12 中野四季の森公園",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": "2026-11-08"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://report.iko-yo.net/articles/34162",
+   "https://www.oricon.co.jp/pressrelease/3016334/"
+  ],
+  "summary": "焼き芋をテーマにしたフードイベント「やきいもフェス2026」が中野四季の森公園イベントエリアで開催。約30種類のやきいもメニューが出店。入場無料。",
+  "collected_at": "2026-10-17",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café(池袋店)",
+  "area": "東池袋",
+  "address": "東京都豊島区東池袋1-30-3 B1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": "2026-12-06"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2082881/",
+   "https://news.mynavi.jp/article/20260904-4914991/"
+  ],
+  "summary": "Mrs. GREEN APPLEオフィシャルファンクラブ「Ringo Jam」発足10周年を記念したテーマカフェ。公式マスコット「メメル」をモチーフにしたメニュー・グッズを展開。",
+  "collected_at": "2026-10-17",
+  "id": ""
  }
 ]
