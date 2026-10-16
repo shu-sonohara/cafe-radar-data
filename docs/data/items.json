@@ -2198,7 +2198,7 @@
     "https://www.fashionsnap.com/article/2026-08-28/universal-works-hankyu-mens-tokyo/"
    ],
    "summary": "英国発「ユニバーサルワークス」が日本初の直営店を阪急メンズ東京6階に2026年8月28日オープン。ブランド初のカフェスペース「ユニバーサルワークス キャンティーン」を併設。",
-   "collected_at": "2026-08-29",
+   "collected_at": "2026-10-17",
    "id": "59140866093b",
    "is_new": true,
    "freshness": 90
@@ -2600,7 +2600,7 @@
     "https://www.enjoytokyo.jp/event/2082881/"
    ],
    "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。BOX cafe&space グランドスケープ池袋店にて2026年10月2日〜12月6日開催。",
-   "collected_at": "2026-10-15",
+   "collected_at": "2026-10-17",
    "id": "0a7e2e501e7e",
    "is_new": false,
    "freshness": null
@@ -3172,10 +3172,12 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000325.000067976.html",
-    "https://airline.ikaros.jp/news/60001/"
+    "https://airline.ikaros.jp/news/60001/",
+    "https://www.aviationwire.jp/archives/350247",
+    "https://bestcalendar.jp/press/150450"
    ],
    "summary": "東京ばな奈ブランド初のカフェスタンドが羽田空港第1ターミナル出発ゲートラウンジ（北）16番ゲート前にオープン。限定「東京ばな奈ソフトクリーム ばな奈ミルク味」（500円）や、注文後にその場で作る「東京ばな奈バー チョコバナナ風」（550円）などを販売。",
-   "collected_at": "2026-09-14",
+   "collected_at": "2026-10-17",
    "id": "5e0b02b0b226",
    "is_new": true,
    "freshness": 30
@@ -4591,7 +4593,9 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000107.000084442.html",
-    "https://yakiimofes.jp/tokyo2026/"
+    "https://yakiimofes.jp/tokyo2026/",
+    "https://report.iko-yo.net/articles/34162",
+    "https://www.oricon.co.jp/pressrelease/3016334/"
    ],
    "summary": "焼き芋・さつまいもスイーツの専門イベント「やきいもフェス TOKYO 2026」が中野四季の森公園で開催。14店舗が出店し約30種類のやきいもメニューが揃う。",
    "collected_at": "2026-09-29",
