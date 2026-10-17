@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17",
+ "updated_at": "2026-10-18",
  "items": [
   {
    "type": "new_cafe",
@@ -1819,7 +1819,7 @@
    "collected_at": "2026-09-02",
    "id": "b25d650a3b11",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -2307,7 +2307,7 @@
    "collected_at": "2026-09-08",
    "id": "a3b289ccbf1d",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -2409,7 +2409,7 @@
    "collected_at": "2026-09-03",
    "id": "529426bf78fa",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -2460,7 +2460,7 @@
    "collected_at": "2026-09-04",
    "id": "1bb7e779d084",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -2484,7 +2484,7 @@
    "collected_at": "2026-09-04",
    "id": "a534a7118988",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -2660,7 +2660,7 @@
    "collected_at": "2026-09-22",
    "id": "ebff69bf9a94",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -3026,7 +3026,7 @@
    "collected_at": "2026-09-11",
    "id": "baed51babb92",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "popup",
@@ -3180,7 +3180,7 @@
    "collected_at": "2026-10-17",
    "id": "5e0b02b0b226",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
@@ -4629,7 +4629,7 @@
    "collected_at": "2026-09-25",
    "id": "505337e9f2b6",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
