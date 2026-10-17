@@ -7061,5 +7061,50 @@
   "summary": "英国発アパレルブランドUniversal Worksの日本初直営店が阪急メンズ東京6階にオープン、ブランド初のカフェスペース「UNIVERSAL WORKS CANTEEN」を併設。",
   "collected_at": "2026-10-17",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "Morning Park Cafe",
+  "area": "新大久保",
+  "address": "東京都新宿区大久保1丁目4-20 三島屋ビル1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-06",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000002.000191948.html"
+  ],
+  "summary": "新大久保・大久保通り沿いに、体と心をととのえる「公園のような」コンセプトの新店カフェが2026年11月6日グランドオープン。11月3日・4日は招待制のプレオープンを開催。",
+  "collected_at": "2026-10-18",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ぬんぬんベーカリーカフェ(可愛い嘘のカワウソ)",
+  "area": "お台場",
+  "address": "東京都港区台場1-7-1 アクアシティお台場 5F R.O.STAR Seaside Terrace",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-09"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000458.000036259.html"
+  ],
+  "summary": "人気キャラクター「可愛い嘘のカワウソ」とのコラボカフェ「ぬんぬんベーカリーカフェ」がR.O.STAR Seaside Terrace(お台場)にて2026年10月1日〜11月9日開催。限定フード・ノベルティあり。",
+  "collected_at": "2026-10-18",
+  "id": ""
  }
 ]
