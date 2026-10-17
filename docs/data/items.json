@@ -2890,10 +2890,11 @@
     "https://travel.mdpr.jp/travel/detail/4841153",
     "https://prtimes.jp/main/html/rd/p/000000101.000086964.html",
     "https://premium.gamepedia.jp/hobby/archives/248471",
-    "https://www.enjoytokyo.jp/event/2082884/"
+    "https://www.enjoytokyo.jp/event/2082884/",
+    "https://csm-cafe.ltr-online.com/"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-10-16",
+   "collected_at": "2026-10-18",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -3149,7 +3150,7 @@
     "https://tetsudo-ch.com/13038506.html"
    ],
    "summary": "JR東日本クロスステーションが「グランスタ東京」「グランスタ丸の内」にて栗とさつまいもの秋スイーツを集めたフェアを初開催。スイートポテト×芋羊羹パフェや新規出店ショップの栗ケーキなど展開。",
-   "collected_at": "2026-10-13",
+   "collected_at": "2026-10-18",
    "id": "2a9b73ae9f27",
    "is_new": false,
    "freshness": null
@@ -4234,6 +4235,30 @@
   {
    "type": "new_cafe",
    "genre": [
+    "カフェ"
+   ],
+   "name": "Morning Park Cafe",
+   "area": "新大久保",
+   "address": "東京都新宿区大久保1丁目4-20 三島屋ビル1F",
+   "lat": 35.700901,
+   "lng": 139.707153,
+   "period": {
+    "start": "2026-11-06",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000002.000191948.html"
+   ],
+   "summary": "新大久保・大久保通り沿いに、体と心をととのえる「公園のような」コンセプトの新店カフェが2026年11月6日グランドオープン。11月3日・4日は招待制のプレオープンを開催。",
+   "collected_at": "2026-10-18",
+   "id": "ca48666cdd93",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
     "ベーカリー",
     "カフェ"
    ],
@@ -4931,7 +4956,7 @@
     "https://prtimes.jp/main/html/rd/p/000002514.000031382.html"
    ],
    "summary": "西武池袋本店 地下1階デパチカ スイーツ&ギフトで、栗のモンブランや新栗の栗あんを使った水栗羊羹など秋の和洋スイーツを紹介。",
-   "collected_at": "2026-10-03",
+   "collected_at": "2026-10-18",
    "id": "531d32fb1e11",
    "is_new": false,
    "freshness": null
@@ -5236,6 +5261,30 @@
    "summary": "麻布台ヒルズ「HARVEST WEEKS」後半の企画。さつまいもを使ったスイーツを複数店舗で展開。",
    "collected_at": "2026-10-16",
    "id": "70810c03898b",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "芋・栗・あんこ スイーツ",
+   "area": "池袋",
+   "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋店 B1F",
+   "lat": 35.729939,
+   "lng": 139.71051,
+   "period": {
+    "start": "2026-10-22",
+    "end": "2026-11-04"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.fashion-press.net/news/152096"
+   ],
+   "summary": "東武百貨店池袋本店地下1階にて「芋・栗・あんこ」をテーマにしたスイーツ催事。ごろっとマロンミルフィーユやもっちりイモ餅など。期間は2026年10月22日〜11月4日。",
+   "collected_at": "2026-10-18",
+   "id": "b3b19846ef77",
    "is_new": false,
    "freshness": null
   }
