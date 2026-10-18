@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18",
+ "updated_at": "2026-10-19",
  "items": [
   {
    "type": "new_cafe",
@@ -51,7 +51,7 @@
    "collected_at": "2026-08-22",
    "id": "d0b599b31140",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -2025,32 +2025,6 @@
    "freshness": null
   },
   {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "Nissy Birthday Entertainment 2026 Cafe（BOX cafe&space SHIBUYA109渋谷店）",
-   "area": "渋谷",
-   "address": "東京都渋谷区道玄坂2丁目29番1号 SHIBUYA109 地下2階",
-   "lat": 35.659466,
-   "lng": 139.698898,
-   "period": {
-    "start": "2026-08-24",
-    "end": "2026-10-18"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://nissy.jp/news/2992/",
-    "https://prtimes.jp/main/html/rd/p/000000311.000086964.html"
-   ],
-   "summary": "Nissy（西島隆弘）の誕生日記念コラボカフェ「Nissy Birthday Entertainment 2026 Cafe」がSHIBUYA109渋谷店地下2階「BOX cafe&space」にて2026年8月24日〜10月18日開催。限定フード・ドリンクとオリジナルグッズを展開。",
-   "collected_at": "2026-08-24",
-   "id": "06c39a990047",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ"
@@ -2128,7 +2102,7 @@
    "collected_at": "2026-08-27",
    "id": "8ccf1de144b5",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "event",
@@ -2812,7 +2786,7 @@
    "collected_at": "2026-09-05",
    "id": "f7228663f3e0",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "new_cafe",
