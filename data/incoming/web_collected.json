@@ -5659,5 +5659,74 @@
   "summary": "映画「チェンソーマン レゼ篇」に登場する喫茶店「喫茶二道」をイメージしたテーマカフェ。デンジ・レゼをイメージしたフードやポチタのミニパフェなどを提供。東京会場はルミネエスト新宿8階で2026年10月1日〜11月8日開催。",
   "collected_at": "2026-10-18",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "チェンソーマン喫茶",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階 BOX cafe&space ルミネエスト新宿1号店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2082884/"
+  ],
+  "summary": "劇場版『チェンソーマン レゼ篇』イメージの期間限定コラボカフェ「チェンソーマン喫茶」がルミネエスト新宿で開催。サンドイッチやパフェなど作品モチーフのメニューを提供。",
+  "collected_at": "2026-10-20",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café(Mrs.GREEN APPLEファンクラブ10周年)",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1-30-3 B1階 BOX cafe&space グランドスケープ池袋店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": "2026-12-06"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2082881/"
+  ],
+  "summary": "Mrs.GREEN APPLE公式ファンクラブ「Ringo Jam」10周年を記念したテーマカフェが池袋で開催。マスコット「メメル」モチーフのパフェ・パンケーキ等を提供。",
+  "collected_at": "2026-10-20",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "PEANUTS×シュガーバターの木",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 スクエア ゼロ(改札内)",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-12",
+   "end": "2026-10-22"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/157216"
+  ],
+  "summary": "スヌーピーでおなじみ「PEANUTS」とシュガーバターの木のコラボ第4弾がグランスタ東京スクエア ゼロで期間限定開催。季節限定「蜜いもキャラメル仕立て」などオリジナルスイーツ・グッズを販売。",
+  "collected_at": "2026-10-20",
+  "id": ""
  }
 ]
