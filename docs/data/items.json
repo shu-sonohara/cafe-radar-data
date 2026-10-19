@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19",
+ "updated_at": "2026-10-20",
  "items": [
   {
    "type": "new_cafe",
@@ -3639,7 +3639,7 @@
    "collected_at": "2026-09-29",
    "id": "2e355e36c6e6",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "popup",
@@ -4764,33 +4764,6 @@
     "カフェ",
     "コラボカフェ"
    ],
-   "name": "HIMEHINA Bubblin' Memories POP DINER",
-   "area": "渋谷",
-   "address": "東京都渋谷区道玄坂2丁目29-1 SHIBUYA109渋谷店8F",
-   "lat": 35.659466,
-   "lng": 139.698898,
-   "period": {
-    "start": "2026-10-01",
-    "end": "2026-10-19"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://panora.tokyo/archives/158258",
-    "https://prtimes.jp/main/html/rd/p/000000696.000044525.html",
-    "https://www.zaikei.co.jp/releases/3635477/"
-   ],
-   "summary": "バーチャルユニット「HIMEHINA」のワールドツアーをテーマにしたコラボカフェ。ツアーで巡った都市にちなんだご当地メニューやオリジナルグッズを展開。",
-   "collected_at": "2026-10-03",
-   "id": "e6e28f30454a",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
    "name": "カプコンカフェ池袋店「逆転裁判」シリーズ25周年コラボ",
    "area": "池袋",
    "address": "東京都豊島区東池袋1丁目30番3号 グランドスケープ池袋 3F",
@@ -5108,32 +5081,6 @@
    "summary": "TVアニメ『正反対な君と僕』と洒落CAFEのコラボカフェ「レトロポップver.」が新宿マルイ本館8F・洒落CAFE FLEURで開催。描き起こしオリジナルグッズとコラボメニューを提供。",
    "collected_at": "2026-10-07",
    "id": "ac6219903906",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "第77回 京名物 洛趣展",
-   "area": "日本橋",
-   "address": "東京都中央区日本橋室町1-4-1",
-   "lat": 35.685177,
-   "lng": 139.77298,
-   "period": {
-    "start": "2026-10-14",
-    "end": "2026-10-19"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.mistore.jp/shopping/event/nihombashi_e/rakusyu_50",
-    "https://report.iko-yo.net/articles/34397/digest",
-    "https://report.iko-yo.net/articles/34397"
-   ],
-   "summary": "日本橋三越本店本館7階で開催される京都物産展。出町ふたばの名代豆餅など京都の老舗の和菓子・料亭弁当が並ぶ（豆餅は三越伊勢丹オンラインストアでの事前予約制）。",
-   "collected_at": "2026-10-16",
-   "id": "170f88827e5b",
    "is_new": false,
    "freshness": null
   },
