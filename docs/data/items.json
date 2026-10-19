@@ -2574,7 +2574,7 @@
     "https://www.enjoytokyo.jp/event/2082881/"
    ],
    "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。BOX cafe&space グランドスケープ池袋店にて2026年10月2日〜12月6日開催。",
-   "collected_at": "2026-10-17",
+   "collected_at": "2026-10-20",
    "id": "0a7e2e501e7e",
    "is_new": false,
    "freshness": null
@@ -2628,7 +2628,8 @@
     "https://dtimes.jp/post-1354919/",
     "https://airline.ikaros.jp/news/60001/",
     "https://www.traicy.com/posts/20260917381029/",
-    "https://travel.mdpr.jp/travel/detail/4839302"
+    "https://travel.mdpr.jp/travel/detail/4839302",
+    "https://bestcalendar.jp/press/150450"
    ],
    "summary": "東京ばな奈ブランド史上初のカフェスタンド。羽田空港第1ターミナル2F出発ゲートラウンジ(北)16番ゲート前に2026年9月17日オープン。注文ごとに作る「東京ばな奈バー」を提供。",
    "collected_at": "2026-09-22",
@@ -2868,7 +2869,7 @@
     "https://csm-cafe.ltr-online.com/"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-10-18",
+   "collected_at": "2026-10-20",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -4227,6 +4228,54 @@
    "summary": "新大久保・大久保通り沿いに、体と心をととのえる「公園のような」コンセプトの新店カフェが2026年11月6日グランドオープン。11月3日・4日は招待制のプレオープンを開催。",
    "collected_at": "2026-10-18",
    "id": "ca48666cdd93",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "CAFE ours 世田谷",
+   "area": "世田谷",
+   "address": "東京都世田谷区世田谷4-21-27",
+   "lat": 35.646297,
+   "lng": 139.653458,
+   "period": {
+    "start": "2026-10-19",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.city.setagaya.lg.jp/04000/33736.html"
+   ],
+   "summary": "世田谷区役所本庁舎東棟2階に、定食からカフェメニューまで提供するカフェ・レストラン「CAFE ours 世田谷」が10月19日オープン。運営は株式会社WAT、席数約160席。",
+   "collected_at": "2026-10-20",
+   "id": "9c73490f2168",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "喫茶室ルノアール 新宿3丁目T&Tビル店",
+   "area": "新宿三丁目",
+   "address": "東京都新宿区新宿3-32-10 T&Tビル地下1階",
+   "lat": 35.690098,
+   "lng": 139.704208,
+   "period": {
+    "start": "2026-10-18",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.haveagood-holiday.com/en/articles/kissashitsu-renoir-shinjuku-3chome-tt-building-opening"
+   ],
+   "summary": "銀座ルノアールが「喫茶室ルノアール 新宿3丁目T&Tビル店」を10月18日グランドオープン。地下1階、79席、8時〜22時営業。",
+   "collected_at": "2026-10-20",
+   "id": "06a5c5f08e87",
    "is_new": true,
    "freshness": 30
   },
