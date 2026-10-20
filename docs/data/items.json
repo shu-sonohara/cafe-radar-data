@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20",
+ "updated_at": "2026-10-21",
  "items": [
   {
    "type": "new_cafe",
@@ -3898,31 +3898,6 @@
    "summary": "SHOGUN BURGERと宇田川カフェがコラボし、渋谷・宇田川町のCafé BOHEMIAで期間限定POP UPを開催。渋谷のシンボル・ハチ公をイメージした「ハチ公バーガー」を提供する。",
    "collected_at": "2026-10-07",
    "id": "9ee3fa30edf6",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "コラボカフェ",
-    "スイーツ"
-   ],
-   "name": "かえるのピクルス 期間限定POP-UP SHOP メゾン・ド・ピクルス",
-   "area": "新宿",
-   "address": "東京都新宿区西新宿1-5-1 小田急百貨店新宿店7階イベントスペース",
-   "lat": 35.6926,
-   "lng": 139.699112,
-   "period": {
-    "start": "2026-10-08",
-    "end": "2026-10-20"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://animeanime.jp/release/prtimes/20261002/317235.html"
-   ],
-   "summary": "キャラクター「かえるのピクルス」のPOP-UPショップが小田急百貨店新宿店7階イベントスペースで開催。限定ビーンドールやピンズの販売、店内カフェ・パン屋でのコラボメニュー展開あり。",
-   "collected_at": "2026-10-07",
-   "id": "07f4f938f7f6",
    "is_new": false,
    "freshness": null
   },
