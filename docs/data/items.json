@@ -4458,10 +4458,12 @@
    },
    "confidence": "media",
    "sources": [
-    "https://panyasan-navi.net/?p=13641"
+    "https://panyasan-navi.net/?p=13641",
+    "https://www.fashion-press.net/news/147266",
+    "https://www.watch.impress.co.jp/docs/news/2134258.html"
    ],
    "summary": "原宿発の人気ベーカリー「The Little BAKERY Tokyo」がグランスタ東京にオープン。東京駅限定ドーナツ(姉妹店GOOD TOWN DOUGHNUTS)や限定クッキー缶・マカロンを販売。",
-   "collected_at": "2026-09-16",
+   "collected_at": "2026-10-21",
    "id": "cbaae22cf6e4",
    "is_new": true,
    "freshness": 90
@@ -5232,6 +5234,56 @@
    "id": "b3b19846ef77",
    "is_new": false,
    "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "Chocolaterie & Pâtisserie ROND-POINT souvenir",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1-9-1 グランスタ東京(地下 丸の内改札内エリア)",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-09-16",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://travel.watch.impress.co.jp/docs/news/2140855.html",
+    "https://www.walkerplus.com/article/1441665/"
+   ],
+   "summary": "ショコラティエ田中丸博文氏によるショコラトリー・パティスリー。グランスタ東京の改札内エリアリニューアルで新規オープンし、フランス産洋栗を使ったケーキ「シャタン」などを展開。",
+   "collected_at": "2026-10-21",
+   "id": "412d7a3c7916",
+   "is_new": true,
+   "freshness": 90
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "バター菓子専科 虎子堂",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1-9-1 グランスタ東京(地下 丸の内改札内エリア)",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-09-16",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.fashion-press.net/news/147266",
+    "https://www.watch.impress.co.jp/docs/news/2134258.html"
+   ],
+   "summary": "バターをテーマにした新スイーツブランド。グランスタ東京の改札内エリアリニューアルで新規オープンし、新食感のどら焼きやバタークッキーを扱う。",
+   "collected_at": "2026-10-21",
+   "id": "873e8ba89bf7",
+   "is_new": true,
+   "freshness": 90
   }
  ]
 }
