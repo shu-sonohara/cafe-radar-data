@@ -21,8 +21,11 @@
 店名・住所・期間を確認する（`prtimes.jp` 等の直URLならそのまま WebFetch でよい）。
 記事に住所がなければ、店名＋エリアでWebSearchして公式サイト・プレスリリースで補完する。
 
-もし WebFetch が `EGRESS_BLOCKED` で失敗したら（設定が戻っている場合）、
-以降は WebSearch の複数結果を突き合わせる方式に切り替える。プロキシの調査に時間を使わない。
+**WebFetch が失敗したときの判断**（エラー文字列は環境更新で変わるので文字列に依存しない）:
+- 特定サイトだけ 403 / 503 / 404 → そのサイトのbot対策や欠番。別の媒体のURLを試す
+- `prtimes.jp` と `example.com` の両方が失敗する（`EGRESS_BLOCKED`、`ENOTFOUND`、CONNECT 403 など種類を問わず）
+  → 環境のネットワークが閉じている。以降は WebSearch の複数結果を突き合わせる方式に切り替え、
+  最後の報告で「WebFetch不可（エラー: …）」と伝える。プロキシの調査に時間を使わない
 
 いずれにせよ **`sources` には記事の実URL**（prtimes.jp、公式サイト、媒体の記事URL）を入れる。
 `news.google.com` の中間URLは不可。
@@ -48,6 +51,8 @@
   `confidence: "unverified"` で出してよい（アプリで🔴要確認表示になる）。
   町名すら不明なら出さない
 - **new_cafe はオープン日を `period.start` に必ず入れる。** オープンから365日超は対象外
+- **オープン日や住所が「11月下旬」「○○駅前」のように未確定だが有望な候補は、捨てずに保留する**（下記「書き出し方」の手順2）。
+  確定したら通常どおり出力する。`todo` の先頭に `source: "pending:再確認"` として再浮上するので、そのときに改めて調べる
 - **終了済みのポップアップ・催事は出さない**（今日より前に `end` が過ぎているもの）
 - **グッズ販売のみのポップアップストア**（飲食要素なし）は対象外
 - 「おすすめ10選」等のまとめ記事、東京都外、リニューアルのみ・単なる新メニューは対象外
@@ -58,9 +63,12 @@
 ## 書き出し方（必ずこの手順）
 
 1. 新規アイテムの配列を `/tmp/rss_new.json` に書く（0件なら `[]`）
-2. `python -m src.incoming append data/incoming/rss_structured.json /tmp/rss_new.json`
+2. `python3 -m src.incoming append data/incoming/rss_structured.json /tmp/rss_new.json`
    → 検証・重複除外・追記を安全に行う。`invalid` が出たらその件を直して再実行
-3. `python -m src.candidates mark-reviewed --today $(TZ=Asia/Tokyo date +%F)`
-   → 今日見た候補を処理済みにする（明日のtodoから消える）
+3. 日付・住所が未確定の有望候補は保留する（該当なしなら省略）:
+   `python3 -m src.candidates hold --today "$TODAY" --url "<候補のurl>" --title "<店名>" --note "<未確定の理由と分かっていること>" --days 7`
+   → 7日後の todo に「pending:再確認」として再浮上する。再確認してもまだ未確定なら同じコマンドで再保留（初出から60日で自動的に諦める）
+4. `python3 -m src.candidates mark-reviewed --today "$TODAY"`
+   → 今日見た候補を処理済みにする（明日のtodoから消える。保留した候補は期日まで消える）
 
-**`data/incoming/*.json` を直接編集・上書きしないこと。**
+**`data/incoming/*.json` と `data/pending.json` を直接編集・上書きしないこと。**

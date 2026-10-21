@@ -23,7 +23,7 @@ RSS系統が拾わない情報（個人店・ローカルメディア・百貨�
 
 ## 裏取り
 
-`structure.md` と同じ（WebFetchで記事を直接開いて確認。遮断されていればWebSearch突き合わせ）。
+`structure.md` と同じ（WebFetchで記事を直接開いて確認。失敗時の判断も structure.md の規定どおり）。
 出典URLが確認できたものだけ。個人ブログ・まとめ単一ソースは `confidence: "unverified"`。
 
 ## ルール
@@ -38,6 +38,7 @@ RSS系統が拾わない情報（個人店・ローカルメディア・百貨�
 ## 書き出し方
 
 1. 配列を `/tmp/web_new.json` に書く（0件なら `[]`）
-2. `python -m src.incoming append data/incoming/web_collected.json /tmp/web_new.json`
+2. `python3 -m src.incoming append data/incoming/web_collected.json /tmp/web_new.json`
+3. 日付・住所が未確定の有望店は `structure.md` と同じく `python3 -m src.candidates hold ...` で保留する
 
 **`data/incoming/*.json` を直接編集・上書きしないこと。**

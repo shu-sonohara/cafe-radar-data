@@ -37,6 +37,13 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python -m src.run_pipeline --today $(date +%F)  # 統合・配信JSON生成
 ```
 
+## 環境の注意（2026-10-21）
+
+- クラウド環境の Network access は **Full**（公開データのみのため）。Custom の `*.domain` は
+  サブドメインのみでドメイン本体に効かない。WebFetch の失敗はエラー文字列で判定せず
+  「prtimes.jp と example.com の両方が失敗したら環境側」と判断する
+- 環境の `pip` と `python3` は別インタプリタを向くことがある → `python3 -m pip` / `python3 -m pytest`
+
 ## 収集の見直し（2026-08-29）
 
 毎朝のルーチン報告で繰り返し挙がった問題への対策:

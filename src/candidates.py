@@ -21,6 +21,8 @@ from src.normalize import normalize_name
 RAW_PATH = "data/raw_candidates.json"
 TODO_PATH = "data/candidates_todo.json"
 REVIEWED_PATH = "data/reviewed_urls.json"
+PENDING_PATH = "data/pending.json"
+PENDING_MAX_DAYS = 60      # これを過ぎても日付が確定しない保留は諦める
 MAX_AGE_DAYS = 60          # これより古い記事は「新規オープン」の候補にしない
 REVIEWED_KEEP_DAYS = 45    # 処理済み記録の保持期間（raw側の保持3日より十分長ければよい）
 DUP_TITLE_SIM = 0.8
@@ -95,13 +97,50 @@ def _write(path: str, data) -> None:
     Path(path).write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+def _due_pending(today: str) -> tuple[list, list]:
+    """保留のうち再確認期日が来たもの（due）と、残す保留（keep）に分ける。
+    初出から PENDING_MAX_DAYS を過ぎたものは諦めて捨てる。"""
+    give_up = (date.fromisoformat(today) - timedelta(days=PENDING_MAX_DAYS)).isoformat()
+    due, keep = [], []
+    for e in _load(PENDING_PATH, []):
+        if e["first_seen"] < give_up:
+            continue
+        (due if e["hold_until"] <= today else keep).append(e)
+    return due, keep
+
+
 def cmd_todo(today: str) -> int:
     raw = _load(RAW_PATH, [])
     reviewed = _load(REVIEWED_PATH, {})
     todo = select_todo(raw, set(reviewed), today)
-    _write(TODO_PATH, todo)
-    print(f"候補 {len(raw)} 件 → 処理済み除外・{MAX_AGE_DAYS}日超除外・同話題束ね → 要確認 {len(todo)} 件")
-    return len(todo)
+    due, keep = _due_pending(today)
+    # 保留の再確認分は処理済みかどうかに関係なく先頭に出す
+    resurfaced = [{
+        "source": "pending:再確認", "title": e["title"], "url": e["url"], "also_urls": [],
+        "published": "", "published_date": e["first_seen"], "seen_at": e["first_seen"],
+        "summary": f"【保留の再確認】{e['note']}（初出 {e['first_seen']}）",
+    } for e in due]
+    _write(PENDING_PATH, due + keep)
+    _write(TODO_PATH, resurfaced + todo)
+    print(f"候補 {len(raw)} 件 → 処理済み除外・{MAX_AGE_DAYS}日超除外・同話題束ね → 要確認 {len(todo)} 件"
+          + (f" ＋ 保留の再確認 {len(due)} 件" if due else ""))
+    return len(todo) + len(due)
+
+
+def cmd_hold(today: str, url: str, title: str, note: str, days: int = 7) -> None:
+    """日付未確定などで今日は採用できない有望候補を保留し、days 日後に再確認させる。
+    既に保留中なら hold_until だけ延ばす（first_seen は引き継ぐ）。"""
+    pending = _load(PENDING_PATH, [])
+    hold_until = (date.fromisoformat(today) + timedelta(days=days)).isoformat()
+    for e in pending:
+        if e["url"] == url:
+            e.update(title=title, note=note, hold_until=hold_until)
+            break
+    else:
+        pending.append({"url": url, "title": title, "note": note,
+                        "first_seen": today, "hold_until": hold_until})
+    _write(PENDING_PATH, pending)
+    print(f"保留: {title} → {hold_until} に再確認")
 
 
 def cmd_mark_reviewed(today: str) -> int:
@@ -113,6 +152,8 @@ def cmd_mark_reviewed(today: str) -> int:
         for u in c.get("also_urls", []):
             reviewed[u] = today
     _write(REVIEWED_PATH, reviewed)
+    # 今日再確認した保留は、再保留（hold で hold_until が未来に更新済み）でなければ閉じる
+    _write(PENDING_PATH, [e for e in _load(PENDING_PATH, []) if e["hold_until"] > today])
     _write(TODO_PATH, [])
     print(f"処理済みURL {len(reviewed)} 件を記録")
     return len(reviewed)
@@ -120,11 +161,19 @@ def cmd_mark_reviewed(today: str) -> int:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("command", choices=["todo", "mark-reviewed"])
+    ap.add_argument("command", choices=["todo", "mark-reviewed", "hold"])
     ap.add_argument("--today", default=date.today().isoformat())
+    ap.add_argument("--url", help="hold: 候補のURL")
+    ap.add_argument("--title", help="hold: 店名/イベント名")
+    ap.add_argument("--note", default="", help="hold: 未確定の理由と分かっていること")
+    ap.add_argument("--days", type=int, default=7, help="hold: 何日後に再確認するか")
     args = ap.parse_args()
     if args.command == "todo":
         cmd_todo(args.today)
+    elif args.command == "hold":
+        if not (args.url and args.title):
+            ap.error("hold には --url と --title が必要です")
+        cmd_hold(args.today, args.url, args.title, args.note, args.days)
     else:
         cmd_mark_reviewed(args.today)
 
