@@ -7357,5 +7357,28 @@
   "summary": "東京ばな奈ブランド初のカフェスタンドが羽田空港第1ターミナル出発ゲートラウンジ(北)にオープン。注文後に仕上げる「東京ばな奈バー」や羽田限定ソフトクリームを提供。搭乗者専用エリア。",
   "collected_at": "2026-10-21",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "SOY LATTE LABORATORY（OGAWA COFFEE LABORATORY×マルサン豆乳）",
+  "area": "下北沢",
+  "address": "東京都世田谷区北沢3-19-20 reload ENTRANCE HALL",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-06",
+   "end": "2026-11-10"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000231.000048770.html"
+  ],
+  "summary": "マルサンの有機豆乳無調整を使った限定ソイラテを販売するPOPUP&ローンチイベント。隣接する「OGAWA COFFEE LABORATORY 下北沢」が飲食提供を担当。ラムレーズンソイラテなど。",
+  "collected_at": "2026-10-21",
+  "id": ""
  }
 ]
