@@ -7380,5 +7380,50 @@
   "summary": "マルサンの有機豆乳無調整を使った限定ソイラテを販売するPOPUP&ローンチイベント。隣接する「OGAWA COFFEE LABORATORY 下北沢」が飲食提供を担当。ラムレーズンソイラテなど。",
   "collected_at": "2026-10-21",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "YOLU MELLOW NIGHT Cafe（MOSKA by GingerGarden）",
+  "area": "表参道",
+  "address": "東京都港区北青山3-12-12 HOLON-R 3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-19",
+   "end": "2026-11-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.wwdjapan.com/?p=2530114"
+  ],
+  "summary": "ナイトケアブランド「YOLU」が表参道のモスカ バイ ジンジャーガーデンとコラボし、期間限定の予約制夜カフェを開催。限定パフェ「ヨル メロウナイト パフェ」やコラボモクテル、ヘアマスクつき特別メニューを提供。",
+  "collected_at": "2026-10-22",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "TOKYO STATION CAFE -THE NORTH DOME-（ニコライ・アストルップ展コラボパフェ）",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1丁目9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-21",
+   "end": "2027-01-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000001270.000082978.html"
+  ],
+  "summary": "東京ステーションギャラリーの展覧会「ニコライ・アストルップ 創造する庭」開催記念で、隣接するTOKYO STATION CAFE -THE NORTH DOME-がノルウェーの自然をイメージしたコラボレーションパフェ(1,800円)を期間限定販売。",
+  "collected_at": "2026-10-22",
+  "id": ""
  }
 ]
