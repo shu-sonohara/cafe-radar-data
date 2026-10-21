@@ -2540,11 +2540,13 @@
     "https://mrsgreenapple.com/feature/ringojamshow2026",
     "https://natalie.mu/music/news/687935",
     "https://prtimes.jp/main/html/rd/p/000000321.000086964.html",
+    "https://news.mynavi.jp/article/20260904-4914991/",
+    "https://www.sakigake.jp/news/article/20260904OR0098/",
     "https://collabo-cafe.com/events/collabo/mrs-green-apple-ringo-jam-cafe-2026/",
     "https://www.enjoytokyo.jp/event/2082881/"
    ],
    "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。BOX cafe&space GEMS渋谷店にて2026年9月25日〜12月6日開催。メンバーモチーフのソーダやオリジナルグッズを展開。",
-   "collected_at": "2026-09-29",
+   "collected_at": "2026-10-21",
    "id": "bfc3fa6a253d",
    "is_new": false,
    "freshness": null
@@ -2599,10 +2601,11 @@
     "https://news.yahoo.co.jp/articles/29685e2ca69792c05efddddb681039340b446c9b",
     "https://mrsgreenapple.com/feature/ringojamshow2026",
     "https://prtimes.jp/main/html/rd/p/000000321.000086964.html",
-    "https://natalie.mu/music/news/687935"
+    "https://natalie.mu/music/news/687935",
+    "https://news.mynavi.jp/article/20260904-4914991/"
    ],
    "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。Pacific DRIVE-IN ルミネエスト新宿店にて2026年10月30日〜12月20日開催。",
-   "collected_at": "2026-09-06",
+   "collected_at": "2026-10-21",
    "id": "50cd5e6649c6",
    "is_new": false,
    "freshness": null
@@ -2732,6 +2735,7 @@
    "confidence": "official",
    "sources": [
     "https://www.newotani.co.jp/tokyo/restaurant/gardenlounge/chestnut-grape/",
+    "https://www.newotani.co.jp/group/marron-grape/",
     "https://www.newotani.co.jp/group/marron-grape/tokyo/"
    ],
    "summary": "ホテルニューオータニ東京のガーデンラウンジで秋のスイーツビュッフェを開催。栗とぶどうを使ったモンブランやゼリーなどを提供。",
@@ -2866,10 +2870,11 @@
     "https://prtimes.jp/main/html/rd/p/000000101.000086964.html",
     "https://premium.gamepedia.jp/hobby/archives/248471",
     "https://www.enjoytokyo.jp/event/2082884/",
-    "https://csm-cafe.ltr-online.com/"
+    "https://csm-cafe.ltr-online.com/",
+    "https://bestcalendar.jp/press/151557"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-10-20",
+   "collected_at": "2026-10-21",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -3125,7 +3130,7 @@
     "https://tetsudo-ch.com/13038506.html"
    ],
    "summary": "JR東日本クロスステーションが「グランスタ東京」「グランスタ丸の内」にて栗とさつまいもの秋スイーツを集めたフェアを初開催。スイートポテト×芋羊羹パフェや新規出店ショップの栗ケーキなど展開。",
-   "collected_at": "2026-10-18",
+   "collected_at": "2026-10-21",
    "id": "2a9b73ae9f27",
    "is_new": false,
    "freshness": null
@@ -3153,7 +3158,7 @@
     "https://bestcalendar.jp/press/150450"
    ],
    "summary": "東京ばな奈ブランド初のカフェスタンドが羽田空港第1ターミナル出発ゲートラウンジ（北）16番ゲート前にオープン。限定「東京ばな奈ソフトクリーム ばな奈ミルク味」（500円）や、注文後にその場で作る「東京ばな奈バー チョコバナナ風」（550円）などを販売。",
-   "collected_at": "2026-10-17",
+   "collected_at": "2026-10-21",
    "id": "5e0b02b0b226",
    "is_new": true,
    "freshness": 90
@@ -4255,6 +4260,108 @@
    "freshness": 30
   },
   {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "スイーツ",
+    "コラボカフェ"
+   ],
+   "name": "Café Swarovski",
+   "area": "銀座",
+   "address": "東京都中央区銀座8丁目9-15 ジュエルボックス銀座2階",
+   "lat": 35.667984,
+   "lng": 139.761826,
+   "period": {
+    "start": "2026-10-28",
+    "end": "2026-12-25"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000141.000007029.html"
+   ],
+   "summary": "スワロフスキー銀座2階に期間限定カフェ「Café Swarovski」がオープン。パティシエ江藤英樹氏監修のスイーツやNespressoコーヒー、モクテルなどを提供。予約優先・90分制。",
+   "collected_at": "2026-10-21",
+   "id": "4baf8b4df55a",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "知るカフェ成蹊大学店（仮称）",
+   "area": "吉祥寺",
+   "address": "東京都武蔵野市吉祥寺北町3-3-1 成蹊大学11号館ラーニングコモンズ トーリウム1階",
+   "lat": 35.710575,
+   "lng": 139.572693,
+   "period": {
+    "start": "2026-11-04",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000085.000140072.html"
+   ],
+   "summary": "成蹊大学キャンパス内に学生向けキャリア支援カフェ「知るカフェ」が2026年11月オープン。学生は無料でドリンクを飲みながら企業・社会人と交流できる。東京23区外の私立大学では初出店。",
+   "collected_at": "2026-10-21",
+   "id": "a430ba42a4d8",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "Ringo Jam Café（BOX cafe&spaceグランドスケープ池袋店）",
+   "area": "池袋",
+   "address": "東京都豊島区東池袋1丁目",
+   "lat": 35.731373,
+   "lng": 139.715302,
+   "period": {
+    "start": "2026-10-02",
+    "end": "2026-12-06"
+   },
+   "confidence": "unverified",
+   "sources": [
+    "https://news.mynavi.jp/article/20260904-4914991/",
+    "https://www.enjoytokyo.jp/event/2082881/"
+   ],
+   "summary": "Mrs. GREEN APPLE OFFICIAL FAN CLUB発足10周年記念のテーマカフェ「Ringo Jam Café」がグランドスケープ池袋のBOX cafe&spaceで開催。番地は媒体間で表記揺れがあるため未確定。",
+   "collected_at": "2026-10-21",
+   "id": "9a25ccc58a3e",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コーヒー",
+    "コラボカフェ"
+   ],
+   "name": "SOY LATTE LABORATORY（OGAWA COFFEE LABORATORY×マルサン豆乳）",
+   "area": "下北沢",
+   "address": "東京都世田谷区北沢3-19-20 reload ENTRANCE HALL",
+   "lat": 35.663227,
+   "lng": 139.669739,
+   "period": {
+    "start": "2026-11-06",
+    "end": "2026-11-10"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000231.000048770.html"
+   ],
+   "summary": "マルサンの有機豆乳無調整を使った限定ソイラテを販売するPOPUP&ローンチイベント。隣接する「OGAWA COFFEE LABORATORY 下北沢」が飲食提供を担当。ラムレーズンソイラテなど。",
+   "collected_at": "2026-10-21",
+   "id": "8a7f92fabeac",
+   "is_new": false,
+   "freshness": null
+  },
+  {
    "type": "new_cafe",
    "genre": [
     "ベーカリー",
@@ -5159,31 +5266,6 @@
    "summary": "JR東京駅改札内B1「グランスタ東京」スクエア ゼロにて、PEANUTS（スヌーピー）×シュガーバターの木のコラボポップアップを開催。季節限定の新作菓子やオリジナルグッズを販売。",
    "collected_at": "2026-10-14",
    "id": "0f5fb4eb51c4",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "Ringo Jam Café",
-   "area": "池袋",
-   "address": "東京都豊島区東池袋1丁目（グランドスケープ池袋内）",
-   "lat": 35.731373,
-   "lng": 139.715302,
-   "period": {
-    "start": "2026-10-02",
-    "end": "2026-12-06"
-   },
-   "confidence": "unverified",
-   "sources": [
-    "https://www.enjoytokyo.jp/event/2082881/"
-   ],
-   "summary": "Mrs. GREEN APPLE公式ファンクラブ「Ringo Jam」10周年を記念したテーマカフェ。公式アプリ「MGA App」をイメージしたメニュー・内装。",
-   "collected_at": "2026-10-16",
-   "id": "786df5c87e9a",
    "is_new": false,
    "freshness": null
   },
