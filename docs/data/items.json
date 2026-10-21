@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21",
+ "updated_at": "2026-10-22",
  "items": [
   {
    "type": "new_cafe",
@@ -550,7 +550,7 @@
    "collected_at": "2026-08-22",
    "id": "fffae75c5c08",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -3315,32 +3315,6 @@
    "freshness": null
   },
   {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "SuicaのペンギンフェアFINAL",
-   "area": "東京駅",
-   "address": "東京都千代田区丸の内1-9-1 グランスタ東京",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-09-23",
-    "end": "2026-10-21"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000001223.000082978.html",
-    "https://raillab.jp/news/article/35401",
-    "https://www.gransta.jp/news/info/suicafair_final/"
-   ],
-   "summary": "グランスタ東京で開催される「Suicaのペンギン」最後のフェア。新作10商品を含む限定スイーツ・グッズ計24商品が9月23日〜10月21日に登場。",
-   "collected_at": "2026-09-29",
-   "id": "165f620d068a",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "ベーカリー"
@@ -4107,34 +4081,6 @@
    "summary": "「僕のヒーローアカデミア」のコラボカフェが原宿のBOX cafe&space キュープラザ原宿店にて期間限定開催。番地は未確認のため丁目までの住所。",
    "collected_at": "2026-10-14",
    "id": "beb400d6fb5e",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "ネスレ日本の係長ハイジのおしごと体験カフェ",
-   "area": "原宿",
-   "address": "東京都渋谷区神宮前1-22-8",
-   "lat": 35.672619,
-   "lng": 139.703583,
-   "period": {
-    "start": "2026-10-07",
-    "end": "2026-10-21"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.hokkaido-np.co.jp/article/1375615/",
-    "https://digitalpr.jp/r/144039",
-    "https://prtimes.jp/main/html/rd/p/000000462.000004158.html",
-    "https://dtimes.jp/post-1389940/"
-   ],
-   "summary": "ネスレ日本のキャラクター「ハイジ」を起用した体験型イベントカフェ。ネスカフェ 原宿にて、ヤギのミルクを使った限定メニュー等を提供。土日はハイジ役が来店者を出迎える。",
-   "collected_at": "2026-10-14",
-   "id": "334c30a05242",
    "is_new": false,
    "freshness": null
   },
