@@ -4304,6 +4304,59 @@
    "freshness": null
   },
   {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "Fallout×TOWER RECORDS CAFE コラボカフェ",
+   "area": "表参道",
+   "address": "東京都渋谷区神宮前6-3-9 井門原宿ビル2F",
+   "lat": 35.668018,
+   "lng": 139.706039,
+   "period": {
+    "start": "2026-10-22",
+    "end": "2026-11-08"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.gamespark.jp/release/prtimes/20260924/316224.html",
+    "https://tower.jp/article/news/2026/09/24/c101",
+    "https://prtimes.jp/main/html/rd/p/000000343.000092133.html",
+    "https://game.watch.impress.co.jp/docs/news/2142727.html"
+   ],
+   "summary": "ゲーム「Fallout」とTOWER RECORDS CAFE 表参道店のコラボカフェ。作中フードをアレンジしたメニューやオリジナルグッズを展開。前期10/22〜10/30、後期10/31〜11/8の2期制。",
+   "collected_at": "2026-10-23",
+   "id": "5902f5e6ebf2",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "コメダ珈琲店 板橋仲宿店",
+   "area": "板橋仲宿",
+   "address": "東京都板橋区仲宿56-16 日神パレステージ板橋仲宿 1階",
+   "lat": 35.755074,
+   "lng": 139.709106,
+   "period": {
+    "start": "2026-10-19",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://gourmet.watch.impress.co.jp/docs/news/2149210.html"
+   ],
+   "summary": "「コメダ式DX」をトライアル導入した新店舗。先注文・先会計、電子コーヒーチケットなどを採用。",
+   "collected_at": "2026-10-23",
+   "id": "bfc99695d962",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
    "type": "new_cafe",
    "genre": [
     "ベーカリー",
@@ -4676,33 +4729,6 @@
    "id": "65d71163335b",
    "is_new": true,
    "freshness": 30
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE（表参道店）",
-   "area": "表参道",
-   "address": "東京都渋谷区神宮前6-3-9 井門原宿ビル2F",
-   "lat": 35.668018,
-   "lng": 139.706039,
-   "period": {
-    "start": "2026-10-22",
-    "end": "2026-11-08"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://tower.jp/article/news/2026/09/24/c101",
-    "https://prtimes.jp/main/html/rd/p/000000343.000092133.html",
-    "https://game.watch.impress.co.jp/docs/news/2142727.html"
-   ],
-   "summary": "RPG『Fallout』とTOWER RECORDS CAFEのコラボカフェが表参道店で開催。作中フード・スイーツ・ドリンクをアレンジしたコラボメニューやカフェ先行発売グッズを展開。前期10/22〜10/30、後期10/31〜11/8。",
-   "collected_at": "2026-09-28",
-   "id": "d8c4a607f714",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "popup",
