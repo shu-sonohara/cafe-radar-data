@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22",
+ "updated_at": "2026-10-23",
  "items": [
   {
    "type": "new_cafe",
@@ -1120,7 +1120,7 @@
    "collected_at": "2026-08-22",
    "id": "f3d334780582",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -2496,36 +2496,6 @@
     "コラボカフェ",
     "カフェ"
    ],
-   "name": "ディズニーヴィランズ OH MY CAFE",
-   "area": "表参道",
-   "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館地下3階",
-   "lat": 35.667229,
-   "lng": 139.708557,
-   "period": {
-    "start": "2026-09-17",
-    "end": "2026-10-22"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://news.denfaminicogamer.jp/news/2609033h",
-    "https://gourmetpress.net/1477448/",
-    "https://www.cinemacafe.net/article/2026/09/06/112363.html",
-    "https://animeanime.jp/article/2026/09/06/102724.html",
-    "https://prtimes.jp/main/html/rd/p/000000327.000086964.html",
-    "https://www.disney.co.jp/shopping/cafenews/20251113_01"
-   ],
-   "summary": "ディズニーヴィランズをテーマにしたハロウィン期テーマカフェ。表参道ヒルズ本館地下3階で2026年9月17日〜10月22日開催。",
-   "collected_at": "2026-09-04",
-   "id": "411e3815e96d",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "コラボカフェ",
-    "カフェ"
-   ],
    "name": "Ringo Jam Café（BOX cafe&space GEMS渋谷店）",
    "area": "渋谷",
    "address": "東京都渋谷区渋谷3-27-11 GEMS渋谷3階",
@@ -3262,7 +3232,7 @@
    "collected_at": "2026-09-17",
    "id": "b8b63f34eae9",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -4575,32 +4545,6 @@
    "freshness": null
   },
   {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "TVアニメ『ブルーロック』×プリンセスカフェ（池袋館）",
-   "area": "池袋",
-   "address": "東京都豊島区東池袋1丁目32-4 藤原ビル B1F",
-   "lat": 35.732727,
-   "lng": 139.715851,
-   "period": {
-    "start": "2026-10-01",
-    "end": "2026-10-22"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.pripricafe.com/event/cafe/bluelock_cafe_202601.html",
-    "https://www.pripricafe.com/shop/cafe/ikebukuro.html"
-   ],
-   "summary": "TVアニメ『ブルーロック』とプリンセスカフェのコラボカフェが池袋館で期間限定開催。",
-   "collected_at": "2026-09-17",
-   "id": "9f221864343d",
-   "is_new": false,
-   "freshness": null
-  },
-  {
    "type": "event",
    "genre": [
     "スイーツ"
@@ -4653,32 +4597,6 @@
    "id": "6e10e66f4e51",
    "is_new": true,
    "freshness": 90
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "TVアニメ『ブルーロック』×プリンセスカフェ池袋館",
-   "area": "東池袋",
-   "address": "東京都豊島区東池袋1-31-1 バロックコート池袋 2階・5階",
-   "lat": 35.731689,
-   "lng": 139.716492,
-   "period": {
-    "start": "2026-10-01",
-    "end": "2026-10-22"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://collabo-cafe.com/events/collabo/blue-lock-princesscafe2021-add-info-lineup/",
-    "https://www.pripricafe.com/event/cafe/bluelock_cafe_202601.html"
-   ],
-   "summary": "TVアニメ『ブルーロック』とプリンセスカフェのコラボカフェが東池袋のプリンセスカフェ池袋館で10月1日〜22日開催。レトロ衣装風のキャラクターイラストを使用した限定メニュー・グッズを展開。",
-   "collected_at": "2026-09-18",
-   "id": "81179667a948",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "event",
@@ -4809,32 +4727,6 @@
    "summary": "『逆転裁判』シリーズ25周年を記念したコラボがカプコンカフェ池袋店で開催。オリジナルグッズとコラボメニューを展開。",
    "collected_at": "2026-09-28",
    "id": "9d4a5cbc58f7",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "『マスク男子は恋したくないのに』コラボカフェ（eeo Cafe池袋）",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1丁目9番21号 JK7 1階",
-   "lat": 35.724644,
-   "lng": 139.710907,
-   "period": {
-    "start": "2026-10-10",
-    "end": "2026-10-22"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://x.com/bboy_goods/status/2093247462714556645",
-    "https://www.b-boy.jp/special/maskdanshi/oad.html"
-   ],
-   "summary": "BLコミック『マスク男子は恋したくないのに』のコラボカフェがeeo Cafe池袋で開催。新規描き下ろしグッズやキャラクターイメージのコラボメニューを展開。",
-   "collected_at": "2026-09-28",
-   "id": "e9aeb27ad469",
    "is_new": false,
    "freshness": null
   },
@@ -5210,34 +5102,6 @@
    "summary": "アニメ『ホリミヤ』とのコラボカフェ。motto cafe池袋店で前半（10/14〜11/20）・後半（11/21〜12/27）の2部制で開催、限定メニュー・グッズを展開。",
    "collected_at": "2026-10-12",
    "id": "6b136c6a64e8",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "PEANUTS × シュガーバターの木 ポップアップ（第4弾）",
-   "area": "東京駅",
-   "address": "東京都千代田区丸の内1-9-1",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-10-12",
-    "end": "2026-10-22"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://bestcalendar.jp/press/157216",
-    "https://www.walkerplus.com/article/1299243/",
-    "https://premium.gamepedia.jp/hobby/archives/269022",
-    "https://www.crank-in.net/trend/events/184642/1"
-   ],
-   "summary": "JR東京駅改札内B1「グランスタ東京」スクエア ゼロにて、PEANUTS（スヌーピー）×シュガーバターの木のコラボポップアップを開催。季節限定の新作菓子やオリジナルグッズを販売。",
-   "collected_at": "2026-10-14",
-   "id": "0f5fb4eb51c4",
    "is_new": false,
    "freshness": null
   },
