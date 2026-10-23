@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23",
+ "updated_at": "2026-10-24",
  "items": [
   {
    "type": "new_cafe",
@@ -3308,7 +3308,7 @@
    "collected_at": "2026-09-18",
    "id": "0f1a0d13b903",
    "is_new": true,
-   "freshness": 30
+   "freshness": 90
   },
   {
    "type": "popup",
