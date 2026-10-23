@@ -5888,5 +5888,50 @@
   "summary": "品川プリンスホテル メインタワー39階「DINING & BAR TABLE 9 TOKYO」で、茨城県笠間産の和栗とフランス産の洋栗を使った期間限定『モンブラン セレクション アフタヌーンティー』を提供。1名7,200円/8,700円。",
   "collected_at": "2026-10-22",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "hitosumi coffee stand",
+  "area": "北品川",
+  "address": "東京都品川区北品川1-22-19 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-22",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.haveagood-holiday.com/en/articles/hitosumi-coffee-stand-kitashinagawa-opening"
+  ],
+  "summary": "京急北品川駅から徒歩2分に新規オープンしたコーヒースタンド。2026年10月22日(木)開店。営業時間7:45〜16:00、火曜定休。",
+  "collected_at": "2026-10-24",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "モンブラン セレクション アフタヌーンティー",
+  "area": "高輪",
+  "address": "東京都港区高輪4-10-30 品川プリンスホテル メインタワー39F DINING & BAR TABLE 9 TOKYO",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": "2026-11-15"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2033622/",
+   "https://bestcalendar.jp/press/147746"
+  ],
+  "summary": "品川プリンスホテル「DINING & BAR TABLE 9 TOKYO」(メインタワー39F)で開催中の栗尽くしモンブランアフタヌーンティー。茨城・笠間産の和栗とフランス産の洋栗を使用。2026年9月16日〜11月15日。",
+  "collected_at": "2026-10-24",
+  "id": ""
  }
 ]

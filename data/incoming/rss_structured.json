@@ -7471,5 +7471,120 @@
   "summary": "「コメダ式DX」をトライアル導入した新店舗。先注文・先会計、電子コーヒーチケットなどを採用。",
   "collected_at": "2026-10-23",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in Tower Records Cafe",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前6-3-9 井門原宿ビル 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-22",
+   "end": "2026-11-08"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://game.watch.impress.co.jp/docs/news/2142727.html"
+  ],
+  "summary": "人気RPG『Fallout』とTOWER RECORDS CAFEのコラボカフェ。TOWER RECORDS CAFE表参道店で前期10/22-10/30、後期10/31-11/8の2期制で開催。ヌカコーラクアンタム等の作中モチーフメニューやコラボグッズを展開。",
+  "collected_at": "2026-10-24",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "原神CAFE",
+  "area": "有楽町",
+  "address": "東京都千代田区有楽町2-7-1 有楽町マルイ3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2027-01-20",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000456.000096124.html"
+  ],
+  "summary": "『原神』初の日本国内常設カフェ「原神CAFE」が有楽町マルイ3Fに2027年1月20日(水)オープン予定。作品の世界観を表現したフードメニューや限定グッズを展開。",
+  "collected_at": "2026-10-24",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "栗とぶどう スイーツフェア",
+  "area": "紀尾井町",
+  "address": "東京都千代田区紀尾井町4-1 ホテルニューオータニ東京",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-01",
+   "end": "2026-11-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.newotani.co.jp/group/marron-grape/",
+   "https://www.newotani.co.jp/tokyo/"
+  ],
+  "summary": "ホテルニューオータニ東京で開催中の秋のスイーツフェア。和栗を使った「スーパーモンブラン」やマロンパンケーキ、ぶどう系スイーツを展開。2026年9月1日〜11月30日。",
+  "collected_at": "2026-10-24",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "TOKYO BANANA Cafe Stand（東京ばな奈カフェスタンド）",
+  "area": "羽田空港第1ターミナル",
+  "address": "東京都大田区羽田空港3-3-2 羽田空港第1旅客ターミナル2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/150450"
+  ],
+  "summary": "東京ばな奈ブランド初のカフェスタンド。羽田空港第1ターミナル2F出発ゲートラウンジ(北)16番ゲート前(保安検査後エリア)に2026年9月17日オープン。東京ばな奈バー等を販売。",
+  "collected_at": "2026-10-24",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "VIVANTカフェ占拠計画 by 悪役会議室",
+  "area": "赤坂",
+  "address": "東京都港区赤坂5-4-7 THE HEXAGON 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-28",
+   "end": "2026-11-29"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://tinpanblog.com/?p=65614"
+  ],
+  "summary": "TBSラジオ『VIVANT 悪役会議室』のコラボカフェ「ブランチパーク」赤坂にて開催。悪役モチーフのメニューや番組グッズを展開。2026年10月28日〜11月29日。",
+  "collected_at": "2026-10-24",
+  "id": ""
  }
 ]
