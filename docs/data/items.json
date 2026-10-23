@@ -2707,6 +2707,7 @@
    "sources": [
     "https://www.newotani.co.jp/tokyo/restaurant/gardenlounge/chestnut-grape/",
     "https://www.newotani.co.jp/group/marron-grape/",
+    "https://www.newotani.co.jp/tokyo/",
     "https://www.newotani.co.jp/group/marron-grape/tokyo/"
    ],
    "summary": "ホテルニューオータニ東京のガーデンラウンジで秋のスイーツビュッフェを開催。栗とぶどうを使ったモンブランやゼリーなどを提供。",
@@ -3129,7 +3130,7 @@
     "https://bestcalendar.jp/press/150450"
    ],
    "summary": "東京ばな奈ブランド初のカフェスタンドが羽田空港第1ターミナル出発ゲートラウンジ（北）16番ゲート前にオープン。限定「東京ばな奈ソフトクリーム ばな奈ミルク味」（500円）や、注文後にその場で作る「東京ばな奈バー チョコバナナ風」（550円）などを販売。",
-   "collected_at": "2026-10-21",
+   "collected_at": "2026-10-24",
    "id": "5e0b02b0b226",
    "is_new": true,
    "freshness": 90
@@ -4321,9 +4322,9 @@
    "confidence": "official",
    "sources": [
     "https://www.gamespark.jp/release/prtimes/20260924/316224.html",
+    "https://game.watch.impress.co.jp/docs/news/2142727.html",
     "https://tower.jp/article/news/2026/09/24/c101",
-    "https://prtimes.jp/main/html/rd/p/000000343.000092133.html",
-    "https://game.watch.impress.co.jp/docs/news/2142727.html"
+    "https://prtimes.jp/main/html/rd/p/000000343.000092133.html"
    ],
    "summary": "ゲーム「Fallout」とTOWER RECORDS CAFE 表参道店のコラボカフェ。作中フードをアレンジしたメニューやオリジナルグッズを展開。前期10/22〜10/30、後期10/31〜11/8の2期制。",
    "collected_at": "2026-10-23",
@@ -4355,6 +4356,56 @@
    "id": "bfc99695d962",
    "is_new": true,
    "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "原神CAFE",
+   "area": "有楽町",
+   "address": "東京都千代田区有楽町2-7-1 有楽町マルイ3F",
+   "lat": 35.674213,
+   "lng": 139.763657,
+   "period": {
+    "start": "2027-01-20",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000456.000096124.html"
+   ],
+   "summary": "『原神』初の日本国内常設カフェ「原神CAFE」が有楽町マルイ3Fに2027年1月20日(水)オープン予定。作品の世界観を表現したフードメニューや限定グッズを展開。",
+   "collected_at": "2026-10-24",
+   "id": "026ba09fe972",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "VIVANTカフェ占拠計画 by 悪役会議室",
+   "area": "赤坂",
+   "address": "東京都港区赤坂5-4-7 THE HEXAGON 1F",
+   "lat": 35.671631,
+   "lng": 139.735382,
+   "period": {
+    "start": "2026-10-28",
+    "end": "2026-11-29"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://tinpanblog.com/?p=65614"
+   ],
+   "summary": "TBSラジオ『VIVANT 悪役会議室』のコラボカフェ「ブランチパーク」赤坂にて開催。悪役モチーフのメニューや番組グッズを展開。2026年10月28日〜11月29日。",
+   "collected_at": "2026-10-24",
+   "id": "d491ccd37984",
+   "is_new": false,
+   "freshness": null
   },
   {
    "type": "new_cafe",
@@ -5245,13 +5296,39 @@
    },
    "confidence": "official",
    "sources": [
-    "https://www.princehotels.co.jp/shinagawa/plan/table9tokyo/sweetscourse_2026_Chestnut_MontBlanc"
+    "https://www.princehotels.co.jp/shinagawa/plan/table9tokyo/sweetscourse_2026_Chestnut_MontBlanc",
+    "https://www.enjoytokyo.jp/event/2033622/",
+    "https://bestcalendar.jp/press/147746"
    ],
    "summary": "品川プリンスホテル メインタワー39階「DINING & BAR TABLE 9 TOKYO」で、茨城県笠間産の和栗とフランス産の洋栗を使った期間限定『モンブラン セレクション アフタヌーンティー』を提供。1名7,200円/8,700円。",
-   "collected_at": "2026-10-22",
+   "collected_at": "2026-10-24",
    "id": "325c0a99cabc",
    "is_new": false,
    "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "コーヒー"
+   ],
+   "name": "hitosumi coffee stand",
+   "area": "北品川",
+   "address": "東京都品川区北品川1-22-19 1F",
+   "lat": 35.622128,
+   "lng": 139.740021,
+   "period": {
+    "start": "2026-10-22",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.haveagood-holiday.com/en/articles/hitosumi-coffee-stand-kitashinagawa-opening"
+   ],
+   "summary": "京急北品川駅から徒歩2分に新規オープンしたコーヒースタンド。2026年10月22日(木)開店。営業時間7:45〜16:00、火曜定休。",
+   "collected_at": "2026-10-24",
+   "id": "3ca7e0bd06e9",
+   "is_new": true,
+   "freshness": 30
   }
  ]
 }
