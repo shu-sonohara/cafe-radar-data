@@ -7586,5 +7586,97 @@
   "summary": "TBSラジオ『VIVANT 悪役会議室』のコラボカフェ「ブランチパーク」赤坂にて開催。悪役モチーフのメニューや番組グッズを展開。2026年10月28日〜11月29日。",
   "collected_at": "2026-10-24",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "&TEAM CAFE ～THE WOLF BUTLERS～（ルミネエスト新宿店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-12",
+   "end": "2026-12-13"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000333.000086964.html"
+  ],
+  "summary": "&TEAMの執事姿メンバーをテーマにした期間限定カフェ。予約制アフタヌーンティーやメンバー選定の紅茶を提供する。",
+  "collected_at": "2026-10-25",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "&TEAM CAFE ～THE WOLF BUTLERS～（SHIBUYA109渋谷店）",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂2-29-1 SHIBUYA109 地下2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-12-10",
+   "end": "2027-01-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000333.000086964.html"
+  ],
+  "summary": "&TEAMの執事姿メンバーをテーマにした期間限定カフェ。SHIBUYA109渋谷店で開催。",
+  "collected_at": "2026-10-25",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "SNOWS POP UP STORE",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店1階 イベントスペース",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-04",
+   "end": "2026-11-17"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.zaikei.co.jp/releases/3672467/"
+  ],
+  "summary": "北海道発・冬季限定スイーツ「SNOWS」の本州初ポップアップ。新作「スノーボールくろくろ」などを販売する。",
+  "collected_at": "2026-10-25",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "大手休憩所",
+  "area": "皇居・東御苑（大手町）",
+  "address": "東京都千代田区千代田1-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-03",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.tokyo-np.co.jp/article/513421",
+   "https://8and.jp/2026/10/19/%E7%9A%87%E5%B1%85%E3%83%BB%E6%9D%B1%E5%BE%A1%E8%8B%91%E3%81%AB%E5%88%9D%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7%E3%80%80%E3%80%8C%E5%A4%A7%E6%89%8B%E4%BC%91%E6%86%A9%E6%89%80%E3%80%8D%E3%81%8C11%E6%9C%88/"
+  ],
+  "summary": "皇居・東御苑の大手門近くに整備される休憩施設。猿田彦珈琲が運営するカフェが入り、屋上にテラスを設置。皇居内初のカフェ。",
+  "collected_at": "2026-10-25",
+  "id": ""
  }
 ]
