@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24",
+ "updated_at": "2026-10-25",
  "items": [
   {
    "type": "new_cafe",
@@ -1620,7 +1620,7 @@
    "collected_at": "2026-08-23",
    "id": "e855005453ad",
    "is_new": false,
-   "freshness": 180
+   "freshness": 365
   },
   {
    "type": "new_cafe",
@@ -4570,30 +4570,6 @@
    "id": "e6fb6cb0de71",
    "is_new": true,
    "freshness": 90
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "秋のほっぺタウン祭",
-   "area": "東京駅/丸の内",
-   "address": "東京都千代田区丸の内1丁目9-1",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-10-04",
-    "end": "2026-10-24"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.daimaru.co.jp/tokyo/tanjosai/foods_sweets.html"
-   ],
-   "summary": "大丸東京店の誕生祭企画。約70の菓子ブランドが集結し、限定品・新作など希少スイーツ約60種を販売。",
-   "collected_at": "2026-10-03",
-   "id": "9f97cea4a93e",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
