@@ -2843,10 +2843,11 @@
     "https://premium.gamepedia.jp/hobby/archives/248471",
     "https://www.enjoytokyo.jp/event/2082884/",
     "https://csm-cafe.ltr-online.com/",
-    "https://bestcalendar.jp/press/151557"
+    "https://bestcalendar.jp/press/151557",
+    "https://www.oricon.co.jp/pressrelease/2979207/"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-10-21",
+   "collected_at": "2026-10-25",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -4248,7 +4249,7 @@
     "https://www.enjoytokyo.jp/event/2082881/"
    ],
    "summary": "Mrs. GREEN APPLE OFFICIAL FAN CLUB発足10周年記念のテーマカフェ「Ringo Jam Café」がグランドスケープ池袋のBOX cafe&spaceで開催。番地は媒体間で表記揺れがあるため未確定。",
-   "collected_at": "2026-10-21",
+   "collected_at": "2026-10-25",
    "id": "9a25ccc58a3e",
    "is_new": false,
    "freshness": null
@@ -4406,6 +4407,106 @@
    "id": "d491ccd37984",
    "is_new": false,
    "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "&TEAM CAFE ～THE WOLF BUTLERS～（ルミネエスト新宿店）",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+   "lat": 35.691784,
+   "lng": 139.700775,
+   "period": {
+    "start": "2026-11-12",
+    "end": "2026-12-13"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000333.000086964.html"
+   ],
+   "summary": "&TEAMの執事姿メンバーをテーマにした期間限定カフェ。予約制アフタヌーンティーやメンバー選定の紅茶を提供する。",
+   "collected_at": "2026-10-25",
+   "id": "a03e3aab176d",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "&TEAM CAFE ～THE WOLF BUTLERS～（SHIBUYA109渋谷店）",
+   "area": "渋谷",
+   "address": "東京都渋谷区道玄坂2-29-1 SHIBUYA109 地下2階",
+   "lat": 35.659466,
+   "lng": 139.698898,
+   "period": {
+    "start": "2026-12-10",
+    "end": "2027-01-31"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000333.000086964.html"
+   ],
+   "summary": "&TEAMの執事姿メンバーをテーマにした期間限定カフェ。SHIBUYA109渋谷店で開催。",
+   "collected_at": "2026-10-25",
+   "id": "6ab8f5bbb3b5",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "SNOWS POP UP STORE",
+   "area": "東京駅・丸の内",
+   "address": "東京都千代田区丸の内1-9-1 大丸東京店1階 イベントスペース",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-11-04",
+    "end": "2026-11-17"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.zaikei.co.jp/releases/3672467/"
+   ],
+   "summary": "北海道発・冬季限定スイーツ「SNOWS」の本州初ポップアップ。新作「スノーボールくろくろ」などを販売する。",
+   "collected_at": "2026-10-25",
+   "id": "534ed112fb95",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "大手休憩所",
+   "area": "皇居・東御苑（大手町）",
+   "address": "東京都千代田区千代田1-1",
+   "lat": 35.683659,
+   "lng": 139.754089,
+   "period": {
+    "start": "2026-11-03",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.tokyo-np.co.jp/article/513421",
+    "https://8and.jp/2026/10/19/%E7%9A%87%E5%B1%85%E3%83%BB%E6%9D%B1%E5%BE%A1%E8%8B%91%E3%81%AB%E5%88%9D%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7%E3%80%80%E3%80%8C%E5%A4%A7%E6%89%8B%E4%BC%91%E6%86%A9%E6%89%80%E3%80%8D%E3%81%8C11%E6%9C%88/"
+   ],
+   "summary": "皇居・東御苑の大手門近くに整備される休憩施設。猿田彦珈琲が運営するカフェが入り、屋上にテラスを設置。皇居内初のカフェ。",
+   "collected_at": "2026-10-25",
+   "id": "4d4a94010a28",
+   "is_new": true,
+   "freshness": 30
   },
   {
    "type": "new_cafe",
@@ -5274,10 +5375,11 @@
    "sources": [
     "https://www.princehotels.co.jp/shinagawa/plan/table9tokyo/sweetscourse_2026_Chestnut_MontBlanc",
     "https://www.enjoytokyo.jp/event/2033622/",
-    "https://bestcalendar.jp/press/147746"
+    "https://bestcalendar.jp/press/147746",
+    "https://www.princehotels.co.jp/press/260819_01"
    ],
    "summary": "品川プリンスホテル メインタワー39階「DINING & BAR TABLE 9 TOKYO」で、茨城県笠間産の和栗とフランス産の洋栗を使った期間限定『モンブラン セレクション アフタヌーンティー』を提供。1名7,200円/8,700円。",
-   "collected_at": "2026-10-24",
+   "collected_at": "2026-10-25",
    "id": "325c0a99cabc",
    "is_new": false,
    "freshness": null
