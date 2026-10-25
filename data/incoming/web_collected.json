@@ -6002,5 +6002,51 @@
   "summary": "品川プリンスホテル メインタワー39階のレストランで、茨城県笠間産の和栗とフランス産洋栗を食べ比べるアフタヌーンティーを提供する。",
   "collected_at": "2026-10-25",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café（Pacific DRIVE-IN ルミネエスト新宿店）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": "2026-12-20"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2082881/"
+  ],
+  "summary": "Mrs. GREEN APPLE公式ファンクラブ「Ringo Jam」10周年を記念した期間限定テーマカフェ。パンケーキやサンドイッチプレートなどのフード・ドリンクとグッズを提供。",
+  "collected_at": "2026-10-26",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café（BOX cafe&space グランドスケープ池袋店）",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1丁目",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-02",
+   "end": "2026-12-06"
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2082881/"
+  ],
+  "summary": "Mrs. GREEN APPLE公式ファンクラブ「Ringo Jam」10周年を記念した期間限定テーマカフェ。新宿店と同様のフード・グッズを提供。番地は情報源間で不一致のため丁目までの住所。",
+  "collected_at": "2026-10-26",
+  "id": ""
  }
 ]
