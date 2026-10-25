@@ -7678,5 +7678,50 @@
   "summary": "皇居・東御苑の大手門近くに整備される休憩施設。猿田彦珈琲が運営するカフェが入り、屋上にテラスを設置。皇居内初のカフェ。",
   "collected_at": "2026-10-25",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "hitosumi coffee stand",
+  "area": "北品川",
+  "address": "東京都品川区北品川1-22-19 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-22",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000001.000192156.html"
+  ],
+  "summary": "京急北品川駅から徒歩2分の北品川1丁目に、テイクアウト中心のスペシャルティコーヒースタンド「hitosumi coffee stand」が2026年10月22日オープン。WEB事前注文に対応。",
+  "collected_at": "2026-10-26",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "BOX cafe&space ルミネエスト新宿1号店（チェンソーマン喫茶）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://bestcalendar.jp/press/151557"
+  ],
+  "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店「喫茶二道」をイメージしたコラボカフェ。2026年10月1日〜11月8日、ルミネエスト新宿8階で開催。チャーハンやドリンクなどのフードメニューあり。",
+  "collected_at": "2026-10-26",
+  "id": ""
  }
 ]
