@@ -2806,14 +2806,14 @@
     "https://www.fashion-press.net/news/150832",
     "https://travel.mdpr.jp/travel/detail/4841153",
     "https://prtimes.jp/main/html/rd/p/000000101.000086964.html",
+    "https://www.oricon.co.jp/pressrelease/2979207/",
     "https://premium.gamepedia.jp/hobby/archives/248471",
     "https://www.enjoytokyo.jp/event/2082884/",
     "https://csm-cafe.ltr-online.com/",
-    "https://bestcalendar.jp/press/151557",
-    "https://www.oricon.co.jp/pressrelease/2979207/"
+    "https://bestcalendar.jp/press/151557"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-10-25",
+   "collected_at": "2026-10-27",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -4427,6 +4427,32 @@
   {
    "type": "new_cafe",
    "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "hitosumi coffee stand",
+   "area": "北品川",
+   "address": "東京都品川区北品川1-22-19 1F",
+   "lat": 35.622128,
+   "lng": 139.740021,
+   "period": {
+    "start": "2026-10-22",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000192156.html",
+    "https://www.haveagood-holiday.com/en/articles/hitosumi-coffee-stand-kitashinagawa-opening"
+   ],
+   "summary": "京急北品川駅から徒歩2分の新規オープンのスペシャルティコーヒースタンド。テイクアウト中心でホットサンドも提供。2026年10月22日(木)10:00開店。",
+   "collected_at": "2026-10-27",
+   "id": "3ca7e0bd06e9",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
     "ベーカリー",
     "カフェ"
    ],
@@ -5299,30 +5325,6 @@
    "id": "325c0a99cabc",
    "is_new": false,
    "freshness": null
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
-    "コーヒー"
-   ],
-   "name": "hitosumi coffee stand",
-   "area": "北品川",
-   "address": "東京都品川区北品川1-22-19 1F",
-   "lat": 35.622128,
-   "lng": 139.740021,
-   "period": {
-    "start": "2026-10-22",
-    "end": null
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.haveagood-holiday.com/en/articles/hitosumi-coffee-stand-kitashinagawa-opening"
-   ],
-   "summary": "京急北品川駅から徒歩2分に新規オープンしたコーヒースタンド。2026年10月22日(木)開店。営業時間7:45〜16:00、火曜定休。",
-   "collected_at": "2026-10-24",
-   "id": "3ca7e0bd06e9",
-   "is_new": true,
-   "freshness": 30
   }
  ]
 }
