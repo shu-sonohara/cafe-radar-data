@@ -6002,5 +6002,49 @@
   "summary": "品川プリンスホテル メインタワー39階のレストランで、茨城県笠間産の和栗とフランス産洋栗を食べ比べるアフタヌーンティーを提供する。",
   "collected_at": "2026-10-25",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "hitosumi coffee stand（一隅）",
+  "area": "北品川",
+  "address": "東京都品川区北品川1-22-19 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-22",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.haveagood-holiday.com/en/articles/hitosumi-coffee-stand-kitashinagawa-opening"
+  ],
+  "summary": "京急北品川駅から徒歩2分の新規コーヒースタンド「一隅（ひとすみ）」が開店。営業時間7:45〜16:00、火曜定休。",
+  "collected_at": "2026-10-28",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "芋栗スイーツまつり",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1（グランスタ東京・グランスタ丸の内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-10-30"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://tetsudo-ch.com/13038506.html"
+  ],
+  "summary": "JR東京駅エキナカ「グランスタ東京」「グランスタ丸の内」で初開催の秋催事。芋・栗を使ったスイーツ・パン全20品、うち19品がグランスタ限定。",
+  "collected_at": "2026-10-28",
+  "id": ""
  }
 ]

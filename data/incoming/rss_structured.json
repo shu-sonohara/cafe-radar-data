@@ -7724,5 +7724,95 @@
   "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店「喫茶二道」をイメージした期間限定コラボカフェ。デンジ・レゼをモチーフにしたフード・ドリンクを提供。",
   "collected_at": "2026-10-27",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "カフェ スワロフスキー(銀座)",
+  "area": "銀座",
+  "address": "東京都中央区銀座8-9-15 ジュエルボックス銀座 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-28",
+   "end": "2026-12-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.wwdjapan.com/?p=2532364"
+  ],
+  "summary": "スワロフスキー銀座店2階にホリデー期間限定の「カフェ スワロフスキー」が開業。パティシエ江藤英樹氏監修のスイーツやネスプレッソのコーヒー等を提供、予約優先・90分制。",
+  "collected_at": "2026-10-28",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "Mr. CHEESECAKE YOUR CITY(小田急百貨店町田店)",
+  "area": "町田",
+  "address": "東京都町田市原町田6-12-20",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-25",
+   "end": "2026-12-01"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/152491"
+  ],
+  "summary": "小田急百貨店町田店B1F食品催事場に「Mr. CHEESECAKE YOUR CITY」期間限定ストアが出店。会場限定の「ミスターチーズケーキ ストロベリー」等を販売。",
+  "collected_at": "2026-10-28",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "僕のヒーローアカデミアカフェ -WE ARE HERO HOLICS-(原宿)",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6-28-6 キュープラザ原宿 3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-12-20"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2087138/"
+  ],
+  "summary": "アニメ『僕のヒーローアカデミア』のコラボカフェ「WE ARE HERO HOLICS」がBOX cafe&space キュープラザ原宿店で開催。ヒーローをイメージしたボックスピザやキャラクターカラードリンク等を提供。",
+  "collected_at": "2026-10-28",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "チェンソーマン喫茶(ルミネエスト新宿)",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿 8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2082884/"
+  ],
+  "summary": "劇場版『チェンソーマン レゼ篇』の喫茶二道をイメージしたコラボカフェがBOX cafe&space ルミネエスト新宿1号店で開催。レゼ・デンジをイメージしたフード・ドリンクを提供。",
+  "collected_at": "2026-10-28",
+  "id": ""
  }
 ]

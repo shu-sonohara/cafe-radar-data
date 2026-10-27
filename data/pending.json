@@ -26,5 +26,19 @@
   "note": "原神公式Xが9/28に日本初常設カフェを2027年に東京開設と発表（ソウル・パリ・モスクワに続く4都市目）。一部媒体が「有楽町マルイ」「1月20日」と報じるが、公式denfaminicogamer記事では場所・日付とも未確定（続報待ち）。公式発表で場所・日付が出たら再確認。",
   "first_seen": "2026-10-27",
   "hold_until": "2026-11-10"
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lekNhRXRNd01fcG9nSDk5S3RFdlZnbk1RbVlIV3hmR05VWXJOakp4NTRQc3dNQUtxVk1sQmN6SkVSZUM0SHp0d0s3TFpwQS1hNHFqWUV1VE15REI3VnVSa3RZUlA?oc=5",
+  "title": "絵本の国のAfternoon Tea in WonderLand+カフェフリー(HAUTE COUTURE BRUNCH・南青山)",
+  "note": "会場はHAUTE COUTURE BRUNCH（東京都港区南青山2-27-18 青山エムズタワー2F、外苑前）、開始日は9/30と確認済み（ikyu予約ページ）。終了日が未記載で確認できず。OZmallページはWebFetch 403（bot対策、別媒体は見つからず）。公式サイト/SNSで終了日確認要。",
+  "first_seen": "2026-10-28",
+  "hold_until": "2026-11-04"
+ },
+ {
+  "url": "https://prtimes.jp/main/html/rd/p/000002528.000005342.html",
+  "title": "SNOWS スノーボール くろくろ(大丸東京店)",
+  "note": "大丸東京店1階「SVPイベントスペース」での販売。PR TIMES記事内で日付が矛盾（見出しは11/4〜11/10、くろくろの商品説明は11/17まで）。どちらが正しいか・正式な会場住所も未確認。既存保留中のSNOWS東京駅ポップアップ(hold_until 10/30)とは別会場の可能性。公式発表で確定後に再確認。",
+  "first_seen": "2026-10-28",
+  "hold_until": "2026-11-04"
  }
 ]
