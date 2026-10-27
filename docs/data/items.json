@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27",
+ "updated_at": "2026-10-28",
  "items": [
   {
    "type": "new_cafe",
@@ -4823,31 +4823,6 @@
    "summary": "『逆転裁判』シリーズ25周年を記念したコラボがカプコンカフェ池袋店で開催。オリジナルグッズとコラボメニューを展開。",
    "collected_at": "2026-09-28",
    "id": "9d4a5cbc58f7",
-   "is_new": false,
-   "freshness": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "フレデリック・カッセル POP UP SHOP",
-   "area": "新宿",
-   "address": "東京都新宿区新宿3-14-1 伊勢丹新宿店本館地下1階 カフェ エ シュクレ",
-   "lat": 35.691074,
-   "lng": 139.704651,
-   "period": {
-    "start": "2026-05-27",
-    "end": "2026-10-27"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000011.000146664.html",
-    "https://www.enjoytokyo.jp/event/2067238/"
-   ],
-   "summary": "フランス・フォンテーヌブロー発の老舗パティスリー「フレデリック・カッセル」のポップアップショップ。伊勢丹新宿店本館地下1階で「ミルフイユ・ヴァニーユ」等の焼き菓子・スイーツを販売。",
-   "collected_at": "2026-09-29",
-   "id": "feb586fb3dd2",
    "is_new": false,
    "freshness": null
   },
