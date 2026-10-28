@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28",
+ "updated_at": "2026-10-29",
  "items": [
   {
    "type": "new_cafe",
@@ -2598,8 +2598,8 @@
    "summary": "JR山手線目白駅改札横にオープンした短時間利用向けの新業態店舗。9席、通常店にはないフレーバーラテを提供。2026年7月30日オープン。",
    "collected_at": "2026-09-04",
    "id": "fb07f6021250",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
