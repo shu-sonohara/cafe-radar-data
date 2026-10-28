@@ -2807,13 +2807,13 @@
     "https://travel.mdpr.jp/travel/detail/4841153",
     "https://prtimes.jp/main/html/rd/p/000000101.000086964.html",
     "https://www.oricon.co.jp/pressrelease/2979207/",
-    "https://premium.gamepedia.jp/hobby/archives/248471",
     "https://www.enjoytokyo.jp/event/2082884/",
+    "https://premium.gamepedia.jp/hobby/archives/248471",
     "https://csm-cafe.ltr-online.com/",
     "https://bestcalendar.jp/press/151557"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-10-27",
+   "collected_at": "2026-10-28",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -3069,7 +3069,7 @@
     "https://tetsudo-ch.com/13038506.html"
    ],
    "summary": "JR東日本クロスステーションが「グランスタ東京」「グランスタ丸の内」にて栗とさつまいもの秋スイーツを集めたフェアを初開催。スイートポテト×芋羊羹パフェや新規出店ショップの栗ケーキなど展開。",
-   "collected_at": "2026-10-21",
+   "collected_at": "2026-10-28",
    "id": "2a9b73ae9f27",
    "is_new": false,
    "freshness": null
@@ -3535,7 +3535,7 @@
     "https://dengekionline.com/article/202609/89487"
    ],
    "summary": "アニメ『僕のヒーローアカデミア』のコラボカフェが原宿のBOX cafe&spaceキュープラザ原宿3Fで開催。デクや爆豪をイメージしたメニューやオリジナルグッズを展開。",
-   "collected_at": "2026-10-16",
+   "collected_at": "2026-10-28",
    "id": "0789473f4de5",
    "is_new": false,
    "freshness": null
@@ -4112,7 +4112,8 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000141.000007029.html"
+    "https://prtimes.jp/main/html/rd/p/000000141.000007029.html",
+    "https://www.wwdjapan.com/?p=2532364"
    ],
    "summary": "スワロフスキー銀座2階に期間限定カフェ「Café Swarovski」がオープン。パティシエ江藤英樹氏監修のスイーツやNespressoコーヒー、モクテルなどを提供。予約優先・90分制。",
    "collected_at": "2026-10-21",
@@ -4445,10 +4446,34 @@
     "https://www.haveagood-holiday.com/en/articles/hitosumi-coffee-stand-kitashinagawa-opening"
    ],
    "summary": "京急北品川駅から徒歩2分の新規オープンのスペシャルティコーヒースタンド。テイクアウト中心でホットサンドも提供。2026年10月22日(木)10:00開店。",
-   "collected_at": "2026-10-27",
+   "collected_at": "2026-10-28",
    "id": "3ca7e0bd06e9",
    "is_new": true,
    "freshness": 30
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "Mr. CHEESECAKE YOUR CITY(小田急百貨店町田店)",
+   "area": "町田",
+   "address": "東京都町田市原町田6-12-20",
+   "lat": 35.544312,
+   "lng": 139.445557,
+   "period": {
+    "start": "2026-11-25",
+    "end": "2026-12-01"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.fashion-press.net/news/152491"
+   ],
+   "summary": "小田急百貨店町田店B1F食品催事場に「Mr. CHEESECAKE YOUR CITY」期間限定ストアが出店。会場限定の「ミスターチーズケーキ ストロベリー」等を販売。",
+   "collected_at": "2026-10-28",
+   "id": "8ce7fbe1bc9d",
+   "is_new": false,
+   "freshness": null
   },
   {
    "type": "new_cafe",
