@@ -7814,5 +7814,120 @@
   "summary": "劇場版『チェンソーマン レゼ篇』の喫茶二道をイメージしたコラボカフェがBOX cafe&space ルミネエスト新宿1号店で開催。レゼ・デンジをイメージしたフード・ドリンクを提供。",
   "collected_at": "2026-10-28",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ミッフィーほかほかダイニング（BOX cafe&space 東京ソラマチ店）",
+  "area": "押上・東京スカイツリータウン",
+  "address": "東京都墨田区押上1丁目1-2 東京スカイツリータウン・ソラマチ1Fタワーヤード6番地",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-31",
+   "end": "2027-01-24"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://animeanime.jp/article/2026/10/23/104131.html"
+  ],
+  "summary": "ミッフィーをテーマにした期間限定コラボカフェ。冬向けの温かいメニューが中心で、グラタンパイやスープを提供。事前予約制(1名660円、先着順)。",
+  "collected_at": "2026-10-29",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "ダンデライオン・チョコレート 清澄白河ファクトリー",
+  "area": "清澄白河",
+  "address": "東京都江東区平野4-10-5",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashionsnap.com/article/2026-10-04/dandelion-chocolate-kiyosumishirakawa-factory/"
+  ],
+  "summary": "Bean to Barチョコレート専門店の国内第2の旗艦店。1階はチョコレート工場とカフェエリア、2階はラウンジ兼イベントスペース、3階はセントラルキッチン。日本上陸10周年記念。",
+  "collected_at": "2026-10-29",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "futo gift shop & cafe mejiro",
+  "area": "目白",
+  "address": "東京都豊島区目白3丁目13-22",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-18",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000006.000181786.html"
+  ],
+  "summary": "ギフトショップとカフェを併設した新店舗。1階のビストロ「Le fiL」と同時オープンし、料理や食卓にfutoセレクトの商品を一部使用。JR目白駅から徒歩3分。",
+  "collected_at": "2026-10-29",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "Bread&Coffee IKEDAYAMA 自由が丘店",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-29-1 JIYUGAOKA MUSE SQUARE 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000004.000176603.html"
+  ],
+  "summary": "五反田発のベーカリーカフェ「パン百名店」選出店が自由が丘エリア初出店。複合施設JIYUGAOKA MUSE SQUAREの開業と同時にオープン。開店記念の生はちみつバゲットを期間限定販売。",
+  "collected_at": "2026-10-29",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "Olive LOUNGE 吉祥寺",
+  "area": "吉祥寺",
+  "address": "東京都武蔵野市吉祥寺本町1-18-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-03",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000111.000134306.html"
+  ],
+  "summary": "銀行とカフェが一体となった新業態店舗。1階にスターバックス(8:00〜22:00)、2階に銀行窓口を併設。吉祥寺駅北口から徒歩約3分。",
+  "collected_at": "2026-10-29",
+  "id": ""
  }
 ]
