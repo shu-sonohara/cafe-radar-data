@@ -2940,10 +2940,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000125.000177867.html"
+    "https://prtimes.jp/main/html/rd/p/000000125.000177867.html",
+    "https://prtimes.jp/main/html/rd/p/000000004.000176603.html"
    ],
    "summary": "パン百名店として知られるベーカリーカフェの自由が丘初出店。自家製パンと自家焙煎コーヒーを同時に楽しめる店舗。",
-   "collected_at": "2026-09-11",
+   "collected_at": "2026-10-29",
    "id": "baed51babb92",
    "is_new": true,
    "freshness": 90
@@ -4474,6 +4475,105 @@
    "id": "8ce7fbe1bc9d",
    "is_new": false,
    "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "ミッフィーほかほかダイニング（BOX cafe&space 東京ソラマチ店）",
+   "area": "押上・東京スカイツリータウン",
+   "address": "東京都墨田区押上1丁目1-2 東京スカイツリータウン・ソラマチ1Fタワーヤード6番地",
+   "lat": 35.710083,
+   "lng": 139.808609,
+   "period": {
+    "start": "2026-10-31",
+    "end": "2027-01-24"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://animeanime.jp/article/2026/10/23/104131.html"
+   ],
+   "summary": "ミッフィーをテーマにした期間限定コラボカフェ。冬向けの温かいメニューが中心で、グラタンパイやスープを提供。事前予約制(1名660円、先着順)。",
+   "collected_at": "2026-10-29",
+   "id": "1713d5515ea5",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "スイーツ"
+   ],
+   "name": "ダンデライオン・チョコレート 清澄白河ファクトリー",
+   "area": "清澄白河",
+   "address": "東京都江東区平野4-10-5",
+   "lat": 35.678062,
+   "lng": 139.810226,
+   "period": {
+    "start": "2026-10-30",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.fashionsnap.com/article/2026-10-04/dandelion-chocolate-kiyosumishirakawa-factory/"
+   ],
+   "summary": "Bean to Barチョコレート専門店の国内第2の旗艦店。1階はチョコレート工場とカフェエリア、2階はラウンジ兼イベントスペース、3階はセントラルキッチン。日本上陸10周年記念。",
+   "collected_at": "2026-10-29",
+   "id": "5c3cb72f4691",
+   "is_new": true,
+   "freshness": 30
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "futo gift shop & cafe mejiro",
+   "area": "目白",
+   "address": "東京都豊島区目白3丁目13-22",
+   "lat": 35.722591,
+   "lng": 139.70607,
+   "period": {
+    "start": "2026-09-18",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000006.000181786.html"
+   ],
+   "summary": "ギフトショップとカフェを併設した新店舗。1階のビストロ「Le fiL」と同時オープンし、料理や食卓にfutoセレクトの商品を一部使用。JR目白駅から徒歩3分。",
+   "collected_at": "2026-10-29",
+   "id": "a2d2e489c5ba",
+   "is_new": true,
+   "freshness": 90
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "Olive LOUNGE 吉祥寺",
+   "area": "吉祥寺",
+   "address": "東京都武蔵野市吉祥寺本町1-18-1",
+   "lat": 35.704121,
+   "lng": 139.580933,
+   "period": {
+    "start": "2026-08-03",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000111.000134306.html"
+   ],
+   "summary": "銀行とカフェが一体となった新業態店舗。1階にスターバックス(8:00〜22:00)、2階に銀行窓口を併設。吉祥寺駅北口から徒歩約3分。",
+   "collected_at": "2026-10-29",
+   "id": "4928cc0847de",
+   "is_new": true,
+   "freshness": 90
   },
   {
    "type": "new_cafe",
