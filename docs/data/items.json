@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29",
+ "updated_at": "2026-10-30",
  "items": [
   {
    "type": "new_cafe",
@@ -149,8 +149,8 @@
    "summary": "江戸期の「水茶屋」文化を現代的に再解釈したカフェ「CU」が浅草奥山エリアに2026年7月31日オープン。わらび粉入り生地の「和ドーナツ」や抹茶ドリンク・和紅茶カクテルを、朝から夜まで提供する。",
    "collected_at": "2026-08-22",
    "id": "020469e8c280",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
@@ -252,8 +252,8 @@
    "summary": "コメダ発の和の喫茶ブランド「コメダ和喫茶 おかげ庵」が国分寺市に初出店。国分寺駅直結の商業施設「ミーツ国分寺」3階に2026年7月31日オープン。",
    "collected_at": "2026-08-22",
    "id": "e93b8aa28a9c",
-   "is_new": true,
-   "freshness": 90
+   "is_new": false,
+   "freshness": 180
   },
   {
    "type": "new_cafe",
