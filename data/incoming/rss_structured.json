@@ -7929,5 +7929,97 @@
   "summary": "銀行とカフェが一体となった新業態店舗。1階にスターバックス(8:00〜22:00)、2階に銀行窓口を併設。吉祥寺駅北口から徒歩約3分。",
   "collected_at": "2026-10-29",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「ハイキュー!!展 挑戦者たち」コラボカフェ(kawara CAFE&DINING 銀座店)",
+  "area": "銀座",
+  "address": "東京都中央区銀座西3-1 銀座インズ1 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": "2027-01-11"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.famitsu.com/article/202608/84915"
+  ],
+  "summary": "六本木ヒルズで開催の「古舘春一 ハイキュー!!展 挑戦者たち」記念コラボカフェ。コラボドリンク付きチケット制、事前予約(イープラス)のみ。1月1日休業。",
+  "collected_at": "2026-10-30",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ZO&FRIENDS CAFE HOME&DREAM(渋谷PARCO)",
+  "area": "渋谷",
+  "address": "東京都渋谷区宇田川町15-1 渋谷PARCO 6F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-07",
+   "end": "2026-12-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000004145.000003639.html"
+  ],
+  "summary": "IPXとG-DRAGONが手がけたキャラクター「ZO&FRIENDS」の期間限定カフェ。「THE GUEST CAFE BY PARCO」として渋谷PARCO 6Fで開催、フード・デザート・ドリンクを提供。",
+  "collected_at": "2026-10-30",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ミッフィーほかほかダイニング(東京ソラマチ)",
+  "area": "押上",
+  "address": "東京都墨田区押上1丁目1-2 東京スカイツリータウン・ソラマチ 1F タワーヤード6番地(BOX cafe&space 東京ソラマチ店)",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-31",
+   "end": "2027-01-24"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://animeanime.jp/article/2026/10/23/104131.html"
+  ],
+  "summary": "ミッフィーをテーマにした期間限定カフェ。顔をかたどったグラタンパイやパフェ、パンケーキなどを提供。予約は公式サイトで先着受付。",
+  "collected_at": "2026-10-30",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "チェンソーマン喫茶(喫茶二道/ルミネエスト新宿)",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿(BOX cafe&space ルミネエスト新宿1号店)",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": "2026-11-08"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://news.mynavi.jp/article/20260910-4945325/"
+  ],
+  "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店「喫茶二道」をイメージした期間限定カフェ。デンジ・レゼをイメージしたフードやポチタのミニパフェを提供。",
+  "collected_at": "2026-10-30",
+  "id": ""
  }
 ]
