@@ -6046,5 +6046,50 @@
   "summary": "JR東京駅エキナカ「グランスタ東京」「グランスタ丸の内」で初開催の秋催事。芋・栗を使ったスイーツ・パン全20品、うち19品がグランスタ限定。",
   "collected_at": "2026-10-28",
   "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "やきいもフェス2026 東京会場",
+  "area": "中野",
+  "address": "東京都中野区中野4-12 中野四季の森公園 イベントエリア",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": "2026-11-08"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/158562"
+  ],
+  "summary": "14店舗が出店する焼き芋フェス。焼き芋食べ比べのほか芋スイーツ・焼き芋ピザ/タコス等の軽食も提供。入場無料、飲食は別途有料。",
+  "collected_at": "2026-10-31",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "コーヒー"
+  ],
+  "name": "BREAD & BEAN by B²(西荻窪店)",
+  "area": "西荻窪",
+  "address": "東京都杉並区松庵3丁目41番1号 西荻高架下",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-13",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000017.000054588.html"
+  ],
+  "summary": "天然酵母パンと自家焙煎コーヒーのベーカリーカフェ「B²」が西荻窪に新業態で出店。西荻窪店限定のご褒美プレートやコーヒー豆の物販も展開。",
+  "collected_at": "2026-10-31",
+  "id": ""
  }
 ]

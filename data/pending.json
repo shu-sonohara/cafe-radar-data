@@ -7,13 +7,6 @@
   "hold_until": "2026-11-06"
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tQXZUY3VjWnJKeGdiQ1ozUWxRWG15aWhjLWV2eUhKVnVFb3lLdk0tQ1RqQnpfNVl1OTl3VjF4b3IzaE9USTBSZ1pXaWpwWjJrXy1XLXlCZHRldjEyUHhBdDNQNnJ2Tzhta2F1WlJPeGZrWFRLeURXQTdLRkIxYXc?oc=5",
-  "title": "ミッフィー ほかほかダイニング",
-  "note": "東京・大阪で冬期限定テーマカフェオープン予定（PR TIMES/Yahoo!ニュース/Exciteで報道）。WebSearchで複数回試したが会場名・住所・開始日が特定できず。「miffy cafe tokyo」(代官山)の冬メニューとは別物の可能性。公式サイト(dickbruna.jp等)での直接確認が必要",
-  "first_seen": "2026-10-24",
-  "hold_until": "2026-10-31"
- },
- {
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13N3hrV2pTM2M3UWxCTGgyUmRXRWxEalBmTVU1VjN4WXdaQkFDMDdhcnVGVENCWDJlWThhZ0hxcEtpU3VLUHBtTnRlNUZDMnNLcTFCQVZHWlRtREZFaVo4?oc=5",
   "title": "おでカフェ（富士町）",
   "note": "選挙ドットコムの地域記事でプレプレオープンと報道。西東京市富士町（番地不明）。WebSearch/WebFetchで公式情報・住所・正式オープン日を確認できず。本オープン発表を待って再確認。",
@@ -40,5 +33,12 @@
   "note": "大丸東京店1階「SVPイベントスペース」での販売。PR TIMES記事内で日付が矛盾（見出しは11/4〜11/10、くろくろの商品説明は11/17まで）。どちらが正しいか・正式な会場住所も未確認。既存保留中のSNOWS東京駅ポップアップ(hold_until 10/30)とは別会場の可能性。公式発表で確定後に再確認。",
   "first_seen": "2026-10-28",
   "hold_until": "2026-11-04"
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KLTV1Mi1BYUxrTmRacUxpQVpCWFNMaFhrS01pNGlyRWZKNkpscmoyanlqTk1lUFdURFZiVDFneDhGSzFhTHIxeUFuN0puOHdINy1CeUxyNFZFaTdkWi1ldWVvQ01xWl85ZHc?oc=5",
+  "title": "三代目J SOUL BROTHERS 24/7 JSB FOREVER 期間限定コラボレーションカフェ",
+  "note": "アルバムリリース記念のコラボカフェ。メニュー・グッズは決定済みと報道されるが、会場名・東京開催かどうか・住所が未確認。公式サイト/SNS(@jsb3liveacc等)での直接確認が必要（初出 2026-10-29）",
+  "first_seen": "2026-10-31",
+  "hold_until": "2026-11-07"
  }
 ]

@@ -8021,5 +8021,75 @@
   "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店「喫茶二道」をイメージした期間限定カフェ。デンジ・レゼをイメージしたフードやポチタのミニパフェを提供。",
   "collected_at": "2026-10-30",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ミッフィー ほかほかダイニング(BOX cafe&space 東京ソラマチ店)",
+  "area": "押上",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ1階 タワーヤード6番地",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-31",
+   "end": "2027-01-24"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.walkerplus.com/article/1451409/"
+  ],
+  "summary": "ミッフィーの冬メニューをテーマにした期間限定カフェ。東京スカイツリータウン・ソラマチ内のBOX cafe&space東京ソラマチ店で開催。事前予約制。",
+  "collected_at": "2026-10-31",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "NARUMIYA CHARACTERS Lovely Stand(BOX cafe&space ルミネエスト新宿2号店)",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-11-22"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.inside-games.jp/release/prtimes/20261002/310706.html"
+  ],
+  "summary": "ナルミヤキャラクターズのベリエちゃんと新キャラ「リパンちゃん」「ワンピーちゃん」のコラボカフェ。ルミネエスト新宿のBOX cafe&space2号店で開催。",
+  "collected_at": "2026-10-31",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー",
+   "パンケーキ"
+  ],
+  "name": "WR.Yoyogi Park",
+  "area": "富ヶ谷",
+  "address": "東京都渋谷区富ヶ谷1-14-13 メゾンテオブロマ1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-06",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000002.000192515.html"
+  ],
+  "summary": "人気ビストロ監修のオールデイダイニング&カフェ。朝はコーヒー・パンケーキ、昼はサンドイッチ、夜はビストロ料理とナチュラルワインを提供。",
+  "collected_at": "2026-10-31",
+  "id": ""
  }
 ]
