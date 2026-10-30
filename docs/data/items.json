@@ -2808,12 +2808,13 @@
     "https://prtimes.jp/main/html/rd/p/000000101.000086964.html",
     "https://www.oricon.co.jp/pressrelease/2979207/",
     "https://www.enjoytokyo.jp/event/2082884/",
+    "https://news.mynavi.jp/article/20260910-4945325/",
     "https://premium.gamepedia.jp/hobby/archives/248471",
     "https://csm-cafe.ltr-online.com/",
     "https://bestcalendar.jp/press/151557"
    ],
    "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-10-28",
+   "collected_at": "2026-10-30",
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null
@@ -4496,7 +4497,7 @@
     "https://animeanime.jp/article/2026/10/23/104131.html"
    ],
    "summary": "ミッフィーをテーマにした期間限定コラボカフェ。冬向けの温かいメニューが中心で、グラタンパイやスープを提供。事前予約制(1名660円、先着順)。",
-   "collected_at": "2026-10-29",
+   "collected_at": "2026-10-30",
    "id": "1713d5515ea5",
    "is_new": false,
    "freshness": null
@@ -4574,6 +4575,56 @@
    "id": "4928cc0847de",
    "is_new": true,
    "freshness": 90
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "「ハイキュー!!展 挑戦者たち」コラボカフェ(kawara CAFE&DINING 銀座店)",
+   "area": "銀座",
+   "address": "東京都中央区銀座西3-1 銀座インズ1 2F",
+   "lat": 35.673634,
+   "lng": 139.770294,
+   "period": {
+    "start": "2026-10-30",
+    "end": "2027-01-11"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.famitsu.com/article/202608/84915"
+   ],
+   "summary": "六本木ヒルズで開催の「古舘春一 ハイキュー!!展 挑戦者たち」記念コラボカフェ。コラボドリンク付きチケット制、事前予約(イープラス)のみ。1月1日休業。",
+   "collected_at": "2026-10-30",
+   "id": "396a04626b0e",
+   "is_new": false,
+   "freshness": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "ZO&FRIENDS CAFE HOME&DREAM(渋谷PARCO)",
+   "area": "渋谷",
+   "address": "東京都渋谷区宇田川町15-1 渋谷PARCO 6F",
+   "lat": 35.662212,
+   "lng": 139.699203,
+   "period": {
+    "start": "2026-11-07",
+    "end": "2026-12-15"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000004145.000003639.html"
+   ],
+   "summary": "IPXとG-DRAGONが手がけたキャラクター「ZO&FRIENDS」の期間限定カフェ。「THE GUEST CAFE BY PARCO」として渋谷PARCO 6Fで開催、フード・デザート・ドリンクを提供。",
+   "collected_at": "2026-10-30",
+   "id": "453b323c38a0",
+   "is_new": false,
+   "freshness": null
   },
   {
    "type": "new_cafe",
