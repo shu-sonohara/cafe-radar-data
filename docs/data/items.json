@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30",
+ "updated_at": "2026-10-31",
  "items": [
   {
    "type": "new_cafe",
@@ -3050,31 +3050,6 @@
    "id": "7e34688a831f",
    "is_new": true,
    "freshness": 90
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "芋栗スイーツまつり",
-   "area": "東京駅グランスタ東京・グランスタ丸の内",
-   "address": "東京都千代田区丸の内1丁目9-1",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-10-01",
-    "end": "2026-10-30"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000001226.000082978.html",
-    "https://tetsudo-ch.com/13038506.html"
-   ],
-   "summary": "JR東日本クロスステーションが「グランスタ東京」「グランスタ丸の内」にて栗とさつまいもの秋スイーツを集めたフェアを初開催。スイートポテト×芋羊羹パフェや新規出店ショップの栗ケーキなど展開。",
-   "collected_at": "2026-10-28",
-   "id": "2a9b73ae9f27",
-   "is_new": false,
-   "freshness": null
   },
   {
    "type": "new_cafe",
