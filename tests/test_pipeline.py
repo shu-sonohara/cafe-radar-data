@@ -150,3 +150,25 @@ def test_run_tags_collab_cafe_genre(tmp_path):
     run(str(incoming), out, today="2026-08-19", http_get_json=lambda u: GSI_OK)
     item = json.loads(Path(out).read_text(encoding="utf-8"))["items"][0]
     assert "コラボカフェ" in item["genre"]
+
+
+def test_run_attaches_hours_from_details(tmp_path):
+    incoming, out = _setup(tmp_path)
+    run(incoming, out, today="2026-08-19", http_get_json=lambda u: GSI_OK)
+    item_id = json.loads(Path(out).read_text(encoding="utf-8"))["items"][0]["id"]
+    det = tmp_path / "details.json"
+    det.write_text(json.dumps({item_id: {
+        "hours": "11:00–20:00", "closed": "不定休", "source": "https://o.example.com",
+        "note": "", "checked_at": "2026-08-19"}}), encoding="utf-8")
+    run(incoming, out, today="2026-08-19", http_get_json=lambda u: GSI_OK,
+        details_path=str(det))
+    data = json.loads(Path(out).read_text(encoding="utf-8"))
+    assert data["items"][0]["hours"] == {"text": "11:00–20:00", "closed": "不定休",
+                                         "checked_at": "2026-08-19", "source": "https://o.example.com"}
+
+
+def test_run_without_details_sets_hours_null(tmp_path):
+    incoming, out = _setup(tmp_path)
+    run(incoming, out, today="2026-08-19", http_get_json=lambda u: GSI_OK)
+    data = json.loads(Path(out).read_text(encoding="utf-8"))
+    assert data["items"][0]["hours"] is None

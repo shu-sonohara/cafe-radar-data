@@ -10,6 +10,7 @@ from datetime import date
 from pathlib import Path
 
 from src.collab import tag_collab
+from src.details import attach as attach_details
 from src.freshness import freshness_bucket, is_new_badge, is_visible
 from src.geocode import geocode_items
 from src.merge import dedupe_by_location
@@ -18,7 +19,8 @@ from src.normalize import dedupe_by_key
 
 
 def run(incoming_dir: str, out_path: str, today: str, http_get_json,
-        sleep_sec: float = 0.0, cache_path: str = "", archive_path: str = "") -> dict:
+        sleep_sec: float = 0.0, cache_path: str = "", archive_path: str = "",
+        details_path: str = "") -> dict:
     cache = {}
     if cache_path and Path(cache_path).exists():
         cache = json.loads(Path(cache_path).read_text(encoding="utf-8"))
@@ -66,6 +68,12 @@ def run(incoming_dir: str, out_path: str, today: str, http_get_json,
         item["freshness"] = freshness_bucket(item, today)
         published.append(item)
 
+    # 営業時間（ルーチンが確認して data/details.json に登録したもの）を合流
+    details = {}
+    if details_path and Path(details_path).exists():
+        details = json.loads(Path(details_path).read_text(encoding="utf-8"))
+    published = attach_details(published, details)
+
     out = Path(out_path)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(
@@ -90,11 +98,12 @@ def main():
     ap.add_argument("--today", default=date.today().isoformat())
     ap.add_argument("--cache", default="data/geocode_cache.json")
     ap.add_argument("--archive", default="data/archive.json")
+    ap.add_argument("--details", default="data/details.json")
     args = ap.parse_args()
     run(args.incoming, args.out, args.today,
         http_get_json=lambda u: requests.get(u, timeout=30).json(),
         sleep_sec=0.5,  # 地理院APIへの配慮
-        cache_path=args.cache, archive_path=args.archive)
+        cache_path=args.cache, archive_path=args.archive, details_path=args.details)
 
 
 if __name__ == "__main__":
