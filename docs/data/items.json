@@ -3316,7 +3316,12 @@
    "id": "3766ddc53098",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "11:00–19:00",
+    "closed": "月曜",
+    "checked_at": "2026-11-01",
+    "source": "https://gourmetpress.net/1483000/"
+   }
   },
   {
    "type": "popup",
@@ -3418,7 +3423,12 @@
    "id": "f28796973bba",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-01",
+    "source": "https://prtimes.jp/main/html/rd/p/000000433.000048503.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3444,7 +3454,12 @@
    "id": "bab5a79edbdf",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-01",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -3555,10 +3570,11 @@
     "https://collabo-cafe.com/events/collabo/heroaca-cafe-we-are-hero-holics-box-cafe-2026/",
     "https://www.enjoytokyo.jp/event/2087138/",
     "https://prtimes.jp/main/html/rd/p/000000329.000086964.html",
+    "https://san-tatsu.jp/pressrelease/557781/",
     "https://dengekionline.com/article/202609/89487"
    ],
    "summary": "アニメ『僕のヒーローアカデミア』のコラボカフェが原宿のBOX cafe&spaceキュープラザ原宿3Fで開催。デクや爆豪をイメージしたメニューやオリジナルグッズを展開。",
-   "collected_at": "2026-10-28",
+   "collected_at": "2026-11-01",
    "id": "0789473f4de5",
    "is_new": false,
    "freshness": null,
@@ -3614,7 +3630,12 @@
    "id": "204c467ee4dd",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-01",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -3699,7 +3720,12 @@
    "id": "1640b8ce3227",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "17:00–23:00",
+    "closed": "無休",
+    "checked_at": "2026-11-01",
+    "source": "https://prtimes.jp/main/html/rd/p/000000083.000108253.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3727,7 +3753,12 @@
    "id": "7790abf614f7",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "8:00–19:00",
+    "closed": "不定休",
+    "checked_at": "2026-11-01",
+    "source": "https://prtimes.jp/main/html/rd/p/000000035.000125380.html"
+   }
   },
   {
    "type": "popup",
@@ -3779,7 +3810,12 @@
    "id": "a551fd3a1d2f",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "10:00–17:00",
+    "closed": "不定休",
+    "checked_at": "2026-11-01",
+    "source": "https://prtimes.jp/main/html/rd/p/000000078.000028845.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3804,7 +3840,12 @@
    "id": "b1f7e926797c",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-01",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -3859,7 +3900,12 @@
    "id": "632032fa254e",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "平日12:00–18:00 / 土日祝11:00–18:00",
+    "closed": "無休",
+    "checked_at": "2026-11-01",
+    "source": "https://prtimes.jp/main/html/rd/p/000000050.000049799.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3886,7 +3932,12 @@
    "id": "b34d545c6bf3",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-01",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -4107,7 +4158,12 @@
    "id": "06a5c5f08e87",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "8:00–22:00",
+    "closed": null,
+    "checked_at": "2026-11-01",
+    "source": "https://www.haveagood-holiday.com/en/articles/kissashitsu-renoir-shinjuku-3chome-tt-building-opening"
+   }
   },
   {
    "type": "popup",
@@ -4300,7 +4356,12 @@
    "id": "bfc99695d962",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "7:00–23:00",
+    "closed": "無休",
+    "checked_at": "2026-11-01",
+    "source": "https://gourmet.watch.impress.co.jp/docs/news/2149210.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -4319,10 +4380,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000456.000096124.html"
+    "https://prtimes.jp/main/html/rd/p/000000456.000096124.html",
+    "https://gaming-st.com/news/genshin-cafe-yurakucho-open-2027/"
    ],
    "summary": "『原神』初の日本国内常設カフェ「原神CAFE」が有楽町マルイ3Fに2027年1月20日(水)オープン予定。作品の世界観を表現したフードメニューや限定グッズを展開。",
-   "collected_at": "2026-10-24",
+   "collected_at": "2026-11-01",
    "id": "026ba09fe972",
    "is_new": true,
    "freshness": 30,
@@ -4742,7 +4804,12 @@
    "id": "dd5cae1d34be",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "平日9:30–20:30 / 土日祝9:00–20:30",
+    "closed": "無休",
+    "checked_at": "2026-11-01",
+    "source": "https://san-tatsu.jp/articles/562581/"
+   }
   },
   {
    "type": "new_cafe",
@@ -5080,7 +5147,12 @@
    "id": "65d71163335b",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "7:30–18:00（完売次第終了）",
+    "closed": "日曜",
+    "checked_at": "2026-11-01",
+    "source": "https://8dabe.com/2026/09/25/komugisaku-bakery/"
+   }
   },
   {
    "type": "popup",
@@ -5290,7 +5362,12 @@
    "id": "cc07ca0b199f",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "9:00–19:30",
+    "closed": null,
+    "checked_at": "2026-11-01",
+    "source": "https://prtimes.jp/main/html/rd/p/000001068.000005340.html"
+   }
   },
   {
    "type": "popup",
