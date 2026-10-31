@@ -27,7 +27,8 @@
    "collected_at": "2026-08-22",
    "id": "e15b2fdb8e40",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -52,7 +53,8 @@
    "collected_at": "2026-10-22",
    "id": "d0b599b31140",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -76,7 +78,8 @@
    "collected_at": "2026-08-22",
    "id": "778ca7ad5bdc",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -101,7 +104,8 @@
    "collected_at": "2026-08-22",
    "id": "3c3c30267fbb",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -125,7 +129,8 @@
    "collected_at": "2026-08-22",
    "id": "19bbdd268277",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -150,7 +155,8 @@
    "collected_at": "2026-08-22",
    "id": "020469e8c280",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -176,7 +182,8 @@
    "collected_at": "2026-10-14",
    "id": "73a6840aa2e6",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -202,7 +209,8 @@
    "collected_at": "2026-08-22",
    "id": "ae9a3357c619",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -229,7 +237,8 @@
    "collected_at": "2026-08-22",
    "id": "fd726a5ca63b",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -253,7 +262,8 @@
    "collected_at": "2026-08-22",
    "id": "e93b8aa28a9c",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -277,7 +287,8 @@
    "collected_at": "2026-08-22",
    "id": "060b80772672",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -301,7 +312,8 @@
    "collected_at": "2026-08-22",
    "id": "758d619a32ac",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -326,7 +338,8 @@
    "collected_at": "2026-08-22",
    "id": "e6d350e5b01a",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -351,7 +364,8 @@
    "collected_at": "2026-08-22",
    "id": "b44fdd0e7c6e",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -376,7 +390,8 @@
    "collected_at": "2026-08-22",
    "id": "292ab53b2bff",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -400,7 +415,8 @@
    "collected_at": "2026-08-22",
    "id": "94d915d5b6d3",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -425,7 +441,8 @@
    "collected_at": "2026-08-22",
    "id": "a6fb8f213afb",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -450,7 +467,8 @@
    "collected_at": "2026-08-22",
    "id": "95fc4a014b33",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -474,7 +492,8 @@
    "collected_at": "2026-08-22",
    "id": "2d421d9295fc",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -499,7 +518,8 @@
    "collected_at": "2026-08-22",
    "id": "22984c43c640",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -525,7 +545,8 @@
    "collected_at": "2026-08-22",
    "id": "dfcf120c3df5",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -551,7 +572,8 @@
    "collected_at": "2026-08-22",
    "id": "fffae75c5c08",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -576,7 +598,8 @@
    "collected_at": "2026-08-22",
    "id": "8fa3bde08991",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -600,7 +623,8 @@
    "collected_at": "2026-08-22",
    "id": "a7d83ce2073b",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -625,7 +649,8 @@
    "collected_at": "2026-08-29",
    "id": "6cfff25429c5",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -650,7 +675,8 @@
    "collected_at": "2026-08-22",
    "id": "06f9ab71c364",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -676,7 +702,8 @@
    "collected_at": "2026-09-01",
    "id": "5a7ebec73fd9",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -704,7 +731,8 @@
    "collected_at": "2026-08-22",
    "id": "794b1255f5c9",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -729,7 +757,8 @@
    "collected_at": "2026-08-22",
    "id": "34a5a191981c",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -755,7 +784,8 @@
    "collected_at": "2026-08-22",
    "id": "419b21122320",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -780,7 +810,8 @@
    "collected_at": "2026-08-22",
    "id": "ac85fd16401c",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -806,7 +837,8 @@
    "collected_at": "2026-08-22",
    "id": "5b9f9e70e49a",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -832,7 +864,8 @@
    "collected_at": "2026-08-22",
    "id": "5f1f0560b739",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -857,7 +890,8 @@
    "collected_at": "2026-08-22",
    "id": "994758521d18",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -882,7 +916,8 @@
    "collected_at": "2026-08-22",
    "id": "c6ea1be2ab8e",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -913,7 +948,8 @@
    "collected_at": "2026-08-22",
    "id": "c3ceeac60f6a",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -939,7 +975,8 @@
    "collected_at": "2026-08-23",
    "id": "f31a309ca777",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -963,7 +1000,8 @@
    "collected_at": "2026-08-22",
    "id": "9c43ee45ca49",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -987,7 +1025,8 @@
    "collected_at": "2026-08-22",
    "id": "971d987e109e",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1013,7 +1052,8 @@
    "collected_at": "2026-08-22",
    "id": "301bdb7c8708",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1037,7 +1077,8 @@
    "collected_at": "2026-08-22",
    "id": "8c197d933bfd",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1062,7 +1103,8 @@
    "collected_at": "2026-08-22",
    "id": "cb82f50009e6",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1086,7 +1128,8 @@
    "collected_at": "2026-08-22",
    "id": "f3d334780582",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1110,7 +1153,8 @@
    "collected_at": "2026-08-22",
    "id": "db5f33bc07fe",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1134,7 +1178,8 @@
    "collected_at": "2026-08-22",
    "id": "216676ba20ae",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1159,7 +1204,8 @@
    "collected_at": "2026-08-22",
    "id": "42eea6c82b22",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1185,7 +1231,8 @@
    "collected_at": "2026-08-22",
    "id": "e586a7a6d33a",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1211,7 +1258,8 @@
    "collected_at": "2026-08-22",
    "id": "7a25886d4900",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1237,7 +1285,8 @@
    "collected_at": "2026-08-22",
    "id": "7c716417e94b",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1263,7 +1312,8 @@
    "collected_at": "2026-08-22",
    "id": "6c0da5654c92",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1288,7 +1338,8 @@
    "collected_at": "2026-08-22",
    "id": "486e2c9f13a0",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1312,7 +1363,8 @@
    "collected_at": "2026-08-22",
    "id": "b0970abe1325",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1338,7 +1390,8 @@
    "collected_at": "2026-08-22",
    "id": "f3469341d916",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1363,7 +1416,8 @@
    "collected_at": "2026-08-22",
    "id": "f8c75e23519a",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1388,7 +1442,8 @@
    "collected_at": "2026-08-22",
    "id": "72bdbfef54c2",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1412,7 +1467,8 @@
    "collected_at": "2026-08-22",
    "id": "e00171f13300",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1436,7 +1492,8 @@
    "collected_at": "2026-08-22",
    "id": "804daff6cf82",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1462,7 +1519,8 @@
    "collected_at": "2026-08-23",
    "id": "0eb3ed7a81d2",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1487,7 +1545,8 @@
    "collected_at": "2026-08-23",
    "id": "3f474a847da8",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1512,7 +1571,8 @@
    "collected_at": "2026-08-23",
    "id": "84c4cfd126de",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1536,7 +1596,8 @@
    "collected_at": "2026-08-23",
    "id": "08713f5e5893",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1560,7 +1621,8 @@
    "collected_at": "2026-08-23",
    "id": "3b6f6a8c1433",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1586,7 +1648,8 @@
    "collected_at": "2026-08-23",
    "id": "e855005453ad",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1611,7 +1674,8 @@
    "collected_at": "2026-08-23",
    "id": "e16c8c0b5d68",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1635,7 +1699,8 @@
    "collected_at": "2026-08-23",
    "id": "516c2c29d951",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1659,7 +1724,8 @@
    "collected_at": "2026-08-23",
    "id": "c21147934000",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1683,7 +1749,8 @@
    "collected_at": "2026-08-23",
    "id": "318d38c584ca",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1708,7 +1775,8 @@
    "collected_at": "2026-08-23",
    "id": "46a1567fbdcf",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1735,7 +1803,8 @@
    "collected_at": "2026-08-23",
    "id": "4aa6df2f8fc2",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1760,7 +1829,8 @@
    "collected_at": "2026-08-24",
    "id": "e4cce494ee85",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1786,7 +1856,8 @@
    "collected_at": "2026-09-02",
    "id": "b25d650a3b11",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1810,7 +1881,8 @@
    "collected_at": "2026-08-24",
    "id": "55a9ac475638",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1837,7 +1909,8 @@
    "collected_at": "2026-10-31",
    "id": "d3e97ced9e37",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1862,7 +1935,8 @@
    "collected_at": "2026-08-22",
    "id": "72c76f51f5a2",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1887,7 +1961,8 @@
    "collected_at": "2026-08-22",
    "id": "e9ed5ed05d97",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -1912,7 +1987,8 @@
    "collected_at": "2026-08-22",
    "id": "8801b4281c80",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "popup",
@@ -1938,7 +2014,8 @@
    "collected_at": "2026-09-04",
    "id": "2d5f67129085",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -1964,7 +2041,8 @@
    "collected_at": "2026-09-04",
    "id": "af9b002749bd",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -1990,7 +2068,8 @@
    "collected_at": "2026-09-06",
    "id": "052ae0e4556e",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2015,7 +2094,8 @@
    "collected_at": "2026-08-26",
    "id": "1597d9989874",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2039,7 +2119,8 @@
    "collected_at": "2026-08-27",
    "id": "1ec133891dda",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2070,7 +2151,8 @@
    "collected_at": "2026-08-27",
    "id": "8ccf1de144b5",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "event",
@@ -2094,7 +2176,8 @@
    "collected_at": "2026-08-28",
    "id": "c40dff8f7de6",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2119,7 +2202,8 @@
    "collected_at": "2026-08-28",
    "id": "5385accb1b6e",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2143,7 +2227,8 @@
    "collected_at": "2026-10-17",
    "id": "59140866093b",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2168,7 +2253,8 @@
    "collected_at": "2026-08-29",
    "id": "d976ad4c617a",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2193,7 +2279,8 @@
    "collected_at": "2026-08-26",
    "id": "72c5e27bddb0",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2219,7 +2306,8 @@
    "collected_at": "2026-08-31",
    "id": "3be2e27c6e70",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2249,7 +2337,8 @@
    "collected_at": "2026-09-08",
    "id": "a3b289ccbf1d",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2275,7 +2364,8 @@
    "collected_at": "2026-08-31",
    "id": "60d00dd71f84",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2301,7 +2391,8 @@
    "collected_at": "2026-09-02",
    "id": "65cd200d00c3",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2325,7 +2416,13 @@
    "collected_at": "2026-09-01",
    "id": "9c97664b6615",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": "10:00–21:00",
+    "closed": "施設に準ずる",
+    "checked_at": "2026-10-31",
+    "source": "https://prtimes.jp/main/html/rd/p/000000211.000054019.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2351,7 +2448,8 @@
    "collected_at": "2026-09-03",
    "id": "529426bf78fa",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2376,7 +2474,8 @@
    "collected_at": "2026-09-03",
    "id": "cfc7a3ee6a1e",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2402,7 +2501,8 @@
    "collected_at": "2026-09-04",
    "id": "1bb7e779d084",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2426,7 +2526,8 @@
    "collected_at": "2026-09-04",
    "id": "a534a7118988",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2455,7 +2556,8 @@
    "collected_at": "2026-09-16",
    "id": "d9178326e07a",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "popup",
@@ -2487,7 +2589,8 @@
    "collected_at": "2026-10-21",
    "id": "bfc3fa6a253d",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -2517,7 +2620,8 @@
    "collected_at": "2026-10-20",
    "id": "0a7e2e501e7e",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -2546,7 +2650,8 @@
    "collected_at": "2026-10-21",
    "id": "50cd5e6649c6",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2576,7 +2681,8 @@
    "collected_at": "2026-09-22",
    "id": "ebff69bf9a94",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2600,7 +2706,8 @@
    "collected_at": "2026-09-04",
    "id": "fb07f6021250",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2629,7 +2736,8 @@
    "collected_at": "2026-09-05",
    "id": "8d09509dd97a",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2654,7 +2762,13 @@
    "collected_at": "2026-09-19",
    "id": "9a5d2efd9e23",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": "皇居東御苑の開園時間に準ずる（10月:9:00–16:30/11月–2月:9:00–16:00、入苑は閉園30分前まで）L.O.は閉店30分前",
+    "closed": "月曜（祝日の場合は翌火曜）・年末年始(12/28–1/3)",
+    "checked_at": "2026-10-31",
+    "source": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html"
+   }
   },
   {
    "type": "event",
@@ -2681,7 +2795,8 @@
    "collected_at": "2026-09-05",
    "id": "66f9c0b51423",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2706,7 +2821,8 @@
    "collected_at": "2026-09-05",
    "id": "4e506d970627",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2730,7 +2846,8 @@
    "collected_at": "2026-09-05",
    "id": "f7228663f3e0",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2755,7 +2872,8 @@
    "collected_at": "2026-09-06",
    "id": "490044f3a2c9",
    "is_new": false,
-   "freshness": 180
+   "freshness": 180,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2780,7 +2898,8 @@
    "collected_at": "2026-09-08",
    "id": "42aa35861914",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "popup",
@@ -2818,7 +2937,8 @@
    "collected_at": "2026-10-30",
    "id": "1cf83499f1a0",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -2845,7 +2965,8 @@
    "collected_at": "2026-09-09",
    "id": "d73a49311945",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -2870,7 +2991,8 @@
    "collected_at": "2026-09-09",
    "id": "767bada89afc",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2894,7 +3016,8 @@
    "collected_at": "2026-09-09",
    "id": "7f8361be1752",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2922,7 +3045,8 @@
    "collected_at": "2026-09-18",
    "id": "c46979d7e49d",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -2949,7 +3073,8 @@
    "collected_at": "2026-10-29",
    "id": "baed51babb92",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "popup",
@@ -2976,7 +3101,8 @@
    "collected_at": "2026-09-12",
    "id": "c19610561258",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3000,7 +3126,8 @@
    "collected_at": "2026-09-13",
    "id": "2b3341404c71",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3026,7 +3153,8 @@
    "collected_at": "2026-09-13",
    "id": "f612c22e264a",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3050,7 +3178,8 @@
    "collected_at": "2026-09-13",
    "id": "7e34688a831f",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3078,7 +3207,8 @@
    "collected_at": "2026-10-24",
    "id": "5e0b02b0b226",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3103,7 +3233,8 @@
    "collected_at": "2026-09-15",
    "id": "518f61ebd4f1",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3128,7 +3259,8 @@
    "collected_at": "2026-09-16",
    "id": "fe7e9f6d8392",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3153,7 +3285,8 @@
    "collected_at": "2026-09-16",
    "id": "362ae31366b0",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3178,7 +3311,8 @@
    "collected_at": "2026-09-17",
    "id": "b8b63f34eae9",
    "is_new": false,
-   "freshness": 365
+   "freshness": 365,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3203,7 +3337,8 @@
    "collected_at": "2026-09-17",
    "id": "556f29247541",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3228,7 +3363,8 @@
    "collected_at": "2026-09-18",
    "id": "0f1a0d13b903",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3256,7 +3392,8 @@
    "collected_at": "2026-10-10",
    "id": "fdd281600e64",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3284,7 +3421,8 @@
    "collected_at": "2026-09-19",
    "id": "3766ddc53098",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3309,7 +3447,8 @@
    "collected_at": "2026-09-19",
    "id": "b7df7c90cba2",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3333,7 +3472,8 @@
    "collected_at": "2026-09-20",
    "id": "e987631f146f",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3358,7 +3498,8 @@
    "collected_at": "2026-09-23",
    "id": "f442a27ce8d5",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3382,7 +3523,8 @@
    "collected_at": "2026-09-25",
    "id": "f28796973bba",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3407,7 +3549,8 @@
    "collected_at": "2026-10-02",
    "id": "bab5a79edbdf",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3435,7 +3578,8 @@
    "collected_at": "2026-09-26",
    "id": "c313d808d6d0",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3462,7 +3606,13 @@
    "collected_at": "2026-09-26",
    "id": "83ca787d24bd",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": "11:00–20:00（コラボメニューL.O.19:00）",
+    "closed": "有楽町マルイの営業時間に準ずる",
+    "checked_at": "2026-10-31",
+    "source": "https://prtimes.jp/main/html/rd/p/000000352.000048489.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3486,7 +3636,8 @@
    "collected_at": "2026-09-29",
    "id": "2e355e36c6e6",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3516,7 +3667,8 @@
    "collected_at": "2026-10-28",
    "id": "0789473f4de5",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3542,7 +3694,8 @@
    "collected_at": "2026-10-02",
    "id": "714e128eb578",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3566,7 +3719,8 @@
    "collected_at": "2026-10-02",
    "id": "204c467ee4dd",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3591,7 +3745,8 @@
    "collected_at": "2026-10-03",
    "id": "169ff2621e72",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3619,7 +3774,8 @@
    "collected_at": "2026-10-31",
    "id": "55e626bcea16",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3644,7 +3800,13 @@
    "collected_at": "2026-10-03",
    "id": "166d6fd2b75b",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": "11:00–20:00（L.O.19:30）",
+    "closed": null,
+    "checked_at": "2026-10-31",
+    "source": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+   }
   },
   {
    "type": "new_cafe",
@@ -3668,7 +3830,8 @@
    "collected_at": "2026-10-03",
    "id": "1640b8ce3227",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3695,7 +3858,8 @@
    "collected_at": "2026-10-04",
    "id": "7790abf614f7",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3721,7 +3885,8 @@
    "collected_at": "2026-10-04",
    "id": "68cd23180f87",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3746,7 +3911,8 @@
    "collected_at": "2026-10-07",
    "id": "9ee3fa30edf6",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3770,7 +3936,8 @@
    "collected_at": "2026-10-07",
    "id": "a551fd3a1d2f",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3794,7 +3961,8 @@
    "collected_at": "2026-10-07",
    "id": "b1f7e926797c",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3823,7 +3991,8 @@
    "collected_at": "2026-10-13",
    "id": "28e6734863fa",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3847,7 +4016,8 @@
    "collected_at": "2026-10-10",
    "id": "632032fa254e",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3873,7 +4043,8 @@
    "collected_at": "2026-10-11",
    "id": "b34d545c6bf3",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3898,7 +4069,8 @@
    "collected_at": "2026-10-11",
    "id": "699d00b910c3",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3924,7 +4096,8 @@
    "collected_at": "2026-10-11",
    "id": "431b35cd7e9a",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -3950,7 +4123,8 @@
    "collected_at": "2026-10-14",
    "id": "beb400d6fb5e",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3975,7 +4149,8 @@
    "collected_at": "2026-10-15",
    "id": "c427c961da92",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -3999,7 +4174,13 @@
    "collected_at": "2026-10-16",
    "id": "25b4b07d6da7",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": "7:00–22:30",
+    "closed": null,
+    "checked_at": "2026-10-31",
+    "source": "https://prtimes.jp/main/html/rd/p/000000184.000085701.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -4023,7 +4204,13 @@
    "collected_at": "2026-10-18",
    "id": "ca48666cdd93",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-10-31",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -4047,7 +4234,13 @@
    "collected_at": "2026-10-20",
    "id": "9c73490f2168",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": "9:00–22:00（L.O.21:30）",
+    "closed": "第1・3日曜日・年末年始",
+    "checked_at": "2026-10-31",
+    "source": "https://www.city.setagaya.lg.jp/04000/33736.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -4071,7 +4264,8 @@
    "collected_at": "2026-10-20",
    "id": "06a5c5f08e87",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "popup",
@@ -4098,7 +4292,8 @@
    "collected_at": "2026-10-21",
    "id": "4baf8b4df55a",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4122,7 +4317,13 @@
    "collected_at": "2026-10-21",
    "id": "a430ba42a4d8",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-10-31",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -4148,7 +4349,8 @@
    "collected_at": "2026-10-25",
    "id": "9a25ccc58a3e",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -4174,7 +4376,8 @@
    "collected_at": "2026-10-21",
    "id": "8a7f92fabeac",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -4199,7 +4402,8 @@
    "collected_at": "2026-10-22",
    "id": "b6251a16b89c",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -4227,7 +4431,8 @@
    "collected_at": "2026-10-23",
    "id": "5902f5e6ebf2",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4252,7 +4457,8 @@
    "collected_at": "2026-10-23",
    "id": "bfc99695d962",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4277,7 +4483,13 @@
    "collected_at": "2026-10-24",
    "id": "026ba09fe972",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-10-31",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -4302,7 +4514,8 @@
    "collected_at": "2026-10-24",
    "id": "d491ccd37984",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -4327,7 +4540,8 @@
    "collected_at": "2026-10-25",
    "id": "a03e3aab176d",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -4352,7 +4566,8 @@
    "collected_at": "2026-10-25",
    "id": "6ab8f5bbb3b5",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -4376,7 +4591,8 @@
    "collected_at": "2026-10-25",
    "id": "534ed112fb95",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4402,7 +4618,13 @@
    "collected_at": "2026-10-25",
    "id": "4d4a94010a28",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": "皇居東御苑の開園時間に準ずる（10月:9:00–16:30/11月–2月:9:00–16:00、入苑は閉園30分前まで）L.O.は閉店30分前",
+    "closed": "月曜（祝日の場合は翌火曜）・年末年始(12/28–1/3)",
+    "checked_at": "2026-10-31",
+    "source": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -4428,7 +4650,13 @@
    "collected_at": "2026-10-28",
    "id": "3ca7e0bd06e9",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": "7:45–16:00",
+    "closed": "火曜（店舗カレンダーにより水曜・土曜も休みの場合あり）",
+    "checked_at": "2026-10-31",
+    "source": "https://www.haveagood-holiday.com/en/articles/hitosumi-coffee-stand-kitashinagawa-opening"
+   }
   },
   {
    "type": "popup",
@@ -4452,7 +4680,8 @@
    "collected_at": "2026-10-28",
    "id": "8ce7fbe1bc9d",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -4478,7 +4707,8 @@
    "collected_at": "2026-10-31",
    "id": "1713d5515ea5",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4503,7 +4733,13 @@
    "collected_at": "2026-10-29",
    "id": "5c3cb72f4691",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": "10:00–18:00",
+    "closed": null,
+    "checked_at": "2026-10-31",
+    "source": "https://www.fashionsnap.com/article/2026-10-04/dandelion-chocolate-kiyosumishirakawa-factory/"
+   }
   },
   {
    "type": "new_cafe",
@@ -4527,7 +4763,8 @@
    "collected_at": "2026-10-29",
    "id": "a2d2e489c5ba",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4552,7 +4789,8 @@
    "collected_at": "2026-10-29",
    "id": "4928cc0847de",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "popup",
@@ -4577,7 +4815,8 @@
    "collected_at": "2026-10-30",
    "id": "396a04626b0e",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -4602,7 +4841,8 @@
    "collected_at": "2026-10-30",
    "id": "453b323c38a0",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4628,7 +4868,39 @@
    "collected_at": "2026-10-31",
    "id": "35d5621b47b9",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": "8:00–23:00（朝食8:00–11:00/ランチ&カフェ11:00–17:00/ディナー18:00–23:00、17:00–18:00は一時クローズ）",
+    "closed": null,
+    "checked_at": "2026-10-31",
+    "source": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html"
+   }
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "スイーツ",
+    "ベーカリー"
+   ],
+   "name": "岡田謹製茶織屋 東京ギフトパレット店",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1-9-1 東京駅一番街 東京ギフトパレット内",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-10-02",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://san-tatsu.jp/articles/562581/"
+   ],
+   "summary": "日本茶スイーツ専門店「岡田謹製茶織屋」が東京駅初の常設店として東京ギフトパレット(八重洲北口改札前)にオープン。宇治抹茶を使った抹茶メロンパンなどを販売。",
+   "collected_at": "2026-10-31",
+   "id": "dd5cae1d34be",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4663,7 +4935,8 @@
    "collected_at": "2026-09-24",
    "id": "33347521a16a",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "event",
@@ -4693,7 +4966,8 @@
    "collected_at": "2026-09-22",
    "id": "132b0697a195",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "event",
@@ -4718,7 +4992,8 @@
    "collected_at": "2026-09-06",
    "id": "20853c0b2058",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4744,7 +5019,8 @@
    "collected_at": "2026-09-04",
    "id": "61a6dc80814d",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4768,7 +5044,8 @@
    "collected_at": "2026-09-07",
    "id": "ac4d5bff9dcb",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4792,7 +5069,8 @@
    "collected_at": "2026-09-07",
    "id": "e6fb6cb0de71",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4818,7 +5096,8 @@
    "collected_at": "2026-10-21",
    "id": "cbaae22cf6e4",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "popup",
@@ -4845,7 +5124,8 @@
    "collected_at": "2026-09-16",
    "id": "c77f1c5f163e",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "event",
@@ -4872,7 +5152,8 @@
    "collected_at": "2026-09-23",
    "id": "9f8606a90c40",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4899,7 +5180,8 @@
    "collected_at": "2026-09-26",
    "id": "6e10e66f4e51",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "event",
@@ -4927,7 +5209,8 @@
    "collected_at": "2026-09-29",
    "id": "816255f5e436",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4955,7 +5238,8 @@
    "collected_at": "2026-09-25",
    "id": "505337e9f2b6",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -4979,7 +5263,8 @@
    "collected_at": "2026-09-26",
    "id": "65d71163335b",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "popup",
@@ -5005,7 +5290,8 @@
    "collected_at": "2026-09-28",
    "id": "9d4a5cbc58f7",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -5030,7 +5316,8 @@
    "collected_at": "2026-10-01",
    "id": "8d7bd7b83d25",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -5056,7 +5343,8 @@
    "collected_at": "2026-10-01",
    "id": "4fd97d50d403",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -5081,7 +5369,8 @@
    "collected_at": "2026-10-01",
    "id": "582cf48a397a",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -5106,7 +5395,8 @@
    "collected_at": "2026-10-01",
    "id": "dec0fcfa2de4",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -5131,7 +5421,8 @@
    "collected_at": "2026-10-01",
    "id": "701dd3ceb143",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "event",
@@ -5155,7 +5446,8 @@
    "collected_at": "2026-10-18",
    "id": "531d32fb1e11",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -5180,7 +5472,8 @@
    "collected_at": "2026-10-03",
    "id": "5c97a35af58d",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -5205,7 +5498,8 @@
    "collected_at": "2026-10-04",
    "id": "cc07ca0b199f",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "popup",
@@ -5231,7 +5525,8 @@
    "collected_at": "2026-10-04",
    "id": "3c26a853d944",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -5257,7 +5552,8 @@
    "collected_at": "2026-10-05",
    "id": "c46fc91dd677",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -5282,7 +5578,13 @@
    "collected_at": "2026-10-05",
    "id": "afad9a58f04d",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": "10:00–21:00",
+    "closed": "東京ソラマチに準ずる",
+    "checked_at": "2026-10-31",
+    "source": "https://resemom.jp/release/prtimes/20261008/218475.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -5307,7 +5609,13 @@
    "collected_at": "2026-10-05",
    "id": "92a2830925b1",
    "is_new": true,
-   "freshness": 30
+   "freshness": 30,
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-10-31",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -5325,13 +5633,15 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000355.000048489.html"
+    "https://prtimes.jp/main/html/rd/p/000000355.000048489.html",
+    "https://www.oricon.co.jp/pressrelease/3024039/"
    ],
    "summary": "TVアニメ『正反対な君と僕』と洒落CAFEのコラボカフェ「レトロポップver.」が新宿マルイ本館8F・洒落CAFE FLEURで開催。描き起こしオリジナルグッズとコラボメニューを提供。",
    "collected_at": "2026-10-07",
    "id": "ac6219903906",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "popup",
@@ -5355,7 +5665,8 @@
    "collected_at": "2026-10-12",
    "id": "6b136c6a64e8",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "event",
@@ -5379,7 +5690,8 @@
    "collected_at": "2026-10-16",
    "id": "70810c03898b",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "event",
@@ -5403,7 +5715,8 @@
    "collected_at": "2026-10-18",
    "id": "b3b19846ef77",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -5428,7 +5741,8 @@
    "collected_at": "2026-10-21",
    "id": "412d7a3c7916",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -5453,7 +5767,8 @@
    "collected_at": "2026-10-21",
    "id": "873e8ba89bf7",
    "is_new": true,
-   "freshness": 90
+   "freshness": 90,
+   "hours": null
   },
   {
    "type": "event",
@@ -5480,7 +5795,58 @@
    "collected_at": "2026-10-25",
    "id": "325c0a99cabc",
    "is_new": false,
-   "freshness": null
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "ベーカリー"
+   ],
+   "name": "世田谷パン祭り2026",
+   "area": "池尻・三軒茶屋",
+   "address": "東京都世田谷区池尻1-5-27(世田谷公園)",
+   "lat": 35.643364,
+   "lng": 139.680664,
+   "period": {
+    "start": "2026-10-31",
+    "end": "2026-11-01"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://setagaya-panmatsuri.com/about/"
+   ],
+   "summary": "世田谷公園とHOME/WORK VILLAGE(旧池尻中学校)を中心に多数のベーカリー・セレクトショップが出店するパン祭り。両日11:00〜16:00、入場無料。",
+   "collected_at": "2026-10-31",
+   "id": "75e54c8cdd10",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "コラボカフェ"
+   ],
+   "name": "ハイキュー!! コラボカフェ at and GALLERY 池袋店",
+   "area": "池袋",
+   "address": "東京都豊島区東池袋1丁目5-7 LABI1 LIFE SELECT池袋7F",
+   "lat": 35.730808,
+   "lng": 139.713196,
+   "period": {
+    "start": "2026-11-03",
+    "end": "2026-12-06"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.inside-games.jp/release/prtimes/20261008/311690.html"
+   ],
+   "summary": "『ハイキュー!!』コラボカフェがand GALLERY池袋店で開催。日向のたまごかけごはん風パフェなどコラボフード・ドリンクを提供、事前予約制。",
+   "collected_at": "2026-10-31",
+   "id": "f81757267d69",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
   }
  ]
 }
