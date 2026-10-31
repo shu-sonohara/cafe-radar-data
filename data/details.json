@@ -6,12 +6,33 @@
   "note": "開店前(2027年1月20日オープン予定)。公式発表なし、原神CAFE公式Xで順次案内予定",
   "source": null
  },
+ "06a5c5f08e87": {
+  "checked_at": "2026-11-01",
+  "closed": null,
+  "hours": "8:00–22:00",
+  "note": "",
+  "source": "https://www.haveagood-holiday.com/en/articles/kissashitsu-renoir-shinjuku-3chome-tt-building-opening"
+ },
+ "1640b8ce3227": {
+  "checked_at": "2026-11-01",
+  "closed": "無休",
+  "hours": "17:00–23:00",
+  "note": "日中・月火夜はイベント利用のみ",
+  "source": "https://prtimes.jp/main/html/rd/p/000000083.000108253.html"
+ },
  "166d6fd2b75b": {
   "checked_at": "2026-10-31",
   "closed": null,
   "hours": "11:00–20:00（L.O.19:30）",
   "note": "定休日は公式サイトに記載なし",
   "source": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+ },
+ "204c467ee4dd": {
+  "checked_at": "2026-11-01",
+  "closed": null,
+  "hours": null,
+  "note": "コインランドリーは24時間営業だが、カフェ部分単独の営業時間は公式発表に記載なし",
+  "source": null
  },
  "25b4b07d6da7": {
   "checked_at": "2026-10-31",
@@ -26,6 +47,13 @@
   "hours": "8:00–23:00（朝食8:00–11:00/ランチ&カフェ11:00–17:00/ディナー18:00–23:00、17:00–18:00は一時クローズ）",
   "note": "定休日は公式発表に記載なし",
   "source": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html"
+ },
+ "3766ddc53098": {
+  "checked_at": "2026-11-01",
+  "closed": "月曜",
+  "hours": "11:00–19:00",
+  "note": "",
+  "source": "https://gourmetpress.net/1483000/"
  },
  "3ca7e0bd06e9": {
   "checked_at": "2026-10-31",
@@ -47,6 +75,27 @@
   "hours": "10:00–18:00",
   "note": "定休日は未確認",
   "source": "https://www.fashionsnap.com/article/2026-10-04/dandelion-chocolate-kiyosumishirakawa-factory/"
+ },
+ "632032fa254e": {
+  "checked_at": "2026-11-01",
+  "closed": "無休",
+  "hours": "平日12:00–18:00 / 土日祝11:00–18:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000050.000049799.html"
+ },
+ "65d71163335b": {
+  "checked_at": "2026-11-01",
+  "closed": "日曜",
+  "hours": "7:30–18:00（完売次第終了）",
+  "note": "",
+  "source": "https://8dabe.com/2026/09/25/komugisaku-bakery/"
+ },
+ "7790abf614f7": {
+  "checked_at": "2026-11-01",
+  "closed": "不定休",
+  "hours": "8:00–19:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000035.000125380.html"
  },
  "83ca787d24bd": {
   "checked_at": "2026-10-31",
@@ -90,6 +139,13 @@
   "note": "開店前(11/4オープニングセレモニー)。営業時間は未発表",
   "source": null
  },
+ "a551fd3a1d2f": {
+  "checked_at": "2026-11-01",
+  "closed": "不定休",
+  "hours": "10:00–17:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000078.000028845.html"
+ },
  "afad9a58f04d": {
   "checked_at": "2026-10-31",
   "closed": "東京ソラマチに準ずる",
@@ -97,11 +153,60 @@
   "note": "テイクアウト専門、店内席なし",
   "source": "https://resemom.jp/release/prtimes/20261008/218475.html"
  },
+ "b1f7e926797c": {
+  "checked_at": "2026-11-01",
+  "closed": null,
+  "hours": null,
+  "note": "公式に営業時間の記載なし",
+  "source": null
+ },
+ "b34d545c6bf3": {
+  "checked_at": "2026-11-01",
+  "closed": null,
+  "hours": null,
+  "note": "公式に営業時間の記載なし",
+  "source": null
+ },
+ "bab5a79edbdf": {
+  "checked_at": "2026-11-01",
+  "closed": null,
+  "hours": null,
+  "note": "公式に営業時間の記載なし",
+  "source": null
+ },
+ "bfc99695d962": {
+  "checked_at": "2026-11-01",
+  "closed": "無休",
+  "hours": "7:00–23:00",
+  "note": "",
+  "source": "https://gourmet.watch.impress.co.jp/docs/news/2149210.html"
+ },
  "ca48666cdd93": {
   "checked_at": "2026-10-31",
   "closed": null,
   "hours": null,
   "note": "開店前(11/6グランドオープン)。「朝8時オープン」の記載のみで閉店時刻・定休日は未発表",
   "source": null
+ },
+ "cc07ca0b199f": {
+  "checked_at": "2026-11-01",
+  "closed": null,
+  "hours": "9:00–19:30",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000001068.000005340.html"
+ },
+ "dd5cae1d34be": {
+  "checked_at": "2026-11-01",
+  "closed": "無休",
+  "hours": "平日9:30–20:30 / 土日祝9:00–20:30",
+  "note": "",
+  "source": "https://san-tatsu.jp/articles/562581/"
+ },
+ "f28796973bba": {
+  "checked_at": "2026-11-01",
+  "closed": null,
+  "hours": "10:00–21:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000433.000048503.html"
  }
 }

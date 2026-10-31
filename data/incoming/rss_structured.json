@@ -8114,5 +8114,28 @@
   "summary": "日本茶スイーツ専門店「岡田謹製茶織屋」が東京駅初の常設店として東京ギフトパレット(八重洲北口改札前)にオープン。宇治抹茶を使った抹茶メロンパンなどを販売。",
   "collected_at": "2026-10-31",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "原神CAFE",
+  "area": "有楽町",
+  "address": "東京都千代田区有楽町2-7-1 有楽町マルイ3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2027-01-20",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://gaming-st.com/news/genshin-cafe-yurakucho-open-2027/"
+  ],
+  "summary": "HoYoverseの人気ゲーム『原神』初の常設公式カフェが2027年1月20日、東京・有楽町マルイ3階にオープン予定。ソウル・パリ・モスクワに続く4都市目で、国内初の常設型コラボカフェ。",
+  "collected_at": "2026-11-01",
+  "id": ""
  }
 ]

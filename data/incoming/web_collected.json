@@ -6179,5 +6179,28 @@
   "summary": "TVアニメ『正反対な君と僕』のコラボカフェ。コラボメニュー全8品(各1,300円)を提供、注文ごとに全9種のオリジナルコースターをランダム配布。",
   "collected_at": "2026-10-31",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "僕のヒーローアカデミアカフェ -WE ARE HERO HOLICS-",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6丁目28番6号 キュープラザ原宿3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-12-20"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://san-tatsu.jp/pressrelease/557781/"
+  ],
+  "summary": "TVアニメ『僕のヒーローアカデミア』のコラボカフェが「BOX cafe&space キュープラザ原宿店」で期間限定開催。キャラクターをイメージしたボックスピザなどの限定メニューを提供。",
+  "collected_at": "2026-11-01",
+  "id": ""
  }
 ]
