@@ -1,0 +1,107 @@
+{
+ "026ba09fe972": {
+  "checked_at": "2026-10-31",
+  "closed": null,
+  "hours": null,
+  "note": "開店前(2027年1月20日オープン予定)。公式発表なし、原神CAFE公式Xで順次案内予定",
+  "source": null
+ },
+ "166d6fd2b75b": {
+  "checked_at": "2026-10-31",
+  "closed": null,
+  "hours": "11:00–20:00（L.O.19:30）",
+  "note": "定休日は公式サイトに記載なし",
+  "source": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+ },
+ "25b4b07d6da7": {
+  "checked_at": "2026-10-31",
+  "closed": null,
+  "hours": "7:00–22:30",
+  "note": "定休日は未確認",
+  "source": "https://prtimes.jp/main/html/rd/p/000000184.000085701.html"
+ },
+ "35d5621b47b9": {
+  "checked_at": "2026-10-31",
+  "closed": null,
+  "hours": "8:00–23:00（朝食8:00–11:00/ランチ&カフェ11:00–17:00/ディナー18:00–23:00、17:00–18:00は一時クローズ）",
+  "note": "定休日は公式発表に記載なし",
+  "source": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html"
+ },
+ "3ca7e0bd06e9": {
+  "checked_at": "2026-10-31",
+  "closed": "火曜（店舗カレンダーにより水曜・土曜も休みの場合あり）",
+  "hours": "7:45–16:00",
+  "note": "",
+  "source": "https://www.haveagood-holiday.com/en/articles/hitosumi-coffee-stand-kitashinagawa-opening"
+ },
+ "4d4a94010a28": {
+  "checked_at": "2026-10-31",
+  "closed": "月曜（祝日の場合は翌火曜）・年末年始(12/28–1/3)",
+  "hours": "皇居東御苑の開園時間に準ずる（10月:9:00–16:30/11月–2月:9:00–16:00、入苑は閉園30分前まで）L.O.は閉店30分前",
+  "note": "猿田彦珈琲が運営するカフェを併設",
+  "source": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html"
+ },
+ "5c3cb72f4691": {
+  "checked_at": "2026-10-31",
+  "closed": null,
+  "hours": "10:00–18:00",
+  "note": "定休日は未確認",
+  "source": "https://www.fashionsnap.com/article/2026-10-04/dandelion-chocolate-kiyosumishirakawa-factory/"
+ },
+ "83ca787d24bd": {
+  "checked_at": "2026-10-31",
+  "closed": "有楽町マルイの営業時間に準ずる",
+  "hours": "11:00–20:00（コラボメニューL.O.19:00）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000352.000048489.html"
+ },
+ "92a2830925b1": {
+  "checked_at": "2026-10-31",
+  "closed": null,
+  "hours": null,
+  "note": "開店前(10月下旬オープン予定)。公式サイト・東京ソラマチ発表に営業時間記載なし",
+  "source": null
+ },
+ "9a5d2efd9e23": {
+  "checked_at": "2026-10-31",
+  "closed": "月曜（祝日の場合は翌火曜）・年末年始(12/28–1/3)",
+  "hours": "皇居東御苑の開園時間に準ずる（10月:9:00–16:30/11月–2月:9:00–16:00、入苑は閉園30分前まで）L.O.は閉店30分前",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html"
+ },
+ "9c73490f2168": {
+  "checked_at": "2026-10-31",
+  "closed": "第1・3日曜日・年末年始",
+  "hours": "9:00–22:00（L.O.21:30）",
+  "note": "",
+  "source": "https://www.city.setagaya.lg.jp/04000/33736.html"
+ },
+ "9c97664b6615": {
+  "checked_at": "2026-10-31",
+  "closed": "施設に準ずる",
+  "hours": "10:00–21:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000211.000054019.html"
+ },
+ "a430ba42a4d8": {
+  "checked_at": "2026-10-31",
+  "closed": null,
+  "hours": null,
+  "note": "開店前(11/4オープニングセレモニー)。営業時間は未発表",
+  "source": null
+ },
+ "afad9a58f04d": {
+  "checked_at": "2026-10-31",
+  "closed": "東京ソラマチに準ずる",
+  "hours": "10:00–21:00",
+  "note": "テイクアウト専門、店内席なし",
+  "source": "https://resemom.jp/release/prtimes/20261008/218475.html"
+ },
+ "ca48666cdd93": {
+  "checked_at": "2026-10-31",
+  "closed": null,
+  "hours": null,
+  "note": "開店前(11/6グランドオープン)。「朝8時オープン」の記載のみで閉店時刻・定休日は未発表",
+  "source": null
+ }
+}

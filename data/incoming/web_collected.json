@@ -6091,5 +6091,93 @@
   "summary": "天然酵母パンと自家焙煎コーヒーのベーカリーカフェ「B²」が西荻窪に新業態で出店。西荻窪店限定のご褒美プレートやコーヒー豆の物販も展開。",
   "collected_at": "2026-10-31",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "hitosumi coffee stand",
+  "area": "北品川",
+  "address": "東京都品川区北品川1-22-19",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-22",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.haveagood-holiday.com/en/articles/hitosumi-coffee-stand-kitashinagawa-opening"
+  ],
+  "summary": "コーヒースタンド「hitosumi coffee stand(一隅)」が品川区北品川にオープン。京急北品川駅から徒歩2分、コーヒーに詳しくなくても気軽に選べる一杯を提供。",
+  "collected_at": "2026-10-31",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "世田谷パン祭り2026",
+  "area": "池尻・三軒茶屋",
+  "address": "東京都世田谷区池尻1-5-27(世田谷公園)",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-31",
+   "end": "2026-11-01"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://setagaya-panmatsuri.com/about/"
+  ],
+  "summary": "世田谷公園とHOME/WORK VILLAGE(旧池尻中学校)を中心に多数のベーカリー・セレクトショップが出店するパン祭り。両日11:00〜16:00、入場無料。",
+  "collected_at": "2026-10-31",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "ハイキュー!! コラボカフェ at and GALLERY 池袋店",
+  "area": "池袋",
+  "address": "東京都豊島区東池袋1丁目5-7 LABI1 LIFE SELECT池袋7F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-03",
+   "end": "2026-12-06"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.inside-games.jp/release/prtimes/20261008/311690.html"
+  ],
+  "summary": "『ハイキュー!!』コラボカフェがand GALLERY池袋店で開催。日向のたまごかけごはん風パフェなどコラボフード・ドリンクを提供、事前予約制。",
+  "collected_at": "2026-10-31",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ"
+  ],
+  "name": "「正反対な君と僕」コラボカフェ at 洒落CAFE FLEUR 新宿マルイ本館店",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-30-13 新宿マルイ本館8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-11-03"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.oricon.co.jp/pressrelease/3024039/"
+  ],
+  "summary": "TVアニメ『正反対な君と僕』のコラボカフェ。コラボメニュー全8品(各1,300円)を提供、注文ごとに全9種のオリジナルコースターをランダム配布。",
+  "collected_at": "2026-10-31",
+  "id": ""
  }
 ]
