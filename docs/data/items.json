@@ -1827,13 +1827,14 @@
     "start": "2026-08-13",
     "end": null
    },
-   "confidence": "media",
+   "confidence": "official",
    "sources": [
     "https://suginami.goguynet.jp/2026/08/13/bread-bean-nishiogikubo/",
-    "https://prtimes.jp/main/html/rd/p/000000016.000054588.html"
+    "https://prtimes.jp/main/html/rd/p/000000016.000054588.html",
+    "https://prtimes.jp/main/html/rd/p/000000017.000054588.html"
    ],
    "summary": "天然酵母パン×自家焙煎コーヒーのベーカリーカフェ「B²」の新業態「BREAD & BEAN by B²」が、JR中央線「西荻高架下」第3期エリアに2026年8月13日グランドオープン。西荻窪初出店。",
-   "collected_at": "2026-08-22",
+   "collected_at": "2026-10-31",
    "id": "d3e97ced9e37",
    "is_new": true,
    "freshness": 90
@@ -3611,10 +3612,11 @@
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000501.000066361.html",
     "https://san-tatsu.jp/pressrelease/559629/",
-    "https://animeanime.jp/release/prtimes/20261002/317220.html"
+    "https://animeanime.jp/release/prtimes/20261002/317220.html",
+    "https://www.inside-games.jp/release/prtimes/20261002/310706.html"
    ],
    "summary": "ナルミヤキャラクターズのテーマカフェ。NARUMIYA HAPPY PARK 1周年記念で、キャラクターモチーフのフード・デザート・テイクアウトメニューを展開。",
-   "collected_at": "2026-10-15",
+   "collected_at": "2026-10-31",
    "id": "55e626bcea16",
    "is_new": false,
    "freshness": null
@@ -4469,10 +4471,11 @@
    },
    "confidence": "media",
    "sources": [
-    "https://animeanime.jp/article/2026/10/23/104131.html"
+    "https://animeanime.jp/article/2026/10/23/104131.html",
+    "https://www.walkerplus.com/article/1451409/"
    ],
    "summary": "ミッフィーをテーマにした期間限定コラボカフェ。冬向けの温かいメニューが中心で、グラタンパイやスープを提供。事前予約制(1名660円、先着順)。",
-   "collected_at": "2026-10-30",
+   "collected_at": "2026-10-31",
    "id": "1713d5515ea5",
    "is_new": false,
    "freshness": null
@@ -4600,6 +4603,32 @@
    "id": "453b323c38a0",
    "is_new": false,
    "freshness": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー",
+    "パンケーキ"
+   ],
+   "name": "WR.Yoyogi Park",
+   "area": "富ヶ谷",
+   "address": "東京都渋谷区富ヶ谷1-14-13 メゾンテオブロマ1F",
+   "lat": 35.666813,
+   "lng": 139.691498,
+   "period": {
+    "start": "2026-11-06",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000002.000192515.html"
+   ],
+   "summary": "人気ビストロ監修のオールデイダイニング&カフェ。朝はコーヒー・パンケーキ、昼はサンドイッチ、夜はビストロ料理とナチュラルワインを提供。",
+   "collected_at": "2026-10-31",
+   "id": "35d5621b47b9",
+   "is_new": true,
+   "freshness": 30
   },
   {
    "type": "new_cafe",
@@ -4891,7 +4920,8 @@
     "https://prtimes.jp/main/html/rd/p/000000107.000084442.html",
     "https://yakiimofes.jp/tokyo2026/",
     "https://report.iko-yo.net/articles/34162",
-    "https://www.oricon.co.jp/pressrelease/3016334/"
+    "https://www.oricon.co.jp/pressrelease/3016334/",
+    "https://bestcalendar.jp/press/158562"
    ],
    "summary": "焼き芋・さつまいもスイーツの専門イベント「やきいもフェス TOKYO 2026」が中野四季の森公園で開催。14店舗が出店し約30種類のやきいもメニューが揃う。",
    "collected_at": "2026-09-29",
