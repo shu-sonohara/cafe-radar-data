@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31",
+ "updated_at": "2026-11-01",
  "items": [
   {
    "type": "new_cafe",
@@ -1265,33 +1265,6 @@
    "type": "new_cafe",
    "genre": [
     "スイーツ",
-    "コーヒー"
-   ],
-   "name": "Timeless Bakery（タイムレスベーカリー）三田",
-   "area": "三田",
-   "address": "東京都港区三田3-1-20 カリーノ三田1F",
-   "lat": 35.647675,
-   "lng": 139.74379,
-   "period": {
-    "start": "2025-10-31",
-    "end": null
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.enjoytokyo.jp/news/204419/",
-    "https://shinagawa.keizai.biz/headline/4861/"
-   ],
-   "summary": "白金の「ラトリエコッコ」と「HAGAN ORGANIC COFFEE」が共同で手がける新業態ベーカリースタンド「Timeless Bakery」が三田にオープン。ミニクロワッサンとオリジナル焙煎コーヒーが名物。",
-   "collected_at": "2026-08-22",
-   "id": "7c716417e94b",
-   "is_new": false,
-   "freshness": 365,
-   "hours": null
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
-    "スイーツ",
     "カフェ"
    ],
    "name": "I'm donut？／dacō 自由が丘すずかけ通り",
@@ -2155,31 +2128,6 @@
    "hours": null
   },
   {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "秋の栗スイーツフェア",
-   "area": "東京駅・丸の内",
-   "address": "東京都千代田区丸の内1-9-1 東京駅一番街 グランスタ東京・グランスタ丸の内",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-10-02",
-    "end": "2026-10-31"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000904.000082978.html"
-   ],
-   "summary": "グランスタ東京・グランスタ丸の内にて初開催の「和栗と洋栗食べ比べ 秋の栗スイーツ」フェア。注文を受けてから搾る作りたてモンブラン、和栗の半熟カヌレ、栗×ショコラのデニッシュなどグランスタ限定21商品が集結。",
-   "collected_at": "2026-08-28",
-   "id": "c40dff8f7de6",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "コーヒー",
@@ -2969,32 +2917,6 @@
    "hours": null
   },
   {
-   "type": "popup",
-   "genre": [
-    "カフェ"
-   ],
-   "name": "お魚のべおカフェ",
-   "area": "渋谷",
-   "address": "東京都渋谷区渋谷2-8-11",
-   "lat": 35.660706,
-   "lng": 139.707565,
-   "period": {
-    "start": "2026-09-01",
-    "end": "2026-10-31"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.favy.jp/topics/38525",
-    "https://straightpress.jp/20260907/1703722"
-   ],
-   "summary": "宮崎県延岡市の海の幸を使った期間限定ポップアップカフェが渋谷に今年も出店。フィッシュバーガーや海老のビャンビャン麺などを提供。",
-   "collected_at": "2026-09-09",
-   "id": "767bada89afc",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "スイーツ"
@@ -3074,34 +2996,6 @@
    "id": "baed51babb92",
    "is_new": true,
    "freshness": 90,
-   "hours": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "ÅTER Tokyo × moz コラボカフェ",
-   "area": "大島(江東区)",
-   "address": "東京都江東区大島9-10-6",
-   "lat": 35.687687,
-   "lng": 139.846786,
-   "period": {
-    "start": "2026-10-01",
-    "end": "2026-10-31"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://gourmetpress.net/1480650/",
-    "https://bestcalendar.jp/press/152517",
-    "https://koubo.jp/article/117819"
-   ],
-   "summary": "スウェーデンの北欧カフェÅTER Tokyoで、雑貨ブランドmozとのコラボカフェを10月1日〜31日の期間限定開催。moz柄のクッキーや限定ドリンクを提供。",
-   "collected_at": "2026-09-12",
-   "id": "c19610561258",
-   "is_new": false,
-   "freshness": null,
    "hours": null
   },
   {
@@ -3523,7 +3417,7 @@
    "collected_at": "2026-09-25",
    "id": "f28796973bba",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": null
   },
   {
@@ -3728,32 +3622,6 @@
     "カフェ",
     "コラボカフェ"
    ],
-   "name": "メルちゃん コラボレーションカフェ（kawara CAFE&KITCHEN 吉祥寺PARCO店）",
-   "area": "吉祥寺",
-   "address": "東京都武蔵野市吉祥寺本町1-5-1 吉祥寺PARCO 本館7F",
-   "lat": 35.70348,
-   "lng": 139.578171,
-   "period": {
-    "start": "2026-10-03",
-    "end": "2026-10-31"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000616.000023331.html"
-   ],
-   "summary": "人形「メルちゃん」とのコラボカフェが吉祥寺PARCO内kawara CAFE&KITCHENで期間限定オープン。ピンクを基調とした内装とコラボメニューを提供。",
-   "collected_at": "2026-10-03",
-   "id": "169ff2621e72",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
    "name": "NARUMIYA CHARACTERS Lovely Stand（BOX cafe&space ルミネエスト新宿）",
    "area": "新宿",
    "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
@@ -3830,7 +3698,7 @@
    "collected_at": "2026-10-03",
    "id": "1640b8ce3227",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": null
   },
   {
@@ -3884,32 +3752,6 @@
    "summary": "三代目J SOUL BROTHERSの15周年キュレーションアルバム『24/7〜JSB FOREVER〜』リリースを記念したコラボカフェ。JSB3をイメージしたフード＆ドリンク、限定グッズを展開。",
    "collected_at": "2026-10-04",
    "id": "68cd23180f87",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "SHOGUN BURGER×宇田川カフェ コラボPOP UP「ハチ公バーガー」",
-   "area": "渋谷",
-   "address": "東京都渋谷区宇田川町36-22 ノア渋谷パートII 1F（Café BOHEMIA）",
-   "lat": 35.662209,
-   "lng": 139.696991,
-   "period": {
-    "start": "2026-10-18",
-    "end": "2026-10-31"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000176.000011641.html"
-   ],
-   "summary": "SHOGUN BURGERと宇田川カフェがコラボし、渋谷・宇田川町のCafé BOHEMIAで期間限定POP UPを開催。渋谷のシンボル・ハチ公をイメージした「ハチ公バーガー」を提供する。",
-   "collected_at": "2026-10-07",
-   "id": "9ee3fa30edf6",
    "is_new": false,
    "freshness": null,
    "hours": null
@@ -4970,32 +4812,6 @@
    "hours": null
   },
   {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "AUTUMN SWEETS & GOURMET FAIR",
-   "area": "押上/東京スカイツリータウン",
-   "address": "東京都墨田区押上1-1-2 東京スカイツリータウン",
-   "lat": 35.710083,
-   "lng": 139.808609,
-   "period": {
-    "start": "2026-09-01",
-    "end": "2026-10-31"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000449.000041446.html",
-    "https://travelspot.jp/868016/"
-   ],
-   "summary": "東京スカイツリータウン館内で栗・さつまいも・ぶどう・きのこなど秋の味覚を使ったスイーツ・グルメを取りそろえる期間限定フェア。",
-   "collected_at": "2026-09-06",
-   "id": "20853c0b2058",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "ベーカリー",
@@ -5263,7 +5079,7 @@
    "collected_at": "2026-09-26",
    "id": "65d71163335b",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": null
   },
   {
@@ -5421,32 +5237,7 @@
    "collected_at": "2026-10-01",
    "id": "701dd3ceb143",
    "is_new": true,
-   "freshness": 30,
-   "hours": null
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "秋の収穫祭 栗と芋スイーツ（西武池袋本店）",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1丁目28-1",
-   "lat": 35.727081,
-   "lng": 139.710495,
-   "period": {
-    "start": "2026-10-01",
-    "end": "2026-10-31"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000002514.000031382.html"
-   ],
-   "summary": "西武池袋本店 地下1階デパチカ スイーツ&ギフトで、栗のモンブランや新栗の栗あんを使った水栗羊羹など秋の和洋スイーツを紹介。",
-   "collected_at": "2026-10-18",
-   "id": "531d32fb1e11",
-   "is_new": false,
-   "freshness": null,
+   "freshness": 90,
    "hours": null
   },
   {
