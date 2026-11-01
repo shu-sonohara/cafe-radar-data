@@ -6202,5 +6202,51 @@
   "summary": "TVアニメ『僕のヒーローアカデミア』のコラボカフェが「BOX cafe&space キュープラザ原宿店」で期間限定開催。キャラクターをイメージしたボックスピザなどの限定メニューを提供。",
   "collected_at": "2026-11-01",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "古舘春一 ハイキュー!!展 挑戦者たち 記念カフェ",
+  "area": "銀座",
+  "address": "東京都中央区銀座西3-1 銀座インズ1内 2階（kawara CAFE&DINING 銀座店）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": "2027-01-11"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://premium.gamepedia.jp/hobby/archives/286672"
+  ],
+  "summary": "漫画「ハイキュー!!」展覧会「挑戦者たち」に合わせた記念コラボカフェ。kawara CAFE&DINING 銀座店で開催、2027年1月1日は休館。",
+  "collected_at": "2026-11-02",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "TVアニメ『正反対な君と僕』コラボカフェ at 洒落CAFE「レトロポップver.」",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-30-13 新宿マルイ本館8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-11-03"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/157066"
+  ],
+  "summary": "TVアニメ『正反対な君と僕』とのコラボカフェ。洒落CAFE FLEUR 新宿マルイ本館店で開催、営業時間11:00〜21:00（コラボメニューL.O.20:00）。",
+  "collected_at": "2026-11-02",
+  "id": ""
  }
 ]
