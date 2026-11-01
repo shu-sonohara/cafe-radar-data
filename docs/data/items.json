@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01",
+ "updated_at": "2026-11-02",
  "items": [
   {
    "type": "new_cafe",
@@ -1446,31 +1446,6 @@
   {
    "type": "new_cafe",
    "genre": [
-    "カフェ"
-   ],
-   "name": "喫茶⼆⼗世紀",
-   "area": "自由が丘",
-   "address": "東京都目黒区自由が丘2-16-19",
-   "lat": 35.609116,
-   "lng": 139.665695,
-   "period": {
-    "start": "2025-11-01",
-    "end": null
-   },
-   "confidence": "official",
-   "sources": [
-    "https://avexnet.jp/news/1028657"
-   ],
-   "summary": "TOKIOのトニセンがプロデュースする喫茶店「喫茶⼆⼗世紀」が、渋谷・神宮前から自由が丘へ移転し2025年11月1日リニューアルオープンした。",
-   "collected_at": "2026-08-22",
-   "id": "804daff6cf82",
-   "is_new": false,
-   "freshness": 365,
-   "hours": null
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
     "カフェ",
     "コーヒー"
    ],
@@ -1961,33 +1936,6 @@
    "id": "8801b4281c80",
    "is_new": true,
    "freshness": 90,
-   "hours": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "Cheese is... ポップアップストア",
-   "area": "丸の内",
-   "address": "東京都千代田区丸の内1丁目9-1 グランスタ丸の内",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-10-13",
-    "end": "2026-11-01"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://cake.jp/mag/new-items/68840/",
-    "https://straightpress.jp/20260807/1676272",
-    "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
-   ],
-   "summary": "チーズスイーツブランド「Cheese is...」の第二弾ポップアップストアがグランスタ丸の内にて2026年10月13日〜11月1日開催。カマンベール・パルメザンを使ったフィナンシェやクッキーを販売。",
-   "collected_at": "2026-09-04",
-   "id": "2d5f67129085",
-   "is_new": false,
-   "freshness": null,
    "hours": null
   },
   {
@@ -3131,32 +3079,6 @@
    "hours": null
   },
   {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "Bar ukoku-烏黒- 囀る鳥は羽ばたかない ポップアップストア＆カフェ at マンガ展",
-   "area": "渋谷",
-   "address": "東京都渋谷区神南1-23-10",
-   "lat": 35.659771,
-   "lng": 139.700775,
-   "period": {
-    "start": "2026-10-01",
-    "end": "2026-11-01"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000001260.000005279.html"
-   ],
-   "summary": "ヨネダコウ『囀る鳥は羽ばたかない』10巻発売記念のコラボポップアップストア＆カフェ。MAGNET by SHIBUYA109内で開催、ポップアップストアは10/1〜10/18(5F)、コラボカフェS-CUBEは10/1〜11/1(7F)。大阪会場は対象外。",
-   "collected_at": "2026-09-16",
-   "id": "fe7e9f6d8392",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ",
@@ -3258,35 +3180,6 @@
    "id": "0f1a0d13b903",
    "is_new": true,
    "freshness": 90,
-   "hours": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "にゃんにゃんにゃんこ飯店（スイーツパラダイス SPIC CAFE+）",
-   "area": "神宮前・原宿",
-   "address": "東京都渋谷区神宮前1-15-2 神宮前115ビル3階",
-   "lat": 35.670631,
-   "lng": 139.704697,
-   "period": {
-    "start": "2026-10-02",
-    "end": "2026-11-01"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000935.000018631.html",
-    "https://www.sweets-paradise.jp/collaboration/nyan-nyan-nyanko",
-    "https://www.oricon.co.jp/pressrelease/2997248/"
-   ],
-   "summary": "サンエックス「にゃんにゃんにゃんこ」とスイーツパラダイスのコラボカフェ「にゃんにゃんにゃんこ飯店」が10月2日より神宮前のSPIC CAFE+で開催。中華メニューやオリジナルグッズを展開。",
-   "collected_at": "2026-10-10",
-   "id": "fdd281600e64",
-   "is_new": false,
-   "freshness": null,
    "hours": null
   },
   {
@@ -3629,7 +3522,7 @@
    "collected_at": "2026-10-02",
    "id": "204c467ee4dd",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": null,
     "closed": null,
@@ -3752,7 +3645,7 @@
    "collected_at": "2026-10-04",
    "id": "7790abf614f7",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "8:00–19:00",
     "closed": "不定休",
@@ -4692,8 +4585,8 @@
    "summary": "銀行とカフェが一体となった新業態店舗。1階にスターバックス(8:00〜22:00)、2階に銀行窓口を併設。吉祥寺駅北口から徒歩約3分。",
    "collected_at": "2026-10-29",
    "id": "4928cc0847de",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": null
   },
   {
@@ -4803,7 +4696,7 @@
    "collected_at": "2026-10-31",
    "id": "dd5cae1d34be",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "平日9:30–20:30 / 土日祝9:00–20:30",
     "closed": "無休",
@@ -5662,31 +5555,6 @@
    "summary": "品川プリンスホテル メインタワー39階「DINING & BAR TABLE 9 TOKYO」で、茨城県笠間産の和栗とフランス産の洋栗を使った期間限定『モンブラン セレクション アフタヌーンティー』を提供。1名7,200円/8,700円。",
    "collected_at": "2026-10-25",
    "id": "325c0a99cabc",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
-   "type": "event",
-   "genre": [
-    "ベーカリー"
-   ],
-   "name": "世田谷パン祭り2026",
-   "area": "池尻・三軒茶屋",
-   "address": "東京都世田谷区池尻1-5-27(世田谷公園)",
-   "lat": 35.643364,
-   "lng": 139.680664,
-   "period": {
-    "start": "2026-10-31",
-    "end": "2026-11-01"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://setagaya-panmatsuri.com/about/"
-   ],
-   "summary": "世田谷公園とHOME/WORK VILLAGE(旧池尻中学校)を中心に多数のベーカリー・セレクトショップが出店するパン祭り。両日11:00〜16:00、入場無料。",
-   "collected_at": "2026-10-31",
-   "id": "75e54c8cdd10",
    "is_new": false,
    "freshness": null,
    "hours": null
