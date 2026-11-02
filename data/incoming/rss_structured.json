@@ -8160,5 +8160,207 @@
   "summary": "ミッフィーをテーマにした期間限定カフェ「ミッフィーほかほかダイニング」がBOX cafe&space東京ソラマチ店で開催。グラタンパイやビーフシチュー、パフェなどミッフィーの顔をイメージしたメニューを提供。",
   "collected_at": "2026-11-02",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "WR.Yoyogi Park",
+  "area": "富ヶ谷",
+  "address": "東京都渋谷区富ヶ谷1-14-13",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-06",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000002.000192515.html"
+  ],
+  "summary": "学芸大学のコーヒースタンド「WR.」がオールデイダイニング&カフェとして富ヶ谷に出店。朝はコーヒー・パンケーキ、夜は食事と酒を提供する。",
+  "collected_at": "2026-11-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ヨル メロウナイト カフェ",
+  "area": "表参道",
+  "address": "東京都港区北青山3-12-12",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-19",
+   "end": "2026-11-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.wwdjapan.com/?p=2530114"
+  ],
+  "summary": "ヘアケアブランド「ヨル」が表参道のモスカ バイ ジンジャーガーデンで期間限定カフェを開催。限定夜パフェとコラボドリンク、ヘアマスクが付く。",
+  "collected_at": "2026-11-03",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "YOGI LABO TOKYO",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前1丁目10-37",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000001.000193787.html"
+  ],
+  "summary": "みゆみゆ（桜井美悠）プロデュースのウェルネスカフェ。全メニューにPFCバランスを表示。原宿にグランドオープン。",
+  "collected_at": "2026-11-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ミッフィーほかほかダイニング（BOX cafe&space東京ソラマチ店）",
+  "area": "押上",
+  "address": "東京都墨田区押上1-1-2",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-31",
+   "end": "2027-01-24"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.walkerplus.com/article/1451409/"
+  ],
+  "summary": "ミッフィーの絵本世界をテーマにした期間限定ダイニング。ミッフィーの顔をイメージしたグラタンパイやパフェ、パンケーキを提供。東京ソラマチ内で開催。",
+  "collected_at": "2026-11-03",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ハイキュー!!コラボカフェ（kawara CAFE&DINING 銀座店）",
+  "area": "銀座",
+  "address": "東京都中央区銀座西3-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": "2027-01-11"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://premium.gamepedia.jp/hobby/archives/286672"
+  ],
+  "summary": "「古舘春一 ハイキュー!!展 挑戦者たち」東京会場記念カフェ。烏野・音駒など8校モチーフの食事・スイーツ・ドリンクを提供。",
+  "collected_at": "2026-11-03",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "東京喫茶メリー",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1丁目9番1号",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://resemom.jp/release/prtimes/20260903/209529.html"
+  ],
+  "summary": "メリーチョコレートカムパニーの新ブランド「東京喫茶メリー」。グランスタ東京の丸の内改札内エリアにオープン。",
+  "collected_at": "2026-11-03",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "あさぎり牛乳（第18回 IKEBUKUROパン祭）",
+  "area": "池袋",
+  "address": "東京都豊島区西池袋1-1-25",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-18",
+   "end": "2026-11-24"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000084.000161984.html"
+  ],
+  "summary": "朝霧乳業のミルクスイーツブランド「あさぎり牛乳」が東武百貨店池袋店8階催事場のパン祭に期間限定出店。",
+  "collected_at": "2026-11-03",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "あさぎり牛乳（JR拝島駅）",
+  "area": "拝島",
+  "address": "東京都昭島市松原町4丁目14番4号",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-12",
+   "end": "2026-11-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000084.000161984.html"
+  ],
+  "summary": "朝霧乳業のミルクスイーツブランド「あさぎり牛乳」がJR拝島駅構内に期間限定出店。",
+  "collected_at": "2026-11-03",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "あさぎり牛乳（セレオ八王子）",
+  "area": "八王子",
+  "address": "東京都八王子市旭町1-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-26",
+   "end": "2027-02-28"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000084.000161984.html"
+  ],
+  "summary": "朝霧乳業のミルクスイーツブランド「あさぎり牛乳」がセレオ八王子1階に期間限定出店。",
+  "collected_at": "2026-11-03",
+  "id": ""
  }
 ]

@@ -55,6 +55,13 @@
   "note": "定休日は未確認",
   "source": "https://prtimes.jp/main/html/rd/p/000000184.000085701.html"
  },
+ "2b3341404c71": {
+  "checked_at": "2026-11-03",
+  "closed": "無休",
+  "hours": "5:00–25:00",
+  "note": "",
+  "source": "https://selfcafe.jp/shop/tokyo/chitosekarasuyama/"
+ },
  "2e355e36c6e6": {
   "checked_at": "2026-11-02",
   "closed": "不定休",
@@ -62,12 +69,26 @@
   "note": "",
   "source": "https://toyosu.tokyo/cafe/matcha-times-toyosu-report/"
  },
+ "33347521a16a": {
+  "checked_at": "2026-11-03",
+  "closed": null,
+  "hours": "ベーカリー 月〜土 7:00–22:00・日祝7:00–21:00 / Bar&Grill 月〜土17:00–22:00・日祝17:00–21:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000262.000044858.html"
+ },
  "35d5621b47b9": {
   "checked_at": "2026-10-31",
   "closed": null,
   "hours": "8:00–23:00（朝食8:00–11:00/ランチ&カフェ11:00–17:00/ディナー18:00–23:00、17:00–18:00は一時クローズ）",
   "note": "定休日は公式発表に記載なし",
   "source": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html"
+ },
+ "362ae31366b0": {
+  "checked_at": "2026-11-03",
+  "closed": "水曜",
+  "hours": "10:00–17:30（L.O.17:00）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000002.000190472.html"
  },
  "3766ddc53098": {
   "checked_at": "2026-11-01",
@@ -83,12 +104,33 @@
   "note": "",
   "source": "https://www.haveagood-holiday.com/en/articles/hitosumi-coffee-stand-kitashinagawa-opening"
  },
+ "412d7a3c7916": {
+  "checked_at": "2026-11-03",
+  "closed": null,
+  "hours": null,
+  "note": "公式に個別営業時間の記載なし",
+  "source": null
+ },
  "4d4a94010a28": {
   "checked_at": "2026-10-31",
   "closed": "月曜（祝日の場合は翌火曜）・年末年始(12/28–1/3)",
   "hours": "皇居東御苑の開園時間に準ずる（10月:9:00–16:30/11月–2月:9:00–16:00、入苑は閉園30分前まで）L.O.は閉店30分前",
   "note": "猿田彦珈琲が運営するカフェを併設",
   "source": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html"
+ },
+ "505337e9f2b6": {
+  "checked_at": "2026-11-03",
+  "closed": null,
+  "hours": "8:00–22:00",
+  "note": "",
+  "source": "https://www.sharelounge.jp/store/2144"
+ },
+ "518f61ebd4f1": {
+  "checked_at": "2026-11-03",
+  "closed": null,
+  "hours": "8:00–20:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000069.000043358.html"
  },
  "529426bf78fa": {
   "checked_at": "2026-11-02",
@@ -104,6 +146,13 @@
   "note": "定休日は未確認",
   "source": "https://www.fashionsnap.com/article/2026-10-04/dandelion-chocolate-kiyosumishirakawa-factory/"
  },
+ "5e0b02b0b226": {
+  "checked_at": "2026-11-03",
+  "closed": null,
+  "hours": "カフェ 7:00–19:00（物販6:00–20:00）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
+ },
  "632032fa254e": {
   "checked_at": "2026-11-01",
   "closed": "無休",
@@ -111,12 +160,26 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000050.000049799.html"
  },
+ "65cd200d00c3": {
+  "checked_at": "2026-11-03",
+  "closed": null,
+  "hours": "11:00–20:00",
+  "note": "コラボカフェ開催中は75分入替制の場合あり",
+  "source": "https://prtimes.jp/main/html/rd/p/000000454.000036259.html"
+ },
  "65d71163335b": {
   "checked_at": "2026-11-01",
   "closed": "日曜",
   "hours": "7:30–18:00（完売次第終了）",
   "note": "",
   "source": "https://8dabe.com/2026/09/25/komugisaku-bakery/"
+ },
+ "6e10e66f4e51": {
+  "checked_at": "2026-11-03",
+  "closed": "施設に準ずる",
+  "hours": "10:00–21:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000001085.000005743.html"
  },
  "701dd3ceb143": {
   "checked_at": "2026-11-02",
@@ -132,6 +195,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000035.000125380.html"
  },
+ "7f8361be1752": {
+  "checked_at": "2026-11-03",
+  "closed": null,
+  "hours": "10:30–20:00",
+  "note": "施設（町田マルイ）に準ずる可能性",
+  "source": "https://prtimes.jp/main/html/rd/p/000004208.000003860.html"
+ },
  "83ca787d24bd": {
   "checked_at": "2026-10-31",
   "closed": "有楽町マルイの営業時間に準ずる",
@@ -139,12 +209,26 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000352.000048489.html"
  },
+ "873e8ba89bf7": {
+  "checked_at": "2026-11-03",
+  "closed": null,
+  "hours": "月〜土 8:00–22:00 / 日・祝 8:00–21:00（施設の営業時間に準ずる）",
+  "note": "",
+  "source": "https://bestcalendar.jp/press/150179"
+ },
  "8ccf1de144b5": {
   "checked_at": "2026-11-02",
   "closed": "1/1〜1/3",
   "hours": "8:00–22:00",
   "note": "",
   "source": "https://lifte.jp/20260902-2/"
+ },
+ "8d09509dd97a": {
+  "checked_at": "2026-11-03",
+  "closed": "施設に準ずる",
+  "hours": "10:00–21:00",
+  "note": "",
+  "source": "https://resemom.jp/release/prtimes/20260903/209529.html"
  },
  "92a2830925b1": {
   "checked_at": "2026-10-31",
@@ -258,11 +342,25 @@
   "note": "",
   "source": "https://gourmet.watch.impress.co.jp/docs/news/2149210.html"
  },
+ "c3ceeac60f6a": {
+  "checked_at": "2026-11-03",
+  "closed": "施設に準ずる",
+  "hours": "平日・土曜 8:00–22:00 / 日曜・祝日 8:00–21:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000300.000014043.html"
+ },
  "ca48666cdd93": {
   "checked_at": "2026-10-31",
   "closed": null,
   "hours": null,
   "note": "開店前(11/6グランドオープン)。「朝8時オープン」の記載のみで閉店時刻・定休日は未発表",
+  "source": null
+ },
+ "cbaae22cf6e4": {
+  "checked_at": "2026-11-03",
+  "closed": null,
+  "hours": null,
+  "note": "公式に個別営業時間の記載なし（原宿本店とは別時間の可能性）",
   "source": null
  },
  "cc07ca0b199f": {
@@ -285,6 +383,13 @@
   "hours": "10:00–23:00（日〜木22:00）",
   "note": "",
   "source": "https://www.zaikei.co.jp/releases/3625482/"
+ },
+ "e9ed5ed05d97": {
+  "checked_at": "2026-11-03",
+  "closed": null,
+  "hours": "平日・土曜 8:00–22:00 / 日曜・祝日 8:00–21:00",
+  "note": "",
+  "source": "https://www.laterre.com/bml/"
  },
  "ebff69bf9a94": {
   "checked_at": "2026-11-02",
