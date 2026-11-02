@@ -1805,7 +1805,12 @@
    "id": "b25d650a3b11",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–20:00（カフェL.O.18:30）",
+    "closed": "施設に準ずる",
+    "checked_at": "2026-11-02",
+    "source": "https://syougyoushisetsu.com/news/pierre-marcolini-jiyugaoka-muse-square/"
+   }
   },
   {
    "type": "new_cafe",
@@ -2073,7 +2078,12 @@
    "id": "8ccf1de144b5",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "8:00–22:00",
+    "closed": "1/1〜1/3",
+    "checked_at": "2026-11-02",
+    "source": "https://lifte.jp/20260902-2/"
+   }
   },
   {
    "type": "new_cafe",
@@ -2234,7 +2244,12 @@
    "id": "a3b289ccbf1d",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–18:00",
+    "closed": "無休",
+    "checked_at": "2026-11-02",
+    "source": "https://www.mont-blanc.jp/view/page/access"
+   }
   },
   {
    "type": "new_cafe",
@@ -2345,7 +2360,12 @@
    "id": "529426bf78fa",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "物販 6:00–20:00 / カフェ 7:00–19:00",
+    "closed": null,
+    "checked_at": "2026-11-02",
+    "source": "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2398,7 +2418,12 @@
    "id": "1bb7e779d084",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-02",
+    "source": "https://prtimes.jp/main/html/rd/p/000000153.000071744.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2423,7 +2448,12 @@
    "id": "a534a7118988",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–20:00",
+    "closed": "施設に準ずる",
+    "checked_at": "2026-11-02",
+    "source": "https://prtimes.jp/main/html/rd/p/000000013.000165013.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2578,7 +2608,12 @@
    "id": "ebff69bf9a94",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "物販 6:00–20:00 / カフェ 7:00–19:00",
+    "closed": null,
+    "checked_at": "2026-11-02",
+    "source": "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2743,7 +2778,12 @@
    "id": "f7228663f3e0",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "7:30–21:00",
+    "closed": null,
+    "checked_at": "2026-11-02",
+    "source": "https://prtimes.jp/main/html/rd/p/000000068.000132572.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2944,7 +2984,12 @@
    "id": "baed51babb92",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "8:00–20:00（初日9/17は9:30開店）",
+    "closed": null,
+    "checked_at": "2026-11-02",
+    "source": "https://prtimes.jp/main/html/rd/p/000000125.000177867.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3180,7 +3225,12 @@
    "id": "0f1a0d13b903",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–19:00（売り切れ次第終了）",
+    "closed": "無休",
+    "checked_at": "2026-11-02",
+    "source": "https://gourmetpress.net/1481706/"
+   }
   },
   {
    "type": "new_cafe",
@@ -3265,7 +3315,12 @@
    "id": "e987631f146f",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–23:00（日〜木22:00）",
+    "closed": null,
+    "checked_at": "2026-11-02",
+    "source": "https://www.zaikei.co.jp/releases/3625482/"
+   }
   },
   {
    "type": "new_cafe",
@@ -3291,7 +3346,12 @@
    "id": "f442a27ce8d5",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–23:00（日〜木22:00）",
+    "closed": null,
+    "checked_at": "2026-11-02",
+    "source": "https://www.zaikei.co.jp/releases/3625482/"
+   }
   },
   {
    "type": "new_cafe",
@@ -3439,7 +3499,12 @@
    "id": "2e355e36c6e6",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–18:30（ドッグランイベント時は変動あり）",
+    "closed": "不定休",
+    "checked_at": "2026-11-02",
+    "source": "https://toyosu.tokyo/cafe/matcha-times-toyosu-report/"
+   }
   },
   {
    "type": "popup",
@@ -4501,7 +4566,7 @@
     "https://www.walkerplus.com/article/1451409/"
    ],
    "summary": "ミッフィーをテーマにした期間限定コラボカフェ。冬向けの温かいメニューが中心で、グラタンパイやスープを提供。事前予約制(1名660円、先着順)。",
-   "collected_at": "2026-10-31",
+   "collected_at": "2026-11-02",
    "id": "1713d5515ea5",
    "is_new": false,
    "freshness": null,
@@ -4561,7 +4626,12 @@
    "id": "a2d2e489c5ba",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "11:00–18:00",
+    "closed": "月曜（祝日時は営業、翌火曜休）",
+    "checked_at": "2026-11-02",
+    "source": "https://prtimes.jp/main/html/rd/p/000000006.000181786.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -4606,7 +4676,8 @@
    },
    "confidence": "media",
    "sources": [
-    "https://www.famitsu.com/article/202608/84915"
+    "https://www.famitsu.com/article/202608/84915",
+    "https://premium.gamepedia.jp/hobby/archives/286672"
    ],
    "summary": "六本木ヒルズで開催の「古舘春一 ハイキュー!!展 挑戦者たち」記念コラボカフェ。コラボドリンク付きチケット制、事前予約(イープラス)のみ。1月1日休業。",
    "collected_at": "2026-10-30",
@@ -5203,7 +5274,12 @@
    "id": "701dd3ceb143",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "平日 7:30–20:00 / 土日祝 8:00–19:00",
+    "closed": null,
+    "checked_at": "2026-11-02",
+    "source": "https://prtimes.jp/main/html/rd/p/000000265.000044858.html"
+   }
   },
   {
    "type": "popup",
@@ -5395,10 +5471,11 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000355.000048489.html",
+    "https://bestcalendar.jp/press/157066",
     "https://www.oricon.co.jp/pressrelease/3024039/"
    ],
    "summary": "TVアニメ『正反対な君と僕』と洒落CAFEのコラボカフェ「レトロポップver.」が新宿マルイ本館8F・洒落CAFE FLEURで開催。描き起こしオリジナルグッズとコラボメニューを提供。",
-   "collected_at": "2026-10-07",
+   "collected_at": "2026-11-02",
    "id": "ac6219903906",
    "is_new": false,
    "freshness": null,
