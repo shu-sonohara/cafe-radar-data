@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02",
+ "updated_at": "2026-11-03",
  "items": [
   {
    "type": "new_cafe",
@@ -5330,7 +5330,7 @@
    "collected_at": "2026-10-04",
    "id": "cc07ca0b199f",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "9:00–19:30",
     "closed": null,
