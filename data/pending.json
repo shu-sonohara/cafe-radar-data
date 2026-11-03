@@ -1,5 +1,19 @@
 [
  {
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lekNhRXRNd01fcG9nSDk5S3RFdlZnbk1RbVlIV3hmR05VWXJOakp4NTRQc3dNQUtxVk1sQmN6SkVSZUM0SHp0d0s3TFpwQS1hNHFqWUV1VE15REI3VnVSa3RZUlA?oc=5",
+  "title": "絵本の国のAfternoon Tea in WonderLand+カフェフリー(HAUTE COUTURE BRUNCH・南青山)",
+  "note": "【再確認結果】開始9/30は確定(ikyu予約ページ)。終了日はikyu/OZmall/食べログ等の予約サイトを確認したが記載なし。公式SNS等でも11月分の案内は未発見。電話確認(03-6721-0208)でしか終了日は取れない可能性。(2026-11-04時点)",
+  "first_seen": "2026-10-28",
+  "hold_until": "2026-11-11"
+ },
+ {
+  "url": "https://prtimes.jp/main/html/rd/p/000002528.000005342.html",
+  "title": "SNOWS スノーボール くろくろ(大丸東京店)",
+  "note": "【再確認結果】PR TIMES記事本文を直接WebFetchで確認: イベント全体の開催期間は「2026/11/4〜11/10」(1階ほっぺタウン)、くろくろ商品のみ「11/17まで」(1階SVPイベントスペース MAP2)と、記事内で売場・期間が別々に記載されており単純な誤記ではなさそう。既存保留中のSNOWS東京駅ポップアップとは別会場。大丸東京店公式サイトでの確認要。(2026-11-04時点)",
+  "first_seen": "2026-10-28",
+  "hold_until": "2026-11-11"
+ },
+ {
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13N3hrV2pTM2M3UWxCTGgyUmRXRWxEalBmTVU1VjN4WXdaQkFDMDdhcnVGVENCWDJlWThhZ0hxcEtpU3VLUHBtTnRlNUZDMnNLcTFCQVZHWlRtREZFaVo4?oc=5",
   "title": "おでカフェ（富士町）",
   "note": "再確認（2026-11-03）も不可：WebSearchで西東京市富士町のカフェ求人1件（東伏見駅徒歩2分、武蔵野ビル1F）がヒットしたが「おでカフェ」との一致は未確認。選挙ドットコムの原記事も再発見できず。公式SNS・本オープン発表を待つ。",
@@ -21,20 +35,6 @@
   "hold_until": "2026-11-10"
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lekNhRXRNd01fcG9nSDk5S3RFdlZnbk1RbVlIV3hmR05VWXJOakp4NTRQc3dNQUtxVk1sQmN6SkVSZUM0SHp0d0s3TFpwQS1hNHFqWUV1VE15REI3VnVSa3RZUlA?oc=5",
-  "title": "絵本の国のAfternoon Tea in WonderLand+カフェフリー(HAUTE COUTURE BRUNCH・南青山)",
-  "note": "会場はHAUTE COUTURE BRUNCH（東京都港区南青山2-27-18 青山エムズタワー2F、外苑前）、開始日は9/30と確認済み（ikyu予約ページ）。終了日が未記載で確認できず。OZmallページはWebFetch 403（bot対策、別媒体は見つからず）。公式サイト/SNSで終了日確認要。",
-  "first_seen": "2026-10-28",
-  "hold_until": "2026-11-04"
- },
- {
-  "url": "https://prtimes.jp/main/html/rd/p/000002528.000005342.html",
-  "title": "SNOWS スノーボール くろくろ(大丸東京店)",
-  "note": "大丸東京店1階「SVPイベントスペース」での販売。PR TIMES記事内で日付が矛盾（見出しは11/4〜11/10、くろくろの商品説明は11/17まで）。どちらが正しいか・正式な会場住所も未確認。既存保留中のSNOWS東京駅ポップアップ(hold_until 10/30)とは別会場の可能性。公式発表で確定後に再確認。",
-  "first_seen": "2026-10-28",
-  "hold_until": "2026-11-04"
- },
- {
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KLTV1Mi1BYUxrTmRacUxpQVpCWFNMaFhrS01pNGlyRWZKNkpscmoyanlqTk1lUFdURFZiVDFneDhGSzFhTHIxeUFuN0puOHdINy1CeUxyNFZFaTdkWi1ldWVvQ01xWl85ZHc?oc=5",
   "title": "三代目J SOUL BROTHERS 24/7 JSB FOREVER 期間限定コラボレーションカフェ",
   "note": "アルバムリリース記念のコラボカフェ。メニュー・グッズは決定済みと報道されるが、会場名・東京開催かどうか・住所が未確認。公式サイト/SNS(@jsb3liveacc等)での直接確認が必要（初出 2026-10-29）",
@@ -47,5 +47,12 @@
   "note": "JYPエンタの日本初フラッグシップ店『JYP FLAGSHIP TOKYO』が10/10開業、店内にドリンクカフェ併設（韓国メディア報道のみ）。所在地未確定。個人ブログ経由で代官山説あるが低信度で未確証。公式サイト・SNSで住所確認要。",
   "first_seen": "2026-11-02",
   "hold_until": "2026-11-09"
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yX0Q2R2x4eTlZdUw2aExTM3FpRUY0REtLVmNhQjRQRExETHpRZEhNQnc5UFVBcGo5N0RFUHdSUWFQX3I1Wkp3eVBrbXRLOUk?oc=5",
+  "title": "茶房 まるさんかくしかく(五反田)",
+  "note": "レッツエンジョイ東京の記事はnews.google.com経由でWebFetch不可、WebSearchでも実記事URLを発見できず(bestcalendar等でも裏取り不可)。住所は求人サイト(ビズリーチ)で「東京都品川区東五反田2-1-9」との情報のみで店舗公式情報ではない。オープン日未確認。公式SNS・食べログ等で要確認。(初出2026-11-04)",
+  "first_seen": "2026-11-04",
+  "hold_until": "2026-11-11"
  }
 ]

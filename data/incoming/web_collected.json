@@ -6248,5 +6248,28 @@
   "summary": "TVアニメ『正反対な君と僕』とのコラボカフェ。洒落CAFE FLEUR 新宿マルイ本館店で開催、営業時間11:00〜21:00（コラボメニューL.O.20:00）。",
   "collected_at": "2026-11-02",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Ringo Jam Café(Pacific DRIVE-INルミネエスト新宿店)",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階 Pacific DRIVE-INルミネエスト新宿店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-30",
+   "end": "2026-12-20"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://news.mynavi.jp/article/20260904-4914991/"
+  ],
+  "summary": "Mrs.GREEN APPLEファンクラブ発足10周年を記念したテーマカフェ。パンケーキやサンドイッチプレート、ティラミス、パフェなどを提供。",
+  "collected_at": "2026-11-04",
+  "id": ""
  }
 ]

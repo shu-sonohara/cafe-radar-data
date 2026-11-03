@@ -76,6 +76,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000262.000044858.html"
  },
+ "34d825ff3802": {
+  "checked_at": "2026-11-04",
+  "closed": "なし（臨時休業あり）",
+  "hours": "11:00–22:00（L.O.21:00）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000001.000193787.html"
+ },
  "35d5621b47b9": {
   "checked_at": "2026-10-31",
   "closed": null,
@@ -111,6 +118,13 @@
   "note": "公式に個別営業時間の記載なし",
   "source": null
  },
+ "42aa35861914": {
+  "checked_at": "2026-11-04",
+  "closed": "東京国立博物館の休館日に準ずる",
+  "hours": "9:30–17:00、金・土は9:30–20:00",
+  "note": "翌月曜が祝休日の場合は日曜も20:00まで営業",
+  "source": "https://prtimes.jp/main/html/rd/p/000000005.000189124.html"
+ },
  "4d4a94010a28": {
   "checked_at": "2026-10-31",
   "closed": "月曜（祝日の場合は翌火曜）・年末年始(12/28–1/3)",
@@ -139,6 +153,13 @@
   "note": "定休日の記載なし",
   "source": "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
  },
+ "59140866093b": {
+  "checked_at": "2026-11-04",
+  "closed": null,
+  "hours": null,
+  "note": "カフェ単体の営業時間は公式記事・施設サイトとも未掲載",
+  "source": null
+ },
  "5c3cb72f4691": {
   "checked_at": "2026-10-31",
   "closed": null,
@@ -152,6 +173,13 @@
   "hours": "カフェ 7:00–19:00（物販6:00–20:00）",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
+ },
+ "61a6dc80814d": {
+  "checked_at": "2026-11-04",
+  "closed": "土・日・祝",
+  "hours": "8:00–18:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000001077.000010329.html"
  },
  "632032fa254e": {
   "checked_at": "2026-11-01",
@@ -188,6 +216,20 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000265.000044858.html"
  },
+ "72c5e27bddb0": {
+  "checked_at": "2026-11-04",
+  "closed": "無休",
+  "hours": "6:00–24:00",
+  "note": "",
+  "source": "https://selfcafe.jp/newstore/202608122844/"
+ },
+ "72c76f51f5a2": {
+  "checked_at": "2026-11-04",
+  "closed": null,
+  "hours": "8:00–21:00",
+  "note": "定休日は未確認",
+  "source": "https://www.kobeya.co.jp/info/rireki/detail/35"
+ },
  "7790abf614f7": {
   "checked_at": "2026-11-01",
   "closed": "不定休",
@@ -215,6 +257,13 @@
   "hours": "月〜土 8:00–22:00 / 日・祝 8:00–21:00（施設の営業時間に準ずる）",
   "note": "",
   "source": "https://bestcalendar.jp/press/150179"
+ },
+ "8801b4281c80": {
+  "checked_at": "2026-11-04",
+  "closed": "年末年始",
+  "hours": null,
+  "note": "営業時間の記載なし。定休日は年末年始のみ公式ブログに明記",
+  "source": "https://www.nanasgreentea.com/blogs/news/20260804"
  },
  "8ccf1de144b5": {
   "checked_at": "2026-11-02",
@@ -293,6 +342,20 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000078.000028845.html"
  },
+ "a7d83ce2073b": {
+  "checked_at": "2026-11-04",
+  "closed": null,
+  "hours": null,
+  "note": "グランドオープン日(8/28 11:30開店・23:00閉店)の特別案内のみで通常営業時間は公式未掲載",
+  "source": null
+ },
+ "ac4d5bff9dcb": {
+  "checked_at": "2026-11-04",
+  "closed": null,
+  "hours": null,
+  "note": "プレスリリースに記載なし。公式サイト(ellecafe.jp)は取材時点で未公開",
+  "source": null
+ },
  "afad9a58f04d": {
   "checked_at": "2026-10-31",
   "closed": "東京ソラマチに準ずる",
@@ -349,6 +412,20 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000300.000014043.html"
  },
+ "c427c961da92": {
+  "checked_at": "2026-11-04",
+  "closed": "土・日・祝（イベント開催等で不定休あり）",
+  "hours": "9:00–17:00",
+  "note": "",
+  "source": "https://koubo.jp/press-release/prtimes/c23861_r116"
+ },
+ "c46979d7e49d": {
+  "checked_at": "2026-11-04",
+  "closed": "無休",
+  "hours": "テイクアウト8:00–21:30／店内9:00–21:30（L.O.21:00）",
+  "note": "公式施設ページ(itocia.jp)は404のため媒体記事で代替確認",
+  "source": "https://baila.hpplus.jp/blogs/kawamura_haruka/84031"
+ },
  "ca48666cdd93": {
   "checked_at": "2026-10-31",
   "closed": null,
@@ -370,12 +447,33 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000001068.000005340.html"
  },
+ "d9178326e07a": {
+  "checked_at": "2026-11-04",
+  "closed": null,
+  "hours": "10:00–19:00",
+  "note": "定休日は未確認（施設=イオン八王子滝山の休館日に準ずる可能性あるが公式未確認）",
+  "source": "https://gourmetpress.net/1476836/"
+ },
  "dd5cae1d34be": {
   "checked_at": "2026-11-01",
   "closed": "無休",
   "hours": "平日9:30–20:30 / 土日祝9:00–20:30",
   "note": "",
   "source": "https://san-tatsu.jp/articles/562581/"
+ },
+ "e15b2fdb8e40": {
+  "checked_at": "2026-11-04",
+  "closed": "東京国立博物館の休館日に準ずる",
+  "hours": "THE RESTAURANT 10:30–17:00（L.O.フード16:00/ドリンク16:30）、金・土は10:30–20:00（L.O.フード19:00/ドリンク19:30）／ガーデンカフェ 9:30–17:00、金・土は9:30–20:00",
+  "note": "2施設分を併記。翌月曜が祝休日の場合は日曜も20:00まで営業",
+  "source": "https://prtimes.jp/main/html/rd/p/000000005.000189124.html"
+ },
+ "e6fb6cb0de71": {
+  "checked_at": "2026-11-04",
+  "closed": null,
+  "hours": "平日9:30–20:30 / 土日祝9:00–20:30",
+  "note": "施設(東京ギフトパレット)の営業時間に準ずる可能性あり",
+  "source": "https://prtimes.jp/main/html/rd/p/000000435.000007024.html"
  },
  "e987631f146f": {
   "checked_at": "2026-11-02",
@@ -411,6 +509,13 @@
   "hours": "10:00–23:00（日〜木22:00）",
   "note": "",
   "source": "https://www.zaikei.co.jp/releases/3625482/"
+ },
+ "f612c22e264a": {
+  "checked_at": "2026-11-04",
+  "closed": null,
+  "hours": "11:00–23:00",
+  "note": "定休日は未確認",
+  "source": "https://rocketnews24.com/2026/09/11/2800794/"
  },
  "f7228663f3e0": {
   "checked_at": "2026-11-02",
