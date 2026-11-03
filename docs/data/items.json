@@ -949,7 +949,12 @@
    "id": "c3ceeac60f6a",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "平日・土曜 8:00–22:00 / 日曜・祝日 8:00–21:00",
+    "closed": "施設に準ずる",
+    "checked_at": "2026-11-03",
+    "source": "https://prtimes.jp/main/html/rd/p/000000300.000014043.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1915,7 +1920,12 @@
    "id": "e9ed5ed05d97",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "平日・土曜 8:00–22:00 / 日曜・祝日 8:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-03",
+    "source": "https://www.laterre.com/bml/"
+   }
   },
   {
    "type": "new_cafe",
@@ -2303,7 +2313,12 @@
    "id": "65cd200d00c3",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "11:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-03",
+    "source": "https://prtimes.jp/main/html/rd/p/000000454.000036259.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2668,7 +2683,12 @@
    "id": "8d09509dd97a",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00",
+    "closed": "施設に準ずる",
+    "checked_at": "2026-11-03",
+    "source": "https://resemom.jp/release/prtimes/20260903/209529.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2927,7 +2947,12 @@
    "id": "7f8361be1752",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:30–20:00",
+    "closed": null,
+    "checked_at": "2026-11-03",
+    "source": "https://prtimes.jp/main/html/rd/p/000004208.000003860.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3014,7 +3039,12 @@
    "id": "2b3341404c71",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "5:00–25:00",
+    "closed": "無休",
+    "checked_at": "2026-11-03",
+    "source": "https://selfcafe.jp/shop/tokyo/chitosekarasuyama/"
+   }
   },
   {
    "type": "new_cafe",
@@ -3095,7 +3125,12 @@
    "id": "5e0b02b0b226",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "カフェ 7:00–19:00（物販6:00–20:00）",
+    "closed": null,
+    "checked_at": "2026-11-03",
+    "source": "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3121,7 +3156,12 @@
    "id": "518f61ebd4f1",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "8:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-03",
+    "source": "https://prtimes.jp/main/html/rd/p/000000069.000043358.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3147,7 +3187,12 @@
    "id": "362ae31366b0",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–17:30（L.O.17:00）",
+    "closed": "水曜",
+    "checked_at": "2026-11-03",
+    "source": "https://prtimes.jp/main/html/rd/p/000000002.000190472.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -4566,7 +4611,7 @@
     "https://www.walkerplus.com/article/1451409/"
    ],
    "summary": "ミッフィーをテーマにした期間限定コラボカフェ。冬向けの温かいメニューが中心で、グラタンパイやスープを提供。事前予約制(1名660円、先着順)。",
-   "collected_at": "2026-11-02",
+   "collected_at": "2026-11-03",
    "id": "1713d5515ea5",
    "is_new": false,
    "freshness": null,
@@ -4733,7 +4778,7 @@
     "https://prtimes.jp/main/html/rd/p/000000002.000192515.html"
    ],
    "summary": "人気ビストロ監修のオールデイダイニング&カフェ。朝はコーヒー・パンケーキ、昼はサンドイッチ、夜はビストロ料理とナチュラルワインを提供。",
-   "collected_at": "2026-10-31",
+   "collected_at": "2026-11-03",
    "id": "35d5621b47b9",
    "is_new": true,
    "freshness": 30,
@@ -4778,6 +4823,106 @@
   {
    "type": "new_cafe",
    "genre": [
+    "カフェ"
+   ],
+   "name": "YOGI LABO TOKYO",
+   "area": "原宿",
+   "address": "東京都渋谷区神宮前1丁目10-37",
+   "lat": 35.670097,
+   "lng": 139.703827,
+   "period": {
+    "start": "2026-11-16",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000193787.html"
+   ],
+   "summary": "みゆみゆ（桜井美悠）プロデュースのウェルネスカフェ。全メニューにPFCバランスを表示。原宿にグランドオープン。",
+   "collected_at": "2026-11-03",
+   "id": "34d825ff3802",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "あさぎり牛乳（第18回 IKEBUKUROパン祭）",
+   "area": "池袋",
+   "address": "東京都豊島区西池袋1-1-25",
+   "lat": 35.729939,
+   "lng": 139.71051,
+   "period": {
+    "start": "2026-11-18",
+    "end": "2026-11-24"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000084.000161984.html"
+   ],
+   "summary": "朝霧乳業のミルクスイーツブランド「あさぎり牛乳」が東武百貨店池袋店8階催事場のパン祭に期間限定出店。",
+   "collected_at": "2026-11-03",
+   "id": "1023165fd5b2",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "あさぎり牛乳（JR拝島駅）",
+   "area": "拝島",
+   "address": "東京都昭島市松原町4丁目14番4号",
+   "lat": 35.720718,
+   "lng": 139.343307,
+   "period": {
+    "start": "2026-11-12",
+    "end": "2026-11-25"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000084.000161984.html"
+   ],
+   "summary": "朝霧乳業のミルクスイーツブランド「あさぎり牛乳」がJR拝島駅構内に期間限定出店。",
+   "collected_at": "2026-11-03",
+   "id": "cde82118de2f",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "あさぎり牛乳（セレオ八王子）",
+   "area": "八王子",
+   "address": "東京都八王子市旭町1-1",
+   "lat": 35.655796,
+   "lng": 139.336212,
+   "period": {
+    "start": "2026-11-26",
+    "end": "2027-02-28"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000084.000161984.html"
+   ],
+   "summary": "朝霧乳業のミルクスイーツブランド「あさぎり牛乳」がセレオ八王子1階に期間限定出店。",
+   "collected_at": "2026-11-03",
+   "id": "302f790bdf43",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
     "ベーカリー",
     "カフェ"
    ],
@@ -4809,7 +4954,12 @@
    "id": "33347521a16a",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "ベーカリー 月〜土 7:00–22:00・日祝7:00–21:00 / Bar&Grill 月〜土17:00–22:00・日祝17:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-03",
+    "source": "https://prtimes.jp/main/html/rd/p/000000262.000044858.html"
+   }
   },
   {
    "type": "event",
@@ -4944,7 +5094,12 @@
    "id": "cbaae22cf6e4",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-03",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -5028,7 +5183,12 @@
    "id": "6e10e66f4e51",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00",
+    "closed": "施設に準ずる",
+    "checked_at": "2026-11-03",
+    "source": "https://prtimes.jp/main/html/rd/p/000001085.000005743.html"
+   }
   },
   {
    "type": "event",
@@ -5086,7 +5246,12 @@
    "id": "505337e9f2b6",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "8:00–22:00",
+    "closed": null,
+    "checked_at": "2026-11-03",
+    "source": "https://www.sharelounge.jp/store/2144"
+   }
   },
   {
    "type": "new_cafe",
@@ -5580,7 +5745,12 @@
    "id": "412d7a3c7916",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-03",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -5606,7 +5776,12 @@
    "id": "873e8ba89bf7",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "月〜土 8:00–22:00 / 日・祝 8:00–21:00（施設の営業時間に準ずる）",
+    "closed": null,
+    "checked_at": "2026-11-03",
+    "source": "https://bestcalendar.jp/press/150179"
+   }
   },
   {
    "type": "event",
