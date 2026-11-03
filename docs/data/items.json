@@ -28,7 +28,12 @@
    "id": "e15b2fdb8e40",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "THE RESTAURANT 10:30–17:00（L.O.フード16:00/ドリンク16:30）、金・土は10:30–20:00（L.O.フード19:00/ドリンク19:30）／ガーデンカフェ 9:30–17:00、金・土は9:30–20:00",
+    "closed": "東京国立博物館の休館日に準ずる",
+    "checked_at": "2026-11-04",
+    "source": "https://prtimes.jp/main/html/rd/p/000000005.000189124.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -624,7 +629,12 @@
    "id": "a7d83ce2073b",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-04",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -1894,7 +1904,12 @@
    "id": "72c76f51f5a2",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "8:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-04",
+    "source": "https://www.kobeya.co.jp/info/rireki/detail/35"
+   }
   },
   {
    "type": "new_cafe",
@@ -1951,7 +1966,12 @@
    "id": "8801b4281c80",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": "年末年始",
+    "checked_at": "2026-11-04",
+    "source": "https://www.nanasgreentea.com/blogs/news/20260804"
+   }
   },
   {
    "type": "popup",
@@ -2144,7 +2164,12 @@
    "id": "59140866093b",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-04",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -2196,7 +2221,12 @@
    "id": "72c5e27bddb0",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "6:00–24:00",
+    "closed": "無休",
+    "checked_at": "2026-11-04",
+    "source": "https://selfcafe.jp/newstore/202608122844/"
+   }
   },
   {
    "type": "new_cafe",
@@ -2498,7 +2528,12 @@
    "id": "d9178326e07a",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–19:00",
+    "closed": null,
+    "checked_at": "2026-11-04",
+    "source": "https://gourmetpress.net/1476836/"
+   }
   },
   {
    "type": "popup",
@@ -2588,7 +2623,7 @@
     "https://news.mynavi.jp/article/20260904-4914991/"
    ],
    "summary": "Mrs. GREEN APPLEのコラボカフェ「Ringo Jam Café」。Pacific DRIVE-IN ルミネエスト新宿店にて2026年10月30日〜12月20日開催。",
-   "collected_at": "2026-10-21",
+   "collected_at": "2026-11-04",
    "id": "50cd5e6649c6",
    "is_new": false,
    "freshness": null,
@@ -2616,10 +2651,11 @@
     "https://airline.ikaros.jp/news/60001/",
     "https://www.traicy.com/posts/20260917381029/",
     "https://travel.mdpr.jp/travel/detail/4839302",
+    "https://www.aviationwire.jp/archives/350247/print/",
     "https://bestcalendar.jp/press/150450"
    ],
    "summary": "東京ばな奈ブランド史上初のカフェスタンド。羽田空港第1ターミナル2F出発ゲートラウンジ(北)16番ゲート前に2026年9月17日オープン。注文ごとに作る「東京ばな奈バー」を提供。",
-   "collected_at": "2026-09-22",
+   "collected_at": "2026-11-04",
    "id": "ebff69bf9a94",
    "is_new": true,
    "freshness": 90,
@@ -2855,7 +2891,12 @@
    "id": "42aa35861914",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "9:30–17:00、金・土は9:30–20:00",
+    "closed": "東京国立博物館の休館日に準ずる",
+    "checked_at": "2026-11-04",
+    "source": "https://prtimes.jp/main/html/rd/p/000000005.000189124.html"
+   }
   },
   {
    "type": "popup",
@@ -2981,7 +3022,12 @@
    "id": "c46979d7e49d",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "テイクアウト8:00–21:30／店内9:00–21:30（L.O.21:00）",
+    "closed": "無休",
+    "checked_at": "2026-11-04",
+    "source": "https://baila.hpplus.jp/blogs/kawamura_haruka/84031"
+   }
   },
   {
    "type": "new_cafe",
@@ -3071,7 +3117,12 @@
    "id": "f612c22e264a",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "11:00–23:00",
+    "closed": null,
+    "checked_at": "2026-11-04",
+    "source": "https://rocketnews24.com/2026/09/11/2800794/"
+   }
   },
   {
    "type": "new_cafe",
@@ -4046,7 +4097,12 @@
    "id": "c427c961da92",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "9:00–17:00",
+    "closed": "土・日・祝（イベント開催等で不定休あり）",
+    "checked_at": "2026-11-04",
+    "source": "https://koubo.jp/press-release/prtimes/c23861_r116"
+   }
   },
   {
    "type": "new_cafe",
@@ -4611,7 +4667,7 @@
     "https://www.walkerplus.com/article/1451409/"
    ],
    "summary": "ミッフィーをテーマにした期間限定コラボカフェ。冬向けの温かいメニューが中心で、グラタンパイやスープを提供。事前予約制(1名660円、先着順)。",
-   "collected_at": "2026-11-03",
+   "collected_at": "2026-11-04",
    "id": "1713d5515ea5",
    "is_new": false,
    "freshness": null,
@@ -4843,7 +4899,12 @@
    "id": "34d825ff3802",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "11:00–22:00（L.O.21:00）",
+    "closed": "なし（臨時休業あり）",
+    "checked_at": "2026-11-04",
+    "source": "https://prtimes.jp/main/html/rd/p/000000001.000193787.html"
+   }
   },
   {
    "type": "event",
@@ -5017,7 +5078,12 @@
    "id": "61a6dc80814d",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "8:00–18:00",
+    "closed": "土・日・祝",
+    "checked_at": "2026-11-04",
+    "source": "https://prtimes.jp/main/html/rd/p/000001077.000010329.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -5042,7 +5108,12 @@
    "id": "ac4d5bff9dcb",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-04",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -5067,7 +5138,12 @@
    "id": "e6fb6cb0de71",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "平日9:30–20:30 / 土日祝9:00–20:30",
+    "closed": null,
+    "checked_at": "2026-11-04",
+    "source": "https://prtimes.jp/main/html/rd/p/000000435.000007024.html"
+   }
   },
   {
    "type": "new_cafe",
