@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03",
+ "updated_at": "2026-11-04",
  "items": [
   {
    "type": "new_cafe",
@@ -2404,8 +2404,8 @@
    "summary": "銀座で23年営業してきた喫茶店がビル建て替えに伴い移転。2026年3月末に一時閉店し、8月5日に銀座3丁目の新ビル10・11階で移転オープンした。",
    "collected_at": "2026-09-03",
    "id": "cfc7a3ee6a1e",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": null
   },
   {
@@ -5102,62 +5102,6 @@
    }
   },
   {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "ボーカロイド楽曲×オバケンコラボ 第3弾 feat.KAITO at 呪物cafe ジュジュ",
-   "area": "方南町",
-   "address": "東京都杉並区方南2-4-27",
-   "lat": 35.68145,
-   "lng": 139.657791,
-   "period": {
-    "start": "2026-10-10",
-    "end": "2026-11-03"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://posfie.com/@hisayoshi1999/p/2Qe33Iu",
-    "https://blog.piapro.net/2026/09/ni26091801.html",
-    "https://collabo-cafe.com/en/events/collabo/hatsune-miku-obaken-vol3-kaito-cafe-2026/"
-   ],
-   "summary": "お化け屋敷オバケン運営の呪物テーマカフェ「呪物cafe ジュジュ」で、ボーカロイド楽曲コラボ第3弾(KAITOフィーチャー)を開催。カフェ予約は9/18 18時より受付開始、メニュー詳細は同時公開予定。",
-   "collected_at": "2026-09-16",
-   "id": "c77f1c5f163e",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "麻布台ヒルズ HARVEST WEEKS（モンブランセレクション2026）",
-   "area": "麻布台",
-   "address": "東京都港区麻布台1丁目3-1 麻布台ヒルズ",
-   "lat": 35.661549,
-   "lng": 139.740921,
-   "period": {
-    "start": "2026-09-18",
-    "end": "2026-11-03"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.mori.co.jp/press/release/260821_1/",
-    "https://prtimes.jp/main/html/rd/p/000000412.000048109.html",
-    "https://www.roppongievents.com/harvest-weeks-azabudai-hills-2026/",
-    "https://www.food-festival.info/2026-azabudai-hills-harvest-weeks/"
-   ],
-   "summary": "麻布台ヒルズで秋の味覚フェア「HARVEST WEEKS」開催。9月18日〜10月12日は26店舗33種のモンブランが集結する「モンブランセレクション2026」を展開。",
-   "collected_at": "2026-09-23",
-   "id": "9f8606a90c40",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ"
@@ -5531,33 +5475,6 @@
    "hours": null
   },
   {
-   "type": "popup",
-   "genre": [
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "HELLO KITTY'S SWEETS MARKET -Chocolate lovers-（東武百貨店池袋本店）",
-   "area": "池袋",
-   "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋本店 8階催事場",
-   "lat": 35.729939,
-   "lng": 139.71051,
-   "period": {
-    "start": "2026-10-22",
-    "end": "2026-11-03"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000335.000095831.html",
-    "https://nijimen.kusuguru.co.jp/topics/618850"
-   ],
-   "summary": "サンリオキャラクターズのチョコレートテーマ全国巡回ショッピングイベント。東武百貨店池袋本店8階催事場で開催し、ハローキティやポムポムプリンなどチョコ関連の限定グッズ・スイーツを展開。",
-   "collected_at": "2026-10-05",
-   "id": "c46fc91dd677",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "スイーツ"
@@ -5624,33 +5541,6 @@
    "genre": [
     "コラボカフェ"
    ],
-   "name": "TVアニメ『正反対な君と僕』コラボカフェ at 洒落CAFE「レトロポップver.」（新宿マルイ本館店）",
-   "area": "新宿",
-   "address": "東京都新宿区新宿3-30-13 新宿マルイ本館8F",
-   "lat": 35.691158,
-   "lng": 139.703949,
-   "period": {
-    "start": "2026-10-16",
-    "end": "2026-11-03"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000355.000048489.html",
-    "https://bestcalendar.jp/press/157066",
-    "https://www.oricon.co.jp/pressrelease/3024039/"
-   ],
-   "summary": "TVアニメ『正反対な君と僕』と洒落CAFEのコラボカフェ「レトロポップver.」が新宿マルイ本館8F・洒落CAFE FLEURで開催。描き起こしオリジナルグッズとコラボメニューを提供。",
-   "collected_at": "2026-11-02",
-   "id": "ac6219903906",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "コラボカフェ"
-   ],
    "name": "ホリミヤCAFE 片桐高校文化祭",
    "area": "池袋",
    "address": "東京都豊島区東池袋1丁目3-2 前島ビル",
@@ -5667,31 +5557,6 @@
    "summary": "アニメ『ホリミヤ』とのコラボカフェ。motto cafe池袋店で前半（10/14〜11/20）・後半（11/21〜12/27）の2部制で開催、限定メニュー・グッズを展開。",
    "collected_at": "2026-10-12",
    "id": "6b136c6a64e8",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "おいもスイーツセレクション2026",
-   "area": "麻布台",
-   "address": "東京都港区麻布台1-3-1 麻布台ヒルズ",
-   "lat": 35.661549,
-   "lng": 139.740921,
-   "period": {
-    "start": "2026-10-13",
-    "end": "2026-11-03"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.walkerplus.com/article/1436681/"
-   ],
-   "summary": "麻布台ヒルズ「HARVEST WEEKS」後半の企画。さつまいもを使ったスイーツを複数店舗で展開。",
-   "collected_at": "2026-10-16",
-   "id": "70810c03898b",
    "is_new": false,
    "freshness": null,
    "hours": null
