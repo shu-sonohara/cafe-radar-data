@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04",
+ "updated_at": "2026-11-05",
  "items": [
   {
    "type": "new_cafe",
@@ -82,8 +82,8 @@
    "summary": "浅草・二天門近くに抹茶専門ブランド「マッチャ メイジン カフェ」の旗艦店が2026年8月6日グランドオープン。静かで上質な抹茶体験を提供する本格抹茶カフェ。",
    "collected_at": "2026-08-22",
    "id": "778ca7ad5bdc",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": null
   },
   {
@@ -213,8 +213,8 @@
    "summary": "スイス発ロースタリーカフェ「MAME」の日本2号店が千駄ヶ谷に2026年8月6日オープン。神谷町の予約制1号店と異なり、地域に根差したカジュアルなロースタリーカフェとして展開する。",
    "collected_at": "2026-08-22",
    "id": "ae9a3357c619",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": null
   },
   {
@@ -711,8 +711,8 @@
    "summary": "韓国全土に1,800店舗以上を展開するコーヒーチェーン「Paik's DABANG（ペクスダバン）」の日本1号店が、新橋・烏森神社近くに2026年8月6日オープンし海外進出を本格化。",
    "collected_at": "2026-09-01",
    "id": "5a7ebec73fd9",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": null
   },
   {
@@ -3354,7 +3354,7 @@
    "collected_at": "2026-09-19",
    "id": "3766ddc53098",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "11:00–19:00",
     "closed": "月曜",
@@ -5633,31 +5633,6 @@
    "summary": "アニメ『ホリミヤ』とのコラボカフェ。motto cafe池袋店で前半（10/14〜11/20）・後半（11/21〜12/27）の2部制で開催、限定メニュー・グッズを展開。",
    "collected_at": "2026-10-12",
    "id": "6b136c6a64e8",
-   "is_new": false,
-   "freshness": null,
-   "hours": null
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "芋・栗・あんこ スイーツ",
-   "area": "池袋",
-   "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋店 B1F",
-   "lat": 35.729939,
-   "lng": 139.71051,
-   "period": {
-    "start": "2026-10-22",
-    "end": "2026-11-04"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.fashion-press.net/news/152096"
-   ],
-   "summary": "東武百貨店池袋本店地下1階にて「芋・栗・あんこ」をテーマにしたスイーツ催事。ごろっとマロンミルフィーユやもっちりイモ餅など。期間は2026年10月22日〜11月4日。",
-   "collected_at": "2026-10-18",
-   "id": "b3b19846ef77",
    "is_new": false,
    "freshness": null,
    "hours": null
