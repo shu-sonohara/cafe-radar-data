@@ -41,6 +41,13 @@
   "note": "定休日の記載なし",
   "source": "https://prtimes.jp/main/html/rd/p/000000153.000071744.html"
  },
+ "1cf83499f1a0": {
+  "checked_at": "2026-11-05",
+  "closed": null,
+  "hours": "平日 11:00–21:00 / 土日祝 10:30–21:00（ルミネエスト新宿ショッピングフロアの営業時間）",
+  "note": "店舗固有の営業時間は非公開のため施設の営業時間を記載",
+  "source": "https://media.jreast.co.jp/articles/3134"
+ },
  "204c467ee4dd": {
   "checked_at": "2026-11-01",
   "closed": null,
@@ -104,6 +111,13 @@
   "note": "",
   "source": "https://gourmetpress.net/1483000/"
  },
+ "3be2e27c6e70": {
+  "checked_at": "2026-11-05",
+  "closed": "不定休",
+  "hours": "11:00–19:00（変更の可能性あり）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000002.000136860.html"
+ },
  "3ca7e0bd06e9": {
   "checked_at": "2026-10-31",
   "closed": "火曜（店舗カレンダーにより水曜・土曜も休みの場合あり）",
@@ -124,6 +138,13 @@
   "hours": "9:30–17:00、金・土は9:30–20:00",
   "note": "翌月曜が祝休日の場合は日曜も20:00まで営業",
   "source": "https://prtimes.jp/main/html/rd/p/000000005.000189124.html"
+ },
+ "431b35cd7e9a": {
+  "checked_at": "2026-11-05",
+  "closed": null,
+  "hours": "11:00–20:00（グッズ購入含めL.O.19:30）",
+  "note": "",
+  "source": "https://www.inside-games.jp/release/prtimes/20261008/311482.html"
  },
  "4d4a94010a28": {
   "checked_at": "2026-10-31",
@@ -152,6 +173,20 @@
   "hours": "物販 6:00–20:00 / カフェ 7:00–19:00",
   "note": "定休日の記載なし",
   "source": "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
+ },
+ "556f29247541": {
+  "checked_at": "2026-11-05",
+  "closed": null,
+  "hours": null,
+  "note": "食べログ以外の出典（公式サイト・SNS）が見つからず、営業時間未確認",
+  "source": null
+ },
+ "5902f5e6ebf2": {
+  "checked_at": "2026-11-05",
+  "closed": null,
+  "hours": "10:30–22:00（TOWER RECORDS CAFE表参道店の通常営業時間）",
+  "note": "コラボ期間中の変更は未確認",
+  "source": "https://tower.jp/store"
  },
  "59140866093b": {
   "checked_at": "2026-11-04",
@@ -202,6 +237,27 @@
   "note": "",
   "source": "https://8dabe.com/2026/09/25/komugisaku-bakery/"
  },
+ "68cd23180f87": {
+  "checked_at": "2026-11-05",
+  "closed": null,
+  "hours": null,
+  "note": "公式サイトが403で取得不可。他媒体にも営業時間の記載なし",
+  "source": null
+ },
+ "699d00b910c3": {
+  "checked_at": "2026-11-05",
+  "closed": null,
+  "hours": "10:00–20:00",
+  "note": "施設（RAKU CAFE池袋1号店）の営業時間を記載",
+  "source": "https://rakuspa.com/rakucafe/"
+ },
+ "6cfff25429c5": {
+  "checked_at": "2026-11-05",
+  "closed": null,
+  "hours": "8:00–18:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000001.000188075.html"
+ },
  "6e10e66f4e51": {
   "checked_at": "2026-11-03",
   "closed": "施設に準ずる",
@@ -237,12 +293,33 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000035.000125380.html"
  },
+ "794b1255f5c9": {
+  "checked_at": "2026-11-05",
+  "closed": null,
+  "hours": "平日 7:00–22:00 / 土日祝 8:00–22:00（オープン日8/7のみ10:00開店）",
+  "note": "",
+  "source": "https://www.tullys.co.jp/company/pressrelease/2026/08/2026_pf_shinjuku.html"
+ },
+ "7e34688a831f": {
+  "checked_at": "2026-11-05",
+  "closed": null,
+  "hours": "EXPRESS LINE（テイクアウト）7:30–21:00 / EXPERIENCE LINE（店内）10:00–21:30（L.O.21:00）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000008.000188003.html"
+ },
  "7f8361be1752": {
   "checked_at": "2026-11-03",
   "closed": null,
   "hours": "10:30–20:00",
   "note": "施設（町田マルイ）に準ずる可能性",
   "source": "https://prtimes.jp/main/html/rd/p/000004208.000003860.html"
+ },
+ "816255f5e436": {
+  "checked_at": "2026-11-05",
+  "closed": null,
+  "hours": "平日 11:00–19:00 / 土日祝 10:00–19:00",
+  "note": "",
+  "source": "https://yakiimofes.jp/tokyo2026/"
  },
  "83ca787d24bd": {
   "checked_at": "2026-10-31",
@@ -264,6 +341,13 @@
   "hours": null,
   "note": "営業時間の記載なし。定休日は年末年始のみ公式ブログに明記",
   "source": "https://www.nanasgreentea.com/blogs/news/20260804"
+ },
+ "8a7f92fabeac": {
+  "checked_at": "2026-11-05",
+  "closed": null,
+  "hours": "10:00–18:00",
+  "note": "会場（reload ENTRANCE HALL）の開催時間を記載",
+  "source": "https://prtimes.jp/main/html/rd/p/000000231.000048770.html"
  },
  "8ccf1de144b5": {
   "checked_at": "2026-11-02",
@@ -447,6 +531,20 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000001068.000005340.html"
  },
+ "d3e97ced9e37": {
+  "checked_at": "2026-11-05",
+  "closed": "なし（年末年始を除く）",
+  "hours": "10:00–19:00",
+  "note": "",
+  "source": "https://bestcalendar.jp/press/144161"
+ },
+ "d73a49311945": {
+  "checked_at": "2026-11-05",
+  "closed": "アクアシティお台場の営業に準ずる",
+  "hours": "11:00–20:00",
+  "note": "",
+  "source": "https://collabo-cafe.com/events/collabo/kawa-ii-uso-cafe-ro-star-odaiba-2026/"
+ },
  "d9178326e07a": {
   "checked_at": "2026-11-04",
   "closed": null,
@@ -502,6 +600,13 @@
   "hours": "10:00–21:00",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000433.000048503.html"
+ },
+ "f31a309ca777": {
+  "checked_at": "2026-11-05",
+  "closed": "なし",
+  "hours": "10:00–21:00（パン売り切れ次第終了）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000108.000102430.html"
  },
  "f442a27ce8d5": {
   "checked_at": "2026-11-02",

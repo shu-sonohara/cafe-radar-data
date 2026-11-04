@@ -54,5 +54,12 @@
   "note": "レッツエンジョイ東京の記事はnews.google.com経由でWebFetch不可、WebSearchでも実記事URLを発見できず(bestcalendar等でも裏取り不可)。住所は求人サイト(ビズリーチ)で「東京都品川区東五反田2-1-9」との情報のみで店舗公式情報ではない。オープン日未確認。公式SNS・食べログ等で要確認。(初出2026-11-04)",
   "first_seen": "2026-11-04",
   "hold_until": "2026-11-11"
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mdURlNjBKaUpVaUZkR2x4MjlsMEVsLVJvRWpKNWRNT2xvTERkNXFTZ1llelpGR1FaeTZCcXQ1ellJM0dSTmQtSmF5UTZGRFNFNkxnYUFrQUloOEEyc1dra1phWm8tS0J2eEE?oc=5",
+  "title": "Her lip to BEAUTY × LATTEST 表参道カフェイベント",
+  "note": "House of Herme(東京都渋谷区神宮前5-2-6)内のCafé de HermeがLATTESTとコラボメニューを提供中と確認したが、記事が言う『期間限定カフェイベント』の開始・終了日が裏取りできず。公式サイトでは常設カフェに見える。公式発表や期間表記を再確認する。",
+  "first_seen": "2026-11-05",
+  "hold_until": "2026-11-12"
  }
 ]
