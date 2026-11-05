@@ -1993,7 +1993,12 @@
    "id": "af9b002749bd",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "月〜土 8:00–22:00 / 日・祝 8:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+   }
   },
   {
    "type": "popup",
@@ -3557,7 +3562,12 @@
    "id": "c313d808d6d0",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "店内11:00–20:00 / テイクアウト12:00–18:00",
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": "https://www.disney.co.jp/shopping/cafenews/20251113_01"
+   }
   },
   {
    "type": "new_cafe",
@@ -3738,7 +3748,12 @@
    "id": "55e626bcea16",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -3954,7 +3969,12 @@
    "id": "28e6734863fa",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "完全入替制 11:15–21:15（75分制、6回入替、LOは各回終了30分前）",
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": "https://prtimes.jp/main/html/rd/p/000000619.000023331.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -4400,7 +4420,12 @@
    "id": "b6251a16b89c",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "18:30–20:30（2時間制）",
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": "https://www.wwdjapan.com/?p=2530114"
+   }
   },
   {
    "type": "popup",
@@ -4523,7 +4548,12 @@
    "id": "d491ccd37984",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -4593,14 +4623,20 @@
    },
    "confidence": "official",
    "sources": [
-    "https://www.zaikei.co.jp/releases/3672467/"
+    "https://www.zaikei.co.jp/releases/3672467/",
+    "https://bestcalendar.jp/press/159908"
    ],
    "summary": "北海道発・冬季限定スイーツ「SNOWS」の本州初ポップアップ。新作「スノーボールくろくろ」などを販売する。",
-   "collected_at": "2026-10-25",
+   "collected_at": "2026-11-06",
    "id": "534ed112fb95",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–20:00（一部時間帯は事前予約制）",
+    "closed": "施設に準ずる",
+    "checked_at": "2026-11-06",
+    "source": "https://bestcalendar.jp/press/159908"
+   }
   },
   {
    "type": "new_cafe",
@@ -4974,7 +5010,12 @@
    "id": "1023165fd5b2",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": null
+   }
   },
   {
    "type": "event",
@@ -4999,7 +5040,12 @@
    "id": "cde82118de2f",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": null
+   }
   },
   {
    "type": "event",
@@ -5049,6 +5095,140 @@
    "id": "2c7493da5e24",
    "is_new": true,
    "freshness": 30,
+   "hours": {
+    "text": "11:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html"
+   }
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "ハコブネ館",
+   "area": "高円寺",
+   "address": "東京都杉並区高円寺北2-12-1",
+   "lat": 35.706444,
+   "lng": 139.652191,
+   "period": {
+    "start": "2026-12-05",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://eiga.com/news/20261105/16",
+    "https://hakobunekan.tokyo/"
+   ],
+   "summary": "下北沢「シモキタ地下室」が常設館として再始動。高円寺駅北口徒歩3分、定員20席の小さなシアター兼喫茶バー。イベントがない日は喫茶バーとして営業。",
+   "collected_at": "2026-11-06",
+   "id": "6d6e4dd43cf4",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "コーヒー",
+    "コラボカフェ"
+   ],
+   "name": "MR. MEN LITTLE MISS THE COFFEE STAND",
+   "area": "渋谷（しぶちか）",
+   "address": "東京都渋谷区道玄坂2丁目2番1号 渋谷地下街「しぶちか」14番",
+   "lat": 35.659607,
+   "lng": 139.700089,
+   "period": {
+    "start": "2026-11-06",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000773.000037629.html"
+   ],
+   "summary": "英国絵本キャラクター「ミスターメン リトルミス」とのコラボコーヒースタンド。コーヒースプリーム（NZ）の豆を使ったコーヒーとドーナツをテイクアウトで提供。",
+   "collected_at": "2026-11-06",
+   "id": "d309d6e7ed30",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "Her lip to BEAUTY × LATTEST",
+   "area": "表参道",
+   "address": "東京都渋谷区神宮前3丁目5-2",
+   "lat": 35.6689,
+   "lng": 139.712463,
+   "period": {
+    "start": "2026-11-10",
+    "end": "2026-11-30"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000195.000074953.html"
+   ],
+   "summary": "小嶋陽菜プロデュースのビューティブランド「Her lip to BEAUTY」が表参道のエスプレッソバー「LATTEST」で期間限定カフェ。新色リップをイメージしたラテ・ティーを提供。",
+   "collected_at": "2026-11-06",
+   "id": "747f13b60b5d",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "ティム・バートンのナイトメアー・ビフォア・クリスマス OH MY CAFE",
+   "area": "表参道",
+   "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館 地下3階",
+   "lat": 35.667229,
+   "lng": 139.708557,
+   "period": {
+    "start": "2026-11-19",
+    "end": "2027-01-31"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.fashion-press.net/news/152928"
+   ],
+   "summary": "ハロウィンタウン仕様のクリスマスを楽しめるコラボカフェ。ジャックの「ハロウィンナイトシチュー」やサリーの「花占いパフェ」などキャラクターモチーフのメニューを提供。",
+   "collected_at": "2026-11-06",
+   "id": "067403362da5",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "うちにはバリスタがいる。in 原宿（ネスカフェ原宿）",
+   "area": "原宿",
+   "address": "東京都渋谷区神宮前1-22-8",
+   "lat": 35.672619,
+   "lng": 139.703583,
+   "period": {
+    "start": "2026-11-16",
+    "end": "2026-12-15"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000468.000004158.html"
+   ],
+   "summary": "ネスカフェ原宿にて「ネスカフェ ゴールドブレンド バリスタ」新ブランドのイベント。バリスタ体験でラテ系ドリンクとオリジナルスイーツを提供。営業11:00〜20:00（LO19:00）。",
+   "collected_at": "2026-11-06",
+   "id": "d2c649d58adf",
+   "is_new": false,
+   "freshness": null,
    "hours": null
   },
   {
@@ -5403,7 +5583,12 @@
    "id": "9d4a5cbc58f7",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00（予約・フリー入場共に最終受付19:20）",
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": "http://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/"
+   }
   },
   {
    "type": "popup",
@@ -5429,7 +5614,12 @@
    "id": "8d7bd7b83d25",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00（予約・フリー入場共に最終受付19:20）",
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": "http://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/"
+   }
   },
   {
    "type": "popup",
@@ -5456,7 +5646,12 @@
    "id": "4fd97d50d403",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "完全入替制 11:00–19:40（70分制、土日祝のみ11:00開始回あり、LOは各回開始30分後）",
+    "closed": "火曜（11/3のみ営業、11/4は臨時休業）",
+    "checked_at": "2026-11-06",
+    "source": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/"
+   }
   },
   {
    "type": "popup",
@@ -5565,7 +5760,12 @@
    "id": "5c97a35af58d",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "土日祝10:00–19:00 / 平日11:30–19:00（L.O.18:00）",
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": "https://eeo.today/graffartcafe/"
+   }
   },
   {
    "type": "new_cafe",
@@ -5800,7 +6000,12 @@
    "id": "325c0a99cabc",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "アフタヌーンティー提供 12:30–17:00（Food L.O.15:00、Drink L.O.16:30）",
+    "closed": null,
+    "checked_at": "2026-11-06",
+    "source": "https://www.princehotels.co.jp/shinagawa/plan/table9tokyo/sweetscourse_2026_Chestnut_MontBlanc"
+   }
   },
   {
    "type": "popup",
