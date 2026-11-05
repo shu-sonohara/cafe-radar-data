@@ -660,7 +660,12 @@
    "id": "6cfff25429c5",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "8:00–18:00",
+    "closed": null,
+    "checked_at": "2026-11-05",
+    "source": "https://prtimes.jp/main/html/rd/p/000000001.000188075.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -742,7 +747,12 @@
    "id": "794b1255f5c9",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "平日 7:00–22:00 / 土日祝 8:00–22:00（オープン日8/7のみ10:00開店）",
+    "closed": null,
+    "checked_at": "2026-11-05",
+    "source": "https://www.tullys.co.jp/company/pressrelease/2026/08/2026_pf_shinjuku.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -991,7 +1001,12 @@
    "id": "f31a309ca777",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00（パン売り切れ次第終了）",
+    "closed": "なし",
+    "checked_at": "2026-11-05",
+    "source": "https://prtimes.jp/main/html/rd/p/000000108.000102430.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1878,7 +1893,12 @@
    "id": "d3e97ced9e37",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "10:00–19:00",
+    "closed": "なし（年末年始を除く）",
+    "checked_at": "2026-11-05",
+    "source": "https://bestcalendar.jp/press/144161"
+   }
   },
   {
    "type": "new_cafe",
@@ -2253,7 +2273,12 @@
    "id": "3be2e27c6e70",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "11:00–19:00（変更の可能性あり）",
+    "closed": "不定休",
+    "checked_at": "2026-11-05",
+    "source": "https://prtimes.jp/main/html/rd/p/000000002.000136860.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2935,7 +2960,12 @@
    "id": "1cf83499f1a0",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "平日 11:00–21:00 / 土日祝 10:30–21:00（ルミネエスト新宿ショッピングフロアの営業時間）",
+    "closed": null,
+    "checked_at": "2026-11-05",
+    "source": "https://media.jreast.co.jp/articles/3134"
+   }
   },
   {
    "type": "popup",
@@ -2963,7 +2993,12 @@
    "id": "d73a49311945",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "11:00–20:00",
+    "closed": "アクアシティお台場の営業に準ずる",
+    "checked_at": "2026-11-05",
+    "source": "https://collabo-cafe.com/events/collabo/kawa-ii-uso-cafe-ro-star-odaiba-2026/"
+   }
   },
   {
    "type": "new_cafe",
@@ -3147,7 +3182,12 @@
    "id": "7e34688a831f",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "EXPRESS LINE（テイクアウト）7:30–21:00 / EXPERIENCE LINE（店内）10:00–21:30（L.O.21:00）",
+    "closed": null,
+    "checked_at": "2026-11-05",
+    "source": "https://prtimes.jp/main/html/rd/p/000000008.000188003.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3295,7 +3335,12 @@
    "id": "556f29247541",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-05",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -3839,7 +3884,12 @@
    "id": "68cd23180f87",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-05",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -4017,7 +4067,12 @@
    "id": "699d00b910c3",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-05",
+    "source": "https://rakuspa.com/rakucafe/"
+   }
   },
   {
    "type": "popup",
@@ -4044,7 +4099,12 @@
    "id": "431b35cd7e9a",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "11:00–20:00（グッズ購入含めL.O.19:30）",
+    "closed": null,
+    "checked_at": "2026-11-05",
+    "source": "https://www.inside-games.jp/release/prtimes/20261008/311482.html"
+   }
   },
   {
    "type": "popup",
@@ -4334,7 +4394,12 @@
    "id": "8a7f92fabeac",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–18:00",
+    "closed": null,
+    "checked_at": "2026-11-05",
+    "source": "https://prtimes.jp/main/html/rd/p/000000231.000048770.html"
+   }
   },
   {
    "type": "popup",
@@ -4389,7 +4454,12 @@
    "id": "5902f5e6ebf2",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:30–22:00（TOWER RECORDS CAFE表参道店の通常営業時間）",
+    "closed": null,
+    "checked_at": "2026-11-05",
+    "source": "https://tower.jp/store"
+   }
   },
   {
    "type": "new_cafe",
@@ -4984,6 +5054,31 @@
   {
    "type": "new_cafe",
    "genre": [
+    "カフェ"
+   ],
+   "name": "カフェ・ラデュレ 新丸ビル店",
+   "area": "丸の内",
+   "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング B1階",
+   "lat": 35.682579,
+   "lng": 139.764313,
+   "period": {
+    "start": "2026-11-16",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000021.000147415.html"
+   ],
+   "summary": "パリ発「ラデュレ」の新コンセプトカフェが東京都内に初出店。新丸ビル店限定の抹茶ピスタチオ・ラテやラデュレ初のレモンケーキなどを提供。営業時間11:00-21:00。",
+   "collected_at": "2026-11-05",
+   "id": "2c7493da5e24",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
     "ベーカリー",
     "カフェ"
    ],
@@ -5237,7 +5332,12 @@
    "id": "816255f5e436",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "平日 11:00–19:00 / 土日祝 10:00–19:00",
+    "closed": null,
+    "checked_at": "2026-11-05",
+    "source": "https://yakiimofes.jp/tokyo2026/"
+   }
   },
   {
    "type": "new_cafe",
@@ -5748,6 +5848,31 @@
    "summary": "『ハイキュー!!』コラボカフェがand GALLERY池袋店で開催。日向のたまごかけごはん風パフェなどコラボフード・ドリンクを提供、事前予約制。",
    "collected_at": "2026-10-31",
    "id": "f81757267d69",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "絵本の中のクリスマスマーケット in 東京スカイツリータウン",
+   "area": "押上/東京スカイツリータウン",
+   "address": "東京都墨田区押上1-1-2 東京スカイツリータウン 4階スカイアリーナ",
+   "lat": 35.710083,
+   "lng": 139.808609,
+   "period": {
+    "start": "2026-11-05",
+    "end": "2026-12-25"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.enjoytokyo.jp/event/2000823/"
+   ],
+   "summary": "絵本をテーマにしたヨーロッパ式クリスマスマーケット。全長約4メートルの巨大シュトレンの入刀式や、バウムクーヘン・デザートピザ・グリューワイン等を提供。営業時間11:00〜22:00(L.O.21:00)、入場無料。",
+   "collected_at": "2026-11-05",
+   "id": "6878c5a3290c",
    "is_new": false,
    "freshness": null,
    "hours": null
