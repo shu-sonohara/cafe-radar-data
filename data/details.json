@@ -20,6 +20,13 @@
   "note": "",
   "source": "https://gourmetpress.net/1481706/"
  },
+ "1023165fd5b2": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": null,
+  "note": "公式サイト・プレスリリースに営業時間の記載なし",
+  "source": null
+ },
  "1640b8ce3227": {
   "checked_at": "2026-11-01",
   "closed": "無休",
@@ -62,6 +69,13 @@
   "note": "定休日は未確認",
   "source": "https://prtimes.jp/main/html/rd/p/000000184.000085701.html"
  },
+ "28e6734863fa": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": "完全入替制 11:15–21:15（75分制、6回入替、LOは各回終了30分前）",
+  "note": "予約制、電話問い合わせ不可",
+  "source": "https://prtimes.jp/main/html/rd/p/000000619.000023331.html"
+ },
  "2b3341404c71": {
   "checked_at": "2026-11-03",
   "closed": "無休",
@@ -69,12 +83,26 @@
   "note": "",
   "source": "https://selfcafe.jp/shop/tokyo/chitosekarasuyama/"
  },
+ "2c7493da5e24": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": "11:00–21:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html"
+ },
  "2e355e36c6e6": {
   "checked_at": "2026-11-02",
   "closed": "不定休",
   "hours": "10:00–18:30（ドッグランイベント時は変動あり）",
   "note": "",
   "source": "https://toyosu.tokyo/cafe/matcha-times-toyosu-report/"
+ },
+ "325c0a99cabc": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": "アフタヌーンティー提供 12:30–17:00（Food L.O.15:00、Drink L.O.16:30）",
+  "note": "施設全体の通常営業時間・定休日は未確認",
+  "source": "https://www.princehotels.co.jp/shinagawa/plan/table9tokyo/sweetscourse_2026_Chestnut_MontBlanc"
  },
  "33347521a16a": {
   "checked_at": "2026-11-03",
@@ -153,6 +181,13 @@
   "note": "猿田彦珈琲が運営するカフェを併設",
   "source": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html"
  },
+ "4fd97d50d403": {
+  "checked_at": "2026-11-06",
+  "closed": "火曜（11/3のみ営業、11/4は臨時休業）",
+  "hours": "完全入替制 11:00–19:40（70分制、土日祝のみ11:00開始回あり、LOは各回開始30分後）",
+  "note": "予約制",
+  "source": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/"
+ },
  "505337e9f2b6": {
   "checked_at": "2026-11-03",
   "closed": null,
@@ -174,11 +209,25 @@
   "note": "定休日の記載なし",
   "source": "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
  },
+ "534ed112fb95": {
+  "checked_at": "2026-11-06",
+  "closed": "施設に準ずる",
+  "hours": "10:00–20:00（一部時間帯は事前予約制）",
+  "note": "",
+  "source": "https://bestcalendar.jp/press/159908"
+ },
  "556f29247541": {
   "checked_at": "2026-11-05",
   "closed": null,
   "hours": null,
   "note": "食べログ以外の出典（公式サイト・SNS）が見つからず、営業時間未確認",
+  "source": null
+ },
+ "55e626bcea16": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": null,
+  "note": "公式サイト・プレスリリースに営業時間の記載なし",
   "source": null
  },
  "5902f5e6ebf2": {
@@ -201,6 +250,13 @@
   "hours": "10:00–18:00",
   "note": "定休日は未確認",
   "source": "https://www.fashionsnap.com/article/2026-10-04/dandelion-chocolate-kiyosumishirakawa-factory/"
+ },
+ "5c97a35af58d": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": "土日祝10:00–19:00 / 平日11:30–19:00（L.O.18:00）",
+  "note": "店舗の通常営業時間。コラボ期間中の変更は未確認",
+  "source": "https://eeo.today/graffartcafe/"
  },
  "5e0b02b0b226": {
   "checked_at": "2026-11-03",
@@ -363,6 +419,13 @@
   "note": "",
   "source": "https://resemom.jp/release/prtimes/20260903/209529.html"
  },
+ "8d7bd7b83d25": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": "10:00–21:00（予約・フリー入場共に最終受付19:20）",
+  "note": "",
+  "source": "http://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/"
+ },
  "92a2830925b1": {
   "checked_at": "2026-10-31",
   "closed": null,
@@ -390,6 +453,13 @@
   "hours": "10:00–21:00",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000211.000054019.html"
+ },
+ "9d4a5cbc58f7": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": "10:00–21:00（予約・フリー入場共に最終受付19:20）",
+  "note": "",
+  "source": "http://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/"
  },
  "a2d2e489c5ba": {
   "checked_at": "2026-11-02",
@@ -440,6 +510,13 @@
   "note": "プレスリリースに記載なし。公式サイト(ellecafe.jp)は取材時点で未公開",
   "source": null
  },
+ "af9b002749bd": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": "月〜土 8:00–22:00 / 日・祝 8:00–21:00",
+  "note": "エキュート品川の施設営業時間",
+  "source": "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+ },
  "afad9a58f04d": {
   "checked_at": "2026-10-31",
   "closed": "東京ソラマチに準ずる",
@@ -468,6 +545,13 @@
   "note": "公式に営業時間の記載なし",
   "source": null
  },
+ "b6251a16b89c": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": "18:30–20:30（2時間制）",
+  "note": "予約制",
+  "source": "https://www.wwdjapan.com/?p=2530114"
+ },
  "bab5a79edbdf": {
   "checked_at": "2026-11-01",
   "closed": null,
@@ -488,6 +572,13 @@
   "hours": "7:00–23:00",
   "note": "",
   "source": "https://gourmet.watch.impress.co.jp/docs/news/2149210.html"
+ },
+ "c313d808d6d0": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": "店内11:00–20:00 / テイクアウト12:00–18:00",
+  "note": "",
+  "source": "https://www.disney.co.jp/shopping/cafenews/20251113_01"
  },
  "c3ceeac60f6a": {
   "checked_at": "2026-11-03",
@@ -531,12 +622,26 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000001068.000005340.html"
  },
+ "cde82118de2f": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": null,
+  "note": "公式サイト・プレスリリースに営業時間の記載なし",
+  "source": null
+ },
  "d3e97ced9e37": {
   "checked_at": "2026-11-05",
   "closed": "なし（年末年始を除く）",
   "hours": "10:00–19:00",
   "note": "",
   "source": "https://bestcalendar.jp/press/144161"
+ },
+ "d491ccd37984": {
+  "checked_at": "2026-11-06",
+  "closed": null,
+  "hours": null,
+  "note": "公式サイトの記載見つからず（出典がブログのみのため採用せず）",
+  "source": null
  },
  "d73a49311945": {
   "checked_at": "2026-11-05",

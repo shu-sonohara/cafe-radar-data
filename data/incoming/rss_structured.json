@@ -8430,5 +8430,141 @@
   "summary": "パリ発「ラデュレ」の新コンセプトカフェが東京都内に初出店。新丸ビル店限定の抹茶ピスタチオ・ラテやラデュレ初のレモンケーキなどを提供。営業時間11:00-21:00。",
   "collected_at": "2026-11-05",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "SNOWS POP UP STORE（大丸東京店）",
+  "area": "東京/丸の内",
+  "address": "東京都千代田区丸の内1-9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-04",
+   "end": "2026-11-17"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/159908"
+  ],
+  "summary": "北海道の冬季限定スイーツ「SNOWS」が大丸東京店1階イベントスペースでポップアップ開催。新商品「スノーボール くろくろ」など冬季限定の雪だるま型スイーツを販売。",
+  "collected_at": "2026-11-06",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ハコブネ館",
+  "area": "高円寺",
+  "address": "東京都杉並区高円寺北2-12-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-12-05",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://eiga.com/news/20261105/16",
+   "https://hakobunekan.tokyo/"
+  ],
+  "summary": "下北沢「シモキタ地下室」が常設館として再始動。高円寺駅北口徒歩3分、定員20席の小さなシアター兼喫茶バー。イベントがない日は喫茶バーとして営業。",
+  "collected_at": "2026-11-06",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "コラボカフェ"
+  ],
+  "name": "MR. MEN LITTLE MISS THE COFFEE STAND",
+  "area": "渋谷（しぶちか）",
+  "address": "東京都渋谷区道玄坂2丁目2番1号 渋谷地下街「しぶちか」14番",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-06",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000773.000037629.html"
+  ],
+  "summary": "英国絵本キャラクター「ミスターメン リトルミス」とのコラボコーヒースタンド。コーヒースプリーム（NZ）の豆を使ったコーヒーとドーナツをテイクアウトで提供。",
+  "collected_at": "2026-11-06",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Her lip to BEAUTY × LATTEST",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前3丁目5-2",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-10",
+   "end": "2026-11-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000195.000074953.html"
+  ],
+  "summary": "小嶋陽菜プロデュースのビューティブランド「Her lip to BEAUTY」が表参道のエスプレッソバー「LATTEST」で期間限定カフェ。新色リップをイメージしたラテ・ティーを提供。",
+  "collected_at": "2026-11-06",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ティム・バートンのナイトメアー・ビフォア・クリスマス OH MY CAFE",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館 地下3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-19",
+   "end": "2027-01-31"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashion-press.net/news/152928"
+  ],
+  "summary": "ハロウィンタウン仕様のクリスマスを楽しめるコラボカフェ。ジャックの「ハロウィンナイトシチュー」やサリーの「花占いパフェ」などキャラクターモチーフのメニューを提供。",
+  "collected_at": "2026-11-06",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "うちにはバリスタがいる。in 原宿（ネスカフェ原宿）",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前1-22-8",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-16",
+   "end": "2026-12-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000468.000004158.html"
+  ],
+  "summary": "ネスカフェ原宿にて「ネスカフェ ゴールドブレンド バリスタ」新ブランドのイベント。バリスタ体験でラテ系ドリンクとオリジナルスイーツを提供。営業11:00〜20:00（LO19:00）。",
+  "collected_at": "2026-11-06",
+  "id": ""
  }
 ]
