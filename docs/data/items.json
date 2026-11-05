@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05",
+ "updated_at": "2026-11-06",
  "items": [
   {
    "type": "new_cafe",
@@ -658,8 +658,8 @@
    "summary": "香港発、チャンピオンバリスタ手掛けるスペシャルティコーヒーブランド「URBAN COFFEE ROASTER」の海外初独立店舗が外苑いちょう並木前に2026年8月7日オープン。",
    "collected_at": "2026-08-29",
    "id": "6cfff25429c5",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": "8:00–18:00",
     "closed": null,
@@ -745,8 +745,8 @@
    "summary": "タリーズコーヒー初となる店内焼き立てベーカリー導入のコンセプトストア「PRIME FIVE TULLY'S COFFEE 新宿サザンテラス店」が2026年8月7日オープン。",
    "collected_at": "2026-08-22",
    "id": "794b1255f5c9",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": "平日 7:00–22:00 / 土日祝 8:00–22:00（オープン日8/7のみ10:00開店）",
     "closed": null,
@@ -999,8 +999,8 @@
    "summary": "北海道発の人気ベーカリー「ペンギンベーカリー」の新店が中目黒駅徒歩8分の場所にオープン。北海道産小麦を使ったパンを取り扱う。",
    "collected_at": "2026-08-23",
    "id": "f31a309ca777",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": "10:00–21:00（パン売り切れ次第終了）",
     "closed": "なし",
@@ -1340,31 +1340,6 @@
    "summary": "銀座・コリドー街の会員制ラウンジがアートとカフェを楽しめる「パンとエスプレッソと GINZA ART LOUNGE」として一般開放でリニューアルオープン。若手アーティスト7名の作品約50点を常設展示する。",
    "collected_at": "2026-08-22",
    "id": "486e2c9f13a0",
-   "is_new": false,
-   "freshness": 365,
-   "hours": null
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "GODIVA Bakery ゴディパン 西武池袋本店",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1-28-1 西武池袋本店地下1階",
-   "lat": 35.727081,
-   "lng": 139.710495,
-   "period": {
-    "start": "2025-11-05",
-    "end": null
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000839.000015355.html"
-   ],
-   "summary": "ゴディバのベーカリーショップ「ゴディパン」の第3号店が西武池袋本店地下1階にオープン。ショコラティエの発想で再解釈した菓子パン・惣菜パンを展開する。",
-   "collected_at": "2026-08-22",
-   "id": "b0970abe1325",
    "is_new": false,
    "freshness": 365,
    "hours": null
@@ -3333,8 +3308,8 @@
    "summary": "神保町のミニシアター「シネマリス」と同じビル1階にベーカリーカフェ「Bande à part」がオープン。フィナンシェやカヌレなどフランス風焼き菓子とパンを提供。",
    "collected_at": "2026-09-17",
    "id": "556f29247541",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": null,
     "closed": null,
