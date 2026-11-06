@@ -6293,5 +6293,49 @@
   "summary": "絵本をテーマにしたヨーロッパ式クリスマスマーケット。全長約4メートルの巨大シュトレンの入刀式や、バウムクーヘン・デザートピザ・グリューワイン等を提供。営業時間11:00〜22:00(L.O.21:00)、入場無料。",
   "collected_at": "2026-11-05",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "横浜バニラ POP UP GRANSTA GREEN",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅構内1階（改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-02",
+   "end": "2026-11-23"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/162431"
+  ],
+  "summary": "ブランド刷新後初のポップアップとして、JR東京駅構内「グランスタ東京 POP UP GRANSTA GREEN」で横浜バニラが期間限定出店。塩バニラフィナンシェ等を予約不要・先着販売。",
+  "collected_at": "2026-11-07",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "WONDER JR東京駅店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅 八重洲中央口改札内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-28",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/159086"
+  ],
+  "summary": "北海道発チーズケーキブランド「WONDER」が東京駅八重洲中央口改札内に初の常設店をオープン。「チーズワンダー」「ワンダーケーキ」等を販売。営業時間7:00〜22:00。",
+  "collected_at": "2026-11-07",
+  "id": ""
  }
 ]

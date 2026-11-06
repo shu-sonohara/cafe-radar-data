@@ -8566,5 +8566,50 @@
   "summary": "ネスカフェ原宿にて「ネスカフェ ゴールドブレンド バリスタ」新ブランドのイベント。バリスタ体験でラテ系ドリンクとオリジナルスイーツを提供。営業11:00〜20:00（LO19:00）。",
   "collected_at": "2026-11-06",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "バターのいとこ 銀座三越店",
+  "area": "銀座",
+  "address": "東京都中央区銀座4-6-16 銀座三越 本館地下2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-11",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000103.000086049.html"
+  ],
+  "summary": "銀座三越本館地下2階洋菓子売場に「バターのいとこ」がオープン。後藤裕一氏監修の銀座三越店限定フレーバー「チーズケーキ味」が登場。営業時間10:00〜20:00。",
+  "collected_at": "2026-11-07",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "カフェ"
+  ],
+  "name": "Her lip to BEAUTY 期間限定カフェイベント（LATTEST OMOTESANDO）",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前3丁目5-2",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-10",
+   "end": "2026-11-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000195.000074953.html"
+  ],
+  "summary": "小嶋陽菜プロデュースの美容ブランド「Her lip to BEAUTY」が表参道のエスプレッソバーLATTESTで期間限定カフェイベントを開催。美容液リップ新色をイメージしたコラボドリンク2種、限定トートバッグ・ポーチ・スウェットを展開。",
+  "collected_at": "2026-11-07",
+  "id": ""
  }
 ]

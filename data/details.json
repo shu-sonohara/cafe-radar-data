@@ -6,12 +6,26 @@
   "note": "開店前(2027年1月20日オープン予定)。公式発表なし、原神CAFE公式Xで順次案内予定",
   "source": null
  },
+ "052ae0e4556e": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": "10:00–20:00（施設に準ずる）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+ },
  "06a5c5f08e87": {
   "checked_at": "2026-11-01",
   "closed": null,
   "hours": "8:00–22:00",
   "note": "",
   "source": "https://www.haveagood-holiday.com/en/articles/kissashitsu-renoir-shinjuku-3chome-tt-building-opening"
+ },
+ "0a7e2e501e7e": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": null,
+  "note": "公式特設サイトに営業時間の記載なし",
+  "source": null
  },
  "0f1a0d13b903": {
   "checked_at": "2026-11-02",
@@ -26,6 +40,13 @@
   "hours": null,
   "note": "公式サイト・プレスリリースに営業時間の記載なし",
   "source": null
+ },
+ "132b0697a195": {
+  "checked_at": "2026-11-07",
+  "closed": "無休",
+  "hours": "11:00–22:00（カフェ最終入店・L.O.21:20）",
+  "note": "常設カフェの通常営業時間",
+  "source": "https://prtimes.jp/main/html/rd/p/000000181.000119643.html"
  },
  "1640b8ce3227": {
   "checked_at": "2026-11-01",
@@ -230,6 +251,13 @@
   "note": "公式サイト・プレスリリースに営業時間の記載なし",
   "source": null
  },
+ "582cf48a397a": {
+  "checked_at": "2026-11-07",
+  "closed": "なし",
+  "hours": "平日11:00–21:00 / 土日祝10:30–21:00",
+  "note": "最終入店は閉店1.5時間前",
+  "source": "https://www.sweets-paradise.jp/shop/shinjuku/"
+ },
  "5902f5e6ebf2": {
   "checked_at": "2026-11-05",
   "closed": null,
@@ -293,6 +321,13 @@
   "note": "",
   "source": "https://8dabe.com/2026/09/25/komugisaku-bakery/"
  },
+ "66f9c0b51423": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": "11:30–／12:00–／13:30–／14:00–（各回90分制・事前予約制）",
+  "note": "ガーデンラウンジ内で開催。通常営業は6:30–21:00（ティータイム15:00–18:00等）",
+  "source": "https://www.newotani.co.jp/tokyo/restaurant/gardenlounge/"
+ },
  "68cd23180f87": {
   "checked_at": "2026-11-05",
   "closed": null,
@@ -314,6 +349,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000001.000188075.html"
  },
+ "6d6e4dd43cf4": {
+  "checked_at": "2026-11-07",
+  "closed": "月曜（祝日の場合は火曜）",
+  "hours": "17:00–21:00（L.O.20:30）",
+  "note": "イベント開催時は喫茶バー休業",
+  "source": "https://hakobunekan.tokyo/contents/cafe"
+ },
  "6e10e66f4e51": {
   "checked_at": "2026-11-03",
   "closed": "施設に準ずる",
@@ -328,6 +370,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000265.000044858.html"
  },
+ "714e128eb578": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": null,
+  "note": "BOX cafe&space SHIBUYA109渋谷店の現行営業時間が確認できず",
+  "source": null
+ },
  "72c5e27bddb0": {
   "checked_at": "2026-11-04",
   "closed": "無休",
@@ -341,6 +390,13 @@
   "hours": "8:00–21:00",
   "note": "定休日は未確認",
   "source": "https://www.kobeya.co.jp/info/rireki/detail/35"
+ },
+ "747f13b60b5d": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": "10:00–19:00（初日11/10のみ12:00–19:00）",
+  "note": "予告なく変更の場合あり",
+  "source": "https://prtimes.jp/main/html/rd/p/000000195.000074953.html"
  },
  "7790abf614f7": {
   "checked_at": "2026-11-01",
@@ -412,6 +468,13 @@
   "note": "",
   "source": "https://lifte.jp/20260902-2/"
  },
+ "8ce7fbe1bc9d": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": null,
+  "note": "小田急百貨店町田店の公式な営業時間が確認できず（媒体間で表記が異なる）",
+  "source": null
+ },
  "8d09509dd97a": {
   "checked_at": "2026-11-03",
   "closed": "施設に準ずる",
@@ -431,6 +494,13 @@
   "closed": null,
   "hours": null,
   "note": "開店前(10月下旬オープン予定)。公式サイト・東京ソラマチ発表に営業時間記載なし",
+  "source": null
+ },
+ "9a25ccc58a3e": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": null,
+  "note": "公式特設サイトに営業時間の記載なし（同イベントの別掲載）",
   "source": null
  },
  "9a5d2efd9e23": {
@@ -460,6 +530,13 @@
   "hours": "10:00–21:00（予約・フリー入場共に最終受付19:20）",
   "note": "",
   "source": "http://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/"
+ },
+ "a03e3aab176d": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": null,
+  "note": "特設サイト・ルミネエスト新宿イベントページに営業時間の記載なし",
+  "source": null
  },
  "a2d2e489c5ba": {
   "checked_at": "2026-11-02",
@@ -566,6 +643,13 @@
   "note": "定休日の記載なし",
   "source": "https://prtimes.jp/main/html/rd/p/000000125.000177867.html"
  },
+ "bfc3fa6a253d": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": null,
+  "note": "公式特設サイトに営業時間の記載なし",
+  "source": null
+ },
  "bfc99695d962": {
   "checked_at": "2026-11-01",
   "closed": "無休",
@@ -629,6 +713,13 @@
   "note": "公式サイト・プレスリリースに営業時間の記載なし",
   "source": null
  },
+ "d309d6e7ed30": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": "9:00–20:00",
+  "note": "予告なく変更の場合あり",
+  "source": "https://prtimes.jp/main/html/rd/p/000000773.000037629.html"
+ },
  "d3e97ced9e37": {
   "checked_at": "2026-11-05",
   "closed": "なし（年末年始を除く）",
@@ -663,6 +754,13 @@
   "hours": "平日9:30–20:30 / 土日祝9:00–20:30",
   "note": "",
   "source": "https://san-tatsu.jp/articles/562581/"
+ },
+ "dec0fcfa2de4": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": null,
+  "note": "アニメイトカフェスタンド池袋4号店の現行営業時間が確認できず",
+  "source": null
  },
  "e15b2fdb8e40": {
   "checked_at": "2026-11-04",
@@ -733,5 +831,12 @@
   "hours": "7:30–21:00",
   "note": "定休日の記載なし",
   "source": "https://prtimes.jp/main/html/rd/p/000000068.000132572.html"
+ },
+ "f81757267d69": {
+  "checked_at": "2026-11-07",
+  "closed": null,
+  "hours": null,
+  "note": "事前予約制。特設サイトに営業時間の記載なし",
+  "source": null
  }
 }
