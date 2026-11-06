@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06",
+ "updated_at": "2026-11-07",
  "items": [
   {
    "type": "new_cafe",
@@ -2251,8 +2251,8 @@
    "summary": "洋菓子世界大会優勝シェフ率いるパティスリーブランド「PRISM」の新業態「PRISMIC」が2026年8月8日、渋谷1丁目にオープン。サロン併設スペースは9月末オープン予定。",
    "collected_at": "2026-08-31",
    "id": "3be2e27c6e70",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": "11:00–19:00（変更の可能性あり）",
     "closed": "不定休",
