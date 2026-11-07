@@ -20,6 +20,13 @@
   "note": "",
   "source": "https://www.haveagood-holiday.com/en/articles/kissashitsu-renoir-shinjuku-3chome-tt-building-opening"
  },
+ "0789473f4de5": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": null,
+  "note": "heroaca.comは403で取得不可、公式サイト(ltr-online.com)はJS中心のため営業時間未確認",
+  "source": null
+ },
  "0a7e2e501e7e": {
   "checked_at": "2026-11-07",
   "closed": null,
@@ -62,6 +69,20 @@
   "note": "定休日は公式サイトに記載なし",
   "source": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
  },
+ "1713d5515ea5": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": null,
+  "note": "要予約制(先着順・予約金660円)。報道・公式サイトに具体的な営業時間の記載なし",
+  "source": null
+ },
+ "1a62ca0b11c4": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": "10:00–20:00",
+  "note": "銀座三越の営業時間に準ずる",
+  "source": "https://prtimes.jp/main/html/rd/p/000000103.000086049.html"
+ },
  "1bb7e779d084": {
   "checked_at": "2026-11-02",
   "closed": null,
@@ -96,6 +117,13 @@
   "hours": "完全入替制 11:15–21:15（75分制、6回入替、LOは各回終了30分前）",
   "note": "予約制、電話問い合わせ不可",
   "source": "https://prtimes.jp/main/html/rd/p/000000619.000023331.html"
+ },
+ "2aa3d112d5cf": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": "8:00–22:00（日・祝8:00–21:00、施設に準ずる・店舗により異なる）",
+  "note": "グランスタ東京施設全体の営業時間。POP UP GRANSTA GREEN単体の時間は未確認",
+  "source": "https://www.gotokyo.org/jp/spot/834/index.html"
  },
  "2b3341404c71": {
   "checked_at": "2026-11-03",
@@ -160,6 +188,13 @@
   "note": "",
   "source": "https://gourmetpress.net/1483000/"
  },
+ "396a04626b0e": {
+  "checked_at": "2026-11-08",
+  "closed": "1月1日休業予定",
+  "hours": "11:00–22:00",
+  "note": "事前予約(イープラス)制",
+  "source": "https://www.famitsu.com/article/202608/84915"
+ },
  "3be2e27c6e70": {
   "checked_at": "2026-11-05",
   "closed": "不定休",
@@ -195,6 +230,20 @@
   "note": "",
   "source": "https://www.inside-games.jp/release/prtimes/20261008/311482.html"
  },
+ "453b323c38a0": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": "10:00–21:00（フードL.O.20:00・ドリンクL.O.20:30）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000004145.000003639.html"
+ },
+ "4baf8b4df55a": {
+  "checked_at": "2026-11-08",
+  "closed": "期間中無休",
+  "hours": "11:00–20:00（フードL.O.19:00・ドリンクL.O.19:30）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000141.000007029.html"
+ },
  "4d4a94010a28": {
   "checked_at": "2026-10-31",
   "closed": "月曜（祝日の場合は翌火曜）・年末年始(12/28–1/3)",
@@ -215,6 +264,13 @@
   "hours": "8:00–22:00",
   "note": "",
   "source": "https://www.sharelounge.jp/store/2144"
+ },
+ "50cd5e6649c6": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": null,
+  "note": "プレスリリース・公式サイト(JS中心で取得不可)に営業時間の記載なし",
+  "source": null
  },
  "518f61ebd4f1": {
   "checked_at": "2026-11-03",
@@ -328,6 +384,13 @@
   "note": "ガーデンラウンジ内で開催。通常営業は6:30–21:00（ティータイム15:00–18:00等）",
   "source": "https://www.newotani.co.jp/tokyo/restaurant/gardenlounge/"
  },
+ "6878c5a3290c": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": "11:00–22:00（L.O.21:00）",
+  "note": "",
+  "source": "https://www.enjoytokyo.jp/event/2000823/"
+ },
  "68cd23180f87": {
   "checked_at": "2026-11-05",
   "closed": null,
@@ -341,6 +404,20 @@
   "hours": "10:00–20:00",
   "note": "施設（RAKU CAFE池袋1号店）の営業時間を記載",
   "source": "https://rakuspa.com/rakucafe/"
+ },
+ "6ab8f5bbb3b5": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": null,
+  "note": "プレスリリース・公式サイト(JS中心で取得不可)に営業時間の記載なし",
+  "source": null
+ },
+ "6b136c6a64e8": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": null,
+  "note": "先着予約制。公式サイト(sqex.to→motto-cafe.com)はJS中心のため営業時間未確認",
+  "source": null
  },
  "6cfff25429c5": {
   "checked_at": "2026-11-05",
@@ -404,6 +481,13 @@
   "hours": "8:00–19:00",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000035.000125380.html"
+ },
+ "77999f039f35": {
+  "checked_at": "2026-11-08",
+  "closed": "不定休",
+  "hours": "7:00–22:00（オープン初日10/28のみ10:00開店）",
+  "note": "",
+  "source": "https://bestcalendar.jp/press/159086"
  },
  "794b1255f5c9": {
   "checked_at": "2026-11-05",
@@ -629,6 +713,13 @@
   "note": "予約制",
   "source": "https://www.wwdjapan.com/?p=2530114"
  },
+ "b7df7c90cba2": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": "Cafeタイム14:00–18:00 / Barタイム19:00–23:00（15歳未満不可）",
+  "note": "貸切タイム(5枠制)あり。営業日は一般入店・貸切それぞれ特定日のみ",
+  "source": "https://prtimes.jp/main/html/rd/p/000003900.000013972.html"
+ },
  "bab5a79edbdf": {
   "checked_at": "2026-11-01",
   "closed": null,
@@ -642,6 +733,13 @@
   "hours": "8:00–20:00（初日9/17は9:30開店）",
   "note": "定休日の記載なし",
   "source": "https://prtimes.jp/main/html/rd/p/000000125.000177867.html"
+ },
+ "beb400d6fb5e": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": null,
+  "note": "同イベント(東京会場)。公式サイトJS中心のため営業時間未確認",
+  "source": null
  },
  "bfc3fa6a253d": {
   "checked_at": "2026-11-07",
@@ -712,6 +810,13 @@
   "hours": null,
   "note": "公式サイト・プレスリリースに営業時間の記載なし",
   "source": null
+ },
+ "d2c649d58adf": {
+  "checked_at": "2026-11-08",
+  "closed": null,
+  "hours": "11:00–20:00（L.O.19:00）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000468.000004158.html"
  },
  "d309d6e7ed30": {
   "checked_at": "2026-11-07",

@@ -6337,5 +6337,50 @@
   "summary": "北海道発チーズケーキブランド「WONDER」が東京駅八重洲中央口改札内に初の常設店をオープン。「チーズワンダー」「ワンダーケーキ」等を販売。営業時間7:00〜22:00。",
   "collected_at": "2026-11-07",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "横浜バニラ POP UP GRANSTA GREEN",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 1階改札内 POP UP GRANSTA GREEN",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-02",
+   "end": "2026-11-23"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/162431"
+  ],
+  "summary": "横浜バニラがブランド刷新後初めて東京駅に登場するポップアップストア。塩バニラフィナンシェ、クリーミーサブレ、檸檬・マロン・ショコラのフィナンシェなどを販売。予約不要。",
+  "collected_at": "2026-11-08",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "カフェ スワロフスキー(銀座)",
+  "area": "銀座",
+  "address": "東京都中央区銀座8-9-15 JEWEL BOX GINZA 2階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-28",
+   "end": "2026-12-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://co-trip.jp/article/738563"
+  ],
+  "summary": "ジュエリーブランド「スワロフスキー」銀座店2階にホリデー期間限定でオープンする「カフェ スワロフスキー」。「ペイサージュ」シェフパティシエ江藤英樹氏によるスイーツを提供。予約優先・90分制。",
+  "collected_at": "2026-11-08",
+  "id": ""
  }
 ]

@@ -8611,5 +8611,73 @@
   "summary": "小嶋陽菜プロデュースの美容ブランド「Her lip to BEAUTY」が表参道のエスプレッソバーLATTESTで期間限定カフェイベントを開催。美容液リップ新色をイメージしたコラボドリンク2種、限定トートバッグ・ポーチ・スウェットを展開。",
   "collected_at": "2026-11-07",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "喫茶室ルノアール 四谷店",
+  "area": "四谷",
+  "address": "東京都新宿区四谷1丁目3番地 望月ビル2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-26",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000122.000019914.html"
+  ],
+  "summary": "2024年6月に閉店した旧店舗跡地に、昭和モダンを空間コンセプトにした喫茶室ルノアール四谷店が2年半ぶりに復活。76席(禁煙50席)、貸会議室併設。",
+  "collected_at": "2026-11-08",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "SNOWS スノーボール くろくろ POP UP STORE(大丸東京店)",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店 1階イベントスペース",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-04",
+   "end": "2026-11-17"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/159908"
+  ],
+  "summary": "大丸東京店1階イベントスペースで、新商品「スノーボール くろくろ」(9個入・税込1,890円)など生トリュフチョコレート8種を販売。関東エリアでは今シーズン本POP UP STORE限定。",
+  "collected_at": "2026-11-08",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "kiiks space",
+  "area": "下馬",
+  "address": "東京都世田谷区下馬1丁目45-14",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-08",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://madamefigaro.jp/beauty/261105-kiiks/",
+   "https://www.fashionsnap.com/article/2026-11-05/kiiks-space-new-culture/"
+  ],
+  "summary": "水原希子が手掛けるウェルネスブランド「kiiks」の実店舗。カフェ・リテール・カルチャーの3スペースを併設。カフェではハマナスや竹、米、お茶などを使った食やドリンクを提供。",
+  "collected_at": "2026-11-08",
+  "id": ""
  }
 ]
