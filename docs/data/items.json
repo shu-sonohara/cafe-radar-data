@@ -2025,7 +2025,12 @@
    "id": "052ae0e4556e",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–20:00（施設に準ずる）",
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2571,7 +2576,12 @@
    "id": "bfc3fa6a253d",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -2602,7 +2612,12 @@
    "id": "0a7e2e501e7e",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -2788,7 +2803,12 @@
    "id": "66f9c0b51423",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "11:30–／12:00–／13:30–／14:00–（各回90分制・事前予約制）",
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": "https://www.newotani.co.jp/tokyo/restaurant/gardenlounge/"
+   }
   },
   {
    "type": "new_cafe",
@@ -3689,7 +3709,12 @@
    "id": "714e128eb578",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -4362,7 +4387,12 @@
    "id": "9a25ccc58a3e",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -4579,7 +4609,12 @@
    "id": "a03e3aab176d",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -4725,7 +4760,12 @@
    "id": "8ce7fbe1bc9d",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -5126,7 +5166,12 @@
    "id": "6d6e4dd43cf4",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "17:00–21:00（L.O.20:30）",
+    "closed": "月曜（祝日の場合は火曜）",
+    "checked_at": "2026-11-07",
+    "source": "https://hakobunekan.tokyo/contents/cafe"
+   }
   },
   {
    "type": "new_cafe",
@@ -5152,7 +5197,12 @@
    "id": "d309d6e7ed30",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "9:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": "https://prtimes.jp/main/html/rd/p/000000773.000037629.html"
+   }
   },
   {
    "type": "popup",
@@ -5178,7 +5228,12 @@
    "id": "747f13b60b5d",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–19:00（初日11/10のみ12:00–19:00）",
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": "https://prtimes.jp/main/html/rd/p/000000195.000074953.html"
+   }
   },
   {
    "type": "popup",
@@ -5229,6 +5284,31 @@
    "id": "d2c649d58adf",
    "is_new": false,
    "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "バターのいとこ 銀座三越店",
+   "area": "銀座",
+   "address": "東京都中央区銀座4-6-16 銀座三越 本館地下2階",
+   "lat": 35.671577,
+   "lng": 139.765594,
+   "period": {
+    "start": "2026-11-11",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000103.000086049.html"
+   ],
+   "summary": "銀座三越本館地下2階洋菓子売場に「バターのいとこ」がオープン。後藤裕一氏監修の銀座三越店限定フレーバー「チーズケーキ味」が登場。営業時間10:00〜20:00。",
+   "collected_at": "2026-11-07",
+   "id": "1a62ca0b11c4",
+   "is_new": true,
+   "freshness": 30,
    "hours": null
   },
   {
@@ -5301,7 +5381,12 @@
    "id": "132b0697a195",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "11:00–22:00（カフェ最終入店・L.O.21:20）",
+    "closed": "無休",
+    "checked_at": "2026-11-07",
+    "source": "https://prtimes.jp/main/html/rd/p/000000181.000119643.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -5677,7 +5762,12 @@
    "id": "582cf48a397a",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "平日11:00–21:00 / 土日祝10:30–21:00",
+    "closed": "なし",
+    "checked_at": "2026-11-07",
+    "source": "https://www.sweets-paradise.jp/shop/shinjuku/"
+   }
   },
   {
    "type": "popup",
@@ -5703,7 +5793,12 @@
    "id": "dec0fcfa2de4",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -6030,7 +6125,12 @@
    "id": "f81757267d69",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-07",
+    "source": null
+   }
   },
   {
    "type": "event",
@@ -6055,6 +6155,56 @@
    "id": "6878c5a3290c",
    "is_new": false,
    "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "横浜バニラ POP UP GRANSTA GREEN",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1-9-1 JR東京駅構内1階（改札内）",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-11-02",
+    "end": "2026-11-23"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://bestcalendar.jp/press/162431"
+   ],
+   "summary": "ブランド刷新後初のポップアップとして、JR東京駅構内「グランスタ東京 POP UP GRANSTA GREEN」で横浜バニラが期間限定出店。塩バニラフィナンシェ等を予約不要・先着販売。",
+   "collected_at": "2026-11-07",
+   "id": "2aa3d112d5cf",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "WONDER JR東京駅店",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1-9-1 JR東京駅 八重洲中央口改札内",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-10-28",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://bestcalendar.jp/press/159086"
+   ],
+   "summary": "北海道発チーズケーキブランド「WONDER」が東京駅八重洲中央口改札内に初の常設店をオープン。「チーズワンダー」「ワンダーケーキ」等を販売。営業時間7:00〜22:00。",
+   "collected_at": "2026-11-07",
+   "id": "77999f039f35",
+   "is_new": true,
+   "freshness": 30,
    "hours": null
   }
  ]
