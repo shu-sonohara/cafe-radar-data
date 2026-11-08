@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08",
+ "updated_at": "2026-11-09",
  "items": [
   {
    "type": "new_cafe",
@@ -2932,50 +2932,6 @@
    "type": "popup",
    "genre": [
     "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "チェンソーマン喫茶",
-   "area": "新宿",
-   "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
-   "lat": 35.691784,
-   "lng": 139.700775,
-   "period": {
-    "start": "2026-10-01",
-    "end": "2026-11-08"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://chainsawman.dog/news/231207_01/",
-    "https://csm.theme-cafe.jp/",
-    "https://chainsawman.dog/news/220926_02/",
-    "https://animeanime.jp/article/2026/09/08/102773.html",
-    "https://prtimes.jp/main/html/rd/p/000000322.000086964.html",
-    "https://www.fashion-press.net/news/150832",
-    "https://travel.mdpr.jp/travel/detail/4841153",
-    "https://prtimes.jp/main/html/rd/p/000000101.000086964.html",
-    "https://www.oricon.co.jp/pressrelease/2979207/",
-    "https://www.enjoytokyo.jp/event/2082884/",
-    "https://news.mynavi.jp/article/20260910-4945325/",
-    "https://premium.gamepedia.jp/hobby/archives/248471",
-    "https://csm-cafe.ltr-online.com/",
-    "https://bestcalendar.jp/press/151557"
-   ],
-   "summary": "劇場版『チェンソーマン レゼ篇』に登場する喫茶店“喫茶二道”をイメージした期間限定カフェ。BOX cafe&space ルミネエスト新宿1号店にて、デンジやレゼをイメージしたメニューを提供。",
-   "collected_at": "2026-10-30",
-   "id": "1cf83499f1a0",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "平日 11:00–21:00 / 土日祝 10:30–21:00（ルミネエスト新宿ショッピングフロアの営業時間）",
-    "closed": null,
-    "checked_at": "2026-11-05",
-    "source": "https://media.jreast.co.jp/articles/3134"
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
     "ベーカリー",
     "コラボカフェ"
    ],
@@ -3557,7 +3513,7 @@
    "collected_at": "2026-10-02",
    "id": "bab5a79edbdf",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": null,
     "closed": null,
@@ -4038,7 +3994,7 @@
    "collected_at": "2026-10-10",
    "id": "632032fa254e",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "平日12:00–18:00 / 土日祝11:00–18:00",
     "closed": "無休",
@@ -4481,40 +4437,6 @@
     "closed": null,
     "checked_at": "2026-11-06",
     "source": "https://www.wwdjapan.com/?p=2530114"
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "Fallout×TOWER RECORDS CAFE コラボカフェ",
-   "area": "表参道",
-   "address": "東京都渋谷区神宮前6-3-9 井門原宿ビル2F",
-   "lat": 35.668018,
-   "lng": 139.706039,
-   "period": {
-    "start": "2026-10-22",
-    "end": "2026-11-08"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.gamespark.jp/release/prtimes/20260924/316224.html",
-    "https://game.watch.impress.co.jp/docs/news/2142727.html",
-    "https://tower.jp/article/news/2026/09/24/c101",
-    "https://prtimes.jp/main/html/rd/p/000000343.000092133.html"
-   ],
-   "summary": "ゲーム「Fallout」とTOWER RECORDS CAFE 表参道店のコラボカフェ。作中フードをアレンジしたメニューやオリジナルグッズを展開。前期10/22〜10/30、後期10/31〜11/8の2期制。",
-   "collected_at": "2026-10-23",
-   "id": "5902f5e6ebf2",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "10:30–22:00（TOWER RECORDS CAFE表参道店の通常営業時間）",
-    "closed": null,
-    "checked_at": "2026-11-05",
-    "source": "https://tower.jp/store"
    }
   },
   {
@@ -5651,40 +5573,6 @@
     "closed": "施設に準ずる",
     "checked_at": "2026-11-03",
     "source": "https://prtimes.jp/main/html/rd/p/000001085.000005743.html"
-   }
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "やきいもフェス TOKYO 2026",
-   "area": "中野",
-   "address": "東京都中野区中野4-12 中野四季の森公園 イベントエリア",
-   "lat": 35.709072,
-   "lng": 139.661041,
-   "period": {
-    "start": "2026-10-30",
-    "end": "2026-11-08"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000107.000084442.html",
-    "https://yakiimofes.jp/tokyo2026/",
-    "https://report.iko-yo.net/articles/34162",
-    "https://www.oricon.co.jp/pressrelease/3016334/",
-    "https://bestcalendar.jp/press/158562"
-   ],
-   "summary": "焼き芋・さつまいもスイーツの専門イベント「やきいもフェス TOKYO 2026」が中野四季の森公園で開催。14店舗が出店し約30種類のやきいもメニューが揃う。",
-   "collected_at": "2026-09-29",
-   "id": "816255f5e436",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "平日 11:00–19:00 / 土日祝 10:00–19:00",
-    "closed": null,
-    "checked_at": "2026-11-05",
-    "source": "https://yakiimofes.jp/tokyo2026/"
    }
   },
   {
