@@ -2647,7 +2647,12 @@
    "id": "50cd5e6649c6",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -3431,7 +3436,12 @@
    "id": "b7df7c90cba2",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "Cafeタイム14:00–18:00 / Barタイム19:00–23:00（15歳未満不可）",
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": "https://prtimes.jp/main/html/rd/p/000003900.000013972.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3682,7 +3692,12 @@
    "id": "0789473f4de5",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -4151,7 +4166,12 @@
    "id": "beb400d6fb5e",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -4323,14 +4343,20 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000141.000007029.html",
-    "https://www.wwdjapan.com/?p=2532364"
+    "https://www.wwdjapan.com/?p=2532364",
+    "https://co-trip.jp/article/738563"
    ],
    "summary": "スワロフスキー銀座2階に期間限定カフェ「Café Swarovski」がオープン。パティシエ江藤英樹氏監修のスイーツやNespressoコーヒー、モクテルなどを提供。予約優先・90分制。",
    "collected_at": "2026-10-21",
    "id": "4baf8b4df55a",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "11:00–20:00（フードL.O.19:00・ドリンクL.O.19:30）",
+    "closed": "期間中無休",
+    "checked_at": "2026-11-08",
+    "source": "https://prtimes.jp/main/html/rd/p/000000141.000007029.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -4640,7 +4666,12 @@
    "id": "6ab8f5bbb3b5",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -4792,7 +4823,12 @@
    "id": "1713d5515ea5",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -4906,7 +4942,12 @@
    "id": "396a04626b0e",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "11:00–22:00",
+    "closed": "1月1日休業予定",
+    "checked_at": "2026-11-08",
+    "source": "https://www.famitsu.com/article/202608/84915"
+   }
   },
   {
    "type": "popup",
@@ -4932,7 +4973,12 @@
    "id": "453b323c38a0",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00（フードL.O.20:00・ドリンクL.O.20:30）",
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": "https://prtimes.jp/main/html/rd/p/000004145.000003639.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -5284,7 +5330,12 @@
    "id": "d2c649d58adf",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "11:00–20:00（L.O.19:00）",
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": "https://prtimes.jp/main/html/rd/p/000000468.000004158.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -5307,6 +5358,63 @@
    "summary": "銀座三越本館地下2階洋菓子売場に「バターのいとこ」がオープン。後藤裕一氏監修の銀座三越店限定フレーバー「チーズケーキ味」が登場。営業時間10:00〜20:00。",
    "collected_at": "2026-11-07",
    "id": "1a62ca0b11c4",
+   "is_new": true,
+   "freshness": 30,
+   "hours": {
+    "text": "10:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": "https://prtimes.jp/main/html/rd/p/000000103.000086049.html"
+   }
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "喫茶室ルノアール 四谷店",
+   "area": "四谷",
+   "address": "東京都新宿区四谷1丁目3番地 望月ビル2F",
+   "lat": 35.686188,
+   "lng": 139.729141,
+   "period": {
+    "start": "2026-11-26",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000122.000019914.html"
+   ],
+   "summary": "2024年6月に閉店した旧店舗跡地に、昭和モダンを空間コンセプトにした喫茶室ルノアール四谷店が2年半ぶりに復活。76席(禁煙50席)、貸会議室併設。",
+   "collected_at": "2026-11-08",
+   "id": "2f276fab2c3d",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "kiiks space",
+   "area": "下馬",
+   "address": "東京都世田谷区下馬1丁目45-14",
+   "lat": 35.640266,
+   "lng": 139.68309,
+   "period": {
+    "start": "2026-11-08",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://madamefigaro.jp/beauty/261105-kiiks/",
+    "https://www.fashionsnap.com/article/2026-11-05/kiiks-space-new-culture/"
+   ],
+   "summary": "水原希子が手掛けるウェルネスブランド「kiiks」の実店舗。カフェ・リテール・カルチャーの3スペースを併設。カフェではハマナスや竹、米、お茶などを使った食やドリンクを提供。",
+   "collected_at": "2026-11-08",
+   "id": "5e44fe9ff5dd",
    "is_new": true,
    "freshness": 30,
    "hours": null
@@ -6005,7 +6113,12 @@
    "id": "6b136c6a64e8",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -6155,7 +6268,12 @@
    "id": "6878c5a3290c",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "11:00–22:00（L.O.21:00）",
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": "https://www.enjoytokyo.jp/event/2000823/"
+   }
   },
   {
    "type": "popup",
@@ -6176,11 +6294,16 @@
     "https://bestcalendar.jp/press/162431"
    ],
    "summary": "ブランド刷新後初のポップアップとして、JR東京駅構内「グランスタ東京 POP UP GRANSTA GREEN」で横浜バニラが期間限定出店。塩バニラフィナンシェ等を予約不要・先着販売。",
-   "collected_at": "2026-11-07",
+   "collected_at": "2026-11-08",
    "id": "2aa3d112d5cf",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "8:00–22:00（日・祝8:00–21:00、施設に準ずる・店舗により異なる）",
+    "closed": null,
+    "checked_at": "2026-11-08",
+    "source": "https://www.gotokyo.org/jp/spot/834/index.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -6205,7 +6328,12 @@
    "id": "77999f039f35",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "7:00–22:00（オープン初日10/28のみ10:00開店）",
+    "closed": "不定休",
+    "checked_at": "2026-11-08",
+    "source": "https://bestcalendar.jp/press/159086"
+   }
   }
  ]
 }
