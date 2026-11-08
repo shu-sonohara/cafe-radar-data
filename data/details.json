@@ -13,6 +13,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
  },
+ "067403362da5": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": null,
+  "note": "公式ページ・記事に記載なし。表参道ヒルズ施設は11:00–20:00（レストランは22:30、金土祝前日23:00）だが店舗個別の時間は未確認",
+  "source": null
+ },
  "06a5c5f08e87": {
   "checked_at": "2026-11-01",
   "closed": null,
@@ -146,6 +153,20 @@
   "note": "",
   "source": "https://toyosu.tokyo/cafe/matcha-times-toyosu-report/"
  },
+ "2f276fab2c3d": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": "月〜金 7:30–22:00 / 土 8:00–22:00 / 日・祝 8:00–21:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000122.000019914.html"
+ },
+ "302f790bdf43": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": null,
+  "note": "公式サイト・記事に記載なし。セレオ八王子の施設営業時間は10:00–21:00（店舗により異なる）",
+  "source": null
+ },
  "325c0a99cabc": {
   "checked_at": "2026-11-06",
   "closed": null,
@@ -202,6 +223,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000002.000136860.html"
  },
+ "3c26a853d944": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": null,
+  "note": "公式サイト(cafe.gge-collabo.com)に接続できず、他媒体にも営業時間の記載なし。完全予約制",
+  "source": null
+ },
  "3ca7e0bd06e9": {
   "checked_at": "2026-10-31",
   "closed": "火曜（店舗カレンダーにより水曜・土曜も休みの場合あり）",
@@ -237,6 +265,20 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000004145.000003639.html"
  },
+ "490044f3a2c9": {
+  "checked_at": "2026-11-09",
+  "closed": "不定休",
+  "hours": "平日 9:00–17:00 / 休日 9:00–18:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000006.000147799.html"
+ },
+ "4928cc0847de": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": "8:00–22:00（1Fスターバックス）",
+  "note": "2F三井住友銀行窓口は平日9:00–15:00等、別途",
+  "source": "https://prtimes.jp/main/html/rd/p/000000111.000134306.html"
+ },
  "4baf8b4df55a": {
   "checked_at": "2026-11-08",
   "closed": "期間中無休",
@@ -250,6 +292,13 @@
   "hours": "皇居東御苑の開園時間に準ずる（10月:9:00–16:30/11月–2月:9:00–16:00、入苑は閉園30分前まで）L.O.は閉店30分前",
   "note": "猿田彦珈琲が運営するカフェを併設",
   "source": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html"
+ },
+ "4e506d970627": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": "平日 13:00–29:00（翌5:00）/ 土日祝 11:00–29:00（翌5:00）",
+  "note": "",
+  "source": "https://www.shimokitazawa.info/news/2026/07/ocher/"
  },
  "4fd97d50d403": {
   "checked_at": "2026-11-06",
@@ -328,6 +377,13 @@
   "note": "カフェ単体の営業時間は公式記事・施設サイトとも未掲載",
   "source": null
  },
+ "5a7ebec73fd9": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": null,
+  "note": "公式情報に営業時間の記載見つからず",
+  "source": null
+ },
  "5c3cb72f4691": {
   "checked_at": "2026-10-31",
   "closed": null,
@@ -348,6 +404,20 @@
   "hours": "カフェ 7:00–19:00（物販6:00–20:00）",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000325.000067976.html"
+ },
+ "5e44fe9ff5dd": {
+  "checked_at": "2026-11-09",
+  "closed": "無休",
+  "hours": "9:00–20:00（月〜金）/ 8:00–20:00（土・日）",
+  "note": "",
+  "source": "https://madamefigaro.jp/beauty/261105-kiiks/"
+ },
+ "60d00dd71f84": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": "9:00–18:00",
+  "note": "火曜日はブランチメニューのみ提供",
+  "source": "https://nakameno853.blog/shibuya-cafe-sonomama-tokyo/"
  },
  "61a6dc80814d": {
   "checked_at": "2026-11-04",
@@ -467,6 +537,13 @@
   "hours": "8:00–21:00",
   "note": "定休日は未確認",
   "source": "https://www.kobeya.co.jp/info/rireki/detail/35"
+ },
+ "73a6840aa2e6": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": "10:00–21:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000056.000075032.html"
  },
  "747f13b60b5d": {
   "checked_at": "2026-11-07",
@@ -720,6 +797,13 @@
   "note": "貸切タイム(5枠制)あり。営業日は一般入店・貸切それぞれ特定日のみ",
   "source": "https://prtimes.jp/main/html/rd/p/000003900.000013972.html"
  },
+ "b8b63f34eae9": {
+  "checked_at": "2026-11-09",
+  "closed": "水曜",
+  "hours": "9:00–18:30（L.O.18:00）/ 金・土 9:00–22:30（L.O.22:00）",
+  "note": "",
+  "source": "https://www.ufu-sweets.jp/cafe/260828_moo/"
+ },
  "bab5a79edbdf": {
   "checked_at": "2026-11-01",
   "closed": null,
@@ -810,6 +894,20 @@
   "hours": null,
   "note": "公式サイト・プレスリリースに営業時間の記載なし",
   "source": null
+ },
+ "cfc7a3ee6a1e": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": "月〜木 10:00–22:30 / 金・土 10:00–23:00 / 日・祝 10:00–22:00",
+  "note": "",
+  "source": "https://coffee-rin.com/"
+ },
+ "d0b599b31140": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": "平日・土 9:00–22:00 / 日・祝 9:00–21:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000001069.000082978.html"
  },
  "d2c649d58adf": {
   "checked_at": "2026-11-08",
@@ -943,5 +1041,12 @@
   "hours": null,
   "note": "事前予約制。特設サイトに営業時間の記載なし",
   "source": null
+ },
+ "fb07f6021250": {
+  "checked_at": "2026-11-09",
+  "closed": null,
+  "hours": "平日 7:00–20:00 / 土日祝 9:00–20:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000560.000020545.html"
  }
 }

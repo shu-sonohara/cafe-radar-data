@@ -6382,5 +6382,51 @@
   "summary": "ジュエリーブランド「スワロフスキー」銀座店2階にホリデー期間限定でオープンする「カフェ スワロフスキー」。「ペイサージュ」シェフパティシエ江藤英樹氏によるスイーツを提供。予約優先・90分制。",
   "collected_at": "2026-11-08",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "コーヒー"
+  ],
+  "name": "BREAD & BEAN 西荻窪店",
+  "area": "西荻窪",
+  "address": "東京都杉並区松庵3-41-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-08-13",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.bsquared.jp",
+   "https://bsquared.jp/pages/location/"
+  ],
+  "summary": "天然酵母パンと自家焙煎スペシャルティコーヒーのベーカリーカフェ「ビースクエアード(B²)」系列の新店。JR西荻窪駅高架下「西荻高架下」第3期エリアに出店。",
+  "collected_at": "2026-11-09",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "横浜バニラ POP UP",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 POP UP GRANSTA GREEN",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-02",
+   "end": "2026-11-23"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://haveagood-holiday.com/en/articles/yokohama-vanilla-gransta-tokyo-popup"
+  ],
+  "summary": "横浜バニラの期間限定ポップアップ。東京駅改札内「グランスタ東京 POP UP GRANSTA GREEN」で開催、塩バニラフィナンシェなどの焼き菓子を販売、予約不要。",
+  "collected_at": "2026-11-09",
+  "id": ""
  }
 ]
