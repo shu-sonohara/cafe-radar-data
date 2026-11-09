@@ -6428,5 +6428,72 @@
   "summary": "横浜バニラの期間限定ポップアップ。東京駅改札内「グランスタ東京 POP UP GRANSTA GREEN」で開催、塩バニラフィナンシェなどの焼き菓子を販売、予約不要。",
   "collected_at": "2026-11-09",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "カフェ・ラデュレ 新丸ビル店",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/205234/"
+  ],
+  "summary": "ラデュレの新コンセプト店「カフェ・ラデュレ」東京1号店が新丸の内ビルディングB1Fに2026年11月16日オープン。営業時間11:00〜21:00、新丸ビル店限定ドリンクを提供。",
+  "collected_at": "2026-11-10",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "猿田彦珈琲 皇居東御苑店",
+  "area": "皇居東御苑・大手町",
+  "address": "東京都千代田区千代田1-9 皇居東御苑 大手休憩所内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-03",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://haveagood-holiday.com/en/articles/sarutahiko-coffee-imperial-palace-east-gardens-opening"
+  ],
+  "summary": "皇居東御苑に新設された「大手休憩所」内に猿田彦珈琲が2026年11月3日オープン。46席+立ち席10席、営業時間は皇居東御苑の開園時間に準じる（月曜定休、祝日の場合は翌火曜休）。",
+  "collected_at": "2026-11-10",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "東武百貨店 池袋店 Christmas Market2026",
+  "area": "池袋",
+  "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋店 8階スカイデッキ広場",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-07",
+   "end": "2026-12-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://aumo.jp/articles/5614489"
+  ],
+  "summary": "東武百貨店池袋店8階屋上「スカイデッキ広場」で開催するクリスマスマーケット（11/7〜12/25）。フード＆ドリンクブース6店（スイーツブース含む）、BBQプランやスモア作り体験あり、予約不要。",
+  "collected_at": "2026-11-10",
+  "id": ""
  }
 ]

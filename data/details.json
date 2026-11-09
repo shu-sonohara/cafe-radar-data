@@ -34,12 +34,26 @@
   "note": "heroaca.comは403で取得不可、公式サイト(ltr-online.com)はJS中心のため営業時間未確認",
   "source": null
  },
+ "08713f5e5893": {
+  "checked_at": "2026-11-10",
+  "closed": null,
+  "hours": "9:00–19:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000005.000174301.html"
+ },
  "0a7e2e501e7e": {
   "checked_at": "2026-11-07",
   "closed": null,
   "hours": null,
   "note": "公式特設サイトに営業時間の記載なし",
   "source": null
+ },
+ "0eb3ed7a81d2": {
+  "checked_at": "2026-11-10",
+  "closed": "不定休",
+  "hours": "平日 8:00–22:00 / 土日祝 7:30–22:00",
+  "note": "",
+  "source": "https://spur.hpplus.jp/lifestyle/news/2026-02-06-An63Jw/"
  },
  "0f1a0d13b903": {
   "checked_at": "2026-11-02",
@@ -61,6 +75,13 @@
   "hours": "11:00–22:00（カフェ最終入店・L.O.21:20）",
   "note": "常設カフェの通常営業時間",
   "source": "https://prtimes.jp/main/html/rd/p/000000181.000119643.html"
+ },
+ "1597d9989874": {
+  "checked_at": "2026-11-10",
+  "closed": "なし（年末年始を除く）",
+  "hours": "8:00–23:00（フードL.O.22:00・ドリンクL.O.22:30）",
+  "note": "",
+  "source": "https://konas-coffee.com/news/kivpnlpjs_v/"
  },
  "1640b8ce3227": {
   "checked_at": "2026-11-01",
@@ -103,6 +124,13 @@
   "hours": "平日 11:00–21:00 / 土日祝 10:30–21:00（ルミネエスト新宿ショッピングフロアの営業時間）",
   "note": "店舗固有の営業時間は非公開のため施設の営業時間を記載",
   "source": "https://media.jreast.co.jp/articles/3134"
+ },
+ "1ec133891dda": {
+  "checked_at": "2026-11-10",
+  "closed": "月曜・火曜",
+  "hours": "10:30–18:30（食事L.O.17:30・ドリンクL.O.18:00）",
+  "note": "",
+  "source": "https://www.attable.co.jp/cafe/meijiyasuda/"
  },
  "204c467ee4dd": {
   "checked_at": "2026-11-01",
@@ -216,6 +244,13 @@
   "note": "事前予約(イープラス)制",
   "source": "https://www.famitsu.com/article/202608/84915"
  },
+ "3b6f6a8c1433": {
+  "checked_at": "2026-11-10",
+  "closed": "不定休",
+  "hours": "10:30–22:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000001342.000025445.html"
+ },
  "3be2e27c6e70": {
   "checked_at": "2026-11-05",
   "closed": "不定休",
@@ -236,6 +271,13 @@
   "hours": "7:45–16:00",
   "note": "",
   "source": "https://www.haveagood-holiday.com/en/articles/hitosumi-coffee-stand-kitashinagawa-opening"
+ },
+ "3f474a847da8": {
+  "checked_at": "2026-11-10",
+  "closed": null,
+  "hours": "10:30–21:00（L.O.20:30）",
+  "note": "完全予約制",
+  "source": "https://www.famitsu.com/article/202605/74383"
  },
  "412d7a3c7916": {
   "checked_at": "2026-11-03",
@@ -321,6 +363,13 @@
   "note": "プレスリリース・公式サイト(JS中心で取得不可)に営業時間の記載なし",
   "source": null
  },
+ "516c2c29d951": {
+  "checked_at": "2026-11-10",
+  "closed": null,
+  "hours": "8:00–20:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000123.000048883.html"
+ },
  "518f61ebd4f1": {
   "checked_at": "2026-11-03",
   "closed": null,
@@ -342,12 +391,26 @@
   "note": "",
   "source": "https://bestcalendar.jp/press/159908"
  },
+ "5385accb1b6e": {
+  "checked_at": "2026-11-10",
+  "closed": "不定休",
+  "hours": "月〜金 7:30–22:30 / 土日祝 7:00–22:30",
+  "note": "",
+  "source": "https://store.starbucks.co.jp/detail-1815/"
+ },
  "556f29247541": {
   "checked_at": "2026-11-05",
   "closed": null,
   "hours": null,
   "note": "食べログ以外の出典（公式サイト・SNS）が見つからず、営業時間未確認",
   "source": null
+ },
+ "55a9ac475638": {
+  "checked_at": "2026-11-10",
+  "closed": "年中無休（年末年始を除く）",
+  "hours": "9:00–22:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000710.000021878.html"
  },
  "55e626bcea16": {
   "checked_at": "2026-11-06",
@@ -601,6 +664,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000352.000048489.html"
  },
+ "84c4cfd126de": {
+  "checked_at": "2026-11-10",
+  "closed": "日曜・祝日",
+  "hours": "7:00–20:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000010.000165013.html"
+ },
  "873e8ba89bf7": {
   "checked_at": "2026-11-03",
   "closed": null,
@@ -839,6 +909,13 @@
   "note": "",
   "source": "https://gourmet.watch.impress.co.jp/docs/news/2149210.html"
  },
+ "c21147934000": {
+  "checked_at": "2026-11-10",
+  "closed": null,
+  "hours": "7:00–20:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000542.000020545.html"
+ },
  "c313d808d6d0": {
   "checked_at": "2026-11-06",
   "closed": null,
@@ -951,6 +1028,13 @@
   "note": "定休日は未確認（施設=イオン八王子滝山の休館日に準ずる可能性あるが公式未確認）",
   "source": "https://gourmetpress.net/1476836/"
  },
+ "d976ad4c617a": {
+  "checked_at": "2026-11-10",
+  "closed": null,
+  "hours": null,
+  "note": "公式情報で営業時間の記載を確認できず（TableCheck等に記載なし）",
+  "source": null
+ },
  "dd5cae1d34be": {
   "checked_at": "2026-11-01",
   "closed": "無休",
@@ -972,12 +1056,33 @@
   "note": "2施設分を併記。翌月曜が祝休日の場合は日曜も20:00まで営業",
   "source": "https://prtimes.jp/main/html/rd/p/000000005.000189124.html"
  },
+ "e16c8c0b5d68": {
+  "checked_at": "2026-11-10",
+  "closed": "年中無休（年末年始を除く）",
+  "hours": "11:00–21:00",
+  "note": "",
+  "source": "https://www.mensnonno.jp/lifestyle/tasty-food/687544/"
+ },
+ "e4cce494ee85": {
+  "checked_at": "2026-11-10",
+  "closed": null,
+  "hours": "9:00–20:00（L.O.19:30・変動あり）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000061.000071067.html"
+ },
  "e6fb6cb0de71": {
   "checked_at": "2026-11-04",
   "closed": null,
   "hours": "平日9:30–20:30 / 土日祝9:00–20:30",
   "note": "施設(東京ギフトパレット)の営業時間に準ずる可能性あり",
   "source": "https://prtimes.jp/main/html/rd/p/000000435.000007024.html"
+ },
+ "e855005453ad": {
+  "checked_at": "2026-11-10",
+  "closed": null,
+  "hours": "10:00–19:00（予定）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000057.000059362.html"
  },
  "e987631f146f": {
   "checked_at": "2026-11-02",
