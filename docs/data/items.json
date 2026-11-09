@@ -59,7 +59,12 @@
    "id": "d0b599b31140",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "平日・土 9:00–22:00 / 日・祝 9:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": "https://prtimes.jp/main/html/rd/p/000001069.000082978.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -188,7 +193,12 @@
    "id": "73a6840aa2e6",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": "https://prtimes.jp/main/html/rd/p/000000056.000075032.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -718,7 +728,12 @@
    "id": "5a7ebec73fd9",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -1861,7 +1876,9 @@
    "sources": [
     "https://suginami.goguynet.jp/2026/08/13/bread-bean-nishiogikubo/",
     "https://prtimes.jp/main/html/rd/p/000000016.000054588.html",
-    "https://prtimes.jp/main/html/rd/p/000000017.000054588.html"
+    "https://prtimes.jp/main/html/rd/p/000000017.000054588.html",
+    "https://www.bsquared.jp",
+    "https://bsquared.jp/pages/location/"
    ],
    "summary": "天然酵母パン×自家焙煎コーヒーのベーカリーカフェ「B²」の新業態「BREAD & BEAN by B²」が、JR中央線「西荻高架下」第3期エリアに2026年8月13日グランドオープン。西荻窪初出店。",
    "collected_at": "2026-10-31",
@@ -2326,7 +2343,12 @@
    "id": "60d00dd71f84",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "9:00–18:00",
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": "https://nakameno853.blog/shibuya-cafe-sonomama-tokyo/"
+   }
   },
   {
    "type": "new_cafe",
@@ -2446,7 +2468,12 @@
    "id": "cfc7a3ee6a1e",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "月〜木 10:00–22:30 / 金・土 10:00–23:00 / 日・祝 10:00–22:00",
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": "https://coffee-rin.com/"
+   }
   },
   {
    "type": "new_cafe",
@@ -2714,7 +2741,12 @@
    "id": "fb07f6021250",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "平日 7:00–20:00 / 土日祝 9:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": "https://prtimes.jp/main/html/rd/p/000000560.000020545.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2839,7 +2871,12 @@
    "id": "4e506d970627",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "平日 13:00–29:00（翌5:00）/ 土日祝 11:00–29:00（翌5:00）",
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": "https://www.shimokitazawa.info/news/2026/07/ocher/"
+   }
   },
   {
    "type": "new_cafe",
@@ -2895,7 +2932,12 @@
    "id": "490044f3a2c9",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "平日 9:00–17:00 / 休日 9:00–18:00",
+    "closed": "不定休",
+    "checked_at": "2026-11-09",
+    "source": "https://prtimes.jp/main/html/rd/p/000000006.000147799.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3270,7 +3312,12 @@
    "id": "b8b63f34eae9",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "9:00–18:30（L.O.18:00）/ 金・土 9:00–22:30（L.O.22:00）",
+    "closed": "水曜",
+    "checked_at": "2026-11-09",
+    "source": "https://www.ufu-sweets.jp/cafe/260828_moo/"
+   }
   },
   {
    "type": "new_cafe",
@@ -4741,7 +4788,7 @@
     "https://www.walkerplus.com/article/1451409/"
    ],
    "summary": "ミッフィーをテーマにした期間限定コラボカフェ。冬向けの温かいメニューが中心で、グラタンパイやスープを提供。事前予約制(1名660円、先着順)。",
-   "collected_at": "2026-11-04",
+   "collected_at": "2026-11-09",
    "id": "1713d5515ea5",
    "is_new": false,
    "freshness": null,
@@ -4837,7 +4884,12 @@
    "id": "4928cc0847de",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "8:00–22:00（1Fスターバックス）",
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": "https://prtimes.jp/main/html/rd/p/000000111.000134306.html"
+   }
   },
   {
    "type": "popup",
@@ -5078,7 +5130,12 @@
    "id": "302f790bdf43",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -5220,14 +5277,20 @@
    },
    "confidence": "media",
    "sources": [
-    "https://www.fashion-press.net/news/152928"
+    "https://www.fashion-press.net/news/152928",
+    "https://news.denfaminicogamer.jp/news/2611052c"
    ],
    "summary": "ハロウィンタウン仕様のクリスマスを楽しめるコラボカフェ。ジャックの「ハロウィンナイトシチュー」やサリーの「花占いパフェ」などキャラクターモチーフのメニューを提供。",
    "collected_at": "2026-11-06",
    "id": "067403362da5",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -5313,7 +5376,12 @@
    "id": "2f276fab2c3d",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "月〜金 7:30–22:00 / 土 8:00–22:00 / 日・祝 8:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": "https://prtimes.jp/main/html/rd/p/000000122.000019914.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -5339,7 +5407,12 @@
    "id": "5e44fe9ff5dd",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "9:00–20:00（月〜金）/ 8:00–20:00（土・日）",
+    "closed": "無休",
+    "checked_at": "2026-11-09",
+    "source": "https://madamefigaro.jp/beauty/261105-kiiks/"
+   }
   },
   {
    "type": "new_cafe",
@@ -5914,7 +5987,12 @@
    "id": "3c26a853d944",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-09",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -6179,7 +6257,8 @@
    },
    "confidence": "media",
    "sources": [
-    "https://bestcalendar.jp/press/162431"
+    "https://bestcalendar.jp/press/162431",
+    "https://haveagood-holiday.com/en/articles/yokohama-vanilla-gransta-tokyo-popup"
    ],
    "summary": "ブランド刷新後初のポップアップとして、JR東京駅構内「グランスタ東京 POP UP GRANSTA GREEN」で横浜バニラが期間限定出店。塩バニラフィナンシェ等を予約不要・先着販売。",
    "collected_at": "2026-11-08",
