@@ -8747,5 +8747,96 @@
   "summary": "大丸東京店1階イベントスペースでスイーツブランド「SNOWS」のポップアップストアを開催（11/4〜11/17、10:00〜20:00、一部予約制）。新商品「スノーボール くろくろ」（9個入1,890円）等を販売。",
   "collected_at": "2026-11-10",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "TOKYO BANANA Cafe Stand",
+  "area": "羽田空港第1ターミナル",
+  "address": "東京都大田区羽田空港3-3-2 羽田空港第1ターミナル2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-17",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.aviationwire.jp/?p=350247"
+  ],
+  "summary": "東京ばな奈ブランド史上初のカフェスタンドが羽田空港第1ターミナル2F出発ゲートラウンジ(北)16番ゲート前にオープン。空港限定の東京ばな奈ソフトクリームやその場で作るバータイプの東京ばな奈バーを販売。",
+  "collected_at": "2026-11-11",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "ベーカリー"
+  ],
+  "name": "CAFE & BAKERY MIYABI 多摩センター店",
+  "area": "多摩センター",
+  "address": "東京都多摩市落合1丁目45-1 多摩センター丘の上パティオ1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-10",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000386.000011586.html"
+  ],
+  "summary": "京都祇園発の高級デニッシュ食パン「MIYABI」のカフェ&ベーカリーが多摩センター駅前の丘の上パティオ1階にオープン。トーストやクレープ、ソフトクリーム、カフェご飯を提供。営業時間8:00〜20:00(金土祝前日21:00まで)。",
+  "collected_at": "2026-11-11",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "Bistro IKEDAYAMA",
+  "area": "五反田",
+  "address": "東京都品川区東五反田1-11-15 電波ビル1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-28",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/161965"
+  ],
+  "summary": "五反田のベーカリーカフェ「Bread&Coffee IKEDAYAMA」が新業態として五反田にオープン。朝〜夕方は焼き立てパンと自家焙煎コーヒーのベーカリーカフェ、夜はパンを添えた料理とワインのビストロとして営業。",
+  "collected_at": "2026-11-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "SNOWS ポップアップストア(大丸東京店)",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店1階イベントスペース",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-04",
+   "end": "2026-11-17"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://hugkum.sho.jp/823431"
+  ],
+  "summary": "大丸東京店1階イベントスペースで開催のSNOWSポップアップストア。新商品「スノーボールくろくろ」(生トリュフチョコ、9個入1,890円)を関東エリアで同店限定発売。定番のスノーサンドも販売。",
+  "collected_at": "2026-11-11",
+  "id": ""
  }
 ]

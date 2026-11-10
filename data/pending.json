@@ -1,5 +1,12 @@
 [
  {
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yX0Q2R2x4eTlZdUw2aExTM3FpRUY0REtLVmNhQjRQRExETHpRZEhNQnc5UFVBcGo5N0RFUHdSUWFQX3I1Wkp3eVBrbXRLOUk?oc=5",
+  "title": "茶房 まるさんかくしかく(五反田)",
+  "note": "住所は公式サイト(sabo-marusankakushikaku.com)・TableCheckで確認(東京都品川区東五反田2-1-9、オーガニックカフェ・レストラン、ランチ11-15時/カフェ14-17時)。オープン日は公式サイト・TableCheck・WebSearchいずれでも未発見。news.google.com経由のため元記事(レッツエンジョイ東京)もWebFetch不可。",
+  "first_seen": "2026-11-04",
+  "hold_until": "2026-11-18"
+ },
+ {
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13N3hrV2pTM2M3UWxCTGgyUmRXRWxEalBmTVU1VjN4WXdaQkFDMDdhcnVGVENCWDJlWThhZ0hxcEtpU3VLUHBtTnRlNUZDMnNLcTFCQVZHWlRtREZFaVo4?oc=5",
   "title": "おでカフェ（富士町）",
   "note": "再確認（2026-11-10）も不可：西東京市富士町の求人以外に『おでカフェ』の情報源なし。公式SNS・開店発表を待つ。（初出 2026-10-27）",
@@ -12,27 +19,6 @@
   "note": "JYPエンタ日本初フラッグシップ店。10/10開業、店内ドリンクカフェ併設は韓国メディア報道で確認済み。所在地は依然未確定（代官山説あるが低信度）。公式サイト・SNS・Googleマップで要再確認。（初出 2026-11-02、2回目再確認も不確定 2026-11-09）",
   "first_seen": "2026-11-02",
   "hold_until": "2026-11-16"
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lekNhRXRNd01fcG9nSDk5S3RFdlZnbk1RbVlIV3hmR05VWXJOakp4NTRQc3dNQUtxVk1sQmN6SkVSZUM0SHp0d0s3TFpwQS1hNHFqWUV1VE15REI3VnVSa3RZUlA?oc=5",
-  "title": "絵本の国のAfternoon Tea in WonderLand+カフェフリー(HAUTE COUTURE BRUNCH・南青山)",
-  "note": "【再確認結果】開始9/30は確定(ikyu予約ページ)。終了日はikyu/OZmall/食べログ等の予約サイトを確認したが記載なし。公式SNS等でも11月分の案内は未発見。電話確認(03-6721-0208)でしか終了日は取れない可能性。(2026-11-04時点)",
-  "first_seen": "2026-10-28",
-  "hold_until": "2026-11-11"
- },
- {
-  "url": "https://prtimes.jp/main/html/rd/p/000002528.000005342.html",
-  "title": "SNOWS スノーボール くろくろ(大丸東京店)",
-  "note": "【再確認結果】PR TIMES記事本文を直接WebFetchで確認: イベント全体の開催期間は「2026/11/4〜11/10」(1階ほっぺタウン)、くろくろ商品のみ「11/17まで」(1階SVPイベントスペース MAP2)と、記事内で売場・期間が別々に記載されており単純な誤記ではなさそう。既存保留中のSNOWS東京駅ポップアップとは別会場。大丸東京店公式サイトでの確認要。(2026-11-04時点)",
-  "first_seen": "2026-10-28",
-  "hold_until": "2026-11-11"
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yX0Q2R2x4eTlZdUw2aExTM3FpRUY0REtLVmNhQjRQRExETHpRZEhNQnc5UFVBcGo5N0RFUHdSUWFQX3I1Wkp3eVBrbXRLOUk?oc=5",
-  "title": "茶房 まるさんかくしかく(五反田)",
-  "note": "レッツエンジョイ東京の記事はnews.google.com経由でWebFetch不可、WebSearchでも実記事URLを発見できず(bestcalendar等でも裏取り不可)。住所は求人サイト(ビズリーチ)で「東京都品川区東五反田2-1-9」との情報のみで店舗公式情報ではない。オープン日未確認。公式SNS・食べログ等で要確認。(初出2026-11-04)",
-  "first_seen": "2026-11-04",
-  "hold_until": "2026-11-11"
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mdURlNjBKaUpVaUZkR2x4MjlsMEVsLVJvRWpKNWRNT2xvTERkNXFTZ1llelpGR1FaeTZCcXQ1ellJM0dSTmQtSmF5UTZGRFNFNkxnYUFrQUloOEEyc1dra1phWm8tS0J2eEE?oc=5",

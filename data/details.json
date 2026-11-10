@@ -1,4 +1,11 @@
 {
+ "020469e8c280": {
+  "checked_at": "2026-11-11",
+  "closed": "不定休",
+  "hours": "10:00–22:00",
+  "note": "定休日の詳細は公式Instagram(@cu__tokyo)参照",
+  "source": "https://prtimes.jp/main/html/rd/p/000000005.000174669.html"
+ },
  "026ba09fe972": {
   "checked_at": "2026-10-31",
   "closed": null,
@@ -12,6 +19,13 @@
   "hours": "10:00–20:00（施設に準ずる）",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000023.000176183.html"
+ },
+ "060b80772672": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": "24時間営業",
+  "note": "",
+  "source": "https://www.atpress.ne.jp/news/581681"
  },
  "067403362da5": {
   "checked_at": "2026-11-09",
@@ -104,6 +118,13 @@
   "note": "要予約制(先着順・予約金660円)。報道・公式サイトに具体的な営業時間の記載なし",
   "source": null
  },
+ "19bbdd268277": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": "10:00–24:00（L.O.23:00、テラス席22:00まで）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000433.000025087.html"
+ },
  "1a62ca0b11c4": {
   "checked_at": "2026-11-08",
   "closed": null,
@@ -195,6 +216,13 @@
   "note": "公式サイト・記事に記載なし。セレオ八王子の施設営業時間は10:00–21:00（店舗により異なる）",
   "source": null
  },
+ "318d38c584ca": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": "7:00–21:00",
+  "note": "",
+  "source": "https://stories.starbucks.co.jp/press/2026/pr-2026-0324/"
+ },
  "325c0a99cabc": {
   "checked_at": "2026-11-06",
   "closed": null,
@@ -265,6 +293,13 @@
   "note": "公式サイト(cafe.gge-collabo.com)に接続できず、他媒体にも営業時間の記載なし。完全予約制",
   "source": null
  },
+ "3c3c30267fbb": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": "10:15–21:45（L.O.21:15）",
+  "note": "東京スカイツリーの営業時間に準じ変動あり。テラスは悪天候時休止",
+  "source": "https://www.tokyo-skytree.jp/press/post/704/"
+ },
  "3ca7e0bd06e9": {
   "checked_at": "2026-10-31",
   "closed": "火曜（店舗カレンダーにより水曜・土曜も休みの場合あり）",
@@ -307,6 +342,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000004145.000003639.html"
  },
+ "46a1567fbdcf": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": "10:00–21:00",
+  "note": "",
+  "source": "https://www.ryutsuu.biz/store/r111473.html"
+ },
  "490044f3a2c9": {
   "checked_at": "2026-11-09",
   "closed": "不定休",
@@ -320,6 +362,13 @@
   "hours": "8:00–22:00（1Fスターバックス）",
   "note": "2F三井住友銀行窓口は平日9:00–15:00等、別途",
   "source": "https://prtimes.jp/main/html/rd/p/000000111.000134306.html"
+ },
+ "4aa6df2f8fc2": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": "11:00–19:00（L.O.18:00）",
+  "note": "",
+  "source": "https://precious.jp/articles/-/59508"
  },
  "4baf8b4df55a": {
   "checked_at": "2026-11-08",
@@ -615,6 +664,20 @@
   "note": "予告なく変更の場合あり",
   "source": "https://prtimes.jp/main/html/rd/p/000000195.000074953.html"
  },
+ "758d619a32ac": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": "6:00–翌2:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000943.000045400.html"
+ },
+ "778ca7ad5bdc": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": "8:00–18:00（L.O.17:30）",
+  "note": "",
+  "source": "https://gourmetpress.net/1469848/"
+ },
  "7790abf614f7": {
   "checked_at": "2026-11-01",
   "closed": "不定休",
@@ -818,6 +881,13 @@
   "note": "プレスリリースに記載なし。公式サイト(ellecafe.jp)は取材時点で未公開",
   "source": null
  },
+ "ae9a3357c619": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": null,
+  "note": "公式記事・Time Out記事いずれにも営業時間の記載なし。公式Instagram(@mame.tokyo)で要確認",
+  "source": null
+ },
  "af9b002749bd": {
   "checked_at": "2026-11-06",
   "closed": null,
@@ -852,6 +922,13 @@
   "hours": null,
   "note": "公式に営業時間の記載なし",
   "source": null
+ },
+ "b44fdd0e7c6e": {
+  "checked_at": "2026-11-11",
+  "closed": "施設に準ずる",
+  "hours": "9:00–21:00（L.O.20:30）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000300.000037579.html"
  },
  "b6251a16b89c": {
   "checked_at": "2026-11-06",
@@ -1014,6 +1091,13 @@
   "note": "公式サイトの記載見つからず（出典がブログのみのため採用せず）",
   "source": null
  },
+ "d564187b1583": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": "11:00–21:00（フードL.O.20:00・ドリンクL.O.20:30）",
+  "note": "クリスマスマーケット開催期間中の営業時間",
+  "source": "https://aumo.jp/articles/5614489"
+ },
  "d73a49311945": {
   "checked_at": "2026-11-05",
   "closed": "アクアシティお台場の営業に準ずる",
@@ -1070,6 +1154,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000061.000071067.html"
  },
+ "e6d350e5b01a": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": "7:00–19:00",
+  "note": "変更になる場合あり",
+  "source": "https://www.doutor.co.jp/news/newsrelease/detail/20260317111523.html"
+ },
  "e6fb6cb0de71": {
   "checked_at": "2026-11-04",
   "closed": null,
@@ -1083,6 +1174,13 @@
   "hours": "10:00–19:00（予定）",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000057.000059362.html"
+ },
+ "e93b8aa28a9c": {
+  "checked_at": "2026-11-11",
+  "closed": "不定休",
+  "hours": "7:00–21:00",
+  "note": "2026/7/31〜8/6は7:00–18:00の時短営業",
+  "source": "https://www.atpress.ne.jp/news/617004"
  },
  "e987631f146f": {
   "checked_at": "2026-11-02",
@@ -1153,5 +1251,12 @@
   "hours": "平日 7:00–20:00 / 土日祝 9:00–20:00",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000560.000020545.html"
+ },
+ "fd726a5ca63b": {
+  "checked_at": "2026-11-11",
+  "closed": null,
+  "hours": "10:00–20:00（施設に準ずる）",
+  "note": "伊勢丹新宿店本館地下1階の洋菓子エリア。売場個別の営業時間は未公開のため本館の営業時間を記載",
+  "source": "https://www.mistore.jp/store/shinjuku/access.html"
  }
 }

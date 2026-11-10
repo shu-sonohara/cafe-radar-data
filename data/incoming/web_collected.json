@@ -6495,5 +6495,119 @@
   "summary": "東武百貨店池袋店8階屋上「スカイデッキ広場」で開催するクリスマスマーケット（11/7〜12/25）。フード＆ドリンクブース6店（スイーツブース含む）、BBQプランやスモア作り体験あり、予約不要。",
   "collected_at": "2026-11-10",
   "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "東武百貨店 池袋店 Christmas Market 2026",
+  "area": "池袋",
+  "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋店8F屋上スカイデッキ広場",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-07",
+   "end": "2026-12-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://aumo.jp/articles/5614489"
+  ],
+  "summary": "東武百貨店池袋店8F屋上で開催のクリスマスマーケット。ホットドリンク・スープ・パン・クリスマス料理・ビール・スイーツの6ブース(予約不要)と予約制バーベキュープランを提供。営業時間11:00〜21:00。",
+  "collected_at": "2026-11-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "カフェ"
+  ],
+  "name": "『夢色パティシエール』×あっとほぉーむカフェ",
+  "area": "秋葉原",
+  "address": "東京都千代田区外神田1-7-6 AKIBAカルチャーズZONE 5階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-20",
+   "end": "2026-12-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/162722"
+  ],
+  "summary": "「夢色パティシエール」とあっとほぉーむカフェ秋葉原店のコラボカフェ。フードまたはデザート注文でステッカー、ドリンク注文でコースターが1枚ずつ付く(全4種ランダム)。",
+  "collected_at": "2026-11-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "カフェ"
+  ],
+  "name": "『Toxic-a-Holic』×eeo Cafe",
+  "area": "南池袋",
+  "address": "東京都豊島区南池袋1-9-21 JK7 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-07",
+   "end": "2026-11-19"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.oricon.co.jp/pressrelease/3006804/"
+  ],
+  "summary": "ゲーム「Toxic-a-Holic」とeeo Cafe南池袋店のコラボカフェ。カフェ店員姿の描き下ろしイラストを使用し、缶バッジ・アクリルカード等のブラインド形式グッズを販売。",
+  "collected_at": "2026-11-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "カフェ"
+  ],
+  "name": "TVアニメ『らんま1/2』アイスクリームカフェ",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6-31-21 東急プラザ原宿「ハラカド」6F 洒落CAFE",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-21",
+   "end": "2026-12-06"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/161683"
+  ],
+  "summary": "TVアニメ「らんま1/2」のアイスクリームテーマのコラボカフェが東急プラザ原宿「ハラカド」の洒落CAFEで開催。営業時間11:00〜23:00(コラボメニューL.O.22:00)。",
+  "collected_at": "2026-11-11",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コラボカフェ",
+   "カフェ"
+  ],
+  "name": "YOLU MELLOW NIGHT Cafe",
+  "area": "北青山・表参道",
+  "address": "東京都港区北青山3-12-12 HOLON MOSKA by GingerGarden内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-19",
+   "end": "2026-11-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.fashionsnap.com/article/2026-11-02/yolu-collaboration-cafe/"
+  ],
+  "summary": "ヘアケアブランド「ヨル(YOLU)」のコラボカフェ。パフェ・ドリンク・ティーフリーフローにヘアマスクを組み合わせたセット(4,300円)を提供。18:30〜20:30の2時間制。",
+  "collected_at": "2026-11-11",
+  "id": ""
  }
 ]
