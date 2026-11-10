@@ -1488,7 +1488,12 @@
    "id": "0eb3ed7a81d2",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "平日 8:00–22:00 / 土日祝 7:30–22:00",
+    "closed": "不定休",
+    "checked_at": "2026-11-10",
+    "source": "https://spur.hpplus.jp/lifestyle/news/2026-02-06-An63Jw/"
+   }
   },
   {
    "type": "new_cafe",
@@ -1514,7 +1519,12 @@
    "id": "3f474a847da8",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "10:30–21:00（L.O.20:30）",
+    "closed": null,
+    "checked_at": "2026-11-10",
+    "source": "https://www.famitsu.com/article/202605/74383"
+   }
   },
   {
    "type": "new_cafe",
@@ -1540,7 +1550,12 @@
    "id": "84c4cfd126de",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "7:00–20:00",
+    "closed": "日曜・祝日",
+    "checked_at": "2026-11-10",
+    "source": "https://prtimes.jp/main/html/rd/p/000000010.000165013.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1565,7 +1580,12 @@
    "id": "08713f5e5893",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "9:00–19:00",
+    "closed": null,
+    "checked_at": "2026-11-10",
+    "source": "https://prtimes.jp/main/html/rd/p/000000005.000174301.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1590,7 +1610,12 @@
    "id": "3b6f6a8c1433",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:30–22:00",
+    "closed": "不定休",
+    "checked_at": "2026-11-10",
+    "source": "https://prtimes.jp/main/html/rd/p/000001342.000025445.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1617,7 +1642,12 @@
    "id": "e855005453ad",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:00–19:00（予定）",
+    "closed": null,
+    "checked_at": "2026-11-10",
+    "source": "https://prtimes.jp/main/html/rd/p/000000057.000059362.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1643,7 +1673,12 @@
    "id": "e16c8c0b5d68",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "11:00–21:00",
+    "closed": "年中無休（年末年始を除く）",
+    "checked_at": "2026-11-10",
+    "source": "https://www.mensnonno.jp/lifestyle/tasty-food/687544/"
+   }
   },
   {
    "type": "new_cafe",
@@ -1668,7 +1703,12 @@
    "id": "516c2c29d951",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "8:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-10",
+    "source": "https://prtimes.jp/main/html/rd/p/000000123.000048883.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1693,7 +1733,12 @@
    "id": "c21147934000",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "7:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-10",
+    "source": "https://prtimes.jp/main/html/rd/p/000000542.000020545.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1798,7 +1843,12 @@
    "id": "e4cce494ee85",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "9:00–20:00（L.O.19:30・変動あり）",
+    "closed": null,
+    "checked_at": "2026-11-10",
+    "source": "https://prtimes.jp/main/html/rd/p/000000061.000071067.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1855,7 +1905,12 @@
    "id": "55a9ac475638",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "9:00–22:00",
+    "closed": "年中無休（年末年始を除く）",
+    "checked_at": "2026-11-10",
+    "source": "https://prtimes.jp/main/html/rd/p/000000710.000021878.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2073,7 +2128,12 @@
    "id": "1597d9989874",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "8:00–23:00（フードL.O.22:00・ドリンクL.O.22:30）",
+    "closed": "なし（年末年始を除く）",
+    "checked_at": "2026-11-10",
+    "source": "https://konas-coffee.com/news/kivpnlpjs_v/"
+   }
   },
   {
    "type": "new_cafe",
@@ -2098,7 +2158,12 @@
    "id": "1ec133891dda",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:30–18:30（食事L.O.17:30・ドリンクL.O.18:00）",
+    "closed": "月曜・火曜",
+    "checked_at": "2026-11-10",
+    "source": "https://www.attable.co.jp/cafe/meijiyasuda/"
+   }
   },
   {
    "type": "new_cafe",
@@ -2161,7 +2226,12 @@
    "id": "5385accb1b6e",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "月〜金 7:30–22:30 / 土日祝 7:00–22:30",
+    "closed": "不定休",
+    "checked_at": "2026-11-10",
+    "source": "https://store.starbucks.co.jp/detail-1815/"
+   }
   },
   {
    "type": "new_cafe",
@@ -2217,7 +2287,12 @@
    "id": "d976ad4c617a",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-10",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -2800,10 +2875,11 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000212.000027005.html",
-    "https://www.tokyo-np.co.jp/article/513421"
+    "https://www.tokyo-np.co.jp/article/513421",
+    "https://haveagood-holiday.com/en/articles/sarutahiko-coffee-imperial-palace-east-gardens-opening"
    ],
    "summary": "皇居東御苑内に新設される「大手休憩所」に猿田彦珈琲が出店。三の丸尚蔵館の全面公開に合わせ11月3日オープン予定。",
-   "collected_at": "2026-09-19",
+   "collected_at": "2026-11-10",
    "id": "9a5d2efd9e23",
    "is_new": true,
    "freshness": 30,
@@ -4626,10 +4702,11 @@
    "confidence": "official",
    "sources": [
     "https://www.zaikei.co.jp/releases/3672467/",
-    "https://bestcalendar.jp/press/159908"
+    "https://bestcalendar.jp/press/159908",
+    "https://hugkum.sho.jp/823431"
    ],
    "summary": "北海道発・冬季限定スイーツ「SNOWS」の本州初ポップアップ。新作「スノーボールくろくろ」などを販売する。",
-   "collected_at": "2026-11-06",
+   "collected_at": "2026-11-10",
    "id": "534ed112fb95",
    "is_new": false,
    "freshness": null,
@@ -5120,10 +5197,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000021.000147415.html"
+    "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+    "https://www.enjoytokyo.jp/news/205234/"
    ],
    "summary": "パリ発「ラデュレ」の新コンセプトカフェが東京都内に初出店。新丸ビル店限定の抹茶ピスタチオ・ラテやラデュレ初のレモンケーキなどを提供。営業時間11:00-21:00。",
-   "collected_at": "2026-11-05",
+   "collected_at": "2026-11-10",
    "id": "2c7493da5e24",
    "is_new": true,
    "freshness": 30,
@@ -6268,6 +6346,31 @@
     "checked_at": "2026-11-08",
     "source": "https://bestcalendar.jp/press/159086"
    }
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "東武百貨店 池袋店 Christmas Market2026",
+   "area": "池袋",
+   "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋店 8階スカイデッキ広場",
+   "lat": 35.729939,
+   "lng": 139.71051,
+   "period": {
+    "start": "2026-11-07",
+    "end": "2026-12-25"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://aumo.jp/articles/5614489"
+   ],
+   "summary": "東武百貨店池袋店8階屋上「スカイデッキ広場」で開催するクリスマスマーケット（11/7〜12/25）。フード＆ドリンクブース6店（スイーツブース含む）、BBQプランやスモア作り体験あり、予約不要。",
+   "collected_at": "2026-11-10",
+   "id": "d564187b1583",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
   }
  ]
 }
