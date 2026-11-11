@@ -461,7 +461,12 @@
    "id": "292ab53b2bff",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "11:00–20:00（店内飲食L.O.19:00）",
+    "closed": null,
+    "checked_at": "2026-11-12",
+    "source": "https://prtimes.jp/main/html/rd/p/000002605.000011305.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -486,7 +491,12 @@
    "id": "94d915d5b6d3",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "平日11:30–20:00 / 土日11:30–23:00",
+    "closed": "月曜",
+    "checked_at": "2026-11-12",
+    "source": "https://prtimes.jp/main/html/rd/p/000000005.000164042.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -512,7 +522,12 @@
    "id": "a6fb8f213afb",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "8:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-12",
+    "source": "https://prtimes.jp/main/html/rd/p/000000001.000176749.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -538,7 +553,12 @@
    "id": "95fc4a014b33",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:00–23:00（全日）",
+    "closed": null,
+    "checked_at": "2026-11-12",
+    "source": "https://stories.starbucks.co.jp/press/2026/pr2026-0217/"
+   }
   },
   {
    "type": "new_cafe",
@@ -563,7 +583,12 @@
    "id": "2d421d9295fc",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-12",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -589,7 +614,12 @@
    "id": "22984c43c640",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "11:00–15:30（L.O.15:00）",
+    "closed": "平日（土日祝限定営業）",
+    "checked_at": "2026-11-12",
+    "source": "https://tabizine.jp/article/682694/"
+   }
   },
   {
    "type": "new_cafe",
@@ -616,7 +646,12 @@
    "id": "dfcf120c3df5",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "8:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-12",
+    "source": "https://stories.starbucks.co.jp/press/2026/pr2026-0310-02/"
+   }
   },
   {
    "type": "new_cafe",
@@ -643,7 +678,12 @@
    "id": "fffae75c5c08",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:00–15:30（L.O.14:00）/ 16:00–23:00（L.O.22:00）",
+    "closed": "不定休",
+    "checked_at": "2026-11-12",
+    "source": "https://www.atpress.ne.jp/news/587671"
+   }
   },
   {
    "type": "new_cafe",
@@ -669,7 +709,12 @@
    "id": "8fa3bde08991",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00（L.O.20:00）",
+    "closed": "施設に準ずる",
+    "checked_at": "2026-11-12",
+    "source": "https://prtimes.jp/main/html/rd/p/000000323.000012385.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -756,7 +801,12 @@
    "id": "06f9ab71c364",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "平日・土曜11:00–21:00 / 日祝11:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-12",
+    "source": "https://www.fashionsnap.com/article/2026-06-11/bachacoffee-marunouchi/"
+   }
   },
   {
    "type": "new_cafe",
@@ -848,7 +898,12 @@
    "id": "34a5a191981c",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "11:00–19:00（ランチ11:00–14:00、14:00以降カフェ・アラカルト。L.O.フード18:00／ドリンク18:30）",
+    "closed": "不定休",
+    "checked_at": "2026-11-12",
+    "source": "https://prtimes.jp/main/html/rd/p/000000030.000068009.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -2488,7 +2543,8 @@
    "confidence": "official",
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000454.000036259.html",
-    "https://toyosu.tokyo/cafe/odaiba-r-o-star-seaside-terrace-open-info/"
+    "https://toyosu.tokyo/cafe/odaiba-r-o-star-seaside-terrace-open-info/",
+    "https://www.bondish.co.jp/post/charactercafe-rilakkuma"
    ],
    "summary": "東京湾を望むカフェ&バー。自家焙煎コーヒーやサンドイッチ、彩り豊かなワンプレートランチを提供。お台場海浜公園・自由の女神像・レインボーブリッジを望む大きな窓が特徴。",
    "collected_at": "2026-09-02",
@@ -3677,6 +3733,7 @@
     "https://www.disney.co.jp/shopping/cafenews/20251113_01",
     "https://report.iko-yo.net/articles/33831",
     "https://prtimes.jp/main/html/rd/p/000000327.000086964.html",
+    "https://san-tatsu.jp/pressrelease/556208/",
     "https://yomuno.jp/posts/142639"
    ],
    "summary": "『ディズニー ツイステッドワンダーランド ザ アニメーション』のコラボカフェが表参道ヒルズ本館地下3階のOH MY CAFEで期間限定開催。ゲーム内イベント「マスターシェフ」をイメージし、各寮カラーのオープンサンドやタコス、ドリンクなどを提供。来店特典でオリジナルグッズが当たる。",
@@ -4658,7 +4715,7 @@
     "https://hugkum.sho.jp/823431"
    ],
    "summary": "北海道発・冬季限定スイーツ「SNOWS」の本州初ポップアップ。新作「スノーボールくろくろ」などを販売する。",
-   "collected_at": "2026-11-10",
+   "collected_at": "2026-11-12",
    "id": "534ed112fb95",
    "is_new": false,
    "freshness": null,
@@ -5243,7 +5300,8 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000195.000074953.html"
+    "https://prtimes.jp/main/html/rd/p/000000195.000074953.html",
+    "https://netshop.impress.co.jp/r/prtimes/items/000000195.000074953"
    ],
    "summary": "小嶋陽菜プロデュースのビューティブランド「Her lip to BEAUTY」が表参道のエスプレッソバー「LATTEST」で期間限定カフェ。新色リップをイメージしたラテ・ティーを提供。",
    "collected_at": "2026-11-06",
@@ -5428,14 +5486,20 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000386.000011586.html"
+    "https://prtimes.jp/main/html/rd/p/000000386.000011586.html",
+    "https://bestcalendar.jp/press/164652"
    ],
    "summary": "京都祇園発の高級デニッシュ食パン「MIYABI」のカフェ&ベーカリーが多摩センター駅前の丘の上パティオ1階にオープン。トーストやクレープ、ソフトクリーム、カフェご飯を提供。営業時間8:00〜20:00(金土祝前日21:00まで)。",
-   "collected_at": "2026-11-11",
+   "collected_at": "2026-11-12",
    "id": "b80ec7b7e503",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "8:00–20:00（金・土・祝前日は21:00まで）",
+    "closed": "無休",
+    "checked_at": "2026-11-12",
+    "source": "https://prtimes.jp/main/html/rd/p/000000386.000011586.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -5461,6 +5525,36 @@
    "id": "d88654f63004",
    "is_new": true,
    "freshness": 30,
+   "hours": {
+    "text": "11:00–23:00",
+    "closed": null,
+    "checked_at": "2026-11-12",
+    "source": "https://bestcalendar.jp/press/161965"
+   }
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "あまおうスイーツフェア（ホテルニューオータニ東京）",
+   "area": "紀尾井町",
+   "address": "東京都千代田区紀尾井町4-1",
+   "lat": 35.680435,
+   "lng": 139.734283,
+   "period": {
+    "start": "2026-12-01",
+    "end": "2027-03-31"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000004024.000014571.html"
+   ],
+   "summary": "ホテルニューオータニ（東京）で、博多あまおうを使ったケーキやガーデンラウンジでのビュッフェ・アフタヌーンティーが楽しめる『あまおうスイーツフェア』を開催。入荷状況により期間変更の可能性あり。",
+   "collected_at": "2026-11-12",
+   "id": "b9e412e59479",
+   "is_new": false,
+   "freshness": null,
    "hours": null
   },
   {
@@ -6406,7 +6500,12 @@
    "id": "8864596dd7e2",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "平日11:00–22:00 / 土日祝10:00–22:00",
+    "closed": null,
+    "checked_at": "2026-11-12",
+    "source": "https://www.timeout.jp/tokyo/ja/レストラン/athomecafe-akibacultureszoneten"
+   }
   },
   {
    "type": "popup",
@@ -6430,6 +6529,36 @@
    "summary": "TVアニメ「らんま1/2」のアイスクリームテーマのコラボカフェが東急プラザ原宿「ハラカド」の洒落CAFEで開催。営業時間11:00〜23:00(コラボメニューL.O.22:00)。",
    "collected_at": "2026-11-11",
    "id": "7a8072804a7a",
+   "is_new": false,
+   "freshness": null,
+   "hours": {
+    "text": "11:00–23:00（コラボメニューL.O.22:00）",
+    "closed": null,
+    "checked_at": "2026-11-12",
+    "source": "https://bestcalendar.jp/press/161683"
+   }
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "フェスティブアフタヌーンティー（ヒルトン東京お台場 Captain's Bar&Lounge）",
+   "area": "お台場",
+   "address": "東京都港区台場1丁目9-1 ヒルトン東京お台場3階",
+   "lat": 35.626198,
+   "lng": 139.770645,
+   "period": {
+    "start": "2026-12-01",
+    "end": "2027-01-17"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://bestcalendar.jp/press/159925"
+   ],
+   "summary": "ヒルトン東京お台場3階Captain's Bar&Loungeで、もみの木やトナカイをモチーフにした冬限定のアフタヌーンティーを提供。スコーン・サンドイッチ食べ放題付き。",
+   "collected_at": "2026-11-12",
+   "id": "b3621959d0e3",
    "is_new": false,
    "freshness": null,
    "hours": null
