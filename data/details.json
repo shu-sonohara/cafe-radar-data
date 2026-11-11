@@ -41,6 +41,13 @@
   "note": "",
   "source": "https://www.haveagood-holiday.com/en/articles/kissashitsu-renoir-shinjuku-3chome-tt-building-opening"
  },
+ "06f9ab71c364": {
+  "checked_at": "2026-11-12",
+  "closed": null,
+  "hours": "平日・土曜11:00–21:00 / 日祝11:00–20:00",
+  "note": "",
+  "source": "https://www.fashionsnap.com/article/2026-06-11/bachacoffee-marunouchi/"
+ },
  "0789473f4de5": {
   "checked_at": "2026-11-08",
   "closed": null,
@@ -160,6 +167,13 @@
   "note": "コインランドリーは24時間営業だが、カフェ部分単独の営業時間は公式発表に記載なし",
   "source": null
  },
+ "22984c43c640": {
+  "checked_at": "2026-11-12",
+  "closed": "平日（土日祝限定営業）",
+  "hours": "11:00–15:30（L.O.15:00）",
+  "note": "",
+  "source": "https://tabizine.jp/article/682694/"
+ },
  "25b4b07d6da7": {
   "checked_at": "2026-10-31",
   "closed": null,
@@ -173,6 +187,13 @@
   "hours": "完全入替制 11:15–21:15（75分制、6回入替、LOは各回終了30分前）",
   "note": "予約制、電話問い合わせ不可",
   "source": "https://prtimes.jp/main/html/rd/p/000000619.000023331.html"
+ },
+ "292ab53b2bff": {
+  "checked_at": "2026-11-12",
+  "closed": null,
+  "hours": "11:00–20:00（店内飲食L.O.19:00）",
+  "note": "2026年4月1日はソフトオープンのため店内飲食のみ",
+  "source": "https://prtimes.jp/main/html/rd/p/000002605.000011305.html"
  },
  "2aa3d112d5cf": {
   "checked_at": "2026-11-08",
@@ -194,6 +215,13 @@
   "hours": "11:00–21:00",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html"
+ },
+ "2d421d9295fc": {
+  "checked_at": "2026-11-12",
+  "closed": null,
+  "hours": null,
+  "note": "公式に営業時間の記載を確認できず",
+  "source": null
  },
  "2e355e36c6e6": {
   "checked_at": "2026-11-02",
@@ -236,6 +264,13 @@
   "hours": "ベーカリー 月〜土 7:00–22:00・日祝7:00–21:00 / Bar&Grill 月〜土17:00–22:00・日祝17:00–21:00",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000262.000044858.html"
+ },
+ "34a5a191981c": {
+  "checked_at": "2026-11-12",
+  "closed": "不定休",
+  "hours": "11:00–19:00（ランチ11:00–14:00、14:00以降カフェ・アラカルト。L.O.フード18:00／ドリンク18:30）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000030.000068009.html"
  },
  "34d825ff3802": {
   "checked_at": "2026-11-04",
@@ -699,6 +734,13 @@
   "note": "",
   "source": "https://www.tullys.co.jp/company/pressrelease/2026/08/2026_pf_shinjuku.html"
  },
+ "7a8072804a7a": {
+  "checked_at": "2026-11-12",
+  "closed": null,
+  "hours": "11:00–23:00（コラボメニューL.O.22:00）",
+  "note": "通常営業は東急プラザ原宿ハラカドの営業時間に準ずる",
+  "source": "https://bestcalendar.jp/press/161683"
+ },
  "7e34688a831f": {
   "checked_at": "2026-11-05",
   "closed": null,
@@ -748,6 +790,13 @@
   "note": "営業時間の記載なし。定休日は年末年始のみ公式ブログに明記",
   "source": "https://www.nanasgreentea.com/blogs/news/20260804"
  },
+ "8864596dd7e2": {
+  "checked_at": "2026-11-12",
+  "closed": null,
+  "hours": "平日11:00–22:00 / 土日祝10:00–22:00",
+  "note": "あっとほぉーむカフェAKIBAカルチャーズZONE店の通常営業時間（コラボ期間の記載はプレスリリースになし）",
+  "source": "https://www.timeout.jp/tokyo/ja/レストラン/athomecafe-akibacultureszoneten"
+ },
  "8a7f92fabeac": {
   "checked_at": "2026-11-05",
   "closed": null,
@@ -783,12 +832,33 @@
   "note": "",
   "source": "http://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/"
  },
+ "8fa3bde08991": {
+  "checked_at": "2026-11-12",
+  "closed": "施設に準ずる",
+  "hours": "10:00–21:00（L.O.20:00）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000323.000012385.html"
+ },
  "92a2830925b1": {
   "checked_at": "2026-10-31",
   "closed": null,
   "hours": null,
   "note": "開店前(10月下旬オープン予定)。公式サイト・東京ソラマチ発表に営業時間記載なし",
   "source": null
+ },
+ "94d915d5b6d3": {
+  "checked_at": "2026-11-12",
+  "closed": "月曜",
+  "hours": "平日11:30–20:00 / 土日11:30–23:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000005.000164042.html"
+ },
+ "95fc4a014b33": {
+  "checked_at": "2026-11-12",
+  "closed": null,
+  "hours": "10:00–23:00（全日）",
+  "note": "",
+  "source": "https://stories.starbucks.co.jp/press/2026/pr2026-0217/"
  },
  "9a25ccc58a3e": {
   "checked_at": "2026-11-07",
@@ -867,6 +937,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000078.000028845.html"
  },
+ "a6fb8f213afb": {
+  "checked_at": "2026-11-12",
+  "closed": null,
+  "hours": "8:00–20:00",
+  "note": "建物全体の営業時間。1階カフェ単独の時間表記なし",
+  "source": "https://prtimes.jp/main/html/rd/p/000000001.000176749.html"
+ },
  "a7d83ce2073b": {
   "checked_at": "2026-11-04",
   "closed": null,
@@ -943,6 +1020,13 @@
   "hours": "Cafeタイム14:00–18:00 / Barタイム19:00–23:00（15歳未満不可）",
   "note": "貸切タイム(5枠制)あり。営業日は一般入店・貸切それぞれ特定日のみ",
   "source": "https://prtimes.jp/main/html/rd/p/000003900.000013972.html"
+ },
+ "b80ec7b7e503": {
+  "checked_at": "2026-11-12",
+  "closed": "無休",
+  "hours": "8:00–20:00（金・土・祝前日は21:00まで）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000386.000011586.html"
  },
  "b8b63f34eae9": {
   "checked_at": "2026-11-09",
@@ -1105,6 +1189,13 @@
   "note": "",
   "source": "https://collabo-cafe.com/events/collabo/kawa-ii-uso-cafe-ro-star-odaiba-2026/"
  },
+ "d88654f63004": {
+  "checked_at": "2026-11-12",
+  "closed": null,
+  "hours": "11:00–23:00",
+  "note": "開店前告知時点の情報。定休日の記載なし",
+  "source": "https://bestcalendar.jp/press/161965"
+ },
  "d9178326e07a": {
   "checked_at": "2026-11-04",
   "closed": null,
@@ -1132,6 +1223,13 @@
   "hours": null,
   "note": "アニメイトカフェスタンド池袋4号店の現行営業時間が確認できず",
   "source": null
+ },
+ "dfcf120c3df5": {
+  "checked_at": "2026-11-12",
+  "closed": null,
+  "hours": "8:00–21:00",
+  "note": "",
+  "source": "https://stories.starbucks.co.jp/press/2026/pr2026-0310-02/"
  },
  "e15b2fdb8e40": {
   "checked_at": "2026-11-04",
@@ -1258,5 +1356,12 @@
   "hours": "10:00–20:00（施設に準ずる）",
   "note": "伊勢丹新宿店本館地下1階の洋菓子エリア。売場個別の営業時間は未公開のため本館の営業時間を記載",
   "source": "https://www.mistore.jp/store/shinjuku/access.html"
+ },
+ "fffae75c5c08": {
+  "checked_at": "2026-11-12",
+  "closed": "不定休",
+  "hours": "10:00–15:30（L.O.14:00）/ 16:00–23:00（L.O.22:00）",
+  "note": "",
+  "source": "https://www.atpress.ne.jp/news/587671"
  }
 }

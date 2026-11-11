@@ -8838,5 +8838,96 @@
   "summary": "大丸東京店1階イベントスペースで開催のSNOWSポップアップストア。新商品「スノーボールくろくろ」(生トリュフチョコ、9個入1,890円)を関東エリアで同店限定発売。定番のスノーサンドも販売。",
   "collected_at": "2026-11-11",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "コーヒー",
+   "コラボカフェ"
+  ],
+  "name": "LATTEST OMOTESANDO（Her lip to BEAUTY×Café de Herme コラボドリンク）",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前3丁目5-2",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-10",
+   "end": "2026-11-30"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://netshop.impress.co.jp/r/prtimes/items/000000195.000074953"
+  ],
+  "summary": "小嶋陽菜プロデュースのビューティブランド「Her lip to BEAUTY」が表参道のエスプレッソバーLATTESTで期間限定カフェイベントを開催。Café de Hermeと共同開発したコラボドリンクを提供する。",
+  "collected_at": "2026-11-12",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "あまおうスイーツフェア（ホテルニューオータニ東京）",
+  "area": "紀尾井町",
+  "address": "東京都千代田区紀尾井町4-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-12-01",
+   "end": "2027-03-31"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000004024.000014571.html"
+  ],
+  "summary": "ホテルニューオータニ（東京）で、博多あまおうを使ったケーキやガーデンラウンジでのビュッフェ・アフタヌーンティーが楽しめる『あまおうスイーツフェア』を開催。入荷状況により期間変更の可能性あり。",
+  "collected_at": "2026-11-12",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "リラックマ コラボカフェ（R.O.STAR Seaside Terrace）",
+  "area": "お台場",
+  "address": "東京都港区台場1-7-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-25",
+   "end": "2026-12-25"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.bondish.co.jp/post/charactercafe-rilakkuma"
+  ],
+  "summary": "アクアシティお台場5階のR.O.STAR Seaside Terraceで、リラックマ・コリラックマ・キイロイトリ・チャイロイコグマをイメージしたフード・ドリンクを提供するコラボカフェを開催。有料・75分入替制、予約優先。",
+  "collected_at": "2026-11-12",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "「ディズニー ツイステッドワンダーランド」OH MY CAFE（表参道ヒルズ）",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前4-12-10",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-24",
+   "end": "2026-11-15"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://san-tatsu.jp/pressrelease/556208/"
+  ],
+  "summary": "ゲーム『ディズニー ツイステッドワンダーランド』のゲーム内イベント「マスターシェフ」をテーマにしたコラボカフェ。各寮カラーにアレンジしたオープンサンド等のメニューとオリジナルグッズを提供。",
+  "collected_at": "2026-11-12",
+  "id": ""
  }
 ]
