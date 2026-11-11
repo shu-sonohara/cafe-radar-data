@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11",
+ "updated_at": "2026-11-12",
  "items": [
   {
    "type": "new_cafe",
@@ -1106,31 +1106,6 @@
   {
    "type": "new_cafe",
    "genre": [
-    "スイーツ"
-   ],
-   "name": "ペンギンベーカリー麻布十番店",
-   "area": "麻布十番",
-   "address": "東京都港区麻布十番2-5-9 ライオンズマンション麻布十番104",
-   "lat": 35.656288,
-   "lng": 139.733521,
-   "period": {
-    "start": "2025-11-11",
-    "end": null
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000086.000102430.html"
-   ],
-   "summary": "北海道発の人気ベーカリー「ペンギンベーカリー」が港区に初出店。麻布十番商店街にオープンし、スイーツ展開も行う。",
-   "collected_at": "2026-08-22",
-   "id": "971d987e109e",
-   "is_new": false,
-   "freshness": 365,
-   "hours": null
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
     "カフェ",
     "コーヒー",
     "スイーツ"
@@ -1152,7 +1127,7 @@
    "collected_at": "2026-08-22",
    "id": "301bdb7c8708",
    "is_new": false,
-   "freshness": 180,
+   "freshness": 365,
    "hours": null
   },
   {
@@ -2008,8 +1983,8 @@
    "summary": "天然酵母パン×自家焙煎コーヒーのベーカリーカフェ「B²」の新業態「BREAD & BEAN by B²」が、JR中央線「西荻高架下」第3期エリアに2026年8月13日グランドオープン。西荻窪初出店。",
    "collected_at": "2026-10-31",
    "id": "d3e97ced9e37",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": "10:00–19:00",
     "closed": "なし（年末年始を除く）",
