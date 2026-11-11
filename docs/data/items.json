@@ -89,7 +89,12 @@
    "id": "778ca7ad5bdc",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "8:00–18:00（L.O.17:30）",
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": "https://gourmetpress.net/1469848/"
+   }
   },
   {
    "type": "new_cafe",
@@ -115,7 +120,12 @@
    "id": "3c3c30267fbb",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "10:15–21:45（L.O.21:15）",
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": "https://www.tokyo-skytree.jp/press/post/704/"
+   }
   },
   {
    "type": "new_cafe",
@@ -140,7 +150,12 @@
    "id": "19bbdd268277",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:00–24:00（L.O.23:00、テラス席22:00まで）",
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": "https://prtimes.jp/main/html/rd/p/000000433.000025087.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -166,7 +181,12 @@
    "id": "020469e8c280",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "10:00–22:00",
+    "closed": "不定休",
+    "checked_at": "2026-11-11",
+    "source": "https://prtimes.jp/main/html/rd/p/000000005.000174669.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -225,7 +245,12 @@
    "id": "ae9a3357c619",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -253,7 +278,12 @@
    "id": "fd726a5ca63b",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "10:00–20:00（施設に準ずる）",
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": "https://www.mistore.jp/store/shinjuku/access.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -278,7 +308,12 @@
    "id": "e93b8aa28a9c",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "7:00–21:00",
+    "closed": "不定休",
+    "checked_at": "2026-11-11",
+    "source": "https://www.atpress.ne.jp/news/617004"
+   }
   },
   {
    "type": "new_cafe",
@@ -303,7 +338,12 @@
    "id": "060b80772672",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "24時間営業",
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": "https://www.atpress.ne.jp/news/581681"
+   }
   },
   {
    "type": "new_cafe",
@@ -328,7 +368,12 @@
    "id": "758d619a32ac",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "6:00–翌2:00",
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": "https://prtimes.jp/main/html/rd/p/000000943.000045400.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -354,7 +399,12 @@
    "id": "e6d350e5b01a",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "7:00–19:00",
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": "https://www.doutor.co.jp/news/newsrelease/detail/20260317111523.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -380,7 +430,12 @@
    "id": "b44fdd0e7c6e",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "9:00–21:00（L.O.20:30）",
+    "closed": "施設に準ずる",
+    "checked_at": "2026-11-11",
+    "source": "https://prtimes.jp/main/html/rd/p/000000300.000037579.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1763,7 +1818,12 @@
    "id": "318d38c584ca",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "7:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": "https://stories.starbucks.co.jp/press/2026/pr-2026-0324/"
+   }
   },
   {
    "type": "new_cafe",
@@ -1789,7 +1849,12 @@
    "id": "46a1567fbdcf",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": "https://www.ryutsuu.biz/store/r111473.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1817,7 +1882,12 @@
    "id": "4aa6df2f8fc2",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "11:00–19:00（L.O.18:00）",
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": "https://precious.jp/articles/-/59508"
+   }
   },
   {
    "type": "new_cafe",
@@ -3255,10 +3325,11 @@
     "https://prtimes.jp/main/html/rd/p/000000325.000067976.html",
     "https://airline.ikaros.jp/news/60001/",
     "https://www.aviationwire.jp/archives/350247",
-    "https://bestcalendar.jp/press/150450"
+    "https://bestcalendar.jp/press/150450",
+    "https://www.aviationwire.jp/?p=350247"
    ],
    "summary": "東京ばな奈ブランド初のカフェスタンドが羽田空港第1ターミナル出発ゲートラウンジ（北）16番ゲート前にオープン。限定「東京ばな奈ソフトクリーム ばな奈ミルク味」（500円）や、注文後にその場で作る「東京ばな奈バー チョコバナナ風」（550円）などを販売。",
-   "collected_at": "2026-10-24",
+   "collected_at": "2026-11-11",
    "id": "5e0b02b0b226",
    "is_new": true,
    "freshness": 90,
@@ -4420,10 +4491,11 @@
    },
    "confidence": "media",
    "sources": [
-    "https://www.wwdjapan.com/?p=2530114"
+    "https://www.wwdjapan.com/?p=2530114",
+    "https://www.fashionsnap.com/article/2026-11-02/yolu-collaboration-cafe/"
    ],
    "summary": "ナイトケアブランド「YOLU」が表参道のモスカ バイ ジンジャーガーデンとコラボし、期間限定の予約制夜カフェを開催。限定パフェ「ヨル メロウナイト パフェ」やコラボモクテル、ヘアマスクつき特別メニューを提供。",
-   "collected_at": "2026-10-22",
+   "collected_at": "2026-11-11",
    "id": "b6251a16b89c",
    "is_new": false,
    "freshness": null,
@@ -5367,6 +5439,58 @@
   {
    "type": "new_cafe",
    "genre": [
+    "カフェ",
+    "ベーカリー"
+   ],
+   "name": "CAFE & BAKERY MIYABI 多摩センター店",
+   "area": "多摩センター",
+   "address": "東京都多摩市落合1丁目45-1 多摩センター丘の上パティオ1階",
+   "lat": 35.62289,
+   "lng": 139.426361,
+   "period": {
+    "start": "2026-11-10",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000386.000011586.html"
+   ],
+   "summary": "京都祇園発の高級デニッシュ食パン「MIYABI」のカフェ&ベーカリーが多摩センター駅前の丘の上パティオ1階にオープン。トーストやクレープ、ソフトクリーム、カフェご飯を提供。営業時間8:00〜20:00(金土祝前日21:00まで)。",
+   "collected_at": "2026-11-11",
+   "id": "b80ec7b7e503",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "ベーカリー",
+    "カフェ"
+   ],
+   "name": "Bistro IKEDAYAMA",
+   "area": "五反田",
+   "address": "東京都品川区東五反田1-11-15 電波ビル1F",
+   "lat": 35.627575,
+   "lng": 139.72522,
+   "period": {
+    "start": "2026-11-28",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://bestcalendar.jp/press/161965"
+   ],
+   "summary": "五反田のベーカリーカフェ「Bread&Coffee IKEDAYAMA」が新業態として五反田にオープン。朝〜夕方は焼き立てパンと自家焙煎コーヒーのベーカリーカフェ、夜はパンを添えた料理とワインのビストロとして営業。",
+   "collected_at": "2026-11-11",
+   "id": "d88654f63004",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
     "ベーカリー",
     "カフェ"
    ],
@@ -5867,7 +5991,8 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000001229.000012048.html"
+    "https://prtimes.jp/main/html/rd/p/000001229.000012048.html",
+    "https://www.oricon.co.jp/pressrelease/3006804/"
    ],
    "summary": "『Toxic-a-Holic』のコラボカフェ。カフェ店員衣装の描き下ろしイラストやメイド・執事衣装のグッズとともに、全8種のフード＆ドリンクメニューを提供。",
    "collected_at": "2026-10-03",
@@ -6271,8 +6396,65 @@
     "https://aumo.jp/articles/5614489"
    ],
    "summary": "東武百貨店池袋店8階屋上「スカイデッキ広場」で開催するクリスマスマーケット（11/7〜12/25）。フード＆ドリンクブース6店（スイーツブース含む）、BBQプランやスモア作り体験あり、予約不要。",
-   "collected_at": "2026-11-10",
+   "collected_at": "2026-11-11",
    "id": "d564187b1583",
+   "is_new": false,
+   "freshness": null,
+   "hours": {
+    "text": "11:00–21:00（フードL.O.20:00・ドリンクL.O.20:30）",
+    "closed": null,
+    "checked_at": "2026-11-11",
+    "source": "https://aumo.jp/articles/5614489"
+   }
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "コラボカフェ",
+    "カフェ"
+   ],
+   "name": "『夢色パティシエール』×あっとほぉーむカフェ",
+   "area": "秋葉原",
+   "address": "東京都千代田区外神田1-7-6 AKIBAカルチャーズZONE 5階",
+   "lat": 35.699642,
+   "lng": 139.770294,
+   "period": {
+    "start": "2026-11-20",
+    "end": "2026-12-25"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://bestcalendar.jp/press/162722"
+   ],
+   "summary": "「夢色パティシエール」とあっとほぉーむカフェ秋葉原店のコラボカフェ。フードまたはデザート注文でステッカー、ドリンク注文でコースターが1枚ずつ付く(全4種ランダム)。",
+   "collected_at": "2026-11-11",
+   "id": "8864596dd7e2",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "コラボカフェ",
+    "カフェ"
+   ],
+   "name": "TVアニメ『らんま1/2』アイスクリームカフェ",
+   "area": "原宿",
+   "address": "東京都渋谷区神宮前6-31-21 東急プラザ原宿「ハラカド」6F 洒落CAFE",
+   "lat": 35.668522,
+   "lng": 139.704971,
+   "period": {
+    "start": "2026-11-21",
+    "end": "2026-12-06"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://bestcalendar.jp/press/161683"
+   ],
+   "summary": "TVアニメ「らんま1/2」のアイスクリームテーマのコラボカフェが東急プラザ原宿「ハラカド」の洒落CAFEで開催。営業時間11:00〜23:00(コラボメニューL.O.22:00)。",
+   "collected_at": "2026-11-11",
+   "id": "7a8072804a7a",
    "is_new": false,
    "freshness": null,
    "hours": null
