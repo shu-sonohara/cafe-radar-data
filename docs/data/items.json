@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12",
+ "updated_at": "2026-11-13",
  "items": [
   {
    "type": "new_cafe",
@@ -930,7 +930,12 @@
    "id": "419b21122320",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "8:00–19:00",
+    "closed": "不定休",
+    "checked_at": "2026-11-13",
+    "source": "https://www.fashion-press.net/news/142442"
+   }
   },
   {
    "type": "new_cafe",
@@ -956,7 +961,12 @@
    "id": "ac85fd16401c",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "平日 7:00–21:00 / 土日祝 8:00–18:00",
+    "closed": null,
+    "checked_at": "2026-11-13",
+    "source": "https://prtimes.jp/main/html/rd/p/000002269.000002734.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -983,7 +993,12 @@
    "id": "5b9f9e70e49a",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-13",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -1010,7 +1025,12 @@
    "id": "5f1f0560b739",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-13",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -1036,7 +1056,12 @@
    "id": "994758521d18",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-13",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -1062,7 +1087,12 @@
    "id": "c6ea1be2ab8e",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "スタンド 11:00–20:00 / カフェ 11:00–22:00（L.O.21:00）",
+    "closed": null,
+    "checked_at": "2026-11-13",
+    "source": "https://prtimes.jp/main/html/rd/p/000002570.000011498.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1156,7 +1186,12 @@
    "id": "9c43ee45ca49",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00（当日分のパンが無くなり次第終了）",
+    "closed": "無休",
+    "checked_at": "2026-11-13",
+    "source": "https://prtimes.jp/main/html/rd/p/000000091.000102430.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1183,7 +1218,12 @@
    "id": "301bdb7c8708",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:00–18:00",
+    "closed": "月曜・火曜",
+    "checked_at": "2026-11-13",
+    "source": "https://prtimes.jp/main/html/rd/p/000000002.000183784.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1208,7 +1248,12 @@
    "id": "8c197d933bfd",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "平日 8:00–18:00 / 土日祝 9:00–17:00",
+    "closed": "年末年始",
+    "checked_at": "2026-11-13",
+    "source": "https://prtimes.jp/main/html/rd/p/000000158.000028731.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1234,7 +1279,12 @@
    "id": "cb82f50009e6",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "11:00–22:00（L.O.21:00）",
+    "closed": null,
+    "checked_at": "2026-11-13",
+    "source": "https://news.mynavi.jp/article/20260616-4585947/"
+   }
   },
   {
    "type": "new_cafe",
@@ -1259,7 +1309,12 @@
    "id": "f3d334780582",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "平日・土曜 8:00–21:00 / 日祝 9:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-13",
+    "source": "https://www.atpress.ne.jp/news/591385"
+   }
   },
   {
    "type": "new_cafe",
@@ -1284,7 +1339,12 @@
    "id": "db5f33bc07fe",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:00–19:00",
+    "closed": "水曜",
+    "checked_at": "2026-11-13",
+    "source": "https://prtimes.jp/main/html/rd/p/000000016.000139902.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1309,7 +1369,12 @@
    "id": "216676ba20ae",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "8:30–17:30",
+    "closed": "火曜",
+    "checked_at": "2026-11-13",
+    "source": "https://prtimes.jp/main/html/rd/p/000000041.000080397.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -3202,8 +3267,8 @@
    "summary": "釜山発のスペシャルティコーヒーブランドJM COFFEEが海外初の旗艦店を有楽町イトシアにオープン。2種類のコーヒー体験が楽しめる。",
    "collected_at": "2026-09-18",
    "id": "c46979d7e49d",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": "テイクアウト8:00–21:30／店内9:00–21:30（L.O.21:00）",
     "closed": "無休",
@@ -3327,8 +3392,8 @@
    "summary": "釜山発のスペシャルティコーヒーブランド「JM COFFEE」が海外初の旗艦店を有楽町イトシアにオープン。2種類のコーヒー体験を提供。",
    "collected_at": "2026-09-13",
    "id": "7e34688a831f",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": "EXPRESS LINE（テイクアウト）7:30–21:00 / EXPERIENCE LINE（店内）10:00–21:30（L.O.21:00）",
     "closed": null,
@@ -4193,38 +4258,6 @@
     "closed": null,
     "checked_at": "2026-11-01",
     "source": null
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "まめゴマ×MILK MILK MILK!",
-   "area": "原宿",
-   "address": "東京都渋谷区神宮前1-11-6 ラフォーレ原宿2F",
-   "lat": 35.668907,
-   "lng": 139.705551,
-   "period": {
-    "start": "2026-10-16",
-    "end": "2026-11-12"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.inside-games.jp/release/prtimes/20261008/311482.html"
-   ],
-   "summary": "サンエックスのキャラクター「まめゴマ」初のコラボカフェ。ラフォーレ原宿2階の「MILK MILK MILK!」にて開催。ミルクボトルやソーダ等の限定メニュー、オリジナルグッズを提供。",
-   "collected_at": "2026-10-11",
-   "id": "431b35cd7e9a",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "11:00–20:00（グッズ購入含めL.O.19:30）",
-    "closed": null,
-    "checked_at": "2026-11-05",
-    "source": "https://www.inside-games.jp/release/prtimes/20261008/311482.html"
    }
   },
   {
@@ -5555,6 +5588,37 @@
    "id": "b9e412e59479",
    "is_new": false,
    "freshness": null,
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-13",
+    "source": null
+   }
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "BANANA FISH Cafe and Bar - What they see -",
+   "area": "新宿",
+   "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階 BOX cafe&space ルミネエスト新宿2号店",
+   "lat": 35.691784,
+   "lng": 139.700775,
+   "period": {
+    "start": "2026-11-26",
+    "end": "2027-01-17"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000337.000086964.html"
+   ],
+   "summary": "TVアニメ『BANANA FISH』のテーマカフェ。ルミネエスト新宿のBOX cafe&space内で期間限定開催。フードとスープのワンプレートやドーナツ、ドリンクなどのカフェメニューを提供、テイクアウトメニューもある。",
+   "collected_at": "2026-11-13",
+   "id": "498efc7a63e1",
+   "is_new": false,
+   "freshness": null,
    "hours": null
   },
   {
@@ -6559,6 +6623,37 @@
    "summary": "ヒルトン東京お台場3階Captain's Bar&Loungeで、もみの木やトナカイをモチーフにした冬限定のアフタヌーンティーを提供。スコーン・サンドイッチ食べ放題付き。",
    "collected_at": "2026-11-12",
    "id": "b3621959d0e3",
+   "is_new": false,
+   "freshness": null,
+   "hours": {
+    "text": "12:00–14:00 / 12:30–14:30 / 14:30–16:30 / 15:00–17:00（2時間制）",
+    "closed": null,
+    "checked_at": "2026-11-13",
+    "source": "https://bestcalendar.jp/press/159925"
+   }
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ",
+    "コラボカフェ"
+   ],
+   "name": "ル・フィーユ×ジャージーモウモウ 冬スイーツ催事",
+   "area": "東京駅・丸の内",
+   "address": "東京都千代田区丸の内1-9-1 大丸東京店1階 ほっぺタウン",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-11-11",
+    "end": "2026-11-17"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://bestcalendar.jp/press/163673"
+   ],
+   "summary": "大丸東京店1階ほっぺタウンで、ミルフィーユ専門店「ル・フィーユ」の「ドゥーブルショコラミルフィーユ」と、ジャージーミルクスイーツ「ジャージーモウモウ」の「ミルクティラミス」を期間限定販売。",
+   "collected_at": "2026-11-13",
+   "id": "ce0095d4e089",
    "is_new": false,
    "freshness": null,
    "hours": null
