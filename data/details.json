@@ -167,6 +167,13 @@
   "note": "コインランドリーは24時間営業だが、カフェ部分単独の営業時間は公式発表に記載なし",
   "source": null
  },
+ "216676ba20ae": {
+  "checked_at": "2026-11-13",
+  "closed": "火曜",
+  "hours": "8:30–17:30",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000041.000080397.html"
+ },
  "22984c43c640": {
   "checked_at": "2026-11-12",
   "closed": "平日（土日祝限定営業）",
@@ -236,6 +243,13 @@
   "hours": "月〜金 7:30–22:00 / 土 8:00–22:00 / 日・祝 8:00–21:00",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000122.000019914.html"
+ },
+ "301bdb7c8708": {
+  "checked_at": "2026-11-13",
+  "closed": "月曜・火曜",
+  "hours": "10:00–18:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000002.000183784.html"
  },
  "302f790bdf43": {
   "checked_at": "2026-11-09",
@@ -355,6 +369,13 @@
   "hours": null,
   "note": "公式に個別営業時間の記載なし",
   "source": null
+ },
+ "419b21122320": {
+  "checked_at": "2026-11-13",
+  "closed": "不定休",
+  "hours": "8:00–19:00",
+  "note": "",
+  "source": "https://www.fashion-press.net/news/142442"
  },
  "42aa35861914": {
   "checked_at": "2026-11-04",
@@ -531,6 +552,13 @@
   "note": "公式情報に営業時間の記載見つからず",
   "source": null
  },
+ "5b9f9e70e49a": {
+  "checked_at": "2026-11-13",
+  "closed": null,
+  "hours": null,
+  "note": "公式情報が見つからず。クラウドファンディング関連記事のみで営業時間記載なし",
+  "source": null
+ },
  "5c3cb72f4691": {
   "checked_at": "2026-10-31",
   "closed": null,
@@ -558,6 +586,13 @@
   "hours": "9:00–20:00（月〜金）/ 8:00–20:00（土・日）",
   "note": "",
   "source": "https://madamefigaro.jp/beauty/261105-kiiks/"
+ },
+ "5f1f0560b739": {
+  "checked_at": "2026-11-13",
+  "closed": null,
+  "hours": null,
+  "note": "開店8:00・月曜定休との記載はあるが閉店時間が媒体により不定で確定できず。公式SNSで要確認",
+  "source": null
  },
  "60d00dd71f84": {
   "checked_at": "2026-11-09",
@@ -804,6 +839,13 @@
   "note": "会場（reload ENTRANCE HALL）の開催時間を記載",
   "source": "https://prtimes.jp/main/html/rd/p/000000231.000048770.html"
  },
+ "8c197d933bfd": {
+  "checked_at": "2026-11-13",
+  "closed": "年末年始",
+  "hours": "平日 8:00–18:00 / 土日祝 9:00–17:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000158.000028731.html"
+ },
  "8ccf1de144b5": {
   "checked_at": "2026-11-02",
   "closed": "1/1〜1/3",
@@ -860,6 +902,13 @@
   "note": "",
   "source": "https://stories.starbucks.co.jp/press/2026/pr2026-0217/"
  },
+ "994758521d18": {
+  "checked_at": "2026-11-13",
+  "closed": null,
+  "hours": null,
+  "note": "物販専門ブティック業態。新丸ビル店固有の営業時間が見つからず（銀座店は11–21時だが業態が異なる）",
+  "source": null
+ },
  "9a25ccc58a3e": {
   "checked_at": "2026-11-07",
   "closed": null,
@@ -873,6 +922,13 @@
   "hours": "皇居東御苑の開園時間に準ずる（10月:9:00–16:30/11月–2月:9:00–16:00、入苑は閉園30分前まで）L.O.は閉店30分前",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html"
+ },
+ "9c43ee45ca49": {
+  "checked_at": "2026-11-13",
+  "closed": "無休",
+  "hours": "10:00–21:00（当日分のパンが無くなり次第終了）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000091.000102430.html"
  },
  "9c73490f2168": {
   "checked_at": "2026-10-31",
@@ -958,6 +1014,13 @@
   "note": "プレスリリースに記載なし。公式サイト(ellecafe.jp)は取材時点で未公開",
   "source": null
  },
+ "ac85fd16401c": {
+  "checked_at": "2026-11-13",
+  "closed": null,
+  "hours": "平日 7:00–21:00 / 土日祝 8:00–18:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000002269.000002734.html"
+ },
  "ae9a3357c619": {
   "checked_at": "2026-11-11",
   "closed": null,
@@ -1000,6 +1063,13 @@
   "note": "公式に営業時間の記載なし",
   "source": null
  },
+ "b3621959d0e3": {
+  "checked_at": "2026-11-13",
+  "closed": null,
+  "hours": "12:00–14:00 / 12:30–14:30 / 14:30–16:30 / 15:00–17:00（2時間制）",
+  "note": "完全予約制・入替制アフタヌーンティー",
+  "source": "https://bestcalendar.jp/press/159925"
+ },
  "b44fdd0e7c6e": {
   "checked_at": "2026-11-11",
   "closed": "施設に準ずる",
@@ -1034,6 +1104,13 @@
   "hours": "9:00–18:30（L.O.18:00）/ 金・土 9:00–22:30（L.O.22:00）",
   "note": "",
   "source": "https://www.ufu-sweets.jp/cafe/260828_moo/"
+ },
+ "b9e412e59479": {
+  "checked_at": "2026-11-13",
+  "closed": null,
+  "hours": null,
+  "note": "提供時間の記載なし。公式サイト https://www.newotani.co.jp/group/strawberry/ で要確認",
+  "source": null
  },
  "bab5a79edbdf": {
   "checked_at": "2026-11-01",
@@ -1105,12 +1182,26 @@
   "note": "公式施設ページ(itocia.jp)は404のため媒体記事で代替確認",
   "source": "https://baila.hpplus.jp/blogs/kawamura_haruka/84031"
  },
+ "c6ea1be2ab8e": {
+  "checked_at": "2026-11-13",
+  "closed": null,
+  "hours": "スタンド 11:00–20:00 / カフェ 11:00–22:00（L.O.21:00）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000002570.000011498.html"
+ },
  "ca48666cdd93": {
   "checked_at": "2026-10-31",
   "closed": null,
   "hours": null,
   "note": "開店前(11/6グランドオープン)。「朝8時オープン」の記載のみで閉店時刻・定休日は未発表",
   "source": null
+ },
+ "cb82f50009e6": {
+  "checked_at": "2026-11-13",
+  "closed": null,
+  "hours": "11:00–22:00（L.O.21:00）",
+  "note": "施設の営業時間に準ずる",
+  "source": "https://news.mynavi.jp/article/20260616-4585947/"
  },
  "cbaae22cf6e4": {
   "checked_at": "2026-11-03",
@@ -1209,6 +1300,13 @@
   "hours": null,
   "note": "公式情報で営業時間の記載を確認できず（TableCheck等に記載なし）",
   "source": null
+ },
+ "db5f33bc07fe": {
+  "checked_at": "2026-11-13",
+  "closed": "水曜",
+  "hours": "10:00–19:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000016.000139902.html"
  },
  "dd5cae1d34be": {
   "checked_at": "2026-11-01",
@@ -1314,6 +1412,13 @@
   "hours": "10:00–21:00（パン売り切れ次第終了）",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000108.000102430.html"
+ },
+ "f3d334780582": {
+  "checked_at": "2026-11-13",
+  "closed": null,
+  "hours": "平日・土曜 8:00–21:00 / 日祝 9:00–21:00",
+  "note": "",
+  "source": "https://www.atpress.ne.jp/news/591385"
  },
  "f442a27ce8d5": {
   "checked_at": "2026-11-02",

@@ -8929,5 +8929,28 @@
   "summary": "ゲーム『ディズニー ツイステッドワンダーランド』のゲーム内イベント「マスターシェフ」をテーマにしたコラボカフェ。各寮カラーにアレンジしたオープンサンド等のメニューとオリジナルグッズを提供。",
   "collected_at": "2026-11-12",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "BANANA FISH Cafe and Bar - What they see -",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階 BOX cafe&space ルミネエスト新宿2号店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-26",
+   "end": "2027-01-17"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000337.000086964.html"
+  ],
+  "summary": "TVアニメ『BANANA FISH』のテーマカフェ。ルミネエスト新宿のBOX cafe&space内で期間限定開催。フードとスープのワンプレートやドーナツ、ドリンクなどのカフェメニューを提供、テイクアウトメニューもある。",
+  "collected_at": "2026-11-13",
+  "id": ""
  }
 ]
