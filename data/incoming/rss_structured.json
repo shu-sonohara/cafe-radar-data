@@ -8952,5 +8952,28 @@
   "summary": "TVアニメ『BANANA FISH』のテーマカフェ。ルミネエスト新宿のBOX cafe&space内で期間限定開催。フードとスープのワンプレートやドーナツ、ドリンクなどのカフェメニューを提供、テイクアウトメニューもある。",
   "collected_at": "2026-11-13",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "東京シティビュー カフェスタンド",
+  "area": "六本木",
+  "address": "東京都港区六本木6-10-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-13",
+   "end": "2026-12-25"
+  },
+  "confidence": "official",
+  "sources": [
+   "https://art-view.roppongihills.com/jp/cafe-restaurant/news/2026/11/9147/",
+   "https://tcv.roppongihills.com/jp/"
+  ],
+  "summary": "六本木ヒルズ森タワー52階・東京シティビュー スカイギャラリー3に期間限定カフェスタンドがオープン（運営：ソルト・コンソーシアム株式会社）。クリスマス限定ドリンク「サンタの贈り物 ストロベリー&抹茶オレ」「クリスマスインアレッド」（各820円）、12月1日〜31日限定「ホリデーマカロン」（700円）を提供。",
+  "collected_at": "2026-11-14",
+  "id": ""
  }
 ]

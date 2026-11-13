@@ -384,6 +384,13 @@
   "note": "翌月曜が祝休日の場合は日曜も20:00まで営業",
   "source": "https://prtimes.jp/main/html/rd/p/000000005.000189124.html"
  },
+ "42eea6c82b22": {
+  "checked_at": "2026-11-14",
+  "closed": null,
+  "hours": "17:30–23:00（フードL.O.22:00・ドリンクL.O.22:30）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000212.000044858.html"
+ },
  "431b35cd7e9a": {
   "checked_at": "2026-11-05",
   "closed": null,
@@ -405,6 +412,13 @@
   "note": "",
   "source": "https://www.ryutsuu.biz/store/r111473.html"
  },
+ "486e2c9f13a0": {
+  "checked_at": "2026-11-14",
+  "closed": "土曜日・日曜日",
+  "hours": "10:00–17:00（L.O.16:00）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000114.000035358.html"
+ },
  "490044f3a2c9": {
   "checked_at": "2026-11-09",
   "closed": "不定休",
@@ -418,6 +432,13 @@
   "hours": "8:00–22:00（1Fスターバックス）",
   "note": "2F三井住友銀行窓口は平日9:00–15:00等、別途",
   "source": "https://prtimes.jp/main/html/rd/p/000000111.000134306.html"
+ },
+ "498efc7a63e1": {
+  "checked_at": "2026-11-14",
+  "closed": null,
+  "hours": null,
+  "note": "PR TIMESに営業時間の記載なし。公式サイト（bananafish-cafe.ltr-online.com）・公式Xで要確認",
+  "source": null
  },
  "4aa6df2f8fc2": {
   "checked_at": "2026-11-11",
@@ -671,6 +692,13 @@
   "note": "先着予約制。公式サイト(sqex.to→motto-cafe.com)はJS中心のため営業時間未確認",
   "source": null
  },
+ "6c0da5654c92": {
+  "checked_at": "2026-11-14",
+  "closed": "不定休",
+  "hours": "10:00–19:00（L.O.18:30）",
+  "note": "",
+  "source": "https://ampmedia.jp/2026/06/17/peace-put-0618/"
+ },
  "6cfff25429c5": {
   "checked_at": "2026-11-05",
   "closed": null,
@@ -705,6 +733,13 @@
   "hours": null,
   "note": "BOX cafe&space SHIBUYA109渋谷店の現行営業時間が確認できず",
   "source": null
+ },
+ "72bdbfef54c2": {
+  "checked_at": "2026-11-14",
+  "closed": "毎週水曜日",
+  "hours": "9:30–19:00（L.O.18:00）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000030.000129324.html"
  },
  "72c5e27bddb0": {
   "checked_at": "2026-11-04",
@@ -768,6 +803,13 @@
   "hours": "平日 7:00–22:00 / 土日祝 8:00–22:00（オープン日8/7のみ10:00開店）",
   "note": "",
   "source": "https://www.tullys.co.jp/company/pressrelease/2026/08/2026_pf_shinjuku.html"
+ },
+ "7a25886d4900": {
+  "checked_at": "2026-11-14",
+  "closed": null,
+  "hours": "BOUL'ANGE 8:00–20:00 / FLIPPER'S 9:00–20:00（L.O.19:00）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000002318.000011498.html"
  },
  "7a8072804a7a": {
   "checked_at": "2026-11-12",
@@ -1224,6 +1266,13 @@
   "note": "公式サイト・プレスリリースに営業時間の記載なし",
   "source": null
  },
+ "ce0095d4e089": {
+  "checked_at": "2026-11-14",
+  "closed": "1月1日・1月2日",
+  "hours": "10:00–20:00（施設に準ずる）",
+  "note": "大丸東京店の全館営業時間（1Fほっぺタウン・イベントスペース個別の時間は非掲載）",
+  "source": "https://www.daimaru.co.jp/tokyo/hours.html"
+ },
  "cfc7a3ee6a1e": {
   "checked_at": "2026-11-09",
   "closed": null,
@@ -1329,6 +1378,13 @@
   "note": "",
   "source": "https://stories.starbucks.co.jp/press/2026/pr2026-0310-02/"
  },
+ "e00171f13300": {
+  "checked_at": "2026-11-14",
+  "closed": null,
+  "hours": "デリゾーン 月〜木・土日祝 9:00–21:00／金 9:00–22:00（豆狸・ほんのり屋のみ7:00開店）、ベーカリーゾーン 月〜木・土日祝 8:00–21:00／金 8:00–22:00",
+  "note": "初日2025/11/18のみ10:00一斉オープン",
+  "source": "https://prtimes.jp/main/html/rd/p/000000945.000082978.html"
+ },
  "e15b2fdb8e40": {
   "checked_at": "2026-11-04",
   "closed": "東京国立博物館の休館日に準ずる",
@@ -1349,6 +1405,13 @@
   "hours": "9:00–20:00（L.O.19:30・変動あり）",
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000061.000071067.html"
+ },
+ "e586a7a6d33a": {
+  "checked_at": "2026-11-14",
+  "closed": null,
+  "hours": null,
+  "note": "記事・施設ページに営業時間の記載なし。公式Instagram（@muun_seoul）で要確認",
+  "source": null
  },
  "e6d350e5b01a": {
   "checked_at": "2026-11-11",
@@ -1413,6 +1476,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000108.000102430.html"
  },
+ "f3469341d916": {
+  "checked_at": "2026-11-14",
+  "closed": "無休",
+  "hours": "7:30–20:00（予定）",
+  "note": "営業時間は変更の場合あり",
+  "source": "https://tetsudo-ch.com/13023221.html"
+ },
  "f3d334780582": {
   "checked_at": "2026-11-13",
   "closed": null,
@@ -1447,6 +1517,13 @@
   "hours": null,
   "note": "事前予約制。特設サイトに営業時間の記載なし",
   "source": null
+ },
+ "f8c75e23519a": {
+  "checked_at": "2026-11-14",
+  "closed": null,
+  "hours": "10:00–20:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000005.000151268.html"
  },
  "fb07f6021250": {
   "checked_at": "2026-11-09",
