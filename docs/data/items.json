@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13",
+ "updated_at": "2026-11-14",
  "items": [
   {
    "type": "new_cafe",
@@ -2481,8 +2481,8 @@
    "summary": "会員登録不要・完全無人型の「セルフカフェ」が早稲田駅前に新店舗「セルフカフェ早稲田店」を2026年8月15日オープン。ドリンク1杯で時間無制限、電源・Wi-Fi完備の50席、朝6時〜深夜0時営業。",
    "collected_at": "2026-08-26",
    "id": "72c5e27bddb0",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": "6:00–24:00",
     "closed": "無休",
