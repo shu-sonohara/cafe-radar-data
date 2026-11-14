@@ -6787,5 +6787,71 @@
   "summary": "北海道発の冬季限定スイーツブランド「SNOWS」が本州初のPOP UP STOREを開催。新商品「スノーボール くろくろ」（生トリュフチョコレート・9個入1,890円）は今季関東エリアでは同店限定販売。",
   "collected_at": "2026-11-14",
   "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "CACIORI 熟成バスクチーズケーキ催事",
+  "area": "日本橋",
+  "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店 本館7階催物会場",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-11",
+   "end": "2026-11-16"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2091304/"
+  ],
+  "summary": "日本橋三越本店に初出店のグルテンフリー熟成バスクチーズケーキ「CACIORI」。1日限定40台販売、冷凍なしの無冷凍熟成タイプ。",
+  "collected_at": "2026-11-15",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "大丸東京店 最旬スイーツ（ル・フィーユ×ジャージーモウモウ）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店1階ほっぺタウン",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-11",
+   "end": "2026-11-17"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/163673"
+  ],
+  "summary": "大丸東京店「最旬スイーツ」企画で〈ル・フィーユ〉のドゥーブルショコラミルフィーユと〈ジャージーモウモウ〉のミルクティラミスを販売。",
+  "collected_at": "2026-11-15",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "SNOWS POP-UP STORE",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店1Fイベントスペース",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-04",
+   "end": "2026-11-17"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://hugkum.sho.jp/823431"
+  ],
+  "summary": "北海道発の冬季限定スイーツブランド「SNOWS」のポップアップ。新商品「スノーボール くろくろ」は大丸東京店限定で1人2個まで。営業時間10:00〜20:00。",
+  "collected_at": "2026-11-15",
+  "id": ""
  }
 ]
