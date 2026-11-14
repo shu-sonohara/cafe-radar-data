@@ -4793,7 +4793,7 @@
     "https://hugkum.sho.jp/823431"
    ],
    "summary": "北海道発・冬季限定スイーツ「SNOWS」の本州初ポップアップ。新作「スノーボールくろくろ」などを販売する。",
-   "collected_at": "2026-11-12",
+   "collected_at": "2026-11-15",
    "id": "534ed112fb95",
    "is_new": false,
    "freshness": null,
@@ -5695,7 +5695,12 @@
    "id": "843d00c4c50a",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:30–22:00（L.O.21:30）",
+    "closed": null,
+    "checked_at": "2026-11-15",
+    "source": "https://art-view.roppongihills.com/jp/cafe-restaurant/news/2026/11/9147/"
+   }
   },
   {
    "type": "new_cafe",
@@ -6738,6 +6743,31 @@
     "checked_at": "2026-11-14",
     "source": "https://www.daimaru.co.jp/tokyo/hours.html"
    }
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "CACIORI 熟成バスクチーズケーキ催事",
+   "area": "日本橋",
+   "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店 本館7階催物会場",
+   "lat": 35.685177,
+   "lng": 139.77298,
+   "period": {
+    "start": "2026-11-11",
+    "end": "2026-11-16"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.enjoytokyo.jp/event/2091304/"
+   ],
+   "summary": "日本橋三越本店に初出店のグルテンフリー熟成バスクチーズケーキ「CACIORI」。1日限定40台販売、冷凍なしの無冷凍熟成タイプ。",
+   "collected_at": "2026-11-15",
+   "id": "b62cdc8771c5",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
   }
  ]
 }
