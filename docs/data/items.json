@@ -1400,7 +1400,12 @@
    "id": "42eea6c82b22",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "17:30–23:00（フードL.O.22:00・ドリンクL.O.22:30）",
+    "closed": null,
+    "checked_at": "2026-11-14",
+    "source": "https://prtimes.jp/main/html/rd/p/000000212.000044858.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1427,7 +1432,12 @@
    "id": "e586a7a6d33a",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-14",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -1454,7 +1464,12 @@
    "id": "7a25886d4900",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "BOUL'ANGE 8:00–20:00 / FLIPPER'S 9:00–20:00（L.O.19:00）",
+    "closed": null,
+    "checked_at": "2026-11-14",
+    "source": "https://prtimes.jp/main/html/rd/p/000002318.000011498.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1481,7 +1496,12 @@
    "id": "6c0da5654c92",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "10:00–19:00（L.O.18:30）",
+    "closed": "不定休",
+    "checked_at": "2026-11-14",
+    "source": "https://ampmedia.jp/2026/06/17/peace-put-0618/"
+   }
   },
   {
    "type": "new_cafe",
@@ -1507,7 +1527,12 @@
    "id": "486e2c9f13a0",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "10:00–17:00（L.O.16:00）",
+    "closed": "土曜日・日曜日",
+    "checked_at": "2026-11-14",
+    "source": "https://prtimes.jp/main/html/rd/p/000000114.000035358.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1534,7 +1559,12 @@
    "id": "f3469341d916",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "7:30–20:00（予定）",
+    "closed": "無休",
+    "checked_at": "2026-11-14",
+    "source": "https://tetsudo-ch.com/13023221.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1560,7 +1590,12 @@
    "id": "f8c75e23519a",
    "is_new": false,
    "freshness": 180,
-   "hours": null
+   "hours": {
+    "text": "10:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-14",
+    "source": "https://prtimes.jp/main/html/rd/p/000000005.000151268.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1586,7 +1621,12 @@
    "id": "72bdbfef54c2",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "9:30–19:00（L.O.18:00）",
+    "closed": "毎週水曜日",
+    "checked_at": "2026-11-14",
+    "source": "https://prtimes.jp/main/html/rd/p/000000030.000129324.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -1611,7 +1651,12 @@
    "id": "e00171f13300",
    "is_new": false,
    "freshness": 365,
-   "hours": null
+   "hours": {
+    "text": "デリゾーン 月〜木・土日祝 9:00–21:00／金 9:00–22:00（豆狸・ほんのり屋のみ7:00開店）、ベーカリーゾーン 月〜木・土日祝 8:00–21:00／金 8:00–22:00",
+    "closed": null,
+    "checked_at": "2026-11-14",
+    "source": "https://prtimes.jp/main/html/rd/p/000000945.000082978.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -5523,7 +5568,7 @@
     "https://bestcalendar.jp/press/164652"
    ],
    "summary": "京都祇園発の高級デニッシュ食パン「MIYABI」のカフェ&ベーカリーが多摩センター駅前の丘の上パティオ1階にオープン。トーストやクレープ、ソフトクリーム、カフェご飯を提供。営業時間8:00〜20:00(金土祝前日21:00まで)。",
-   "collected_at": "2026-11-12",
+   "collected_at": "2026-11-14",
    "id": "b80ec7b7e503",
    "is_new": true,
    "freshness": 30,
@@ -5617,6 +5662,37 @@
    "summary": "TVアニメ『BANANA FISH』のテーマカフェ。ルミネエスト新宿のBOX cafe&space内で期間限定開催。フードとスープのワンプレートやドーナツ、ドリンクなどのカフェメニューを提供、テイクアウトメニューもある。",
    "collected_at": "2026-11-13",
    "id": "498efc7a63e1",
+   "is_new": false,
+   "freshness": null,
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-14",
+    "source": null
+   }
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "東京シティビュー カフェスタンド",
+   "area": "六本木",
+   "address": "東京都港区六本木6-10-1",
+   "lat": 35.660206,
+   "lng": 139.729202,
+   "period": {
+    "start": "2026-11-13",
+    "end": "2026-12-25"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://art-view.roppongihills.com/jp/cafe-restaurant/news/2026/11/9147/",
+    "https://tcv.roppongihills.com/jp/"
+   ],
+   "summary": "六本木ヒルズ森タワー52階・東京シティビュー スカイギャラリー3に期間限定カフェスタンドがオープン（運営：ソルト・コンソーシアム株式会社）。クリスマス限定ドリンク「サンタの贈り物 ストロベリー&抹茶オレ」「クリスマスインアレッド」（各820円）、12月1日〜31日限定「ホリデーマカロン」（700円）を提供。",
+   "collected_at": "2026-11-14",
+   "id": "843d00c4c50a",
    "is_new": false,
    "freshness": null,
    "hours": null
@@ -6656,7 +6732,12 @@
    "id": "ce0095d4e089",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–20:00（施設に準ずる）",
+    "closed": "1月1日・1月2日",
+    "checked_at": "2026-11-14",
+    "source": "https://www.daimaru.co.jp/tokyo/hours.html"
+   }
   }
  ]
 }
