@@ -6853,5 +6853,74 @@
   "summary": "北海道発の冬季限定スイーツブランド「SNOWS」のポップアップ。新商品「スノーボール くろくろ」は大丸東京店限定で1人2個まで。営業時間10:00〜20:00。",
   "collected_at": "2026-11-15",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "ベーカリー"
+  ],
+  "name": "CAFE & BAKERY MIYABI 多摩センター店",
+  "area": "多摩センター",
+  "address": "東京都多摩市落合1丁目45-1 丘の上パティオ1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-10",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/164652"
+  ],
+  "summary": "京都発デニッシュ食パン「MIYABI」を使ったカフェ併設ベーカリー。多摩センター駅前「丘の上パティオ」1階に11月10日開業。クレープ・ソフトクリームのテイクアウトコーナーもある。",
+  "collected_at": "2026-11-16",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "TVアニメ「らんま1/2」アイスクリームカフェ（洒落CAFE ハラカド店）",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6-31-21 東急プラザ原宿「ハラカド」6階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-21",
+   "end": "2026-12-06"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.iwafu.com/jp/events/1169728"
+  ],
+  "summary": "TVアニメ「らんま1/2」とのコラボカフェ。アイスクリームをテーマにした描き下ろしイラストのコラボメニューを提供、フードコート形式。グッズ購入にはコラボメニュー1品以上の注文が必要。",
+  "collected_at": "2026-11-16",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "FINAL FANTASY X 25TH ANNIVERSARY CAFE（Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU）",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-36-1 パセラボタワー1〜3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-11",
+   "end": "2026-12-02"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2081675/"
+  ],
+  "summary": "「FFX」25周年記念のコラボカフェ。前期・後期でメニューが分かれ、利用は事前予約優先・90分制でチャージ料1,200円（税込）。全国4都市開催のうち新宿会場。",
+  "collected_at": "2026-11-16",
+  "id": ""
  }
 ]
