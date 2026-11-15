@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15",
+ "updated_at": "2026-11-16",
  "items": [
   {
    "type": "new_cafe",
@@ -3824,41 +3824,6 @@
    }
   },
   {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "OH MY CAFE（ディズニー ツイステッドワンダーランド ザ アニメーション）",
-   "area": "表参道",
-   "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館地下3階",
-   "lat": 35.667229,
-   "lng": 139.708557,
-   "period": {
-    "start": "2026-10-24",
-    "end": "2026-11-15"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.disney.co.jp/shopping/cafenews/20251113_01",
-    "https://report.iko-yo.net/articles/33831",
-    "https://prtimes.jp/main/html/rd/p/000000327.000086964.html",
-    "https://san-tatsu.jp/pressrelease/556208/",
-    "https://yomuno.jp/posts/142639"
-   ],
-   "summary": "『ディズニー ツイステッドワンダーランド ザ アニメーション』のコラボカフェが表参道ヒルズ本館地下3階のOH MY CAFEで期間限定開催。ゲーム内イベント「マスターシェフ」をイメージし、各寮カラーのオープンサンドやタコス、ドリンクなどを提供。来店特典でオリジナルグッズが当たる。",
-   "collected_at": "2026-09-26",
-   "id": "c313d808d6d0",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "店内11:00–20:00 / テイクアウト12:00–18:00",
-    "closed": null,
-    "checked_at": "2026-11-06",
-    "source": "https://www.disney.co.jp/shopping/cafenews/20251113_01"
-   }
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ",
@@ -3876,8 +3841,7 @@
    "confidence": "official",
    "sources": [
     "https://www.zaikei.co.jp/releases/3630031/",
-    "https://dtimes.jp/post-1389066/",
-    "https://prtimes.jp/main/html/rd/p/000000352.000048489.html"
+    "https://dtimes.jp/post-1389066/"
    ],
    "summary": "「晴れ姿」が似合う劇場コンセプトのコラボカフェ新店舗「洒落CAFE théâtre」が10月30日、有楽町マルイ8階にグランドオープン。看板メニューはオープンサンド（Open SANDO）約13種。11月3日からはTVアニメ『MAO』とのコラボカフェイベントを開催予定。",
    "collected_at": "2026-09-26",
@@ -4170,7 +4134,7 @@
    "collected_at": "2026-10-07",
    "id": "a551fd3a1d2f",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "10:00–17:00",
     "closed": "不定休",
@@ -4200,7 +4164,7 @@
    "collected_at": "2026-10-07",
    "id": "b1f7e926797c",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": null,
     "closed": null,
@@ -6069,38 +6033,6 @@
     "カフェ",
     "コラボカフェ"
    ],
-   "name": "刀猫Cafe 第六弾（コラボカフェ本舗 秋葉原店）",
-   "area": "秋葉原",
-   "address": "東京都千代田区外神田4-3-10 シャトンビル2F",
-   "lat": 35.700531,
-   "lng": 139.772095,
-   "period": {
-    "start": "2026-10-23",
-    "end": "2026-11-15"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://collabo-cafe.com/events/collabo/toukenranbu-tounyan-cafe-collabo-cafe-honpo-vol6-2026/",
-    "https://collabocafe-honpo.co.jp/event/tounyancafe2610/"
-   ],
-   "summary": "『刀剣乱舞ONLINE』の「刀猫男士」とコラボカフェ本舗のコラボカフェ第六弾。秋葉原店にて開催。",
-   "collected_at": "2026-10-01",
-   "id": "4fd97d50d403",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "完全入替制 11:00–19:40（70分制、土日祝のみ11:00開始回あり、LOは各回開始30分後）",
-    "closed": "火曜（11/3のみ営業、11/4は臨時休業）",
-    "checked_at": "2026-11-06",
-    "source": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/"
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
    "name": "BanG Dream! Our Notes × SWEETS PARADISE 新宿東口店",
    "area": "新宿",
    "address": "東京都新宿区新宿3-26-6 新宿FFビルB1F",
@@ -6435,39 +6367,6 @@
     "closed": null,
     "checked_at": "2026-11-03",
     "source": "https://bestcalendar.jp/press/150179"
-   }
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "モンブラン セレクション アフタヌーンティー（DINING & BAR TABLE 9 TOKYO）",
-   "area": "高輪",
-   "address": "東京都港区高輪4-10-30 品川プリンスホテル メインタワー39階",
-   "lat": 35.628574,
-   "lng": 139.736984,
-   "period": {
-    "start": "2026-09-16",
-    "end": "2026-11-15"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.princehotels.co.jp/shinagawa/plan/table9tokyo/sweetscourse_2026_Chestnut_MontBlanc",
-    "https://www.enjoytokyo.jp/event/2033622/",
-    "https://bestcalendar.jp/press/147746",
-    "https://www.princehotels.co.jp/press/260819_01"
-   ],
-   "summary": "品川プリンスホテル メインタワー39階「DINING & BAR TABLE 9 TOKYO」で、茨城県笠間産の和栗とフランス産の洋栗を使った期間限定『モンブラン セレクション アフタヌーンティー』を提供。1名7,200円/8,700円。",
-   "collected_at": "2026-10-25",
-   "id": "325c0a99cabc",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "アフタヌーンティー提供 12:30–17:00（Food L.O.15:00、Drink L.O.16:30）",
-    "closed": null,
-    "checked_at": "2026-11-06",
-    "source": "https://www.princehotels.co.jp/shinagawa/plan/table9tokyo/sweetscourse_2026_Chestnut_MontBlanc"
    }
   },
   {
