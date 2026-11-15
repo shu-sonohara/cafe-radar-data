@@ -5532,7 +5532,7 @@
     "https://bestcalendar.jp/press/164652"
    ],
    "summary": "京都祇園発の高級デニッシュ食パン「MIYABI」のカフェ&ベーカリーが多摩センター駅前の丘の上パティオ1階にオープン。トーストやクレープ、ソフトクリーム、カフェご飯を提供。営業時間8:00〜20:00(金土祝前日21:00まで)。",
-   "collected_at": "2026-11-14",
+   "collected_at": "2026-11-16",
    "id": "b80ec7b7e503",
    "is_new": true,
    "freshness": 30,
@@ -5732,7 +5732,7 @@
     "https://www.enjoytokyo.jp/event/2081675/"
    ],
    "summary": "『ファイナルファンタジーX』25周年を記念したコラボメニュー・グッズ展開が、新宿の常設カフェ「Officially Licensed SQUARE ENIX Cafe & Shop SHINJUKU」で開催。前期9/11〜10/22、後期10/23〜12/2。",
-   "collected_at": "2026-09-22",
+   "collected_at": "2026-11-16",
    "id": "132b0697a195",
    "is_new": false,
    "freshness": null,
@@ -6568,7 +6568,8 @@
    },
    "confidence": "media",
    "sources": [
-    "https://bestcalendar.jp/press/161683"
+    "https://bestcalendar.jp/press/161683",
+    "https://www.iwafu.com/jp/events/1169728"
    ],
    "summary": "TVアニメ「らんま1/2」のアイスクリームテーマのコラボカフェが東急プラザ原宿「ハラカド」の洒落CAFEで開催。営業時間11:00〜23:00(コラボメニューL.O.22:00)。",
    "collected_at": "2026-11-11",
@@ -6666,7 +6667,12 @@
    "id": "b62cdc8771c5",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–19:00",
+    "closed": "施設に準ずる",
+    "checked_at": "2026-11-16",
+    "source": "https://www.enjoytokyo.jp/event/2091304/"
+   }
   }
  ]
 }
