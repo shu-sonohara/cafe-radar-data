@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16",
+ "updated_at": "2026-11-17",
  "items": [
   {
    "type": "new_cafe",
@@ -1247,7 +1247,7 @@
    "collected_at": "2026-08-22",
    "id": "8c197d933bfd",
    "is_new": false,
-   "freshness": 180,
+   "freshness": 365,
    "hours": {
     "text": "平日 8:00–18:00 / 土日祝 9:00–17:00",
     "closed": "年末年始",
@@ -4173,41 +4173,6 @@
    }
   },
   {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "ケロロ軍曹☆コラボカフェ「秋の味覚、侵略するであります！」（Collabo_Index PARCO池袋店）",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1丁目28-2 池袋PARCO本館8階",
-   "lat": 35.727123,
-   "lng": 139.710342,
-   "period": {
-    "start": "2026-10-09",
-    "end": "2026-11-16"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://koubo.jp/press-release/prtimes/c120737_r97",
-    "https://dengekionline.com/article/202606/79910",
-    "https://prtimes.jp/main/html/rd/p/000000619.000023331.html",
-    "https://collabo.sld-inc.com/keroro-anime",
-    "https://animeanime.jp/release/prtimes/20261008/318321.html"
-   ],
-   "summary": "『ケロロ軍曹☆』のコラボカフェが池袋PARCO本館8階のCollabo_Index PARCO店で開催。秋の食材を使ったフード・スイーツ・ドリンク全10品を提供し、注文ごとにオリジナルコースターが貰える。",
-   "collected_at": "2026-10-13",
-   "id": "28e6734863fa",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "完全入替制 11:15–21:15（75分制、6回入替、LOは各回終了30分前）",
-    "closed": null,
-    "checked_at": "2026-11-06",
-    "source": "https://prtimes.jp/main/html/rd/p/000000619.000023331.html"
-   }
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ"
@@ -5532,7 +5497,7 @@
     "https://bestcalendar.jp/press/164652"
    ],
    "summary": "京都祇園発の高級デニッシュ食パン「MIYABI」のカフェ&ベーカリーが多摩センター駅前の丘の上パティオ1階にオープン。トーストやクレープ、ソフトクリーム、カフェご飯を提供。営業時間8:00〜20:00(金土祝前日21:00まで)。",
-   "collected_at": "2026-11-16",
+   "collected_at": "2026-11-17",
    "id": "b80ec7b7e503",
    "is_new": true,
    "freshness": 30,
@@ -5665,6 +5630,31 @@
     "checked_at": "2026-11-15",
     "source": "https://art-view.roppongihills.com/jp/cafe-restaurant/news/2026/11/9147/"
    }
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "MERLE（メルル）",
+   "area": "原宿",
+   "address": "東京都渋谷区神宮前6-32-1 J6ビル3階",
+   "lat": 35.66795,
+   "lng": 139.704575,
+   "period": {
+    "start": "2026-11-22",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000002.000193773.html"
+   ],
+   "summary": "明治神宮前〈原宿〉駅徒歩30秒に、バーネドゥードル専門ドッグカフェ「MERLE（メルル）」が11月22日グランドオープン。ドリンク飲み放題付きで看板犬と触れ合える。",
+   "collected_at": "2026-11-17",
+   "id": "47cc6dd8919a",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -6642,36 +6632,6 @@
     "closed": "1月1日・1月2日",
     "checked_at": "2026-11-14",
     "source": "https://www.daimaru.co.jp/tokyo/hours.html"
-   }
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "CACIORI 熟成バスクチーズケーキ催事",
-   "area": "日本橋",
-   "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店 本館7階催物会場",
-   "lat": 35.685177,
-   "lng": 139.77298,
-   "period": {
-    "start": "2026-11-11",
-    "end": "2026-11-16"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.enjoytokyo.jp/event/2091304/"
-   ],
-   "summary": "日本橋三越本店に初出店のグルテンフリー熟成バスクチーズケーキ「CACIORI」。1日限定40台販売、冷凍なしの無冷凍熟成タイプ。",
-   "collected_at": "2026-11-15",
-   "id": "b62cdc8771c5",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "10:00–19:00",
-    "closed": "施設に準ずる",
-    "checked_at": "2026-11-16",
-    "source": "https://www.enjoytokyo.jp/event/2091304/"
    }
   }
  ]
