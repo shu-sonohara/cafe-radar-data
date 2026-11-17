@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17",
+ "updated_at": "2026-11-18",
  "items": [
   {
    "type": "new_cafe",
@@ -4409,7 +4409,7 @@
    "collected_at": "2026-10-20",
    "id": "06a5c5f08e87",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "8:00–22:00",
     "closed": null,
@@ -4699,38 +4699,6 @@
     "closed": null,
     "checked_at": "2026-11-08",
     "source": null
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "SNOWS POP UP STORE",
-   "area": "東京駅・丸の内",
-   "address": "東京都千代田区丸の内1-9-1 大丸東京店1階 イベントスペース",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-11-04",
-    "end": "2026-11-17"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.zaikei.co.jp/releases/3672467/",
-    "https://bestcalendar.jp/press/159908",
-    "https://hugkum.sho.jp/823431"
-   ],
-   "summary": "北海道発・冬季限定スイーツ「SNOWS」の本州初ポップアップ。新作「スノーボールくろくろ」などを販売する。",
-   "collected_at": "2026-11-15",
-   "id": "534ed112fb95",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "10:00–20:00（一部時間帯は事前予約制）",
-    "closed": "施設に準ずる",
-    "checked_at": "2026-11-06",
-    "source": "https://bestcalendar.jp/press/159908"
    }
   },
   {
@@ -6601,37 +6569,6 @@
     "closed": null,
     "checked_at": "2026-11-13",
     "source": "https://bestcalendar.jp/press/159925"
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ",
-    "コラボカフェ"
-   ],
-   "name": "ル・フィーユ×ジャージーモウモウ 冬スイーツ催事",
-   "area": "東京駅・丸の内",
-   "address": "東京都千代田区丸の内1-9-1 大丸東京店1階 ほっぺタウン",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-11-11",
-    "end": "2026-11-17"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://bestcalendar.jp/press/163673"
-   ],
-   "summary": "大丸東京店1階ほっぺタウンで、ミルフィーユ専門店「ル・フィーユ」の「ドゥーブルショコラミルフィーユ」と、ジャージーミルクスイーツ「ジャージーモウモウ」の「ミルクティラミス」を期間限定販売。",
-   "collected_at": "2026-11-13",
-   "id": "ce0095d4e089",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "10:00–20:00（施設に準ずる）",
-    "closed": "1月1日・1月2日",
-    "checked_at": "2026-11-14",
-    "source": "https://www.daimaru.co.jp/tokyo/hours.html"
    }
   }
  ]
