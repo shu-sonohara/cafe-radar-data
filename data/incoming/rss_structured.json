@@ -8997,5 +8997,50 @@
   "summary": "明治神宮前〈原宿〉駅徒歩30秒に、バーネドゥードル専門ドッグカフェ「MERLE（メルル）」が11月22日グランドオープン。ドリンク飲み放題付きで看板犬と触れ合える。",
   "collected_at": "2026-11-17",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "茶房 ◯△□(まるさんかくしかく)",
+  "area": "五反田",
+  "address": "東京都品川区東五反田2丁目1-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-01",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://san-tatsu.jp/pressrelease/552038/"
+  ],
+  "summary": "自然食レストラン&カフェとして2026年10月1日グランドオープン。玄米中心の自然食を提供。ランチ11:00-15:00、カフェ14:00-17:00(土日祝休)。",
+  "collected_at": "2026-11-18",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー"
+  ],
+  "name": "ペンギンベーカリー祖師ヶ谷大蔵店",
+  "area": "祖師ヶ谷大蔵",
+  "address": "東京都世田谷区砧8-8-21 松澤ビル",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-28",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000121.000102430.html",
+   "https://www.gourmetbiz.net/263256/"
+  ],
+  "summary": "北海道発ベーカリーが2026年10月28日、世田谷区砧にオープン(都内8店舗目・世田谷区初進出)。営業時間10:00-19:00(売り切れ次第終了)。初日から行列、オープンから19日間で来店者1万人突破。",
+  "collected_at": "2026-11-18",
+  "id": ""
  }
 ]

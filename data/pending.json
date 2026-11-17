@@ -12,12 +12,5 @@
   "note": "3回目再確認も不確定。WebSearch複数（代官山/原宿/渋谷/銀座等）・公式サイト(jype.com)確認も店舗所在地の記載見つからず。銀座の関連ポップアップ記事は期間（〜8/31）から別件/終了済みの可能性。所在地情報が出る媒体が見当たらないため今後の再確認でも見つからない可能性が高い（初出 2026-11-02）",
   "first_seen": "2026-11-02",
   "hold_until": "2026-11-23"
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yX0Q2R2x4eTlZdUw2aExTM3FpRUY0REtLVmNhQjRQRExETHpRZEhNQnc5UFVBcGo5N0RFUHdSUWFQX3I1Wkp3eVBrbXRLOUk?oc=5",
-  "title": "茶房 まるさんかくしかく(五反田)",
-  "note": "住所は公式サイト(sabo-marusankakushikaku.com)・TableCheckで確認(東京都品川区東五反田2-1-9、オーガニックカフェ・レストラン、ランチ11-15時/カフェ14-17時)。オープン日は公式サイト・TableCheck・WebSearchいずれでも未発見。news.google.com経由のため元記事(レッツエンジョイ東京)もWebFetch不可。",
-  "first_seen": "2026-11-04",
-  "hold_until": "2026-11-18"
  }
 ]

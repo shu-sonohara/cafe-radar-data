@@ -6967,5 +6967,49 @@
   "summary": "大丸東京店1階イベントスペースで、北海道発の冬季限定スイーツブランド「SNOWS」のポップアップを開催（11/4〜11/17）。新作の生トリュフチョコレート「スノーボール くろくろ」も登場。",
   "collected_at": "2026-11-17",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "カフェ・ラデュレ 新丸ビル店",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内1-5-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/205234/"
+  ],
+  "summary": "「ラデュレ」の新コンセプト店「カフェ・ラデュレ」東京1号店が2026年11月16日、新丸ビルにオープン。営業時間11:00-21:00、ランチセットは11-14時提供。",
+  "collected_at": "2026-11-18",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "ゴンチャ 秋葉原UDX店",
+  "area": "秋葉原",
+  "address": "東京都千代田区外神田4-14-1 秋葉原UDX1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-19",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://www.oricon.co.jp/pressrelease/3082549/"
+  ],
+  "summary": "台湾発ティーカフェ「ゴンチャ」が秋葉原UDX1階に2026年11月19日オープン。32席、営業時間10:00-22:00。",
+  "collected_at": "2026-11-18",
+  "id": ""
  }
 ]
