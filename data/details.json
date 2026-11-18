@@ -125,6 +125,13 @@
   "note": "要予約制(先着順・予約金660円)。報道・公式サイトに具体的な営業時間の記載なし",
   "source": null
  },
+ "194145317edb": {
+  "checked_at": "2026-11-19",
+  "closed": "土曜・日曜・祝日",
+  "hours": "ランチ 11:00–15:00（L.O.14:00） / カフェ 14:00–17:00",
+  "note": "ディナー営業は開始時期未定",
+  "source": "https://san-tatsu.jp/pressrelease/552038/"
+ },
  "19bbdd268277": {
   "checked_at": "2026-11-11",
   "closed": null,
@@ -257,6 +264,13 @@
   "hours": null,
   "note": "公式サイト・記事に記載なし。セレオ八王子の施設営業時間は10:00–21:00（店舗により異なる）",
   "source": null
+ },
+ "313d7ed4df75": {
+  "checked_at": "2026-11-19",
+  "closed": "無休",
+  "hours": "10:00–19:00（売り切れ次第終了）",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000121.000102430.html"
  },
  "318d38c584ca": {
   "checked_at": "2026-11-11",
@@ -943,6 +957,13 @@
   "hours": null,
   "note": "開店前(10月下旬オープン予定)。公式サイト・東京ソラマチ発表に営業時間記載なし",
   "source": null
+ },
+ "9321f4055aca": {
+  "checked_at": "2026-11-19",
+  "closed": null,
+  "hours": "10:00–22:00",
+  "note": "公式発表に定休日の記載なし",
+  "source": "https://www.oricon.co.jp/pressrelease/3082549/"
  },
  "94d915d5b6d3": {
   "checked_at": "2026-11-12",

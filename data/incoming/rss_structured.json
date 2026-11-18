@@ -9042,5 +9042,76 @@
   "summary": "北海道発ベーカリーが2026年10月28日、世田谷区砧にオープン(都内8店舗目・世田谷区初進出)。営業時間10:00-19:00(売り切れ次第終了)。初日から行列、オープンから19日間で来店者1万人突破。",
   "collected_at": "2026-11-18",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "カフェ・ラデュレ 新丸ビル店",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/205234/"
+  ],
+  "summary": "フランス発の老舗ブランド「ラデュレ」併設カフェの東京1号店が新丸ビルB1Fにオープン。限定ピスタチオドリンクや新作サラダを提供。",
+  "collected_at": "2026-11-19",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "PLAZA CAFE ON 3RD",
+  "area": "新宿三丁目",
+  "address": "東京都新宿区新宿3-30-13 新宿マルイ本館 B1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-20",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://resemom.jp/release/prtimes/20261116/229387.html",
+   "https://san-tatsu.jp/pressrelease/558119/"
+  ],
+  "summary": "ブランド創立60周年のPLAZAが新業態「PLAZA TOKYO+ 新宿店」を新宿マルイ本館B1にオープン。併設でフローズンヨーグルト主力のカフェ「PLAZA CAFE ON 3RD」が営業。",
+  "collected_at": "2026-11-19",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "プロント珈琲庭園",
+  "area": "国立",
+  "address": "東京都国立市北1丁目（nonowa国立WEST内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-12-15",
+   "end": null
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/205246/",
+   "https://www.watch.impress.co.jp/docs/news/2156663.html"
+  ],
+  "summary": "プロントの新業態、注文ごとに豆を挽くフルサービス型カフェ。JR国立駅直結「nonowa国立WEST」に12月15日オープン予定。番地は媒体により表記が食い違うため丁目まで記載。",
+  "collected_at": "2026-11-19",
+  "id": ""
  }
 ]
