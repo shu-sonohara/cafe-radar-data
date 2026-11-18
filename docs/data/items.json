@@ -5185,7 +5185,7 @@
     "https://www.enjoytokyo.jp/news/205234/"
    ],
    "summary": "パリ発「ラデュレ」の新コンセプトカフェが東京都内に初出店。新丸ビル店限定の抹茶ピスタチオ・ラテやラデュレ初のレモンケーキなどを提供。営業時間11:00-21:00。",
-   "collected_at": "2026-11-10",
+   "collected_at": "2026-11-18",
    "id": "2c7493da5e24",
    "is_new": true,
    "freshness": 30,
@@ -5620,6 +5620,62 @@
    "summary": "明治神宮前〈原宿〉駅徒歩30秒に、バーネドゥードル専門ドッグカフェ「MERLE（メルル）」が11月22日グランドオープン。ドリンク飲み放題付きで看板犬と触れ合える。",
    "collected_at": "2026-11-17",
    "id": "47cc6dd8919a",
+   "is_new": true,
+   "freshness": 30,
+   "hours": {
+    "text": "平日 12:00–19:00 / 土日祝 10:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-18",
+    "source": "https://prtimes.jp/main/html/rd/p/000000002.000193773.html"
+   }
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "茶房 ◯△□(まるさんかくしかく)",
+   "area": "五反田",
+   "address": "東京都品川区東五反田2丁目1-9",
+   "lat": 35.625103,
+   "lng": 139.724869,
+   "period": {
+    "start": "2026-10-01",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://san-tatsu.jp/pressrelease/552038/"
+   ],
+   "summary": "自然食レストラン&カフェとして2026年10月1日グランドオープン。玄米中心の自然食を提供。ランチ11:00-15:00、カフェ14:00-17:00(土日祝休)。",
+   "collected_at": "2026-11-18",
+   "id": "194145317edb",
+   "is_new": true,
+   "freshness": 90,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "ベーカリー"
+   ],
+   "name": "ペンギンベーカリー祖師ヶ谷大蔵店",
+   "area": "祖師ヶ谷大蔵",
+   "address": "東京都世田谷区砧8-8-21 松澤ビル",
+   "lat": 35.642147,
+   "lng": 139.608597,
+   "period": {
+    "start": "2026-10-28",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000121.000102430.html",
+    "https://www.gourmetbiz.net/263256/"
+   ],
+   "summary": "北海道発ベーカリーが2026年10月28日、世田谷区砧にオープン(都内8店舗目・世田谷区初進出)。営業時間10:00-19:00(売り切れ次第終了)。初日から行列、オープンから19日間で来店者1万人突破。",
+   "collected_at": "2026-11-18",
+   "id": "313d7ed4df75",
    "is_new": true,
    "freshness": 30,
    "hours": null
@@ -6570,6 +6626,31 @@
     "checked_at": "2026-11-13",
     "source": "https://bestcalendar.jp/press/159925"
    }
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "ゴンチャ 秋葉原UDX店",
+   "area": "秋葉原",
+   "address": "東京都千代田区外神田4-14-1 秋葉原UDX1階",
+   "lat": 35.699703,
+   "lng": 139.772049,
+   "period": {
+    "start": "2026-11-19",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://www.oricon.co.jp/pressrelease/3082549/"
+   ],
+   "summary": "台湾発ティーカフェ「ゴンチャ」が秋葉原UDX1階に2026年11月19日オープン。32席、営業時間10:00-22:00。",
+   "collected_at": "2026-11-18",
+   "id": "9321f4055aca",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
   }
  ]
 }
