@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18",
+ "updated_at": "2026-11-19",
  "items": [
   {
    "type": "new_cafe",
@@ -119,7 +119,7 @@
    "collected_at": "2026-08-22",
    "id": "3c3c30267fbb",
    "is_new": false,
-   "freshness": 180,
+   "freshness": 365,
    "hours": {
     "text": "10:15–21:45（L.O.21:15）",
     "closed": null,
@@ -1631,36 +1631,6 @@
   {
    "type": "new_cafe",
    "genre": [
-    "スイーツ"
-   ],
-   "name": "エキュート上野 ベーカリー・デリゾーン リニューアル（新規5ショップ）",
-   "area": "上野",
-   "address": "東京都台東区上野7-1-1 JR上野駅構内 エキュート上野 3階改札内",
-   "lat": 35.713696,
-   "lng": 139.776917,
-   "period": {
-    "start": "2025-11-18",
-    "end": null
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000945.000082978.html"
-   ],
-   "summary": "JR上野駅のエキナカ商業施設「エキュート上野」の3階改札内ベーカリー・デリゾーンがリニューアルし、新規5ショップ（鶏三和、韓美膳エクスプレス、福ベーグル、Zopfカレーパン専門店、ザ スタンダード ベイカーズ）を含む全14ショップが2025年11月18日オープンした。",
-   "collected_at": "2026-08-22",
-   "id": "e00171f13300",
-   "is_new": false,
-   "freshness": 365,
-   "hours": {
-    "text": "デリゾーン 月〜木・土日祝 9:00–21:00／金 9:00–22:00（豆狸・ほんのり屋のみ7:00開店）、ベーカリーゾーン 月〜木・土日祝 8:00–21:00／金 8:00–22:00",
-    "closed": null,
-    "checked_at": "2026-11-14",
-    "source": "https://prtimes.jp/main/html/rd/p/000000945.000082978.html"
-   }
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
     "カフェ",
     "コーヒー"
    ],
@@ -2179,8 +2149,8 @@
    "summary": "創業108年のベーカリー神戸屋が約40年ぶりのブランド刷新を行い、その旗艦店として「神戸屋キッチン アトレ恵比寿店」を2026年8月20日にリニューアルオープン。パン世界大会2度優勝の職人による限定パン5品を展開。",
    "collected_at": "2026-08-22",
    "id": "72c76f51f5a2",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": "8:00–21:00",
     "closed": null,
@@ -4379,7 +4349,7 @@
    "collected_at": "2026-10-20",
    "id": "9c73490f2168",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "9:00–22:00（L.O.21:30）",
     "closed": "第1・3日曜日・年末年始",
@@ -4568,7 +4538,7 @@
    "collected_at": "2026-10-23",
    "id": "bfc99695d962",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "7:00–23:00",
     "closed": "無休",
