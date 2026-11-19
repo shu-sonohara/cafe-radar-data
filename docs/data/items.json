@@ -5155,7 +5155,7 @@
     "https://www.enjoytokyo.jp/news/205234/"
    ],
    "summary": "パリ発「ラデュレ」の新コンセプトカフェが東京都内に初出店。新丸ビル店限定の抹茶ピスタチオ・ラテやラデュレ初のレモンケーキなどを提供。営業時間11:00-21:00。",
-   "collected_at": "2026-11-18",
+   "collected_at": "2026-11-19",
    "id": "2c7493da5e24",
    "is_new": true,
    "freshness": 30,
@@ -5214,10 +5214,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000773.000037629.html"
+    "https://prtimes.jp/main/html/rd/p/000000773.000037629.html",
+    "https://bestcalendar.jp/press/163803"
    ],
    "summary": "英国絵本キャラクター「ミスターメン リトルミス」とのコラボコーヒースタンド。コーヒースプリーム（NZ）の豆を使ったコーヒーとドーナツをテイクアウトで提供。",
-   "collected_at": "2026-11-06",
+   "collected_at": "2026-11-19",
    "id": "d309d6e7ed30",
    "is_new": true,
    "freshness": 30,
@@ -5622,7 +5623,12 @@
    "id": "194145317edb",
    "is_new": true,
    "freshness": 90,
-   "hours": null
+   "hours": {
+    "text": "ランチ 11:00–15:00（L.O.14:00） / カフェ 14:00–17:00",
+    "closed": "土曜・日曜・祝日",
+    "checked_at": "2026-11-19",
+    "source": "https://san-tatsu.jp/pressrelease/552038/"
+   }
   },
   {
    "type": "new_cafe",
@@ -5646,6 +5652,65 @@
    "summary": "北海道発ベーカリーが2026年10月28日、世田谷区砧にオープン(都内8店舗目・世田谷区初進出)。営業時間10:00-19:00(売り切れ次第終了)。初日から行列、オープンから19日間で来店者1万人突破。",
    "collected_at": "2026-11-18",
    "id": "313d7ed4df75",
+   "is_new": true,
+   "freshness": 30,
+   "hours": {
+    "text": "10:00–19:00（売り切れ次第終了）",
+    "closed": "無休",
+    "checked_at": "2026-11-19",
+    "source": "https://prtimes.jp/main/html/rd/p/000000121.000102430.html"
+   }
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "スイーツ"
+   ],
+   "name": "PLAZA CAFE ON 3RD",
+   "area": "新宿三丁目",
+   "address": "東京都新宿区新宿3-30-13 新宿マルイ本館 B1F",
+   "lat": 35.691158,
+   "lng": 139.703949,
+   "period": {
+    "start": "2026-11-20",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://resemom.jp/release/prtimes/20261116/229387.html",
+    "https://san-tatsu.jp/pressrelease/558119/"
+   ],
+   "summary": "ブランド創立60周年のPLAZAが新業態「PLAZA TOKYO+ 新宿店」を新宿マルイ本館B1にオープン。併設でフローズンヨーグルト主力のカフェ「PLAZA CAFE ON 3RD」が営業。",
+   "collected_at": "2026-11-19",
+   "id": "fce06f402d19",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "プロント珈琲庭園",
+   "area": "国立",
+   "address": "東京都国立市北1丁目（nonowa国立WEST内）",
+   "lat": 35.699921,
+   "lng": 139.446136,
+   "period": {
+    "start": "2026-12-15",
+    "end": null
+   },
+   "confidence": "unverified",
+   "sources": [
+    "https://www.enjoytokyo.jp/news/205246/",
+    "https://www.watch.impress.co.jp/docs/news/2156663.html"
+   ],
+   "summary": "プロントの新業態、注文ごとに豆を挽くフルサービス型カフェ。JR国立駅直結「nonowa国立WEST」に12月15日オープン予定。番地は媒体により表記が食い違うため丁目まで記載。",
+   "collected_at": "2026-11-19",
+   "id": "e23289e3b949",
    "is_new": true,
    "freshness": 30,
    "hours": null
@@ -6493,7 +6558,7 @@
     "https://aumo.jp/articles/5614489"
    ],
    "summary": "東武百貨店池袋店8階屋上「スカイデッキ広場」で開催するクリスマスマーケット（11/7〜12/25）。フード＆ドリンクブース6店（スイーツブース含む）、BBQプランやスモア作り体験あり、予約不要。",
-   "collected_at": "2026-11-11",
+   "collected_at": "2026-11-19",
    "id": "d564187b1583",
    "is_new": false,
    "freshness": null,
@@ -6583,7 +6648,8 @@
    },
    "confidence": "media",
    "sources": [
-    "https://bestcalendar.jp/press/159925"
+    "https://bestcalendar.jp/press/159925",
+    "https://www.iwafu.com/jp/events/1166905"
    ],
    "summary": "ヒルトン東京お台場3階Captain's Bar&Loungeで、もみの木やトナカイをモチーフにした冬限定のアフタヌーンティーを提供。スコーン・サンドイッチ食べ放題付き。",
    "collected_at": "2026-11-12",
@@ -6620,7 +6686,12 @@
    "id": "9321f4055aca",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "10:00–22:00",
+    "closed": null,
+    "checked_at": "2026-11-19",
+    "source": "https://www.oricon.co.jp/pressrelease/3082549/"
+   }
   }
  ]
 }
