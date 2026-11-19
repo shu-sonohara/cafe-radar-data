@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19",
+ "updated_at": "2026-11-20",
  "items": [
   {
    "type": "new_cafe",
@@ -6167,38 +6167,6 @@
     "closed": null,
     "checked_at": "2026-11-02",
     "source": "https://prtimes.jp/main/html/rd/p/000000265.000044858.html"
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "『Toxic-a-Holic』コラボカフェ in eeo Cafe 池袋",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1丁目9-21 JK7 1階",
-   "lat": 35.724644,
-   "lng": 139.710907,
-   "period": {
-    "start": "2026-11-07",
-    "end": "2026-11-19"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000001229.000012048.html",
-    "https://www.oricon.co.jp/pressrelease/3006804/"
-   ],
-   "summary": "『Toxic-a-Holic』のコラボカフェ。カフェ店員衣装の描き下ろしイラストやメイド・執事衣装のグッズとともに、全8種のフード＆ドリンクメニューを提供。",
-   "collected_at": "2026-10-03",
-   "id": "5c97a35af58d",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "土日祝10:00–19:00 / 平日11:30–19:00（L.O.18:00）",
-    "closed": null,
-    "checked_at": "2026-11-06",
-    "source": "https://eeo.today/graffartcafe/"
    }
   },
   {
