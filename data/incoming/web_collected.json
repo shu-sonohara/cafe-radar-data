@@ -7102,5 +7102,71 @@
   "summary": "湾岸エリア初開催のクリスマスマーケット。ゆりかもめ新豊洲駅から徒歩2分。高さ約14mのクリスマスピラミッドが目印。プレッツェル・グリューワイン・チュロスなどのグルメブースが出店。",
   "collected_at": "2026-11-20",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "WR.Yoyogi Park",
+  "area": "代々木公園・富ヶ谷",
+  "address": "東京都渋谷区富ヶ谷1-14-13 メゾンテオブロマ 1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-06",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.timeout.jp/tokyo/ja/レストラン/wr-yoyogi-park"
+  ],
+  "summary": "学芸大学のコーヒースタンド「WR.」が手がけるオールデイダイニング&カフェ。代々木公園・富ヶ谷エリアにオープン。",
+  "collected_at": "2026-11-21",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "MR. MEN LITTLE MISS THE COFFEE STAND",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂二丁目2番1号 渋谷しぶちか14番区画",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-06",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/163803"
+  ],
+  "summary": "サンリオ運営のテイクアウト専門コーヒースタンド。渋谷地下街「しぶちか」にオープン。フィルターコーヒーやドーナツを提供。",
+  "collected_at": "2026-11-21",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "大丸東京店 最旬スイーツ（ツバメヤ わらび餅ほか）",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店 1階ほっぺタウン",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-18",
+   "end": "2026-12-01"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/165106"
+  ],
+  "summary": "岐阜・柳ケ瀬の和菓子店「ツバメヤ」のわらび餅ほか、ザ・テイラーのショコラクチュール、ルぺパンの焼き菓子を販売する期間限定催事。わらび餅は12月1日まで。",
+  "collected_at": "2026-11-21",
+  "id": ""
  }
 ]

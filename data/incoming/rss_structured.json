@@ -9113,5 +9113,188 @@
   "summary": "プロントの新業態、注文ごとに豆を挽くフルサービス型カフェ。JR国立駅直結「nonowa国立WEST」に12月15日オープン予定。番地は媒体により表記が食い違うため丁目まで記載。",
   "collected_at": "2026-11-19",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "プロント珈琲庭園 nonowa国立店",
+  "area": "国立",
+  "address": "東京都国立市北1-14-17 nonowa 国立 WEST",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-12-15",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.watch.impress.co.jp/docs/news/2156663.html"
+  ],
+  "summary": "プロントの新業態「珈琲庭園」1号店。注文ごとに豆を挽くフルサービス型で、JR国立駅直結のnonowa国立WESTに12月15日オープン。",
+  "collected_at": "2026-11-21",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "Token Cafe",
+  "area": "高田馬場",
+  "address": "東京都新宿区高田馬場2-8-2 B1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000001.000194542.html"
+  ],
+  "summary": "ドリンク1杯の注文ごとに当日使える生成AIトークンがもらえる日本初のAIカフェ。高田馬場駅徒歩5分、地下1階全35席に電源あり。",
+  "collected_at": "2026-11-21",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "ミッフィーほかほかダイニング（東京会場）",
+  "area": "押上",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ 1階 タワーヤード 6番地",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-31",
+   "end": "2027-01-24"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.walkerplus.com/article/1451409/"
+  ],
+  "summary": "ミッフィーの顔をイメージしたグラタンパイプレートやハンバーグ、パフェなどを提供する期間限定ダイニング。BOX cafe&space東京ソラマチ店にて開催。",
+  "collected_at": "2026-11-21",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "BANANA FISH Cafe and Bar - What they see -",
+  "area": "新宿",
+  "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿 8F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-26",
+   "end": "2027-01-17"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2092142/"
+  ],
+  "summary": "漫画『BANANA FISH』のテーマカフェ＆バー。BOX cafe&spaceルミネエスト新宿1号店/2号店にて期間限定開催。",
+  "collected_at": "2026-11-21",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "I'm donut？ 自由が丘すずかけ通り",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-4-10 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-18",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/204996/"
+  ],
+  "summary": "生ドーナツ専門店「I'm donut？」の自由が丘新店。同じ建物にベーカリーカフェ「dacō」が入居。",
+  "collected_at": "2026-11-21",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "カフェ"
+  ],
+  "name": "dacō 自由が丘すずかけ通り",
+  "area": "自由が丘",
+  "address": "東京都目黒区自由が丘1-4-10 地下1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-06-18",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/news/204996/"
+  ],
+  "summary": "ベーカリーカフェ「dacō」の自由が丘新店。同じ建物1階に生ドーナツ専門店「I'm donut？」が入居。",
+  "collected_at": "2026-11-21",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "スイーツ"
+  ],
+  "name": "東京喫茶メリー グランスタ東京店",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内一丁目9番1号 JR東日本 東京駅 地下1階（改札内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/150788"
+  ],
+  "summary": "メリーチョコレートカムパニーの新ブランド「東京喫茶メリー」。クリームソーダをイメージしたチョコ菓子が看板商品の東京駅限定土産ブランド。",
+  "collected_at": "2026-11-21",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "僕のヒーローアカデミアカフェ -WE ARE HERO HOLICS-（東京・原宿会場）",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前6-28-6 キュープラザ原宿 3F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-16",
+   "end": "2026-12-20"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2087138/"
+  ],
+  "summary": "『僕のヒーローアカデミア』のテーマカフェ。BOX cafe&spaceキュープラザ原宿店にて期間限定開催。",
+  "collected_at": "2026-11-21",
+  "id": ""
  }
 ]
