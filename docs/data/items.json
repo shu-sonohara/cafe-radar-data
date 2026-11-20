@@ -5686,7 +5686,12 @@
    "id": "fce06f402d19",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-20",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -5713,7 +5718,12 @@
    "id": "e23289e3b949",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "7:00–22:00（L.O.21:30）",
+    "closed": "施設に準ずる",
+    "checked_at": "2026-11-20",
+    "source": "https://www.enjoytokyo.jp/news/205246/"
+   }
   },
   {
    "type": "new_cafe",
@@ -6660,6 +6670,32 @@
     "checked_at": "2026-11-19",
     "source": "https://www.oricon.co.jp/pressrelease/3082549/"
    }
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "東京クリスマスマーケット2026 新豊洲",
+   "area": "新豊洲",
+   "address": "東京都江東区豊洲6-4",
+   "lat": 35.647259,
+   "lng": 139.785629,
+   "period": {
+    "start": "2026-11-20",
+    "end": "2026-12-25"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://bestcalendar.jp/press/163991",
+    "https://report.iko-yo.net/articles/33678"
+   ],
+   "summary": "湾岸エリア初開催のクリスマスマーケット。ゆりかもめ新豊洲駅から徒歩2分。高さ約14mのクリスマスピラミッドが目印。プレッツェル・グリューワイン・チュロスなどのグルメブースが出店。",
+   "collected_at": "2026-11-20",
+   "id": "fc9021e06b0e",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
   }
  ]
 }
