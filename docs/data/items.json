@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20",
+ "updated_at": "2026-11-21",
  "items": [
   {
    "type": "new_cafe",
@@ -1023,8 +1023,8 @@
    "summary": "小伝馬町駅から徒歩2分、2026年4月に日常に寄り添うカフェ「FORME.」がオープン。自家製クロワッサンサンドやスペシャリティコーヒーのほか、看板メニューのレモンパイとバスクチーズケーキが人気。",
    "collected_at": "2026-08-22",
    "id": "5f1f0560b739",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": null,
     "closed": null,
@@ -4289,7 +4289,7 @@
    "collected_at": "2026-10-16",
    "id": "25b4b07d6da7",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "7:00–22:30",
     "closed": null,
