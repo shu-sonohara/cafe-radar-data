@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21",
+ "updated_at": "2026-11-22",
  "items": [
   {
    "type": "new_cafe",
@@ -2406,7 +2406,7 @@
    "collected_at": "2026-08-28",
    "id": "5385accb1b6e",
    "is_new": false,
-   "freshness": 180,
+   "freshness": 365,
    "hours": {
     "text": "月〜金 7:30–22:30 / 土日祝 7:00–22:30",
     "closed": "不定休",
@@ -4729,7 +4729,7 @@
    "collected_at": "2026-10-28",
    "id": "3ca7e0bd06e9",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "7:45–16:00",
     "closed": "火曜（店舗カレンダーにより水曜・土曜も休みの場合あり）",
