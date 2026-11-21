@@ -1489,7 +1489,8 @@
    "confidence": "media",
    "sources": [
     "https://ampmedia.jp/2026/06/17/peace-put-0618/",
-    "https://media.kawa-colle.jp/_ct/17787565?o=0&tn=16781160"
+    "https://media.kawa-colle.jp/_ct/17787565?o=0&tn=16781160",
+    "https://www.enjoytokyo.jp/news/204996/"
    ],
    "summary": "生ドーナツ専門店「I'm donut？」とベーカリーカフェ「dacō」、「Neo Nice Burger」の3ブランド複合店が自由が丘すずかけ通りに同時開業。1FとB1Fの2フロア構成。",
    "collected_at": "2026-08-22",
@@ -3025,7 +3026,8 @@
     "https://prtimes.jp/main/html/rd/p/000000083.000166726.html",
     "https://www.fashion-press.net/news/150691",
     "https://travel.watch.impress.co.jp/docs/news/2140855.html",
-    "https://resemom.jp/release/prtimes/20260903/209529.html"
+    "https://resemom.jp/release/prtimes/20260903/209529.html",
+    "https://bestcalendar.jp/press/150788"
    ],
    "summary": "メリーチョコレートの新ブランド「東京喫茶メリー」がJR東京駅グランスタ東京にオープン。夢の中の喫茶店をイメージしたチョコレート菓子や東京駅限定商品を販売。",
    "collected_at": "2026-09-05",
@@ -3881,7 +3883,7 @@
     "https://dengekionline.com/article/202609/89487"
    ],
    "summary": "アニメ『僕のヒーローアカデミア』のコラボカフェが原宿のBOX cafe&spaceキュープラザ原宿3Fで開催。デクや爆豪をイメージしたメニューやオリジナルグッズを展開。",
-   "collected_at": "2026-11-01",
+   "collected_at": "2026-11-21",
    "id": "0789473f4de5",
    "is_new": false,
    "freshness": null,
@@ -4786,7 +4788,7 @@
     "https://www.walkerplus.com/article/1451409/"
    ],
    "summary": "ミッフィーをテーマにした期間限定コラボカフェ。冬向けの温かいメニューが中心で、グラタンパイやスープを提供。事前予約制(1名660円、先着順)。",
-   "collected_at": "2026-11-09",
+   "collected_at": "2026-11-21",
    "id": "1713d5515ea5",
    "is_new": false,
    "freshness": null,
@@ -4970,10 +4972,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000002.000192515.html"
+    "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+    "https://www.timeout.jp/tokyo/ja/レストラン/wr-yoyogi-park"
    ],
    "summary": "人気ビストロ監修のオールデイダイニング&カフェ。朝はコーヒー・パンケーキ、昼はサンドイッチ、夜はビストロ料理とナチュラルワインを提供。",
-   "collected_at": "2026-11-03",
+   "collected_at": "2026-11-21",
    "id": "35d5621b47b9",
    "is_new": true,
    "freshness": 30,
@@ -5525,10 +5528,11 @@
    },
    "confidence": "official",
    "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000337.000086964.html"
+    "https://prtimes.jp/main/html/rd/p/000000337.000086964.html",
+    "https://www.enjoytokyo.jp/event/2092142/"
    ],
    "summary": "TVアニメ『BANANA FISH』のテーマカフェ。ルミネエスト新宿のBOX cafe&space内で期間限定開催。フードとスープのワンプレートやドーナツ、ドリンクなどのカフェメニューを提供、テイクアウトメニューもある。",
-   "collected_at": "2026-11-13",
+   "collected_at": "2026-11-21",
    "id": "498efc7a63e1",
    "is_new": false,
    "freshness": null,
@@ -5724,6 +5728,58 @@
     "checked_at": "2026-11-20",
     "source": "https://www.enjoytokyo.jp/news/205246/"
    }
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "プロント珈琲庭園 nonowa国立店",
+   "area": "国立",
+   "address": "東京都国立市北1-14-17 nonowa 国立 WEST",
+   "lat": 35.699123,
+   "lng": 139.444565,
+   "period": {
+    "start": "2026-12-15",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.watch.impress.co.jp/docs/news/2156663.html"
+   ],
+   "summary": "プロントの新業態「珈琲庭園」1号店。注文ごとに豆を挽くフルサービス型で、JR国立駅直結のnonowa国立WESTに12月15日オープン。",
+   "collected_at": "2026-11-21",
+   "id": "b712e371199e",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コーヒー"
+   ],
+   "name": "Token Cafe",
+   "area": "高田馬場",
+   "address": "東京都新宿区高田馬場2-8-2 B1",
+   "lat": 35.71183,
+   "lng": 139.70874,
+   "period": {
+    "start": "2026-11-16",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000194542.html"
+   ],
+   "summary": "ドリンク1杯の注文ごとに当日使える生成AIトークンがもらえる日本初のAIカフェ。高田馬場駅徒歩5分、地下1階全35席に電源あり。",
+   "collected_at": "2026-11-21",
+   "id": "31608f4d8bd6",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "new_cafe",
@@ -6695,7 +6751,12 @@
    "id": "fc9021e06b0e",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "11:00–21:30（初日11/20のみ16:00–21:30、最終入場20:30・L.O.21:00）",
+    "closed": null,
+    "checked_at": "2026-11-21",
+    "source": "https://bestcalendar.jp/press/163991"
+   }
   }
  ]
 }
