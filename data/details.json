@@ -272,6 +272,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000121.000102430.html"
  },
+ "31608f4d8bd6": {
+  "checked_at": "2026-11-22",
+  "closed": null,
+  "hours": "10:00–17:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000001.000194542.html"
+ },
  "318d38c584ca": {
   "checked_at": "2026-11-11",
   "closed": null,
@@ -1167,6 +1174,13 @@
   "hours": "10:00–19:00",
   "note": "日本橋三越本店7階催物会場の営業時間（催事期間 11/11–11/16）",
   "source": "https://www.enjoytokyo.jp/event/2091304/"
+ },
+ "b712e371199e": {
+  "checked_at": "2026-11-22",
+  "closed": null,
+  "hours": "7:00–22:00（L.O.21:30）",
+  "note": "",
+  "source": "https://www.watch.impress.co.jp/docs/news/2156663.html"
  },
  "b7df7c90cba2": {
   "checked_at": "2026-11-08",

@@ -7168,5 +7168,95 @@
   "summary": "岐阜・柳ケ瀬の和菓子店「ツバメヤ」のわらび餅ほか、ザ・テイラーのショコラクチュール、ルぺパンの焼き菓子を販売する期間限定催事。わらび餅は12月1日まで。",
   "collected_at": "2026-11-21",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コーヒー"
+  ],
+  "name": "猿田彦珈琲 皇居東御苑店",
+  "area": "皇居東御苑・大手町",
+  "address": "東京都千代田区千代田1-9",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-03",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.ryutsuu.biz/store/s090772.html"
+  ],
+  "summary": "皇居東御苑内に新設された「大手休憩所」にオープン。皇居東御苑の四季をイメージした店舗限定ブレンド（深煎り・浅煎り）を提供。席数46席＋立ち飲み10席。",
+  "collected_at": "2026-11-22",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "コラボカフェ"
+  ],
+  "name": "MR. MEN LITTLE MISS THE COFFEE STAND",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂二丁目2番1号 渋谷地下街「しぶちか」14番",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-06",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/163803"
+  ],
+  "summary": "サンリオが手がける「ミスター・メン リトル・ミス」コラボのテイクアウト専門コーヒースタンド。フィルターコーヒーやドーナツ、オリジナルグッズを販売。営業時間9:00〜20:00。",
+  "collected_at": "2026-11-22",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "〈ルぺパン〉フルールドゥボンボン サービスパック（大丸東京店催事）",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1丁目9番1号 大丸東京店1階 ほっぺタウン",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-18",
+   "end": "2026-11-24"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/165106"
+  ],
+  "summary": "ナッツペーストをチョコレートでコーティングしたロリポップチョコレート「フルールドゥボンボン サービスパック」(21本入1,296円)を1,200個限定で販売。大丸東京店1階ほっぺタウンにて期間限定出店。",
+  "collected_at": "2026-11-22",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "N.Y.C.SAND（西武池袋本店催事・N.Y.ミルクティーキャラメルサンド）",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1丁目28番1号 西武池袋本店地下1階 デパチカイベントスペース",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-18",
+   "end": "2026-11-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/165371"
+  ],
+  "summary": "期間限定「N.Y.ミルクティーキャラメルサンド」(2個入540円・8個入2,160円)を販売。定番のN.Y.キャラメルサンド等も並ぶ。西武池袋本店地下1階デパチカイベントスペースにて期間限定出店。",
+  "collected_at": "2026-11-22",
+  "id": ""
  }
 ]

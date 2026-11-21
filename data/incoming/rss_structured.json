@@ -9296,5 +9296,28 @@
   "summary": "『僕のヒーローアカデミア』のテーマカフェ。BOX cafe&spaceキュープラザ原宿店にて期間限定開催。",
   "collected_at": "2026-11-21",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "「ちいかわ」×「東京ばな奈」ポップアップストア",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1丁目",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-24",
+   "end": "2026-12-13"
+  },
+  "confidence": "unverified",
+  "sources": [
+   "https://resemom.jp/release/prtimes/20261118/230413.html"
+  ],
+  "summary": "ちいかわと東京ばな奈のコラボポップアップストア。ちいかわバナナプリンケーキや新作ちいかわクッキーサンド（バナナミルク味）を販売。JR東京駅構内グランスタ東京「POP UP GRANSTA GREEN」にて期間限定出店。",
+  "collected_at": "2026-11-22",
+  "id": ""
  }
 ]
