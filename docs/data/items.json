@@ -3059,10 +3059,11 @@
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000212.000027005.html",
     "https://www.tokyo-np.co.jp/article/513421",
-    "https://haveagood-holiday.com/en/articles/sarutahiko-coffee-imperial-palace-east-gardens-opening"
+    "https://haveagood-holiday.com/en/articles/sarutahiko-coffee-imperial-palace-east-gardens-opening",
+    "https://www.ryutsuu.biz/store/s090772.html"
    ],
    "summary": "皇居東御苑内に新設される「大手休憩所」に猿田彦珈琲が出店。三の丸尚蔵館の全面公開に合わせ11月3日オープン予定。",
-   "collected_at": "2026-11-10",
+   "collected_at": "2026-11-22",
    "id": "9a5d2efd9e23",
    "is_new": true,
    "freshness": 30,
@@ -5753,7 +5754,12 @@
    "id": "b712e371199e",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "7:00–22:00（L.O.21:30）",
+    "closed": null,
+    "checked_at": "2026-11-22",
+    "source": "https://www.watch.impress.co.jp/docs/news/2156663.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -5779,6 +5785,37 @@
    "id": "31608f4d8bd6",
    "is_new": true,
    "freshness": 30,
+   "hours": {
+    "text": "10:00–17:00",
+    "closed": null,
+    "checked_at": "2026-11-22",
+    "source": "https://prtimes.jp/main/html/rd/p/000000001.000194542.html"
+   }
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ",
+    "コラボカフェ"
+   ],
+   "name": "「ちいかわ」×「東京ばな奈」ポップアップストア",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1丁目",
+   "lat": 35.681561,
+   "lng": 139.767197,
+   "period": {
+    "start": "2026-11-24",
+    "end": "2026-12-13"
+   },
+   "confidence": "unverified",
+   "sources": [
+    "https://resemom.jp/release/prtimes/20261118/230413.html"
+   ],
+   "summary": "ちいかわと東京ばな奈のコラボポップアップストア。ちいかわバナナプリンケーキや新作ちいかわクッキーサンド（バナナミルク味）を販売。JR東京駅構内グランスタ東京「POP UP GRANSTA GREEN」にて期間限定出店。",
+   "collected_at": "2026-11-22",
+   "id": "2e891af1b6e3",
+   "is_new": false,
+   "freshness": null,
    "hours": null
   },
   {
@@ -6757,6 +6794,56 @@
     "checked_at": "2026-11-21",
     "source": "https://bestcalendar.jp/press/163991"
    }
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "〈ルぺパン〉フルールドゥボンボン サービスパック（大丸東京店催事）",
+   "area": "東京駅",
+   "address": "東京都千代田区丸の内1丁目9番1号 大丸東京店1階 ほっぺタウン",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-11-18",
+    "end": "2026-11-24"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://bestcalendar.jp/press/165106"
+   ],
+   "summary": "ナッツペーストをチョコレートでコーティングしたロリポップチョコレート「フルールドゥボンボン サービスパック」(21本入1,296円)を1,200個限定で販売。大丸東京店1階ほっぺタウンにて期間限定出店。",
+   "collected_at": "2026-11-22",
+   "id": "ea283987fb7f",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "N.Y.C.SAND（西武池袋本店催事・N.Y.ミルクティーキャラメルサンド）",
+   "area": "池袋",
+   "address": "東京都豊島区南池袋1丁目28番1号 西武池袋本店地下1階 デパチカイベントスペース",
+   "lat": 35.727081,
+   "lng": 139.710495,
+   "period": {
+    "start": "2026-11-18",
+    "end": "2026-11-25"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://bestcalendar.jp/press/165371"
+   ],
+   "summary": "期間限定「N.Y.ミルクティーキャラメルサンド」(2個入540円・8個入2,160円)を販売。定番のN.Y.キャラメルサンド等も並ぶ。西武池袋本店地下1階デパチカイベントスペースにて期間限定出店。",
+   "collected_at": "2026-11-22",
+   "id": "4fbf450bfe90",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
   }
  ]
 }
