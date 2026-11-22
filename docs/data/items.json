@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22",
+ "updated_at": "2026-11-23",
  "items": [
   {
    "type": "new_cafe",
@@ -2319,36 +2319,6 @@
   {
    "type": "new_cafe",
    "genre": [
-    "カフェ"
-   ],
-   "name": "明治安田CAFE 丸の内",
-   "area": "丸の内",
-   "address": "東京都千代田区丸の内2-1-1 明治生命館1階",
-   "lat": 35.679062,
-   "lng": 139.761841,
-   "period": {
-    "start": "2025-11-22",
-    "end": null
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.timeout.jp/tokyo/ja/news/meijiyasudacafe-120125"
-   ],
-   "summary": "国指定重要文化財「明治生命館」1階に、文化財カフェとして日本最大級となる60席の「明治安田CAFE 丸の内」が2025年11月22日にオープン。大理石の柱や自然光が差し込む大ホールで喫茶を楽しめる。",
-   "collected_at": "2026-08-27",
-   "id": "1ec133891dda",
-   "is_new": false,
-   "freshness": 365,
-   "hours": {
-    "text": "10:30–18:30（食事L.O.17:30・ドリンクL.O.18:00）",
-    "closed": "月曜・火曜",
-    "checked_at": "2026-11-10",
-    "source": "https://www.attable.co.jp/cafe/meijiyasuda/"
-   }
-  },
-  {
-   "type": "new_cafe",
-   "genre": [
     "コーヒー",
     "カフェ"
    ],
@@ -3954,40 +3924,6 @@
     "text": null,
     "closed": null,
     "checked_at": "2026-11-01",
-    "source": null
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "NARUMIYA CHARACTERS Lovely Stand（BOX cafe&space ルミネエスト新宿）",
-   "area": "新宿",
-   "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
-   "lat": 35.691784,
-   "lng": 139.700775,
-   "period": {
-    "start": "2026-10-16",
-    "end": "2026-11-22"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000501.000066361.html",
-    "https://san-tatsu.jp/pressrelease/559629/",
-    "https://animeanime.jp/release/prtimes/20261002/317220.html",
-    "https://www.inside-games.jp/release/prtimes/20261002/310706.html"
-   ],
-   "summary": "ナルミヤキャラクターズのテーマカフェ。NARUMIYA HAPPY PARK 1周年記念で、キャラクターモチーフのフード・デザート・テイクアウトメニューを展開。",
-   "collected_at": "2026-10-31",
-   "id": "55e626bcea16",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": null,
-    "closed": null,
-    "checked_at": "2026-11-06",
     "source": null
    }
   },
