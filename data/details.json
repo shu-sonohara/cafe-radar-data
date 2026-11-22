@@ -244,6 +244,13 @@
   "note": "",
   "source": "https://toyosu.tokyo/cafe/matcha-times-toyosu-report/"
  },
+ "2e891af1b6e3": {
+  "checked_at": "2026-11-23",
+  "closed": null,
+  "hours": "月〜土 8:00–22:00／日・祝 8:00–21:00（最終日は20:00閉店）",
+  "note": "会場はグランスタ東京「POP UP GRANSTA GREEN」。プレスリリース記載の時間。",
+  "source": "https://resemom.jp/release/prtimes/20261118/230413.html"
+ },
  "2f276fab2c3d": {
   "checked_at": "2026-11-09",
   "closed": null,
@@ -495,6 +502,13 @@
   "hours": "平日 13:00–29:00（翌5:00）/ 土日祝 11:00–29:00（翌5:00）",
   "note": "",
   "source": "https://www.shimokitazawa.info/news/2026/07/ocher/"
+ },
+ "4fbf450bfe90": {
+  "checked_at": "2026-11-23",
+  "closed": "不定休",
+  "hours": "10:00–21:00（日曜・祝休日は〜20:00）",
+  "note": "会場は西武池袋本店地下1階デパチカイベントスペース。施設の営業時間に準ずる。",
+  "source": "https://www.walkerplus.com/article/214099/"
  },
  "4fd97d50d403": {
   "checked_at": "2026-11-06",
@@ -1517,6 +1531,13 @@
   "hours": "平日・土曜 8:00–22:00 / 日曜・祝日 8:00–21:00",
   "note": "",
   "source": "https://www.laterre.com/bml/"
+ },
+ "ea283987fb7f": {
+  "checked_at": "2026-11-23",
+  "closed": "無休（1月1日・2日のみ休業）",
+  "hours": "10:00–20:00（B1F〜11F）",
+  "note": "会場は大丸東京店1階ほっぺタウン。施設（大丸東京店）の営業時間に準ずる。",
+  "source": "https://www.daimaru.co.jp/tokyo/hours.html"
  },
  "ebff69bf9a94": {
   "checked_at": "2026-11-02",

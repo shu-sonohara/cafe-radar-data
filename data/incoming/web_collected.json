@@ -7258,5 +7258,95 @@
   "summary": "期間限定「N.Y.ミルクティーキャラメルサンド」(2個入540円・8個入2,160円)を販売。定番のN.Y.キャラメルサンド等も並ぶ。西武池袋本店地下1階デパチカイベントスペースにて期間限定出店。",
   "collected_at": "2026-11-22",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー"
+  ],
+  "name": "猿田彦珈琲 皇居東御苑店",
+  "area": "大手町・皇居東御苑",
+  "address": "東京都千代田区千代田1-9（皇居東御苑 大手休憩所内）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-03",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://bestcalendar.jp/press/162538",
+   "https://matcha-jp.com/jp/27847"
+  ],
+  "summary": "皇居東御苑の新しい大手休憩所内に猿田彦珈琲がオープン。皇居東御苑ブレンド（深煎り・浅煎り）を提供し、豆・ドリップバッグも販売。46席+スタンディング10席。",
+  "collected_at": "2026-11-23",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "コラボカフェ"
+  ],
+  "name": "MR. MEN LITTLE MISS THE COFFEE STAND",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂二丁目2番1号（渋谷地下街「しぶちか」14番）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-06",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://bestcalendar.jp/press/163803"
+  ],
+  "summary": "サンリオ運営のミスターメン リトルミスのテイクアウト専門コーヒースタンド。コーヒー・ティー・スイーツに加え店舗限定グッズも販売。営業時間9:00〜20:00。",
+  "collected_at": "2026-11-23",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "N.Y.C.SAND（東京玉子本舗）西武池袋ポップアップ",
+  "area": "池袋",
+  "address": "東京都豊島区南池袋1-28-1 西武池袋本店 地下1階 デパチカイベントスペース",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-18",
+   "end": "2026-11-25"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/165371"
+  ],
+  "summary": "東京玉子本舗の〈N.Y.C.SAND〉が期間限定出店。定番N.Y.キャラメルサンドに加え、期間限定のミルクティーキャラメルサンド・スカッチサンドを販売。数量限定。",
+  "collected_at": "2026-11-23",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "大丸東京店 冬のスイーツ催事（ショコラサンド・ロリポップチョコ・わらび餅ほか）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店 1階ほっぺタウン",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-18",
+   "end": "2026-11-24"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/165106"
+  ],
+  "summary": "大丸東京店1階ほっぺタウンでの期間限定スイーツ販売。ショコラサンド・ロリポップチョコ・ツバメヤのわらび餅など（わらび餅のみ12月1日まで販売延長）。",
+  "collected_at": "2026-11-23",
+  "id": ""
  }
 ]

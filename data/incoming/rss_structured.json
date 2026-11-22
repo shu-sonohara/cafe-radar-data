@@ -9319,5 +9319,29 @@
   "summary": "ちいかわと東京ばな奈のコラボポップアップストア。ちいかわバナナプリンケーキや新作ちいかわクッキーサンド（バナナミルク味）を販売。JR東京駅構内グランスタ東京「POP UP GRANSTA GREEN」にて期間限定出店。",
   "collected_at": "2026-11-22",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "スイーツ"
+  ],
+  "name": "A Bite Coffee",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 グランスタ東京 地下（丸の内改札内エリア）",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/152678",
+   "https://www.enjoytokyo.jp/spot/l_20128965/"
+  ],
+  "summary": "BAKEの新ブランド「A Bite Coffee」がJR東京駅グランスタ東京地下にオープン。コーヒー豆を菓子に練り込んだ“食べるコーヒー”体験が中心。",
+  "collected_at": "2026-11-23",
+  "id": ""
  }
 ]

@@ -7,13 +7,6 @@
   "hold_until": "2026-11-24"
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQemk3SEJEdE9qQTVraUhBMndhd0k0eXRtSmRMTkxHRlVuMzBlUUhvYUNTWWNxQlNXNDBwRVFIVW10SllibGtLd0U4YnlGUUU2RTBPck84Tm1nLTNrQmlKSjBfZFlsX1liNkZiM3ZsSXlQcWJ6MmpOVFl2SXh4WC1kbnRUekk1Rk5IdGZTeU1B?oc=5",
-  "title": "JYP FLAGSHIP TOKYO",
-  "note": "3回目再確認も不確定。WebSearch複数（代官山/原宿/渋谷/銀座等）・公式サイト(jype.com)確認も店舗所在地の記載見つからず。銀座の関連ポップアップ記事は期間（〜8/31）から別件/終了済みの可能性。所在地情報が出る媒体が見当たらないため今後の再確認でも見つからない可能性が高い（初出 2026-11-02）",
-  "first_seen": "2026-11-02",
-  "hold_until": "2026-11-23"
- },
- {
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XR21pcDVXRmtYcHZGbXp4SW5zeWJma1FlVHI3VWZQaFVzZEh1Y0V2M3ZHcUFmYnJBMEJFc3djVk02Tm13QkQ4d0FvaWN2TzUxdGF6cw?oc=5",
   "title": "コムサステージ銀座店",
   "note": "11月21日オープン予定、カフェ併設と報道されているが元記事(流通ニュース)・住所・カフェの詳細が検索で確認できず。オープン後に改めて確認",
@@ -33,5 +26,12 @@
   "note": "墨田区にハワイアンパンケーキ専門店が開店と報じられたが元記事が削除され住所・開店日が未確認。ペッパーフード系列の可能性。公式サイトやGoogleマップでの追加確認が必要。",
   "first_seen": "2026-11-21",
   "hold_until": "2026-11-28"
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLQW5VdFRtSWw2bXJsS1NqaFV6Vm1ab0V0dEk5blFleEN5ZllhaHR6UGVtdXJfd001U0FZV1oxWkJtYUJvN3JMaGdMTGxEdGNYLWpMZkhUd09kOXFVekc0Rko0NVd5Y05TSlZNUHdmTQ?oc=5",
+  "title": "知るカフェ 電気通信大学店（仮称）",
+  "note": "2026年10月開設予定（電気通信大学キャンパスC棟1階、約60席の学生向けキャリア支援カフェ、知るカフェ運営のエンリッション）。開店日（何日か）・号室レベルの住所が未確定。店名も(仮称)。既に開業済みかも次回確認（初出 2026-11-23）",
+  "first_seen": "2026-11-23",
+  "hold_until": "2026-11-30"
  }
 ]
