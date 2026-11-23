@@ -2,9 +2,9 @@
  {
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13N3hrV2pTM2M3UWxCTGgyUmRXRWxEalBmTVU1VjN4WXdaQkFDMDdhcnVGVENCWDJlWThhZ0hxcEtpU3VLUHBtTnRlNUZDMnNLcTFCQVZHWlRtREZFaVo4?oc=5",
   "title": "おでカフェ（富士町）",
-  "note": "再確認（2026-11-17）も不可：西東京市富士町の求人以外に『おでカフェ』の情報源なし。公式SNS・開店発表を待つ。（初出 2026-10-27）",
+  "note": "再確認（2026-11-24）も不可：WebSearchで西東京市富士町の求人情報以外に『おでカフェ』の情報源が見つからない。公式SNS・開店発表を待つ。（初出 2026-10-27）",
   "first_seen": "2026-10-27",
-  "hold_until": "2026-11-24"
+  "hold_until": "2026-12-01"
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XR21pcDVXRmtYcHZGbXp4SW5zeWJma1FlVHI3VWZQaFVzZEh1Y0V2M3ZHcUFmYnJBMEJFc3djVk02Tm13QkQ4d0FvaWN2TzUxdGF6cw?oc=5",
@@ -33,5 +33,12 @@
   "note": "2026年10月開設予定（電気通信大学キャンパスC棟1階、約60席の学生向けキャリア支援カフェ、知るカフェ運営のエンリッション）。開店日（何日か）・号室レベルの住所が未確定。店名も(仮称)。既に開業済みかも次回確認（初出 2026-11-23）",
   "first_seen": "2026-11-23",
   "hold_until": "2026-11-30"
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qeVBvdUtKQ24yNXYzdUxQQ1RjVERMbjhMbmlDS3FPTVR5ZGhzTW1SOTlIalpYcmhlRVJTenI2RnZNVHFoUFpRRW1oSmdqd2NXZGpKM0lzQVFJTlY3d0N1M2pocGNEYzFDeGNIMlNYNk5TOU9NN1E?oc=5",
+  "title": "韓国カフェ＆ダイニング リウル（清瀬市）",
+  "note": "清瀬市『東京たーべる』跡地にプレオープンとの報道のみ。WebSearchでは『リウル』の正式表記・住所・プレオープン日が一件も見つからず、記事実URLにもWebFetchで到達できなかった（news.google.comの中間URLのみで元記事を特定できず）。公式SNS・号外NET元記事での確認待ち。",
+  "first_seen": "2026-11-24",
+  "hold_until": "2026-12-01"
  }
 ]
