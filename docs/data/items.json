@@ -1115,6 +1115,8 @@
     "https://www.ryutsuu.biz/store/s061111.html",
     "https://www.fashion-press.net/news/151028",
     "https://www.enjoytokyo.jp/news/205126/",
+    "https://bestcalendar.jp/press/152678",
+    "https://www.enjoytokyo.jp/spot/l_20128965/",
     "https://prtimes.jp/main/html/rd/p/000000308.000014043.html",
     "https://gourmetpress.net/1480765/",
     "https://www.gransta.jp/news/info/marunouchi_kaisatsunairn/"
@@ -3030,10 +3032,12 @@
     "https://prtimes.jp/main/html/rd/p/000000212.000027005.html",
     "https://www.tokyo-np.co.jp/article/513421",
     "https://haveagood-holiday.com/en/articles/sarutahiko-coffee-imperial-palace-east-gardens-opening",
-    "https://www.ryutsuu.biz/store/s090772.html"
+    "https://www.ryutsuu.biz/store/s090772.html",
+    "https://bestcalendar.jp/press/162538",
+    "https://matcha-jp.com/jp/27847"
    ],
    "summary": "皇居東御苑内に新設される「大手休憩所」に猿田彦珈琲が出店。三の丸尚蔵館の全面公開に合わせ11月3日オープン予定。",
-   "collected_at": "2026-11-22",
+   "collected_at": "2026-11-23",
    "id": "9a5d2efd9e23",
    "is_new": true,
    "freshness": 30,
@@ -5752,7 +5756,12 @@
    "id": "2e891af1b6e3",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "月〜土 8:00–22:00／日・祝 8:00–21:00（最終日は20:00閉店）",
+    "closed": null,
+    "checked_at": "2026-11-23",
+    "source": "https://resemom.jp/release/prtimes/20261118/230413.html"
+   }
   },
   {
    "type": "new_cafe",
@@ -6754,7 +6763,12 @@
    "id": "ea283987fb7f",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–20:00（B1F〜11F）",
+    "closed": "無休（1月1日・2日のみ休業）",
+    "checked_at": "2026-11-23",
+    "source": "https://www.daimaru.co.jp/tokyo/hours.html"
+   }
   },
   {
    "type": "popup",
@@ -6779,7 +6793,12 @@
    "id": "4fbf450bfe90",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "10:00–21:00（日曜・祝休日は〜20:00）",
+    "closed": "不定休",
+    "checked_at": "2026-11-23",
+    "source": "https://www.walkerplus.com/article/214099/"
+   }
   }
  ]
 }
