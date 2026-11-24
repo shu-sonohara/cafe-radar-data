@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24",
+ "updated_at": "2026-11-25",
  "items": [
   {
    "type": "new_cafe",
@@ -2310,7 +2310,7 @@
    "collected_at": "2026-08-26",
    "id": "1597d9989874",
    "is_new": false,
-   "freshness": 180,
+   "freshness": 365,
    "hours": {
     "text": "8:00–23:00（フードL.O.22:00・ドリンクL.O.22:30）",
     "closed": "なし（年末年始を除く）",
@@ -4995,36 +4995,6 @@
    "genre": [
     "スイーツ"
    ],
-   "name": "あさぎり牛乳（第18回 IKEBUKUROパン祭）",
-   "area": "池袋",
-   "address": "東京都豊島区西池袋1-1-25",
-   "lat": 35.729939,
-   "lng": 139.71051,
-   "period": {
-    "start": "2026-11-18",
-    "end": "2026-11-24"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000084.000161984.html"
-   ],
-   "summary": "朝霧乳業のミルクスイーツブランド「あさぎり牛乳」が東武百貨店池袋店8階催事場のパン祭に期間限定出店。",
-   "collected_at": "2026-11-03",
-   "id": "1023165fd5b2",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": null,
-    "closed": null,
-    "checked_at": "2026-11-06",
-    "source": null
-   }
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
    "name": "あさぎり牛乳（JR拝島駅）",
    "area": "拝島",
    "address": "東京都昭島市松原町4丁目14番4号",
@@ -5163,7 +5133,7 @@
     "https://bestcalendar.jp/press/163803"
    ],
    "summary": "英国絵本キャラクター「ミスターメン リトルミス」とのコラボコーヒースタンド。コーヒースプリーム（NZ）の豆を使ったコーヒーとドーナツをテイクアウトで提供。",
-   "collected_at": "2026-11-19",
+   "collected_at": "2026-11-25",
    "id": "d309d6e7ed30",
    "is_new": true,
    "freshness": 30,
@@ -5748,7 +5718,7 @@
     "start": "2026-11-24",
     "end": "2026-12-13"
    },
-   "confidence": "unverified",
+   "confidence": "media",
    "sources": [
     "https://resemom.jp/release/prtimes/20261118/230413.html"
    ],
@@ -6635,10 +6605,11 @@
    "confidence": "media",
    "sources": [
     "https://bestcalendar.jp/press/159925",
+    "https://www.enjoytokyo.jp/event/2070810/",
     "https://www.iwafu.com/jp/events/1166905"
    ],
    "summary": "ヒルトン東京お台場3階Captain's Bar&Loungeで、もみの木やトナカイをモチーフにした冬限定のアフタヌーンティーを提供。スコーン・サンドイッチ食べ放題付き。",
-   "collected_at": "2026-11-12",
+   "collected_at": "2026-11-25",
    "id": "b3621959d0e3",
    "is_new": false,
    "freshness": null,
@@ -6708,36 +6679,6 @@
     "closed": null,
     "checked_at": "2026-11-21",
     "source": "https://bestcalendar.jp/press/163991"
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "〈ルぺパン〉フルールドゥボンボン サービスパック（大丸東京店催事）",
-   "area": "東京駅",
-   "address": "東京都千代田区丸の内1丁目9番1号 大丸東京店1階 ほっぺタウン",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-11-18",
-    "end": "2026-11-24"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://bestcalendar.jp/press/165106"
-   ],
-   "summary": "ナッツペーストをチョコレートでコーティングしたロリポップチョコレート「フルールドゥボンボン サービスパック」(21本入1,296円)を1,200個限定で販売。大丸東京店1階ほっぺタウンにて期間限定出店。",
-   "collected_at": "2026-11-22",
-   "id": "ea283987fb7f",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "10:00–20:00（B1F〜11F）",
-    "closed": "無休（1月1日・2日のみ休業）",
-    "checked_at": "2026-11-23",
-    "source": "https://www.daimaru.co.jp/tokyo/hours.html"
    }
   },
   {
