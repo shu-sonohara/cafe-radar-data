@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23",
+ "updated_at": "2026-11-24",
  "items": [
   {
    "type": "new_cafe",
@@ -4350,7 +4350,8 @@
    "sources": [
     "https://prtimes.jp/main/html/rd/p/000000141.000007029.html",
     "https://www.wwdjapan.com/?p=2532364",
-    "https://co-trip.jp/article/738563"
+    "https://co-trip.jp/article/738563",
+    "https://matcha-jp.com/jp/27854"
    ],
    "summary": "スワロフスキー銀座2階に期間限定カフェ「Café Swarovski」がオープン。パティシエ江藤英樹氏監修のスイーツやNespressoコーヒー、モクテルなどを提供。予約優先・90分制。",
    "collected_at": "2026-10-21",
@@ -6492,37 +6493,6 @@
     "closed": null,
     "checked_at": "2026-11-08",
     "source": "https://www.enjoytokyo.jp/event/2000823/"
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "横浜バニラ POP UP GRANSTA GREEN",
-   "area": "東京駅",
-   "address": "東京都千代田区丸の内1-9-1 JR東京駅構内1階（改札内）",
-   "lat": 35.681252,
-   "lng": 139.767242,
-   "period": {
-    "start": "2026-11-02",
-    "end": "2026-11-23"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://bestcalendar.jp/press/162431",
-    "https://haveagood-holiday.com/en/articles/yokohama-vanilla-gransta-tokyo-popup"
-   ],
-   "summary": "ブランド刷新後初のポップアップとして、JR東京駅構内「グランスタ東京 POP UP GRANSTA GREEN」で横浜バニラが期間限定出店。塩バニラフィナンシェ等を予約不要・先着販売。",
-   "collected_at": "2026-11-08",
-   "id": "2aa3d112d5cf",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "8:00–22:00（日・祝8:00–21:00、施設に準ずる・店舗により異なる）",
-    "closed": null,
-    "checked_at": "2026-11-08",
-    "source": "https://www.gotokyo.org/jp/spot/834/index.html"
    }
   },
   {
