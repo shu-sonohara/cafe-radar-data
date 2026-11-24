@@ -9343,5 +9343,28 @@
   "summary": "BAKEの新ブランド「A Bite Coffee」がJR東京駅グランスタ東京地下にオープン。コーヒー豆を菓子に練り込んだ“食べるコーヒー”体験が中心。",
   "collected_at": "2026-11-23",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ",
+   "コラボカフェ"
+  ],
+  "name": "ちいかわ×東京ばな奈 ポップアップストア(グランスタ東京)",
+  "area": "東京駅",
+  "address": "東京都千代田区丸の内1-9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-24",
+   "end": "2026-12-13"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://resemom.jp/release/prtimes/20261118/230413.html"
+  ],
+  "summary": "グランスタ東京の「POP UP GRANSTA GREEN」にちいかわ×東京ばな奈のポップアップストアが期間限定オープン。ちいかわバナナプリンケーキやちいかわクッキーサンドなどを販売。",
+  "collected_at": "2026-11-25",
+  "id": ""
  }
 ]

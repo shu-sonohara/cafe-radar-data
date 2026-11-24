@@ -7371,5 +7371,50 @@
   "summary": "スワロフスキー銀座の2階に期間限定オープンしたブランドコラボカフェ。クリスマス限定スイーツを提供。予約優先・90分制、営業時間11:00〜20:00。",
   "collected_at": "2026-11-24",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "コーヒー",
+   "コラボカフェ"
+  ],
+  "name": "MR. MEN LITTLE MISS THE COFFEE STAND",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂2-2-1 渋谷地下街(しぶちか)14番",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-06",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://bestcalendar.jp/press/163803"
+  ],
+  "summary": "サンリオ運営によるMR. MEN LITTLE MISSのテイクアウト専門コーヒースタンドが渋谷地下街「しぶちか」にオープン。フィルターコーヒーやドーナツ、ティー、ソーダ、クッキーなどを提供。",
+  "collected_at": "2026-11-25",
+  "id": ""
+ },
+ {
+  "type": "event",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "フェスティブアフタヌーンティー(ヒルトン東京お台場)",
+  "area": "お台場",
+  "address": "東京都港区台場1-9-1",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-12-01",
+   "end": "2027-01-17"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2070810/"
+  ],
+  "summary": "ヒルトン東京お台場3階「Captain's Bar&Lounge」で、旬のいちごやもみの木・トナカイをモチーフにしたクリスマス仕様のアフタヌーンティーを提供。スコーン・サンドイッチは食べ放題。",
+  "collected_at": "2026-11-25",
+  "id": ""
  }
 ]
