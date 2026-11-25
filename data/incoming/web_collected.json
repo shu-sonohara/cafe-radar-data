@@ -7416,5 +7416,27 @@
   "summary": "ヒルトン東京お台場3階「Captain's Bar&Lounge」で、旬のいちごやもみの木・トナカイをモチーフにしたクリスマス仕様のアフタヌーンティーを提供。スコーン・サンドイッチは食べ放題。",
   "collected_at": "2026-11-25",
   "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "スイーツ"
+  ],
+  "name": "SNOWS POP UP STORE",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店 1階イベントスペース",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-26",
+   "end": "2026-12-09"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.wwdjapan.com/?p=2267662"
+  ],
+  "summary": "北海道の冬季限定スイーツブランド〈SNOWS〉のポップアップ。チョコレート菓子「スノーサンド」「とんとんぱらぱら」、数量限定「スノーボール 赤」を販売。",
+  "collected_at": "2026-11-26",
+  "id": ""
  }
 ]

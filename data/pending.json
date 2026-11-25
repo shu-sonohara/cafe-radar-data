@@ -7,13 +7,6 @@
   "hold_until": "2026-12-01"
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XR21pcDVXRmtYcHZGbXp4SW5zeWJma1FlVHI3VWZQaFVzZEh1Y0V2M3ZHcUFmYnJBMEJFc3djVk02Tm13QkQ4d0FvaWN2TzUxdGF6cw?oc=5",
-  "title": "コムサステージ銀座店",
-  "note": "11月21日オープン予定、カフェ併設と報道されているが元記事(流通ニュース)・住所・カフェの詳細が検索で確認できず。オープン後に改めて確認",
-  "first_seen": "2026-11-19",
-  "hold_until": "2026-11-26"
- },
- {
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMW4yVUVIU20wcDBMclRLOE9oUGI5NTZnbURLQy0zWUdPVEpYdnVvODdJN1JLbWx5UnhVcWFvTlF2TlFOOXdBbEI4a2YzdHlqemh5MzR1ZTBQMzNqNnBiWWF0MVdYTjNyTXRESmNvc0RWLXFxOUVNcGxyQWZKN0R1SUFVTnhyQTI5aXVyc08wSQ?oc=5",
   "title": "ちいかわ×東京ばな奈 ポップアップストア in 東京駅(11/24開催報道)",
   "note": "記事タイトルは11月24日東京駅開催と主張するが、WebSearchで実URL・会場・期間を複数回試みても特定できず(過去開催はグランスタ東京/東京ソラマチ/大宮など複数箇所で混在)。公式サイト・prtimes.jpでの直接確認が必要。",
@@ -40,5 +33,26 @@
   "note": "清瀬市『東京たーべる』跡地にプレオープンとの報道のみ。WebSearchでは『リウル』の正式表記・住所・プレオープン日が一件も見つからず、記事実URLにもWebFetchで到達できなかった（news.google.comの中間URLのみで元記事を特定できず）。公式SNS・号外NET元記事での確認待ち。",
   "first_seen": "2026-11-24",
   "hold_until": "2026-12-01"
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBScm5tN2VHY3FCaWJ5NU1oRHhQTmJFa0IxVHY4ZU5NWmd1b3dCbndfNUNuRlQwWVdEa0ZSWDhVQkxwX0pXWEMyM1E0OWRnQXB3TXVSZ0RRN1pLTHJxU2EwdGEtbmhUekVVMF9fTHRPNUdiUQ?oc=5",
+  "title": "皇居「大手休憩所」カフェ（三の丸尚蔵館）",
+  "note": "三の丸尚蔵館全面開館(2026年秋)に合わせ皇居内に初のカフェ入り休憩施設「大手休憩所」が開業予定。店名・正式な営業開始日が未確認。既存の猿田彦珈琲 皇居東御苑店とは別施設。",
+  "first_seen": "2026-11-26",
+  "hold_until": "2026-12-03"
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aSDZQY21Ra0VSRFg0VU9tVDRjSzRzSFV2NEZRRDBIbjRhUmNWWVFMSm51enFoWTM3NHpXcG1xSjBHaTVMQjE3bHpvTDFBc19LazJCdThFX29nMnEzaTJDMElscXVBVDVoYTVtSmFtQXg?oc=5",
+  "title": "本と喫茶パラード（上馬）",
+  "note": "世田谷区上馬へ移転オープン(2026-09-11)。弦巻通り沿いの立地だが丁目・番地が未確認。",
+  "first_seen": "2026-11-26",
+  "hold_until": "2026-12-03"
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sOWlQMkhVRDNFbVhEaVdjMVAzQjkwUlpPdXVZV19mdmI5eTkwWEJSY0xQLWZ6dXhyTjBRMmtFUlNJMWVyUlo4M0dXTm05bmpSd2c?oc=5",
+  "title": "ANELLA CAFE 新宿四ツ谷店（保護犬・保護猫カフェ）",
+  "note": "新宿店から移転し2026-10-09オープン。防衛省正面・四ツ谷/市ヶ谷/曙橋/四谷三丁目駅圏内だが丁目・番地が未確認。",
+  "first_seen": "2026-11-26",
+  "hold_until": "2026-12-03"
  }
 ]

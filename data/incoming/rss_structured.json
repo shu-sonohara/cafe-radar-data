@@ -9366,5 +9366,74 @@
   "summary": "グランスタ東京の「POP UP GRANSTA GREEN」にちいかわ×東京ばな奈のポップアップストアが期間限定オープン。ちいかわバナナプリンケーキやちいかわクッキーサンドなどを販売。",
   "collected_at": "2026-11-25",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "コムサステージ銀座店",
+  "area": "銀座",
+  "address": "東京都中央区銀座1丁目4-13 GINZA SAKURA PLAZA 1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-21",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.wwdjapan.com/?p=2555364",
+   "https://www.haveagood-holiday.com/en/articles/comme-ca-stage-ginza-opening-2026"
+  ],
+  "summary": "ファッションブランド「コムサステージ」の銀座旗艦店が2026年11月21日オープン。1階にコーヒーや焼き菓子を楽しめるカフェ（17席）、2階にブティックを併設。",
+  "collected_at": "2026-11-26",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "OH MY CAFE「ティム・バートンのナイトメアー・ビフォア・クリスマス」",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前4-12-10 表参道ヒルズ本館 地下3階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-19",
+   "end": "2027-01-31"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.enjoytokyo.jp/event/2091285/"
+  ],
+  "summary": "ディズニー映画「ナイトメアー・ビフォア・クリスマス」をテーマにしたコラボカフェ。ジャックやサリーをイメージしたフードメニュー、オリジナルグッズを展開。",
+  "collected_at": "2026-11-26",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "ミッフィーほかほかダイニング",
+  "area": "押上・東京ソラマチ",
+  "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・東京ソラマチ タワーヤード1階 BOX cafe＆space東京ソラマチ店",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-10-31",
+   "end": "2027-01-24"
+  },
+  "confidence": "media",
+  "sources": [
+   "https://www.walkerplus.com/article/1451409/"
+  ],
+  "summary": "ミッフィーをテーマにした温かいメニュー中心の期間限定コラボカフェ。グラタンパイやビーフシチューハンバーグ、パフェなどを提供。",
+  "collected_at": "2026-11-26",
+  "id": ""
  }
 ]
