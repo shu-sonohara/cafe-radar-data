@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25",
+ "updated_at": "2026-11-26",
  "items": [
   {
    "type": "new_cafe",
@@ -4428,38 +4428,6 @@
    }
   },
   {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "YOLU MELLOW NIGHT Cafe（MOSKA by GingerGarden）",
-   "area": "表参道",
-   "address": "東京都港区北青山3-12-12 HOLON-R 3階",
-   "lat": 35.663441,
-   "lng": 139.710175,
-   "period": {
-    "start": "2026-11-19",
-    "end": "2026-11-25"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.wwdjapan.com/?p=2530114",
-    "https://www.fashionsnap.com/article/2026-11-02/yolu-collaboration-cafe/"
-   ],
-   "summary": "ナイトケアブランド「YOLU」が表参道のモスカ バイ ジンジャーガーデンとコラボし、期間限定の予約制夜カフェを開催。限定パフェ「ヨル メロウナイト パフェ」やコラボモクテル、ヘアマスクつき特別メニューを提供。",
-   "collected_at": "2026-11-11",
-   "id": "b6251a16b89c",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "18:30–20:30（2時間制）",
-    "closed": null,
-    "checked_at": "2026-11-06",
-    "source": "https://www.wwdjapan.com/?p=2530114"
-   }
-  },
-  {
    "type": "new_cafe",
    "genre": [
     "カフェ",
@@ -4988,36 +4956,6 @@
     "closed": "なし（臨時休業あり）",
     "checked_at": "2026-11-04",
     "source": "https://prtimes.jp/main/html/rd/p/000000001.000193787.html"
-   }
-  },
-  {
-   "type": "event",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "あさぎり牛乳（JR拝島駅）",
-   "area": "拝島",
-   "address": "東京都昭島市松原町4丁目14番4号",
-   "lat": 35.720718,
-   "lng": 139.343307,
-   "period": {
-    "start": "2026-11-12",
-    "end": "2026-11-25"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000084.000161984.html"
-   ],
-   "summary": "朝霧乳業のミルクスイーツブランド「あさぎり牛乳」がJR拝島駅構内に期間限定出店。",
-   "collected_at": "2026-11-03",
-   "id": "cde82118de2f",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": null,
-    "closed": null,
-    "checked_at": "2026-11-06",
-    "source": null
    }
   },
   {
@@ -6679,36 +6617,6 @@
     "closed": null,
     "checked_at": "2026-11-21",
     "source": "https://bestcalendar.jp/press/163991"
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "スイーツ"
-   ],
-   "name": "N.Y.C.SAND（西武池袋本店催事・N.Y.ミルクティーキャラメルサンド）",
-   "area": "池袋",
-   "address": "東京都豊島区南池袋1丁目28番1号 西武池袋本店地下1階 デパチカイベントスペース",
-   "lat": 35.727081,
-   "lng": 139.710495,
-   "period": {
-    "start": "2026-11-18",
-    "end": "2026-11-25"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://bestcalendar.jp/press/165371"
-   ],
-   "summary": "期間限定「N.Y.ミルクティーキャラメルサンド」(2個入540円・8個入2,160円)を販売。定番のN.Y.キャラメルサンド等も並ぶ。西武池袋本店地下1階デパチカイベントスペースにて期間限定出店。",
-   "collected_at": "2026-11-22",
-   "id": "4fbf450bfe90",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "10:00–21:00（日曜・祝休日は〜20:00）",
-    "closed": "不定休",
-    "checked_at": "2026-11-23",
-    "source": "https://www.walkerplus.com/article/214099/"
    }
   }
  ]

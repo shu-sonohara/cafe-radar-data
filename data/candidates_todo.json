@@ -1,5 +1,15 @@
 [
  {
+  "source": "pending:再確認",
+  "title": "コムサステージ銀座店",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XR21pcDVXRmtYcHZGbXp4SW5zeWJma1FlVHI3VWZQaFVzZEh1Y0V2M3ZHcUFmYnJBMEJFc3djVk02Tm13QkQ4d0FvaWN2TzUxdGF6cw?oc=5",
+  "also_urls": [],
+  "published": "",
+  "published_date": "2026-11-19",
+  "seen_at": "2026-11-19",
+  "summary": "【保留の再確認】11月21日オープン予定、カフェ併設と報道されているが元記事(流通ニュース)・住所・カフェの詳細が検索で確認できず。オープン後に改めて確認（初出 2026-11-19）"
+ },
+ {
   "source": "gnews:東京 コーヒースタンド オープン",
   "title": "12月1日、名古屋にオープン！\"謎を解かないと帰れないカフェ\"はてな珈琲店が東海初上陸 - Infoseek",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fN0ZpQl83dzMxeTVqZlM1VVdFTm9EVkZmWmpVakdQY3ZnZTR6WWpmR3BrWjh5WGdudVFMUUNJUGF6aW1LMTNEVm1keXVwWDJhODhaQjRLQnlnSVYxa2liaDlPZWpXN1lwS2R1aW5IN0tHQQ?oc=5",
@@ -70,16 +80,6 @@
   "also_urls": []
  },
  {
-  "source": "gnews:東京 コーヒースタンド オープン",
-  "title": "コーヒー豆の個性を、食べて味わう。「MOKABLE COFFEE CRAFT」が東京・蔵前にオープン！ - STORY",
-  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzUTRuY3BKTDhIQzFuWTV2dm5aM0Zoa21vTnR1R2dIbXloTkZORGQ2c05UZWZhM05ndGQ0bUhibGJFbERNbkRmYUhhRlkyQQ?oc=5",
-  "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzUTRuY3BKTDhIQzFuWTV2dm5aM0Zoa21vTnR1R2dIbXloTkZORGQ2c05UZWZhM05ndGQ0bUhibGJFbERNbkRmYUhhRlkyQQ?oc=5\" target=\"_blank\">コーヒー豆の個性を、食べて味わう。「MOKABLE COFFEE CRAFT」が東京・蔵前にオープン！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STORY</font>",
-  "seen_at": "2026-11-22",
-  "published_date": "2026-10-09",
-  "also_urls": []
- },
- {
   "source": "gnews:東京 カフェ オープン",
   "title": "保護犬・保護猫とふれあえるカフェが移転オープン！未就学児は無料 東京・新宿四ツ谷 - いこーよニュース",
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sOWlQMkhVRDNFbVhEaVdjMVAzQjkwUlpPdXVZV19mdmI5eTkwWEJSY0xQLWZ6dXhyTjBRMmtFUlNJMWVyUlo4M0dXTm05bmpSd2c?oc=5",
@@ -116,6 +116,26 @@
   "published": "",
   "summary": "[株式会社ドウシシャ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/28427/1008/28427-1008-4ffc1543ed10c82dd63721c8a924e009-1920x1280.jpg?width=536&amp;quality=85%2C75&amp;format=jpeg&amp;auto=webp&amp;fit=bound...",
   "seen_at": "2026-11-25",
+  "published_date": null,
+  "also_urls": []
+ },
+ {
+  "source": "prtimes_all",
+  "title": "【gelato pique cafe】チョコレートのマフラーを巻いた愛らしいベアのクレープが登場！心弾むホリデーシーズンに贈る”Merry Bear Holiday“フェアを開催",
+  "url": "https://prtimes.jp/main/html/rd/p/000004668.000018505.html",
+  "published": "",
+  "summary": "[株式会社マッシュホールディングス]\n株式会社マッシュフードラボ(代表取締役社長：金澤一広、本社：東京都千代田区)が運営するgelato pique cafe（ジェラート ピケ カフェ）は、クリスマスを彩る期間限定フェア”Merry Bear Holiday（メリーベアホリ...",
+  "seen_at": "2026-11-26",
+  "published_date": null,
+  "also_urls": []
+ },
+ {
+  "source": "prtimes_all",
+  "title": "【GELATO PIQUE HOMME】松坂屋名古屋店にて「LIMITED CONCEPT STORE」を期間限定オープン！＜2026年12月2日（水）～12月25日（金）＞",
+  "url": "https://prtimes.jp/main/html/rd/p/000004623.000018505.html",
+  "published": "",
+  "summary": "[株式会社マッシュホールディングス]\n株式会社マッシュスタイルラボ（所在地：東京都千代田区／代表取締役社長：近藤広幸）が展開するメンズルームウェアブランド「GELATO PIQUE HOMME（ジェラート ピケ オム）」は、2026年12月2日（水）～12月25日（...",
+  "seen_at": "2026-11-26",
   "published_date": null,
   "also_urls": []
  }
