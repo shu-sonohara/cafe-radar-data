@@ -4698,7 +4698,7 @@
     "https://www.walkerplus.com/article/1451409/"
    ],
    "summary": "ミッフィーをテーマにした期間限定コラボカフェ。冬向けの温かいメニューが中心で、グラタンパイやスープを提供。事前予約制(1名660円、先着順)。",
-   "collected_at": "2026-11-21",
+   "collected_at": "2026-11-26",
    "id": "1713d5515ea5",
    "is_new": false,
    "freshness": null,
@@ -5132,7 +5132,8 @@
    "confidence": "media",
    "sources": [
     "https://www.fashion-press.net/news/152928",
-    "https://news.denfaminicogamer.jp/news/2611052c"
+    "https://news.denfaminicogamer.jp/news/2611052c",
+    "https://www.enjoytokyo.jp/event/2091285/"
    ],
    "summary": "ハロウィンタウン仕様のクリスマスを楽しめるコラボカフェ。ジャックの「ハロウィンナイトシチュー」やサリーの「花占いパフェ」などキャラクターモチーフのメニューを提供。",
    "collected_at": "2026-11-06",
@@ -5671,6 +5672,32 @@
     "checked_at": "2026-11-23",
     "source": "https://resemom.jp/release/prtimes/20261118/230413.html"
    }
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "コムサステージ銀座店",
+   "area": "銀座",
+   "address": "東京都中央区銀座1丁目4-13 GINZA SAKURA PLAZA 1F",
+   "lat": 35.675285,
+   "lng": 139.766708,
+   "period": {
+    "start": "2026-11-21",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://www.wwdjapan.com/?p=2555364",
+    "https://www.haveagood-holiday.com/en/articles/comme-ca-stage-ginza-opening-2026"
+   ],
+   "summary": "ファッションブランド「コムサステージ」の銀座旗艦店が2026年11月21日オープン。1階にコーヒーや焼き菓子を楽しめるカフェ（17席）、2階にブティックを併設。",
+   "collected_at": "2026-11-26",
+   "id": "53f4a48217ff",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
   },
   {
    "type": "new_cafe",
