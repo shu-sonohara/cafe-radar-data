@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26",
+ "updated_at": "2026-11-27",
  "items": [
   {
    "type": "new_cafe",
@@ -26,8 +26,8 @@
    "summary": "東京国立博物館の東洋館別棟1階に「THE RESTAURANT 東京国立博物館」と「ガーデンカフェ」が2026年8月28日にオープン。旬を味わう「東博御膳」や東博カツサンドなどが提供される。法隆寺宝物館では別途「鮨会席 おく乃」が9月30日に開業予定。",
    "collected_at": "2026-08-22",
    "id": "e15b2fdb8e40",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": "THE RESTAURANT 10:30–17:00（L.O.フード16:00/ドリンク16:30）、金・土は10:30–20:00（L.O.フード19:00/ドリンク19:30）／ガーデンカフェ 9:30–17:00、金・土は9:30–20:00",
     "closed": "東京国立博物館の休館日に準ずる",
@@ -737,8 +737,8 @@
    "summary": "メイドカフェチェーン「めいどりーみん」の新宿エリア2店舗目「めいどりーみん 新宿店」が2026年8月28日11:30グランドオープン予定。記念企画や限定商品販売、Vライバーコラボを実施。",
    "collected_at": "2026-08-22",
    "id": "a7d83ce2073b",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": null,
     "closed": null,
@@ -2407,8 +2407,8 @@
    "summary": "英国発「ユニバーサルワークス」が日本初の直営店を阪急メンズ東京6階に2026年8月28日オープン。ブランド初のカフェスペース「ユニバーサルワークス キャンティーン」を併設。",
    "collected_at": "2026-10-17",
    "id": "59140866093b",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": null,
     "closed": null,
@@ -3195,8 +3195,8 @@
    "summary": "東京国立博物館の館内レストラン3店舗リニューアルの一環として、東洋館別棟前に「Garden Café」がオープン。ソフトクリームやフレッシュジュースなど軽食を提供。",
    "collected_at": "2026-09-08",
    "id": "42aa35861914",
-   "is_new": true,
-   "freshness": 90,
+   "is_new": false,
+   "freshness": 180,
    "hours": {
     "text": "9:30–17:00、金・土は9:30–20:00",
     "closed": "東京国立博物館の休館日に準ずる",
@@ -5995,38 +5995,6 @@
     "closed": "日曜",
     "checked_at": "2026-11-01",
     "source": "https://8dabe.com/2026/09/25/komugisaku-bakery/"
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "『逆転裁判』シリーズ25周年コラボ（カプコンカフェ池袋店）",
-   "area": "池袋",
-   "address": "東京都豊島区東池袋1丁目30番3号 グランドスケープ池袋3F",
-   "lat": 35.730762,
-   "lng": 139.716202,
-   "period": {
-    "start": "2026-10-09",
-    "end": "2026-11-26"
-   },
-   "confidence": "official",
-   "sources": [
-    "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/topics/3080/",
-    "https://prtimes.jp/main/html/rd/p/000006033.000013450.html"
-   ],
-   "summary": "『逆転裁判』シリーズ25周年を記念したコラボがカプコンカフェ池袋店で開催。オリジナルグッズとコラボメニューを展開。",
-   "collected_at": "2026-09-28",
-   "id": "9d4a5cbc58f7",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "10:00–21:00（予約・フリー入場共に最終受付19:20）",
-    "closed": null,
-    "checked_at": "2026-11-06",
-    "source": "http://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/"
    }
   },
   {
