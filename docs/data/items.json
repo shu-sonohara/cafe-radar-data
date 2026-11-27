@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27",
+ "updated_at": "2026-11-28",
  "items": [
   {
    "type": "new_cafe",
@@ -4886,7 +4886,7 @@
     "https://www.timeout.jp/tokyo/ja/レストラン/wr-yoyogi-park"
    ],
    "summary": "人気ビストロ監修のオールデイダイニング&カフェ。朝はコーヒー・パンケーキ、昼はサンドイッチ、夜はビストロ料理とナチュラルワインを提供。",
-   "collected_at": "2026-11-21",
+   "collected_at": "2026-11-28",
    "id": "35d5621b47b9",
    "is_new": true,
    "freshness": 30,
@@ -5508,7 +5508,7 @@
    "collected_at": "2026-11-18",
    "id": "313d7ed4df75",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "10:00–19:00（売り切れ次第終了）",
     "closed": "無休",
@@ -5728,7 +5728,12 @@
    "id": "a914aeefc7cc",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-28",
+    "source": null
+   }
   },
   {
    "type": "popup",
@@ -5754,7 +5759,12 @@
    "id": "9181c14e8a50",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": "11:00–21:00",
+    "closed": null,
+    "checked_at": "2026-11-28",
+    "source": "https://prtimes.jp/main/html/rd/p/000000039.000064119.html"
+   }
   },
   {
    "type": "popup",
@@ -5781,7 +5791,12 @@
    "id": "29c46d58c3e0",
    "is_new": false,
    "freshness": null,
-   "hours": null
+   "hours": {
+    "text": null,
+    "closed": null,
+    "checked_at": "2026-11-28",
+    "source": null
+   }
   },
   {
    "type": "new_cafe",
@@ -5806,7 +5821,12 @@
    "id": "c0281eddd553",
    "is_new": true,
    "freshness": 30,
-   "hours": null
+   "hours": {
+    "text": "10:00–17:00（カフェ＆デリ）/ 18:00–22:00（Supper Club・完全予約制）",
+    "closed": "日曜・祝日・年末年始（施設に準ずる）",
+    "checked_at": "2026-11-28",
+    "source": "https://prtimes.jp/main/html/rd/p/000000799.000025105.html"
+   }
   },
   {
    "type": "event",
@@ -5831,6 +5851,114 @@
    "id": "93509326029b",
    "is_new": false,
    "freshness": null,
+   "hours": {
+    "text": "月～木 12:00–20:00（最終受付18:00）/ 金 12:00–21:00（最終受付19:00）/ 土 11:30–21:00（最終受付19:00）/ 日祝 11:30–20:00（最終受付18:00）",
+    "closed": null,
+    "checked_at": "2026-11-28",
+    "source": "https://prtimes.jp/main/html/rd/p/000000223.000042655.html"
+   }
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "カフェ・ミケランジェロ 日本橋",
+   "area": "日本橋",
+   "address": "東京都中央区日本橋1丁目3-13 東京建物日本橋ビル1F",
+   "lat": 35.682899,
+   "lng": 139.773224,
+   "period": {
+    "start": "2027-01-25",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000280.000097330.html"
+   ],
+   "summary": "代官山発の人気イタリアンカフェ「カフェ・ミケランジェロ」が日本橋交差点近くに新店舗をオープン。代官山の人気パスタやヨーロッパ各地の料理を提供する。",
+   "collected_at": "2026-11-28",
+   "id": "6300d981b492",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "ベーカリー",
+    "コラボカフェ"
+   ],
+   "name": "ちいかわベーカリー mini（大丸東京店）",
+   "area": "東京駅・丸の内",
+   "address": "東京都千代田区丸の内1-9-1 大丸東京店 地階",
+   "lat": 35.681252,
+   "lng": 139.767242,
+   "period": {
+    "start": "2026-12-18",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000341.000086964.html"
+   ],
+   "summary": "東京駅直結の大丸東京店地下1階に「ちいかわベーカリー mini」が初出店。ちいかわ・ハチワレ・うさぎの顔パン3種セットやオリジナルグッズを展開する。",
+   "collected_at": "2026-11-28",
+   "id": "d6ed05bf1968",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "Paul's Tea Shop",
+   "area": "表参道",
+   "address": "東京都渋谷区神宮前4-6-8 LOTUS 2F",
+   "lat": 35.668438,
+   "lng": 139.712128,
+   "period": {
+    "start": "2026-12-01",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000039.000064119.html"
+   ],
+   "summary": "ポール・スミス日本初のポップアップカフェ。英国の伝統的なティールームをモダンに表現し、福岡のベーカリー「パンストック」とのコラボでサンドイッチやアフタヌーンティーを提供する。",
+   "collected_at": "2026-11-28",
+   "id": "90a1d325d7f1",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "s（サカイ）",
+   "area": "中目黒",
+   "address": "東京都目黒区上目黒1-11-1 OAK BLDG Ⅱ 1階",
+   "lat": 35.646988,
+   "lng": 139.699203,
+   "period": {
+    "start": "2026-12-21",
+    "end": null
+   },
+   "confidence": "media",
+   "sources": [
+    "https://news.yahoo.co.jp/articles/50721b4934870d0e70dd4e0386722f4e0b18f7cf"
+   ],
+   "summary": "ファッションブランド「サカイ」が新業態のカフェ「s」を中目黒にオープン。内装は関祐介、食器はユージーン・ワンが担当し、山梨・甲府「アキトコーヒー」が焙煎したコーヒーを提供する。",
+   "collected_at": "2026-11-28",
+   "id": "ca3abf3e7a57",
+   "is_new": true,
+   "freshness": 30,
    "hours": null
   },
   {
@@ -6129,37 +6257,6 @@
     "closed": "日曜",
     "checked_at": "2026-11-01",
     "source": "https://8dabe.com/2026/09/25/komugisaku-bakery/"
-   }
-  },
-  {
-   "type": "popup",
-   "genre": [
-    "カフェ",
-    "コラボカフェ"
-   ],
-   "name": "カプコンカフェ池袋店「逆転裁判」シリーズ25周年コラボ",
-   "area": "池袋",
-   "address": "東京都豊島区東池袋1丁目30番3号 グランドスケープ池袋 3F",
-   "lat": 35.730762,
-   "lng": 139.716202,
-   "period": {
-    "start": "2026-10-09",
-    "end": "2026-11-27"
-   },
-   "confidence": "media",
-   "sources": [
-    "https://www.appbank.net/2026/09/20/casual-food/3109555.php"
-   ],
-   "summary": "ゲーム『逆転裁判』シリーズ25周年を記念したコラボが常設のカプコンカフェ池袋店で開催。限定グッズ・コラボメニューを展開。",
-   "collected_at": "2026-10-01",
-   "id": "8d7bd7b83d25",
-   "is_new": false,
-   "freshness": null,
-   "hours": {
-    "text": "10:00–21:00（予約・フリー入場共に最終受付19:20）",
-    "closed": null,
-    "checked_at": "2026-11-06",
-    "source": "http://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/"
    }
   },
   {
@@ -6554,7 +6651,7 @@
    "collected_at": "2026-11-07",
    "id": "77999f039f35",
    "is_new": true,
-   "freshness": 30,
+   "freshness": 90,
    "hours": {
     "text": "7:00–22:00（オープン初日10/28のみ10:00開店）",
     "closed": "不定休",
