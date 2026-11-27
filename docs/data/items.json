@@ -5697,6 +5697,140 @@
    "id": "53f4a48217ff",
    "is_new": true,
    "freshness": 30,
+   "hours": {
+    "text": "11:00–20:00",
+    "closed": null,
+    "checked_at": "2026-11-27",
+    "source": "https://online.fivefoxes.co.jp/topics/ccm-grandopen_ginzastage"
+   }
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "葬送のフリーレンCafe ～Winter Journey～（東京会場）",
+   "area": "新宿駅",
+   "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+   "lat": 35.691784,
+   "lng": 139.700775,
+   "period": {
+    "start": "2026-12-17",
+    "end": "2027-02-07"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000340.000086964.html"
+   ],
+   "summary": "TVアニメ『葬送のフリーレン』のテーマカフェ「Winter Journey」が東京・大阪で開催。東京会場はBOX cafe&space ルミネエスト新宿1号店。フリーレン・ヒンメル・フェルン・シュタルクをイメージしたスープや魔導書サンド、再販売のミミックサンドなどを提供。",
+   "collected_at": "2026-11-27",
+   "id": "a914aeefc7cc",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "Paul's Tea Shop A Pop up Café by Paul Smith",
+   "area": "表参道",
+   "address": "東京都渋谷区神宮前4-6-8 LOTUS 2F",
+   "lat": 35.668438,
+   "lng": 139.712128,
+   "period": {
+    "start": "2026-12-01",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000039.000064119.html"
+   ],
+   "summary": "ポール・スミスが日本初のポップアップカフェ「Paul's Tea Shop」を表参道LOTUS 2階にオープン。福岡のベーカリー「パンストック」とのコラボサンドイッチやアフタヌーンティーを提供。営業時間11:00〜21:00。",
+   "collected_at": "2026-11-27",
+   "id": "9181c14e8a50",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "popup",
+   "genre": [
+    "カフェ",
+    "コラボカフェ"
+   ],
+   "name": "「ストレンジャー・シングス 未知の世界」10周年記念CAFE（東京会場）",
+   "area": "渋谷駅",
+   "address": "東京都渋谷区渋谷3丁目27-11 GEMS渋谷3階",
+   "lat": 35.655605,
+   "lng": 139.704498,
+   "period": {
+    "start": "2026-12-11",
+    "end": "2027-01-11"
+   },
+   "confidence": "media",
+   "sources": [
+    "https://dtimes.jp/post-1479615/",
+    "https://www.fashion-press.net/news/153830"
+   ],
+   "summary": "Netflix『ストレンジャー・シングス 未知の世界』配信10周年を記念したテーマカフェがBOX cafe&space GEMS渋谷店で期間限定開催。デモゴルゴンのドーナツやアップサイドダウン チキンバーガーなど各シーズンをモチーフにしたメニューを提供。",
+   "collected_at": "2026-11-27",
+   "id": "29c46d58c3e0",
+   "is_new": false,
+   "freshness": null,
+   "hours": null
+  },
+  {
+   "type": "new_cafe",
+   "genre": [
+    "カフェ"
+   ],
+   "name": "Littlemakers（The Visitor Place内）",
+   "area": "大手町",
+   "address": "東京都千代田区内神田一丁目1番16号 大手町ゲートビルディング 1F",
+   "lat": 35.689308,
+   "lng": 139.766678,
+   "period": {
+    "start": "2026-11-30",
+    "end": null
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000799.000025105.html"
+   ],
+   "summary": "大手町ゲートビルディング1Fに観光案内所併設のカフェ&レストラン「Littlemakers」が開業。発酵文化をテーマに昼はカフェ・デリ、夜はSupper Clubとして営業。KAIグループ運営。",
+   "collected_at": "2026-11-27",
+   "id": "c0281eddd553",
+   "is_new": true,
+   "freshness": 30,
+   "hours": null
+  },
+  {
+   "type": "event",
+   "genre": [
+    "スイーツ"
+   ],
+   "name": "立川いちごのアフタヌーンティー",
+   "area": "代々木",
+   "address": "東京都渋谷区代々木2-2-1 小田急ホテルセンチュリーサザンタワー ラウンジ サウスコート（20階）",
+   "lat": 35.685749,
+   "lng": 139.700729,
+   "period": {
+    "start": "2026-12-26",
+    "end": "2027-03-31"
+   },
+   "confidence": "official",
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000223.000042655.html"
+   ],
+   "summary": "東京産「立川いちご」を主役にした期間限定アフタヌーンティー。ショートケーキ・ムース・タルトなどのスイーツと、いちごと生ハムのサンドイッチなどのセイボリーを提供。1名4,959円。",
+   "collected_at": "2026-11-27",
+   "id": "93509326029b",
+   "is_new": false,
+   "freshness": null,
    "hours": null
   },
   {
@@ -6542,7 +6676,7 @@
     "https://www.iwafu.com/jp/events/1166905"
    ],
    "summary": "ヒルトン東京お台場3階Captain's Bar&Loungeで、もみの木やトナカイをモチーフにした冬限定のアフタヌーンティーを提供。スコーン・サンドイッチ食べ放題付き。",
-   "collected_at": "2026-11-25",
+   "collected_at": "2026-11-27",
    "id": "b3621959d0e3",
    "is_new": false,
    "freshness": null,
