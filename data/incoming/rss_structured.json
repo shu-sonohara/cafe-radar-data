@@ -9549,5 +9549,118 @@
   "summary": "東京産「立川いちご」を主役にした期間限定アフタヌーンティー。ショートケーキ・ムース・タルトなどのスイーツと、いちごと生ハムのサンドイッチなどのセイボリーを提供。1名4,959円。",
   "collected_at": "2026-11-27",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "カフェ・ミケランジェロ 日本橋",
+  "area": "日本橋",
+  "address": "東京都中央区日本橋1丁目3-13 東京建物日本橋ビル1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2027-01-25",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000280.000097330.html"
+  ],
+  "summary": "代官山発の人気イタリアンカフェ「カフェ・ミケランジェロ」が日本橋交差点近くに新店舗をオープン。代官山の人気パスタやヨーロッパ各地の料理を提供する。",
+  "collected_at": "2026-11-28",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "ベーカリー",
+   "コラボカフェ"
+  ],
+  "name": "ちいかわベーカリー mini（大丸東京店）",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 大丸東京店 地階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-12-18",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000341.000086964.html"
+  ],
+  "summary": "東京駅直結の大丸東京店地下1階に「ちいかわベーカリー mini」が初出店。ちいかわ・ハチワレ・うさぎの顔パン3種セットやオリジナルグッズを展開する。",
+  "collected_at": "2026-11-28",
+  "id": ""
+ },
+ {
+  "type": "popup",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "Paul's Tea Shop",
+  "area": "表参道",
+  "address": "東京都渋谷区神宮前4-6-8 LOTUS 2F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-12-01",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000039.000064119.html"
+  ],
+  "summary": "ポール・スミス日本初のポップアップカフェ。英国の伝統的なティールームをモダンに表現し、福岡のベーカリー「パンストック」とのコラボでサンドイッチやアフタヌーンティーを提供する。",
+  "collected_at": "2026-11-28",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ",
+   "コラボカフェ"
+  ],
+  "name": "s（サカイ）",
+  "area": "中目黒",
+  "address": "東京都目黒区上目黒1-11-1 OAK BLDG Ⅱ 1階",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-12-21",
+   "end": null
+  },
+  "confidence": "media",
+  "sources": [
+   "https://news.yahoo.co.jp/articles/50721b4934870d0e70dd4e0386722f4e0b18f7cf"
+  ],
+  "summary": "ファッションブランド「サカイ」が新業態のカフェ「s」を中目黒にオープン。内装は関祐介、食器はユージーン・ワンが担当し、山梨・甲府「アキトコーヒー」が焙煎したコーヒーを提供する。",
+  "collected_at": "2026-11-28",
+  "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "東京喫茶メリー グランスタ東京店",
+  "area": "東京駅・丸の内",
+  "address": "東京都千代田区丸の内1-9-1 東京駅地下1階 グランスタ東京内",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-09-16",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://bestcalendar.jp/press/150788"
+  ],
+  "summary": "メリーチョコレートカムパニーが展開する東京駅限定ブランド「東京喫茶メリー」がグランスタ東京の改札内にオープン。プリンミルフィーユなど手土産商品も販売する。",
+  "collected_at": "2026-11-28",
+  "id": ""
  }
 ]

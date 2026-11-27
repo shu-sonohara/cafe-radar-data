@@ -209,6 +209,13 @@
   "note": "2026年4月1日はソフトオープンのため店内飲食のみ",
   "source": "https://prtimes.jp/main/html/rd/p/000002605.000011305.html"
  },
+ "29c46d58c3e0": {
+  "checked_at": "2026-11-28",
+  "closed": null,
+  "hours": null,
+  "note": "PR記事(dtimes.jp/fashion-press.net)に営業時間の記載なし。公式サイト・Xの確認が必要",
+  "source": null
+ },
  "2aa3d112d5cf": {
   "checked_at": "2026-11-08",
   "closed": null,
@@ -979,6 +986,13 @@
   "note": "",
   "source": "https://prtimes.jp/main/html/rd/p/000000323.000012385.html"
  },
+ "9181c14e8a50": {
+  "checked_at": "2026-11-28",
+  "closed": null,
+  "hours": "11:00–21:00",
+  "note": "",
+  "source": "https://prtimes.jp/main/html/rd/p/000000039.000064119.html"
+ },
  "92a2830925b1": {
   "checked_at": "2026-10-31",
   "closed": null,
@@ -992,6 +1006,13 @@
   "hours": "10:00–22:00",
   "note": "公式発表に定休日の記載なし",
   "source": "https://www.oricon.co.jp/pressrelease/3082549/"
+ },
+ "93509326029b": {
+  "checked_at": "2026-11-28",
+  "closed": null,
+  "hours": "月～木 12:00–20:00（最終受付18:00）/ 金 12:00–21:00（最終受付19:00）/ 土 11:30–21:00（最終受付19:00）/ 日祝 11:30–20:00（最終受付18:00）",
+  "note": "2027/1/1は12:00–19:00(最終受付17:00)、1/2-3は11:30–20:00(最終受付18:00)の特別対応",
+  "source": "https://prtimes.jp/main/html/rd/p/000000223.000042655.html"
  },
  "94d915d5b6d3": {
   "checked_at": "2026-11-12",
@@ -1110,6 +1131,13 @@
   "closed": null,
   "hours": null,
   "note": "グランドオープン日(8/28 11:30開店・23:00閉店)の特別案内のみで通常営業時間は公式未掲載",
+  "source": null
+ },
+ "a914aeefc7cc": {
+  "checked_at": "2026-11-28",
+  "closed": null,
+  "hours": null,
+  "note": "PR TIMES記事に営業時間の記載なし。公式サイト(frierencafe2026.ltr-online.com)の確認が必要",
   "source": null
  },
  "ac4d5bff9dcb": {
@@ -1265,6 +1293,13 @@
   "hours": "7:00–23:00",
   "note": "",
   "source": "https://gourmet.watch.impress.co.jp/docs/news/2149210.html"
+ },
+ "c0281eddd553": {
+  "checked_at": "2026-11-28",
+  "closed": "日曜・祝日・年末年始（施設に準ずる）",
+  "hours": "10:00–17:00（カフェ＆デリ）/ 18:00–22:00（Supper Club・完全予約制）",
+  "note": "Littlemakers単独の定休日記載はなく、施設全体の定休日を記載",
+  "source": "https://prtimes.jp/main/html/rd/p/000000799.000025105.html"
  },
  "c21147934000": {
   "checked_at": "2026-11-10",

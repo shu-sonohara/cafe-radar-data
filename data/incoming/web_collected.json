@@ -7460,5 +7460,27 @@
   "summary": "クリスマス・冬をテーマにした期間限定アフタヌーンティー。スイーツ全9種、セイボリー3種。平日7,800円、土日祝・特別期間8,400円（税・サービス料込）。",
   "collected_at": "2026-11-27",
   "id": ""
+ },
+ {
+  "type": "new_cafe",
+  "genre": [
+   "カフェ"
+  ],
+  "name": "WR.Yoyogi Park",
+  "area": "富ヶ谷・代々木公園",
+  "address": "東京都渋谷区富ヶ谷1丁目14-13 メゾンテオブロマ1F",
+  "lat": null,
+  "lng": null,
+  "period": {
+   "start": "2026-11-06",
+   "end": null
+  },
+  "confidence": "official",
+  "sources": [
+   "https://prtimes.jp/main/html/rd/p/000000002.000192515.html"
+  ],
+  "summary": "学芸大学で親しまれたコーヒースタンド「WR.」の2号店。人気ビストロが料理を監修するオールデイダイニング＆カフェとしてグランドオープンした。",
+  "collected_at": "2026-11-28",
+  "id": ""
  }
 ]
